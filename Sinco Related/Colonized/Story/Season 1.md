@@ -26,8 +26,7 @@ But Sinco vibrates to a very specific frequency that allows him to escape.
 
 Osin stays behind, disappointed in Sinco and is arrested by Tirok Industries.
 
-Back at Tirok Industries, Osin, who has been forgiven, works with Tirok himself to try and figure out ways to capture Sinco, but nothing can be done.
-
+Back at Tirok Industries in Tempo City, Osin, who has now been forgiven by the city with his explanation being that he hoped to c, works with Tirok himself to try and figure out ways to capture Sinco, but nothing can be done.
 
 Osin says "As long as he doesn't do anything, he's fine. Right?"
 
