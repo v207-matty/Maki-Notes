@@ -16,4 +16,4 @@ Today, Sinco and Osin meet and battle, destruction continues, but much more focu
 
 ## Episode 2
 
-September 
+September 10th, 20
