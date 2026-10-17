@@ -31,3 +31,6 @@ Back at Tirok Industries in Tempo City, Osin, who has now been forgiven by the c
 Osin says "As long as he doesn't do anything, he's fine. Right?"
 
 Tirok agrees.
+
+## Season 1 Episode 3
+
