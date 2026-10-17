@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b2b065700d4bd2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CNU/Explanations/How the universe works.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How the universe works"
-            }
-          },
-          {
-            "id": "2bb6ef3e70b0a8d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CNU/Stories/CNU Part 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CNU Part 1"
-            }
-          },
-          {
             "id": "93fb461f0fb1f8cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sinco Related/README.md",
+                "file": "Independent/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -79,8 +31,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,10 +206,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93fb461f0fb1f8cf",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
-    "Independent/CVT/README.md",
+    "README 2.md",
+    "Independent/README.md",
     "Sinco Related/README.md",
+    "Independent/CVT/README.md",
     "Independent/CNU/Stories/CNU Part 1.md",
     "Independent/CNU/README.md",
     "Independent",
@@ -292,8 +245,6 @@
     "Sinco Related/Renewed/Explanations/Characters/Nicom.md",
     "Sinco Related/Renewed/Explanations/Characters/Loroc.md",
     "Renewed/Explanations/CANVAS.canvas",
-    "Sinco Related/Renewed/Explanations/Characters/Lex Breaker.md",
-    "2M2X1V1I/Writing/Arc 1.md",
-    "2M2X1V1I/Writing/2M2X1V1I (AO).md"
+    "Sinco Related/Renewed/Explanations/Characters/Lex Breaker.md"
   ]
 }
