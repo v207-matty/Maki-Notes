@@ -20,7 +20,7 @@ October 17th, 2015
 
 Over the last month and a few days, Tirok Industries has started hunting down Sinco and Osin for the third time since they were last seen.
 
-Sinco and Osin had gone quiet days after their escape and that made it much harder, and today they finally found them, they're peacefully eating over a campfire
+Sinco and Osin had gone quiet days after their escape, not a single trail of destruction was found th, making it much harder to find them, and today they finally found them, they're peacefully eating over a campfire
 
 When the speedsters notice that they've been spotted, Osin surrenders while Sinco charges at them, attacking, but Sinco is overpowered by the Tirok Industry forces and both are arrested.
 
