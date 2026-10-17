@@ -34,6 +34,6 @@ Tirok agrees.
 
 ## Season 1 Episode 3
 
-Feburary 2nd, 2016
+February 2nd, 2016
 
-All is peaceful in Tempo City,
+All is peaceful in Tempo City, no Sinco to be found, and Tirok Industries have continued to provide amazing technological improvements to normal day society,
