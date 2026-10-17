@@ -5,4 +5,6 @@ One day, in a laboratory owned by Tirok Industries, a speedster creature was cre
 
 And he is the most evil creature created on the Earth.
 
-Days and days of speed surrounding Tempo City
+Days and days of speeding around Tempo City, destroying buildings and harming anyone in their way.
+
+Nothing can be
