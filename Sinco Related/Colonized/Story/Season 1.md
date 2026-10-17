@@ -23,3 +23,6 @@ Over the last month and few days, Tirok Industries has been hunting down Sinco a
 When the speedsters notice that they've been spotted, Osin surrenders while Sinco charges at them, attacking, but Sinco is overpowered by the Tirok Industry forces and both are arrested.
 
 But Sinco vibrates to a very specific frequency that allows him to escape.
+
+Osin stays behind, disappointed in Sinco and is arrested by Tirok Industries.
+
