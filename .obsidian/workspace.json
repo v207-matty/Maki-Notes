@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/Katty/Katty/Untitled.md",
+                "file": "Independent/Katty/Susu/Susu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Susu"
             }
           }
         ]
@@ -206,10 +206,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93fb461f0fb1f8cf",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
+    "Independent/Katty/Katty/Common.md",
+    "Independent/Katty/Susu/Susu.md",
+    "Independent/Katty/Katty/Trapped.md",
+    "Independent/Katty/Susu",
+    "Independent/Katty/Katty/Kinky.md",
+    "Independent/Katty/Katty/Regular.md",
     "Independent/Katty/Katty.md",
-    "Independent/Katty/Katty/Untitled.md",
     "Independent/Katty/Katty",
     "Independent/Katty/Katty Garnit.md",
     "Independent/Katty/README.md",
@@ -239,12 +244,7 @@
     "Sinco Related/Renewed/Writing/Era 2/A Story About Desire.md",
     "Sinco Related/Renewed/Writing/Era 1/Renewed Nicom.md",
     "Sinco Related/Renewed/Writing/Era 1/Renewed.md",
-    "Sinco Related/Renewed/Explanations/Whys.md",
-    "Sinco Related/Renewed/Explanations/Countries.md",
-    "Sinco Related/Renewed/Writing/Era 3",
-    "Sinco Related/Renewed/Explanations/Worldbuilding.md",
     "Untitled.canvas",
-    "2026-10-03.md",
     "Renewed/Explanations/CANVAS.canvas"
   ]
 }
