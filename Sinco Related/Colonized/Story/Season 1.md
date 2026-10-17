@@ -22,9 +22,9 @@ Over the last month and a few days, Tirok Industries has started hunting down Si
 
 Sinco and Osin had gone quiet days after their escape, not a single trail of destruction was found that showed evidence of them besides one time in the middle of September, making it much harder to find them, and today they finally found them, they're peacefully eating over a campfire
 
-When the speedsters notice that they've been spotted, Osin surrenders while Sinco charges at them, attacking, Osin briefly wants to go after Sinco but sits back on the ground, Sinco is overpowered by the Tirok Industry forces not too soon after and both are arrested, but Sinco vibrates to a very high velocity that allows him to vibrate out of the cuffs and escape, Osin stays behind, disappointed in Sinco and is fully arrested by the Tirok Industry forces.
+When the speedsters notice that they've been spotted, Osin surrenders while Sinco charges at them, attacking, Osin briefly wants to go after Sinco but sits back on the ground, Sinco is overpowered by the Tirok Industry forces not too soon after and both are arrested, but Sinco vibrates to a very high velocity that allows him to vibrate out of the cuffs and escape, Osin stays behind, disappointed in Sinco and is fully arrested by the T.I. (Tirok Industries) forces.
 
-Back at Tirok Industries in Tempo City, Osin, who has now been forgiven by the city with his explanation being that he hoped to change Sinco, works with Tirok himself to try and figure out ways to capture Sinco, but nothing can be done.
+Back at T.I. in Tempo City, Osin, who has now been forgiven by the city with his explanation being that he hoped to change Sinco, works with Tirok himself to try and figure out ways to capture Sinco, but nothing can be done.
 
 Osin says "As long as he doesn't do anything, he's fine. Right?"
 
@@ -38,4 +38,4 @@ All is peaceful in Tempo City, no Sinco to be found, and Tirok Industries have c
 
 Today there was an incident however, inside of Tempo City begins a rebellion against the safety laws of chaos energy usage, claiming that people should be allowed to use the energy however they please since society found the chaos emeralds before the big corps ever did.
 
-Osin was recruited by Tirok Industries
+Osin was recruited by Tirok Industries 
