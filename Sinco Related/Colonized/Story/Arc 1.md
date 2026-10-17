@@ -1,4 +1,6 @@
 ## Chapter 1
 August 6th, 2015
 
-One day, in a laboratory, a creature was created with chaos energy, hi
+One day, in a laboratory, a creature was created with chaos energy, his name is Sinco.
+
+And he is the most evil creature created on the Earth
