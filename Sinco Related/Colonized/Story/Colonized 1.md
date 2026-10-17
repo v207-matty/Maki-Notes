@@ -14,3 +14,4 @@ A new Tirok Industries project was finally funded and a new speedster was create
 
 Today, Sinco and Osin meet and battle, destruction continues, but much more focused, they battle for hours, but then when Sinco was taken to be given a public execution, Osin stopped it, freed Sinco, and they both escape, causing destruction to the world.
 
+## Chapter 2

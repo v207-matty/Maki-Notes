@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sinco Related/Colonized/Story/Arc 1.md",
+                "file": "Sinco Related/Colonized/Story/Colonized 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arc 1"
+              "title": "Colonized 1"
             }
           }
         ]
@@ -206,11 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93fb461f0fb1f8cf",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
     "Sinco Related/Colonized/Story/Arc 3.md",
     "Sinco Related/Colonized/Story/Arc 2.md",
-    "Sinco Related/Colonized/Story/Arc 1.md",
+    "Sinco Related/Colonized/Story/Colonized 1.md",
     "Sinco Related/Colonized/README.md",
     "Sinco Related/Colonized/Explanation",
     "Sinco Related/Colonized/Story",
