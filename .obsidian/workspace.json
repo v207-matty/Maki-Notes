@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/Katty/Katty.md",
+                "file": "Independent/Katty/Katty Garnit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Katty"
+              "title": "Katty Garnit"
             }
           }
         ]
@@ -208,8 +208,9 @@
   },
   "active": "93fb461f0fb1f8cf",
   "lastOpenFiles": [
-    "Independent/Katty/README.md",
     "Independent/Katty/Katty.md",
+    "Independent/Katty/Katty Garnit.md",
+    "Independent/Katty/README.md",
     "README.md",
     "Independent/Katty",
     "Sinco Related/Colonized/README.md",
@@ -244,7 +245,6 @@
     "Untitled.canvas",
     "2026-10-03.md",
     "Sinco Related/Renewed/Explanations/Characters/Tirok.md",
-    "Untitled.md",
     "Renewed/Explanations/CANVAS.canvas"
   ]
 }
