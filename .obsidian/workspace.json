@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sinco Related/Colonized/README.md",
+                "file": "Sinco Related/Colonized/Story/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Untitled"
             }
           }
         ]
@@ -206,8 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "93fb461f0fb1f8cf",
   "lastOpenFiles": [
+    "Sinco Related/Colonized/README.md",
+    "Sinco Related/Colonized/Story/Untitled.md",
     "Sinco Related/Colonized/Explanation",
     "Sinco Related/Colonized/Story",
     "Independent/Katty/README.md",
@@ -227,7 +229,6 @@
     "Independent/Katty/Katty Garnit.md",
     "README.md",
     "Independent/Katty",
-    "Sinco Related/Colonized/README.md",
     "Sinco Related/Renewed/README.md",
     "Sinco Related/README.md",
     "README 2.md",
@@ -237,7 +238,6 @@
     "Independent",
     "Sinco Related",
     "Sinco Related/Colonized",
-    "Independent/CVT",
     "Independent/CNU/Explanations/How the universe works.md",
     "Independent/CNU/Explanations/Universe history.md",
     "Renewed/Writing/Era 3/Renewed The Trilands.md",
