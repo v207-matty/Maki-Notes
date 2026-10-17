@@ -1,1 +1,1 @@
-Katty is a character I made and the lore is
+Katty is a character I made and the lore is so crazy that you dont get the big tales, just the bios (most of th)
