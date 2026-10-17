@@ -36,4 +36,6 @@ February 2nd, 2016
 
 All is peaceful in Tempo City, no Sinco to be found, and Tirok Industries have continued to provide amazing technological improvements to normal day society, they've finally mastered chaos energy and now it is slowly starting to be used on a global scale to power machines and to create new life in hopes for a new race of humans.
 
-Today there was an incident however, inside of Tempo City begins a rebellion against the safety laws of chaos energy usage, claiming that people should be allowed to use the energy however they please
+Today there was an incident however, inside of Tempo City begins a rebellion against the safety laws of chaos energy usage, claiming that people should be allowed to use the energy however they please since society found the chaos emeralds before the big corps ever did.
+
+Osin was recruited by Tirok Industries
