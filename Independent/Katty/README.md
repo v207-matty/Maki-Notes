@@ -1,0 +1,1 @@
+Katty is a character I made and the lore is
