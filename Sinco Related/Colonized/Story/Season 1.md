@@ -1,4 +1,4 @@
-## S1 E1
+## Season 1 Episode 1
 
 August 8th, 2015
 
@@ -14,7 +14,7 @@ A new Tirok Industries project was finally funded and a new speedster was create
 
 Today, Sinco and Osin meet and battle, destruction continues, but much more focused, they battle for hours, but then when Sinco was taken to be given a public execution, Osin stopped it, freed Sinco, and they both escape from the now unsealed Tempo City, causing destruction to the world.
 
-## S1 E2
+## Season 1 Episode 2
 
 October 17th, 2015
 
