@@ -12,4 +12,4 @@ Nothing can be done about him, he's too fast.
 
 A new Tirok Industries project was finally funded and a new speedster was created to combat Sinco, and his name is Osin.
 
-Today, Sinco and Osin meet and battle, destruction continues, but much more focused, they battle for hours, and then finally
+Today, Sinco and Osin meet and battle, destruction continues, but much more focused, they battle for hours, and then finally Sinco is defeated and locked away.
