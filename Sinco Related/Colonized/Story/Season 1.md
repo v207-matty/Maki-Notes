@@ -26,4 +26,4 @@ But Sinco vibrates to a very specific frequency that allows him to escape.
 
 Osin stays behind, disappointed in Sinco and is arrested by Tirok Industries.
 
-Back at Tirok Industries, Osin works with Tirok himself to try and improve the overall go
+Back at Tirok Industries, Osin, who has been forgiven, works with Tirok himself to try and improve the overall goal of Tirok Industries : Giving people powers.
