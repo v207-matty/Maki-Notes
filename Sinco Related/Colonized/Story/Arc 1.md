@@ -1,6 +1,6 @@
 August 8th, 2015
 
-On  in a laboratory owned by Tirok Industries, a speedster creature was created with chaos energy, his name is Sinco.
+On July 19th, 2015, in a laboratory owned by Tirok Industries, a speedster creature was created with chaos energy, his name is Sinco.
 
 And he is the most evil creature created on the Earth.
 
