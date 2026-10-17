@@ -20,4 +20,4 @@ October 17th, 2015
 
 Over the last month and few days, Tirok Industries has been hunting down Sinco and Osin, and today they finally found them, they're peacefully eating over a campfire
 
-When the speedsters notice that they've been spotted, Osin surrenders while Sinco charges at them, attacking, but Sinco is overpowered by
+When the speedsters notice that they've been spotted, Osin surrenders while Sinco charges at them, attacking, but Sinco is overpowered by the Tirok Industry forces and both are arrested
