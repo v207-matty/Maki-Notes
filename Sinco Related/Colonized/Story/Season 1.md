@@ -18,4 +18,6 @@ Today, Sinco and Osin meet and battle, destruction continues, but much more focu
 
 October 17th, 2015
 
-Over the last month and few days, Tirok Industries has been hunting down Sinco and Osin, and today they finally found them
+Over the last month and few days, Tirok Industries has been hunting down Sinco and Osin, and today they finally found them, they're peacefully eatting over a campfire
+
+Sinco and Osin initiate the confrontation
