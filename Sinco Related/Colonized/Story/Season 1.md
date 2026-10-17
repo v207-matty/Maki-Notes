@@ -40,4 +40,6 @@ Today there was an incident however, inside of Tempo City begins a rebellion aga
 
 Osin was recruited by T.I. with part of their forces to handle the rebellion.
 
-Osin seeks a peaceful resolution, but the rebellion members fire at them anyway, with the T.I. forces firing back, Osin uses his speed to incapacitate the rebellion members without harming them significantly, t
+Osin seeks a peaceful resolution, but the rebellion members fire at them anyway, with the T.I. forces firing back, Osin uses his speed to incapacitate the rebellion members without harming them significantly.
+
+The T.I. forces arrest them and they are brought to a private pris
