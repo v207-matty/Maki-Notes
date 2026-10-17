@@ -370,8 +370,6 @@ Pronouns: She / Her / It / Is
 
 # History
 
-#### 
-
 #### Age 8
 
 - Learns about where her mom works (Bounce Club)  
