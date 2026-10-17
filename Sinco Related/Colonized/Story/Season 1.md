@@ -24,7 +24,7 @@ Sinco and Osin had gone quiet days after their escape, not a single trail of des
 
 When the speedsters notice that they've been spotted, Osin surrenders while Sinco charges at them, attacking, Osin briefly wants to go after Sinco but sits back on the ground, Sinco is overpowered by the Tirok Industry forces not too soon after and both are arrested, but Sinco vibrates to a very high velocity that allows him to vibrate out of the cuffs and escape, Osin stays behind, disappointed in Sinco and is fully arrested by the T.I. (Tirok Industries) forces.
 
-Back at T.I. in Tempo City, Osin, who has now been forgiven by the city with his explanation being that he hoped to change Sinco, works with Tirok himself to try and figure out ways to capture Sinco, but nothing can be done.
+Back at T.I. in Tempo City, Osin, who has now been forgiven by the city with his explanation being that he hoped to change Sinco, works with Tirok to try and figure out ways to capture Sinco, but nothing can be done.
 
 Osin says "As long as he doesn't do anything, he's fine. Right?"
 
