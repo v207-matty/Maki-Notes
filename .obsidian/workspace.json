@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/Katty/Katty/Common.md",
+                "file": "Independent/Katty/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Common"
+              "title": "README"
             }
           }
         ]
@@ -208,17 +208,18 @@
   },
   "active": "93fb461f0fb1f8cf",
   "lastOpenFiles": [
+    "Independent/README.md",
+    "Independent/Katty/Katty/Kinky.md",
     "Independent/Katty/Katty.md",
+    "Independent/Katty/Katty/Regular.md",
+    "Independent/Katty/Katty/Common.md",
     "Independent/Katty/Katty/Trapped.md",
     "Independent/Katty/Susu/Susu.md",
     "Independent/Katty/Akan/Akan.md",
     "Independent/Katty/Subas/Subas.md",
     "Independent/Katty/Subas",
     "Independent/Katty/Akan",
-    "Independent/Katty/Katty/Common.md",
     "Independent/Katty/Susu",
-    "Independent/Katty/Katty/Kinky.md",
-    "Independent/Katty/Katty/Regular.md",
     "Independent/Katty/Katty",
     "Independent/Katty/Katty Garnit.md",
     "Independent/Katty/README.md",
@@ -227,7 +228,6 @@
     "Sinco Related/Colonized/README.md",
     "Sinco Related/Renewed/README.md",
     "Sinco Related/README.md",
-    "Independent/README.md",
     "README 2.md",
     "Independent/CVT/README.md",
     "Independent/CNU/Stories/CNU Part 1.md",
