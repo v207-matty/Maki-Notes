@@ -34,4 +34,6 @@ Tirok agrees.
 
 ## Season 1 Episode 3
 
-Nove2015
+Feburary 2nd, 2016
+
+All is peaceful in Tempo City,
