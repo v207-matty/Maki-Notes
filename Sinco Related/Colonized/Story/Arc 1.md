@@ -12,6 +12,4 @@ Nothing can be done about him, he's too fast.
 
 A new Tirok Industries project was finally funded and a new speedster was created to combat Sinco, and his name is Osin.
 
-Today, Sinco and Osin meet and battle, destruction continues, but much more focused, they battle for hours, but then when Sinco was taken to be given a public execution, Osin stopped it, freed Sinco, and they both escape to an unknown location.
-
-Tirok swears that one day they will find the S
+Today, Sinco and Osin meet and battle, destruction continues, but much more focused, they battle for hours, but then when Sinco was taken to be given a public execution, Osin stopped it, freed Sinco, and they both escape, causing destruction to the world.
