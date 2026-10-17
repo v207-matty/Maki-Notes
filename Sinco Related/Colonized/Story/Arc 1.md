@@ -6,4 +6,6 @@ And he is the most evil creature created on the Earth.
 
 Days and days of speeding around the sealed Tempo City, destroying buildings and harming anyone in their way.
 
-Nothing can be done about him, he's too fast
+Nothing can be done about him, he's too fast.
+
+A new project was funded
