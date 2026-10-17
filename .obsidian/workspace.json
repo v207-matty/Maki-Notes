@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sinco Related/Colonized/Story/Arc 3.md",
+                "file": "Sinco Related/Colonized/Story/Arc 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arc 3"
+              "title": "Arc 1"
             }
           }
         ]
@@ -208,8 +208,8 @@
   },
   "active": "93fb461f0fb1f8cf",
   "lastOpenFiles": [
-    "Sinco Related/Colonized/Story/Arc 2.md",
     "Sinco Related/Colonized/Story/Arc 3.md",
+    "Sinco Related/Colonized/Story/Arc 2.md",
     "Sinco Related/Colonized/Story/Arc 1.md",
     "Sinco Related/Colonized/README.md",
     "Sinco Related/Colonized/Explanation",
