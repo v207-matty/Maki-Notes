@@ -36,4 +36,4 @@ Tirok agrees.
 
 February 2nd, 2016
 
-All is peaceful in Tempo City, no Sinco to be found, and Tirok Industries have continued to provide amazing technological improvements to normal day society,
+All is peaceful in Tempo City, no Sinco to be found, and Tirok Industries have continued to provide amazing technological improvements to normal day society, they've finally mastered chaos energy and now it is slowly starting to be used on a global scale
