@@ -8,4 +8,4 @@ Days and days of speeding around the sealed Tempo City, destroying buildings and
 
 Nothing can be done about him, he's too fast.
 
-A new project was funded
+A new Tirok Industrieproject was funded
