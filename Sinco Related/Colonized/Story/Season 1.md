@@ -22,7 +22,7 @@ Over the last month and a few days, Tirok Industries has started hunting down Si
 
 Sinco and Osin had gone quiet days after their escape, not a single trail of destruction was found that showed evidence of them besides one time in the middle of September, making it much harder to find them, and today they finally found them, they're peacefully eating over a campfire
 
-When the speedsters notice that they've been spotted, Osin surrenders while Sinco charges at them, attacking, but Sinco is overpowered by the Tirok Industry forces and both are arrested.
+When the speedsters notice that they've been spotted, Osin surrenders while Sinco charges at them, attacking, Osin briefly wants to go after  but Sinco is overpowered by the Tirok Industry forces and both are arrested.
 
 But Sinco vibrates to a very specific frequency that allows him to escape.
 
