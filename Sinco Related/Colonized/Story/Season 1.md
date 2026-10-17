@@ -2,9 +2,9 @@
 
 August 8th, 2015
 
-On July 19th, 2015, in a laboratory owned by Tirok Industries, a speedster creature was created with chaos energy, his name is Sinco.
+On July 19th, 2015, in a laboratory owned by Tirok Industries, a speedster humanoid was created with chaos energy, his name is Sinco.
 
-And he is the most evil creature created on the Earth.
+And he is the most evil creature created on the Earth at that time.
 
 Days and days of speeding around the sealed Tempo City, destroying buildings and harming anyone in their way.
 
@@ -38,4 +38,4 @@ All is peaceful in Tempo City, no Sinco to be found, and T.I. have continued to 
 
 Today there was an incident however, inside of Tempo City begins a rebellion against the safety laws of chaos energy usage, claiming that people should be allowed to use the energy however they please since society found the chaos emeralds before the big corps ever did.
 
-Osin was recruited by T.I. with part of their forces to handle the rebellion 
+Osin was recruited by T.I. with part of their forces to handle the rebellion.
