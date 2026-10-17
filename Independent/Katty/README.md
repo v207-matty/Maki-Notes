@@ -1,1 +1,1 @@
-Katty is a character I made and the lore is so crazy that you dont get the big tales, just the bios (most of th)
+Katty is a character I made and the lore is so crazy that you dont get the big tales, just the bios (most of them are AI anyway so yeah, but holy fuck)
