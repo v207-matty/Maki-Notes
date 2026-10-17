@@ -16,4 +16,6 @@ Today, Sinco and Osin meet and battle, destruction continues, but much more focu
 
 ## Episode 2
 
-September 10th, 20
+October 17th, 2015
+
+Over the last month and few days, Tirok Industries has been hiu
