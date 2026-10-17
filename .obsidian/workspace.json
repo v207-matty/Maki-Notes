@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/Katty/README.md",
+                "file": "Independent/Katty/Katty.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Katty"
             }
           }
         ]
@@ -208,8 +208,9 @@
   },
   "active": "93fb461f0fb1f8cf",
   "lastOpenFiles": [
-    "README.md",
     "Independent/Katty/README.md",
+    "Independent/Katty/Katty.md",
+    "README.md",
     "Independent/Katty",
     "Sinco Related/Colonized/README.md",
     "Sinco Related/Renewed/README.md",
@@ -244,7 +245,6 @@
     "2026-10-03.md",
     "Sinco Related/Renewed/Explanations/Characters/Tirok.md",
     "Untitled.md",
-    "Sinco Related/Renewed/Explanations/Characters/Nicom.md",
     "Renewed/Explanations/CANVAS.canvas"
   ]
 }
