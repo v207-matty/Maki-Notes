@@ -1,4 +1,4 @@
-## Episode 1
+## S1 E1
 
 August 8th, 2015
 
@@ -14,10 +14,10 @@ A new Tirok Industries project was finally funded and a new speedster was create
 
 Today, Sinco and Osin meet and battle, destruction continues, but much more focused, they battle for hours, but then when Sinco was taken to be given a public execution, Osin stopped it, freed Sinco, and they both escape, causing destruction to the world.
 
-## Episode 2
+## S 1E2
 
 October 17th, 2015
 
 Over the last month and few days, Tirok Industries has been hunting down Sinco and Osin, and today they finally found them, they're peacefully eating over a campfire
 
-When the speedsters notice that they've been spotted, Osin surrenders while Si
+When the speedsters notice that they've been spotted, Osin surrenders while Sinco 
