@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/Katty/Katty.md",
+                "file": "Independent/Katty/Katty/Common.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Katty"
+              "title": "Common"
             }
           }
         ]
@@ -208,14 +208,14 @@
   },
   "active": "93fb461f0fb1f8cf",
   "lastOpenFiles": [
-    "Independent/Katty/Susu/Susu.md",
     "Independent/Katty/Katty.md",
+    "Independent/Katty/Katty/Trapped.md",
+    "Independent/Katty/Susu/Susu.md",
     "Independent/Katty/Akan/Akan.md",
     "Independent/Katty/Subas/Subas.md",
     "Independent/Katty/Subas",
     "Independent/Katty/Akan",
     "Independent/Katty/Katty/Common.md",
-    "Independent/Katty/Katty/Trapped.md",
     "Independent/Katty/Susu",
     "Independent/Katty/Katty/Kinky.md",
     "Independent/Katty/Katty/Regular.md",
