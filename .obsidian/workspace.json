@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sinco Related/Colonized/Story/Season 1.md",
+                "file": "Sinco Related/Colonized/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Season 1"
+              "title": "README"
             }
           }
         ]
@@ -208,8 +208,8 @@
   },
   "active": "93fb461f0fb1f8cf",
   "lastOpenFiles": [
-    "Sinco Related/Colonized/README.md",
     "Sinco Related/Colonized/Story/Season 1.md",
+    "Sinco Related/Colonized/README.md",
     "Sinco Related/Colonized/Story/Arc 3.md",
     "Sinco Related/Colonized/Story/Arc 2.md",
     "Sinco Related/Colonized/Explanation",
