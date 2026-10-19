@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/Objectification/Tales/Human/Experience.md",
+                "file": "Independent/Objectification/Characters/Subas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Experience"
+              "title": "Subas"
             }
           }
         ]
@@ -206,13 +206,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "93fb461f0fb1f8cf",
   "lastOpenFiles": [
+    "Independent/Objectification/Characters/Katty.md",
     "Independent/Objectification/Characters/Susu.md",
+    "Independent/Objectification/Tales/Human/Experience.md",
     "Independent/Objectification/Objectification _ Katty Garnit.md",
     "Independent/Objectification/World.md",
     "Independent/Objectification/AUs/Kinky Katty.md",
-    "Independent/Objectification/Tales/Human/Experience.md",
     "Independent/Objectification/Tales/Clanker/Venice/THE WORKERS DAUGHTER.md",
     "Independent/Objectification/Tales/Clanker/Venice/FINE.md",
     "Independent/Objectification/Tales/Clanker/Venice/The Star (Part 3).md",
@@ -235,7 +236,6 @@
     "Independent/Objectification/Tales",
     "Independent/Objectification/README.md",
     "Independent/Objectification/Characters/Akan.md",
-    "Independent/Objectification/Characters/Katty.md",
     "Independent/Objectification/Characters/Regular.md",
     "Independent/Objectification/AUs/Trapped Katty.md",
     "Independent/Objectification/Characters",
