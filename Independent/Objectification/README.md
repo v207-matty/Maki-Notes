@@ -2,6 +2,7 @@ Katty is a character I made and the lore is so crazy that you dont get the big t
 
 Objectification is the world Katty lives in, which is fucked up
 
+# INFO
 
 [[World]]
 
@@ -11,4 +12,6 @@ Characters:
 - [[Subas]]
 - [[Susu]]
 
-AUsL
+AUs:
+- [[Kinky Katty]]
+- [[Trapped Katty]]
