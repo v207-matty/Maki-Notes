@@ -3,6 +3,7 @@
 June 1568
 
 - The first attempt at fighting for women's rights happened to great failure on June 9th, 1568
+- Women begin to get more and more objectified by Men
 
 July 1568
 

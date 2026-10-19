@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/Objectification/Tales/Human/Experience.md",
+                "file": "Independent/Objectification/World.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Experience"
+              "title": "World"
             }
           }
         ]
@@ -208,6 +208,8 @@
   },
   "active": "93fb461f0fb1f8cf",
   "lastOpenFiles": [
+    "Independent/Objectification/AUs/Kinky Katty.md",
+    "Independent/Objectification/Tales/Human/Experience.md",
     "Independent/Objectification/Tales/Clanker/Venice/THE WORKERS DAUGHTER.md",
     "Independent/Objectification/Tales/Clanker/Venice/FINE.md",
     "Independent/Objectification/Tales/Clanker/Venice/The Star (Part 3).md",
@@ -224,7 +226,6 @@
     "Independent/Objectification/Tales/Clanker/The First Days.md",
     "Independent/Objectification/Tales/Clanker/Two Sides of the Same Katty.md",
     "Independent/Objectification/World.md",
-    "Independent/Objectification/Tales/Human/Experience.md",
     "Independent/Objectification/gitignore.md",
     "Independent/Objectification/Tales/Clanker/Venice",
     "Independent/Objectification/Tales/Clanker",
@@ -233,7 +234,6 @@
     "Independent/Objectification/README.md",
     "Independent/Objectification/Characters/Akan.md",
     "Independent/Objectification/Characters/Katty.md",
-    "Independent/Objectification/AUs/Kinky Katty.md",
     "Independent/Objectification/Characters/Regular.md",
     "Independent/Objectification/AUs/Trapped Katty.md",
     "Independent/Objectification/Characters",
