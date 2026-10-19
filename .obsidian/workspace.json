@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/Objectification/World.md",
+                "file": "Independent/Objectification/gitignore.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "World"
+              "title": "gitignore"
             }
           }
         ]
@@ -208,9 +208,10 @@
   },
   "active": "93fb461f0fb1f8cf",
   "lastOpenFiles": [
+    "Independent/Objectification/World.md",
+    "Independent/Objectification/gitignore.md",
     "Independent/Objectification/README.md",
     "Independent/Objectification/Characters/Akan.md",
-    "Independent/Objectification/World.md",
     "Independent/Objectification/Characters/Katty.md",
     "Independent/Objectification/AUs/Kinky Katty.md",
     "Independent/Objectification/Characters/Regular.md",
@@ -243,7 +244,6 @@
     "Sinco Related",
     "Independent/CNU/Explanations/How the universe works.md",
     "Independent/CNU/Explanations/Universe history.md",
-    "Renewed/Writing/Era 3/Renewed The Trilands.md",
     "Untitled.canvas",
     "Renewed/Explanations/CANVAS.canvas"
   ]
