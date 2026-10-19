@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/Objectification/Katty/Common.md",
+                "file": "Independent/Objectification/Katty/Kinky.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Common"
+              "title": "Kinky"
             }
           }
         ]
@@ -208,6 +208,11 @@
   },
   "active": "f99f5285bf50c982",
   "lastOpenFiles": [
+    "Independent/Objectification/Characters/Regular.md",
+    "Independent/Objectification/Katty/Trapped.md",
+    "Independent/Objectification/README.md",
+    "Independent/Objectification/Characters/Akan.md",
+    "Independent/Objectification/Characters/Common.md",
     "Independent/Objectification/Characters",
     "Sinco Related/Colonized/README.md",
     "Sinco Related/Colonized/Story/Season 1.md",
@@ -215,15 +220,10 @@
     "Sinco Related/Colonized/Story/Arc 2.md",
     "Sinco Related/Colonized/Explanation",
     "Sinco Related/Colonized/Story",
-    "Independent/Objectification/README.md",
     "Independent/README.md",
     "Independent/Objectification/Katty/Kinky.md",
     "Independent/Katty/Katty.md",
-    "Independent/Objectification/Katty/Regular.md",
-    "Independent/Objectification/Katty/Common.md",
-    "Independent/Objectification/Katty/Trapped.md",
-    "Independent/Objectification/Susu/Susu.md",
-    "Independent/Objectification/Characters/Akan/Akan.md",
+    "Independent/Objectification/Characters/Susu.md",
     "Independent/Objectification/Characters/Subas.md",
     "Independent/Objectification/Subas",
     "Independent/Objectification/Characters/Akan",
@@ -240,7 +240,6 @@
     "Independent/CNU/README.md",
     "Independent",
     "Sinco Related",
-    "Sinco Related/Colonized",
     "Independent/CNU/Explanations/How the universe works.md",
     "Independent/CNU/Explanations/Universe history.md",
     "Renewed/Writing/Era 3/Renewed The Trilands.md",
