@@ -5,7 +5,7 @@ Birth Identification: Female
 Classification: Female  
 Pronouns: She / Her / It / Its
 
-# Kinky Katty Exclusive Personality
+# Kinky Katty Personality
 
 - Prefers clothes that reveal her body  
 - Loves thin clothes  
@@ -36,7 +36,7 @@ Pronouns: She / Her / It / Its
 - Curious  
   - ***Always*** willing to try new things
 
-# Kinky Katty Exclusive History
+# Kinky Katty Overwriting History
 
 #### Age 8
 

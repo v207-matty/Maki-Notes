@@ -5,7 +5,7 @@ Birth Identification: Female
 Classification: Female  
 Pronouns: It / Its
 
-# Trapped Katty Exclusive Personality
+# Trapped Katty Personality
 
 - Has a temper  
   - Desperate  
@@ -22,21 +22,7 @@ Pronouns: It / Its
 - Dissociative  
   - Only snaps back to reality when there is danger that it will run to
 
-# Trapped Katty Exclusive History
-
-#### Age 10
-
-- Katty doesn't like the bullying and complains about it constantly  
-- Katty's dad tried to teach it how to fight so people stop bullying them but Katty gets hurt and doesn't want to do it again
-
-#### Age 14
-
-- The day after its bday, Katty and its dad talk about how they've decided to pull it from school and get it a job, *they need money*.  
-- Katty agrees, innocently, not knowing what was waiting for it.  
-- Katty is forced to join bounce club 2 days after its bday (age of consent is 14 where they were living so it was legally fine)
-
-- Katty hates it, it's a mess of lights and overstimulation and constant physical touch from wealthy men and their privates, it didn't even know about sex at this time so it was a horrible way to learn  
-- Katty tries and tries to get its parents to let them leave but its parents don't listen, they get even more pay then its mom did because the customers love "the young body".
+# Trapped Katty Overwriting History
 
 #### Age 16
 
