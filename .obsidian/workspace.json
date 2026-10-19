@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/Objectification/Objectification _ Katty Garnit.md",
+                "file": "Independent/Objectification/Tales/Human/Experience.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Objectification _ Katty Garnit"
+              "title": "Experience"
             }
           }
         ]
@@ -206,10 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93fb461f0fb1f8cf",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
-    "Independent/Objectification/World.md",
+    "Independent/Objectification/Characters/Susu.md",
     "Independent/Objectification/Objectification _ Katty Garnit.md",
+    "Independent/Objectification/World.md",
     "Independent/Objectification/AUs/Kinky Katty.md",
     "Independent/Objectification/Tales/Human/Experience.md",
     "Independent/Objectification/Tales/Clanker/Venice/THE WORKERS DAUGHTER.md",
@@ -238,7 +239,6 @@
     "Independent/Objectification/Characters/Regular.md",
     "Independent/Objectification/AUs/Trapped Katty.md",
     "Independent/Objectification/Characters",
-    "Sinco Related/Colonized/README.md",
     "Sinco Related/Colonized/Explanation",
     "Sinco Related/Colonized/Story",
     "Independent/Objectification/Subas",
