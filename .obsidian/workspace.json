@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/Objectification/README.md",
+                "file": "Independent/Objectification/World.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "World"
             }
           }
         ]
@@ -208,8 +208,8 @@
   },
   "active": "93fb461f0fb1f8cf",
   "lastOpenFiles": [
-    "Independent/Objectification/World.md",
     "Independent/Objectification/README.md",
+    "Independent/Objectification/World.md",
     "Independent/Objectification/Characters/Katty.md",
     "Independent/Objectification/AUs/Kinky Katty.md",
     "Independent/Objectification/Characters/Regular.md",

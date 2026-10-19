@@ -7,7 +7,6 @@ June 1568
 July 1568
 
 - "Vulva Tax" / "VTax" became a thing, charging 15 \- 30% extra on purchases made on Females  
--   
 - Transmasculinity begins to grow in popularity
 
 March 1569
