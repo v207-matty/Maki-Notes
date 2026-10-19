@@ -5,7 +5,10 @@ Objectification is the world Katty lives in, which is fucked up
 
 [[World]]
 
-[[Akan]]
-[[Katty]]
-[[Subas]]
-[[Susu]]
+Characters:
+- [[Akan]]
+- [[Katty]]
+- [[Subas]]
+- [[Susu]]
+
+AUsL
