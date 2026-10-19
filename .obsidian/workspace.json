@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/Objectification/gitignore.md",
+                "file": "Independent/Objectification/Tales/Human/Experience.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "gitignore"
+              "title": "Experience"
             }
           }
         ]
@@ -206,14 +206,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "93fb461f0fb1f8cf",
   "lastOpenFiles": [
+    "Independent/Objectification/World.md",
+    "Independent/Objectification/Tales/Human/Experience.md",
+    "Independent/Objectification/gitignore.md",
     "Independent/Objectification/Tales/Clanker/Venice",
     "Independent/Objectification/Tales/Clanker",
     "Independent/Objectification/Tales/Human",
     "Independent/Objectification/Tales",
-    "Independent/Objectification/World.md",
-    "Independent/Objectification/gitignore.md",
     "Independent/Objectification/README.md",
     "Independent/Objectification/Characters/Akan.md",
     "Independent/Objectification/Characters/Katty.md",
@@ -234,7 +235,6 @@
     "Independent/Objectification/Subas",
     "Independent/Objectification/Characters/Akan",
     "Independent/Objectification/Susu",
-    "Independent/Objectification/AUs",
     "Independent/Katty/Katty Garnit.md",
     "README.md",
     "Sinco Related/Renewed/README.md",
