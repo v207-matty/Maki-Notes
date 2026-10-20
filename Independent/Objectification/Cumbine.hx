@@ -31,7 +31,7 @@ class Cumbine {
 			if (path.ext != 'md' || path.file == 'README' || path.file == 'Cumbo' || path.dir.startsWith('./Tales/'))
 				continue;
 
-			cumbofile += '# ${path.file}\n\n${File.getContent(file)}\n\n';
+			cumbofile += '# ${path.file}\n\n${File.getContent(file).replace('# ', '## ')}\n\n';
 		}
 
 		File.saveContent('Cumbo.md', cumbofile);
