@@ -48,7 +48,7 @@ February 1573
 June 1577
 
 - In 18% of countries the age of consent is now 14
-- Transphobia is common in 20% of countries
+- Female Transphobia is common in 20% of countries
 - Abortion rates increase to 45%
 
 1581
