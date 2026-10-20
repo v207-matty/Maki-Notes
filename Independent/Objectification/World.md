@@ -57,10 +57,10 @@ August 1604
 - Another Women's Right movement started that at least partially gave some rights
 	- Women have to participate a beauty standard once they're 16 or older to achieve rights
 		- Medium or Large Breasts
-			- This has the prices of methods of breast size increasing 
+			- This has the prices increase of methods of breast size increasing
 		- Medium or Large Ass
 			- Talks have begun to make the price of BBL's higher
-		- 
+		- Slim
 	- Women younger then 16 will get partial rights
 		- Sexual assault not in the work place will be an actual priority
 
