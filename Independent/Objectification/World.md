@@ -28,6 +28,7 @@ March 1569
 1573
 
 - Sex Businesses run become the easiest job for Women to get
+- VTax is now strictly 25% extra on anyone that
 
 June 1577
 
