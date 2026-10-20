@@ -44,7 +44,7 @@ June 1577
 
 1584
 
-- 
+- 32% of places where you can make purchases apply VTax
 
 August 1594
 
