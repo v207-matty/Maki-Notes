@@ -17,7 +17,7 @@ September 1568
 
 July 1569
 
-- In 25 % of states the age of consent was lowered to 14
+- In 10% of countries the age of consent was lowered to 14
 
 March 1569
 
@@ -25,4 +25,4 @@ March 1569
 
 July 1580
 
-- In 80% of states the age of consent was lowered to 14
+- In 80% of countries the age of consent was lowered to 14
