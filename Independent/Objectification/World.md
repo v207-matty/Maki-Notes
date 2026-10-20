@@ -45,7 +45,7 @@ June 1577
 - In 18% of countries the age of consent is now 14
 - Transphobia is common in 20% of countries
 
-1584
+1581
 
 - 48% of places where you can make purchases apply VTax
 
