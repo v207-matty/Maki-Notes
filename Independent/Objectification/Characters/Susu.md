@@ -1,4 +1,4 @@
-# Info
+## Info
 
 Name: Susu Garnit  
 Maiden name: Susu Fine  
@@ -12,7 +12,7 @@ Birth Identification: Female
 Classification: Female  
 Pronouns: She / Her / It / Is
 
-# Personality
+## Personality
 
 - Lustful  
   - Works at Bounce Club (A sex business)  
@@ -23,7 +23,7 @@ Pronouns: She / Her / It / Is
 
 - Uncaring for her own well being : Grew up being used and continues to grow up being used, and thus has developed a priority of others before herself
 
-# History
+## History
 
 Age 14
 
@@ -33,16 +33,16 @@ Age 14
   - "She'll have to learn it anyway, and either way she's legal"  
   - Over the years Susu becomes used to being someone else's toy or object to fulfill their needs
 
-#### Age 15
+### Age 15
 
 - Susu moved out of her fathers house and ended up meeting Akan Garnit, moving in with him and eventually married him
 
-#### Age 17
+### Age 17
 
 - Gave birth to Katty Garnit  
 - Susu needed to get a well paying job so that Akan, and Katty could live a good life
 
-#### Age 19
+### Age 19
 
 - Akan got laid off and now Susu's job hunt had to get quicker, they only had so much left over
 
@@ -50,7 +50,7 @@ Age 14
 
 - Susu began working at Bounce Club
 
-#### Age 28
+### Age 28
 
 - A few days before the 14th birthday of Katty, Susu gets pregnant and has to take maternity leave
 
