@@ -27,8 +27,8 @@ March 1569
 
 November 1570
 
-- 65% of Adult Women in the world are reported to transition into a Man sometime during
-- Stores begin checking 
+- 65% of Adult Women in the world are reported to transition into a Man early during their life
+- Stores begin requiring a genitalia 
 
 February 1573
 
