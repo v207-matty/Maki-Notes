@@ -12,7 +12,7 @@ July 1568
 
 September 1568
 
-- Sex Trafficking starts to be ignored by cops ()
+- Sex Trafficking starts to be ignored by cops
 
 March 1569
 
