@@ -15,6 +15,7 @@ September 1568
 
 - Sex Trafficking starts to rise
 - Reports of Female Rape has grown more and more
+- Several murders have begun to happen where the (female) victim was clearly raped
 
 December 1568
 
