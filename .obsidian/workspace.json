@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/Objectification/World.md",
+                "file": "Independent/Objectification/Cumbo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "World"
+              "title": "Cumbo"
             }
           }
         ]
@@ -208,6 +208,8 @@
   },
   "active": "05cd2af50b3e4065",
   "lastOpenFiles": [
+    "Independent/Objectification/Characters/Katty.md",
+    "Independent/Objectification/World.md",
     "Independent/Objectification/Cumbo.md",
     "Independent/Objectification/Characters/Subas.md",
     "Independent/Objectification/cumbine.hxml",
@@ -215,10 +217,8 @@
     "Independent/Objectification/combine.hx",
     "Independent/Objectification/Characters/Susu.md",
     "Independent/Objectification/Characters/Akan.md",
-    "Independent/Objectification/Characters/Katty.md",
     "Independent/Objectification/AUs/Trapped Katty.md",
     "Independent/Objectification/AUs/Kinky Katty.md",
-    "Independent/Objectification/World.md",
     "Independent/Objectification/README.md",
     "Independent/README.md",
     "Independent/Objectification/Tales/Human/Experience.md",

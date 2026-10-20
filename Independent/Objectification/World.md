@@ -23,9 +23,9 @@ March 1569
 
 - Breast reduction surgery improved rapidly compared to 1568 thanks to the work of trans male "Lincoln Park"
 
-July 1571
+June 1569
 
-- In 80% of countries the age of consent was lowered to 14
+- In 25% of countries the age of consent was lowered to 14
 
 July 1580
 
