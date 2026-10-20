@@ -25,7 +25,10 @@ class Cumbine {
 	static function main() {
 		var cumbofile = '# Objectification\n\n';
 
-		for (file in readDir('.').sort((a, b) -> return -1)) {
+		var dir = readDir('.');
+		dir.sort((a, b) -> return 1);
+
+		for (file in dir) {
 			var path = new Path(file);
 
 			if (path.ext != 'md' || path.file == 'README' || path.file == 'Cumbo' || path.dir.startsWith('./Tales/'))
