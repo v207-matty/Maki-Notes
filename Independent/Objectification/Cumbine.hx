@@ -23,10 +23,9 @@ class Cumbine {
 		var cumbofile = '';
 
 		for (file in readDir('.')) {
-            file = file.substr(1);
-            
-			if (file == 'README.md')
-				continue;
+            var path = new Path(file.substr(1));
+
+            cumbofile += '# ${path.file}\n';
 		}
 	}
 }
