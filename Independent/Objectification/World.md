@@ -15,4 +15,5 @@ March 1569
 - Breast reduction surgery improved rapidly compared to 1568 thanks to the trans male "Lincoln Park"
 
 July 1580
-- 
+
+- In all states the age of consent was lowered to 14
