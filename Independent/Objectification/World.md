@@ -15,13 +15,17 @@ September 1568
 - Sex Trafficking starts to be ignored by male cops
 - Reports of Female Rape has grown more and more
 
-July 1569
+December 1568
 
 - In 10% of countries the age of consent was lowered to 14
 
 March 1569
 
 - Breast reduction surgery improved rapidly compared to 1568 thanks to the work of trans male "Lincoln Park"
+
+July 1571
+
+- In 80% of countries the age of consent was lowered to 14
 
 July 1580
 
