@@ -34,7 +34,7 @@ Pronouns: She / Her / It / Is
 
 #### Age 10
 
-- One day at Bounce Club, Subas wanders too far and is grabbed by a customer who confuses her for a young employee and Subas gets used, liking it
+- One day at Bounce Club, Subas wanders too far and is grabbed by a customer who confuses her for a young employee and Subas gets used, with the m
 
 #### Age 16
 
