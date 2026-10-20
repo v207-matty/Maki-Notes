@@ -27,7 +27,7 @@ Pronouns: It / Its
 #### Age 16
 
 - After 2 years of working at bounce club and several scares of Katty potentially getting pregnant, Katty can't leave, it woke up too late and the cycle repeats  
-- But the enthusiasm from the previous day because it was excited to be gone gets it brutal treatment from the men because they think that Katty has finally accepted it
+- But the enthusiasm from the previous day because it was excited to be gone gets it brutal treatment from the men because the men think that Katty has finally accepted it
 
 - Katty is mentally broken, it seems like its only purpose is to be someone else's satisfaction
 
