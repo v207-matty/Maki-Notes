@@ -60,22 +60,11 @@ August 1604
 		- Medium or Large breasts
 		- 
 
-January 1621
-
-- In 78% of countries the age of consent is now 14
-
-1654
+January 1654
 
 - Abortion rates increase to 76%
-
-1686
-
-- 
-
-1745
-
-- 
+- In 78% of countries the age of consent is now 14
 
 1773
 
-- Present year in the story
+- Present year
