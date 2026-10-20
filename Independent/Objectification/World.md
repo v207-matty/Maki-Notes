@@ -74,6 +74,10 @@
 - Several minor Women's rights movements have begun
 - Several cases of Police brutality against fighters for Women's rights have been reported
 
+1721
+
+1756
+
 1773
 
 - Present year
