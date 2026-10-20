@@ -54,9 +54,9 @@ June 1577
 1581
 
 - 48% of places where you can make purchases apply VTax
-- Another Womens Right movement started that caused at
+- Another Womens Right movement started that caused atleast some movement
 
-August 1594
+August 1609
 
 - In 50% of countries the age of consent is now 14
 
