@@ -30,7 +30,8 @@ March 1569
 November 1570
 
 - 65% of Adult Women in the world are reported to transition into a Man early during their life
-- Places where purchases can be placed begin requiring a genitalia check for any Man making purchases
+- Places where purchases can be placed begin requiring a genitalia check at the counter for any Man making purchases
+- Reports of 
 
 February 1573
 
