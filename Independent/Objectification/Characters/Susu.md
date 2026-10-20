@@ -30,7 +30,7 @@ Age 14
 - Initial interaction with sex for the first time when her father was drunk and mistook Susu for her mom but continued anyway.
 
 - Susu's parents split up after her mother found out about the incident, and her father took custody of Susu, using her to vent out his sexual frustrations as he struggled to find a new mate and keep a job  
-  - "She'll have to learn it anyway, and until I can afford her school this is the next best thing."  
+  - "She'll have to learn it anyway, and either way she's legal"  
   - Over the years Susu becomes used to being someone else's toy or object to fulfill their needs
 
 #### Age 15
