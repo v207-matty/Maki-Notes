@@ -32,9 +32,9 @@ Pronouns: She / Her / It / Is
 - Becomes intrigued and wants to learn what they do specifically  
 - Starts to visit Bounce Club weekly on weekends after begging her parents
 
-#### Age 10
+#### Age 12
 
-- One day at Bounce Club, Subas wanders too far and is grabbed by a customer who confuses her for a young employee and Subas gets used, with the m
+- One day at Bounce Club, Subas wanders too far and is grabbed by a customer who confuses her for a young employee and Subas gets used, with the man begrudgingly apologizing when Susu demands it
 
 #### Age 16
 
