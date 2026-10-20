@@ -7,8 +7,9 @@ June 1568
 
 July 1568
 
-- "Vulva Tax" / "VTax" becomes a thing, charging 15 - 30% extra on purchases made by Women  
+- "Vulva Tax" / "VTax" becomes a thing, charging 15 - 30% extra on purchases made by Women
 - Trans masculinity begins to grow in popularity
+- 2% of places where purchases can be made apply VTax
 
 September 1568
 
@@ -24,7 +25,7 @@ March 1569
 
 - Breast reduction surgery improved rapidly compared to 1568 thanks to the work of trans male "Lincoln Park"
 - 86% of crimes reported by Women are being ignored by 59% of Men
-- 35% of places where you can make purchases have VTax
+- 35% of places where you can make purchases apply VTax
 
 November 1570
 
