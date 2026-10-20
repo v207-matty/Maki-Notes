@@ -33,7 +33,7 @@ class Cumbine {
 			if (path.file == 'Cumbo')
 				continue;
 
-			cumbofile += '# ${path.file}\n${File.getContent(file)}\n';
+			cumbofile += '# ${path.file}\n\n${File.getContent(file)}\n';
 		}
 
 		File.saveContent('Cumbo.md', cumbofile);

@@ -1,4 +1,5 @@
 # Kinky Katty
+
 # Kinky Katty Exclusive Info
 
 Identification: Female  
@@ -67,6 +68,7 @@ Pronouns: She / Her / It / Its
 
 - Katty is the most famous female employee at the bounce club: she takes it and likes it and takes it when there's issues going on with her anyway
 # Trapped Katty
+
 # Trapped Katty Exclusive Info
 
 Identification: Object  
@@ -104,6 +106,7 @@ Pronouns: It / Its
 
 - Katty snaps again, actively seeking the roughest sex it can get to try and pop, it is only into it to die
 # Akan
+
 # Info
 
 Name: Akan Garnit  
@@ -145,6 +148,7 @@ Pronouns: He / Him
 - Akan gets laid off of his job
 
 # Katty
+
 # Katty Info
 
 Name: Katty Garnit  
@@ -262,6 +266,7 @@ Pronouns: He / They
 
 - Katty learned martial arts from a fighting club and became a black belt
 # Subas
+
 # Info
 
 Name: Subas Garnit  
@@ -309,6 +314,7 @@ Pronouns: She / Her / It / Is
 
 - Subas begins working at Bounce Club full time after High School
 # Susu
+
 # Info
 
 Name: Susu Garnit  
@@ -371,6 +377,7 @@ Age 29
 
 - After a couple months, Susu leaves Subas with Akan and gets back to working at Bounce Club
 # Feelings
+
 *Prompt Date: October 15 2026*
 
 *Katty Variation: Regular*
@@ -419,6 +426,7 @@ You close your eyes, but you don't sleep. You just lie there in the dark, knowin
 
 
 # Pop
+
 *Prompt Date: October 15 2026*
 
 *Katty Variation: Trapped*
@@ -627,6 +635,7 @@ Tomorrow, they would be discharged. Tomorrow, the neon lights would flicker. Tom
 
 
 # The First Days
+
 *Prompt Date: October 15 2026*
 
 *Katty Variation: Regular*
@@ -765,6 +774,7 @@ It is a cold, shimmering seed of hatred. And for the first time, you realize tha
 
 
 # Two Sides of the Same Katty
+
 Prompting date: October 15 2026
 
 Katty Variation: Both
@@ -1773,6 +1783,7 @@ And that was complicated enough.
 
 
 # FINE
+
 \# FINE
 
 \#\# I. The Hour Before
@@ -2023,6 +2034,7 @@ She learned it. She got good at it. And then, when Akan got laid off and the mon
 
 And she walked in.
 # Ten Hours
+
 \# Ten Hours
 
 \*\*6:40 AM\*\*
@@ -2273,6 +2285,7 @@ Tomorrow was Friday. Voss was booked at one forty-five.
 
 She'd be there.
 # The Star (Part 1)
+
 \# The Star
 
 \#\# Age 8 — The Question
@@ -2445,6 +2458,7 @@ She started two days later and she was \*good\* at it and she had known she woul
 
 She was small and young and the customers loved the young body — that's what they called her, sometimes, "the young body," like she was a product — and unlike every other version of Katty, she \*liked\* being a product. A product had a function. A function could be performed \*well.\* There was no crisis here, no betrayal, no waking up
 # The Star (Part 2)
+
 \# The Star
 
 \#\# Age 14 — Month One: The New One
@@ -2635,6 +2649,7 @@ She loved it. All of it. The routine, the regulars, the strangers, the roughness
 
 
 # The Star (Part 3)
+
 \# The Star
 
 \#\# Age 14 — Month Ten: The Tell
@@ -2913,6 +2928,7 @@ She'd choose the job again. She'd choose it every time.
 
 And it would get easier, every time, until it barely registered at all.
 # THE WORKERS DAUGHTER
+
 \# THE WORKER'S DAUGHTER
 
 \#\# I. Begging
@@ -3209,6 +3225,7 @@ And the black joke underneath it: Subas's father was a customer. Somewhere in th
 
 The one thing that stuck. She forgot almost everything else she ever learned. But that first afternoon in booth six never once left her.
 # The Young Body
+
 \# The Young Body
 
 \*\*Three weeks in.\*\*
@@ -3401,6 +3418,7 @@ Eight o'clock.
 
 She was there.
 # To Pop
+
 \# To Pop
 
 It had done the math once, in the rare gap between customers when the room went quiet enough for thinking.
@@ -3509,6 +3527,7 @@ It lived.
 
 It kept the reputation, the schedule, the ritual, the everything. It just stopped
 # Until it Pops
+
 \# Until It Pops
 
 \*\*7:00 AM.\*\*
@@ -3807,6 +3826,7 @@ Tomorrow.
 
 Six o'clock.
 # What Ive been waiting for
+
 *Prompt Date: October 15 2026*
 
 *Katty Variation: Kinky*
@@ -3897,6 +3917,7 @@ Katty leaned back against the seat, a triumphant smile on her face. She was exac
 
 
 # Experience
+
 Writing Date: October 15 2026  
 Katty variation: Regular
 
@@ -3948,6 +3969,7 @@ And god dammit I do.
 
 And I fucking hate it.
 # World
+
 # World History
 
 June 1568
