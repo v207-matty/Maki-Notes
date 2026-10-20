@@ -27,10 +27,10 @@ June 1577
 
 - In 25% of countries the age of consent was lowered to 14
 
-June 1590
+August 1590
 
 - In 51% of countries the age of consent was lowered to 14
 
-July 1620
+January 1620
 
 - In 90% of countries the age of consent was lowered to 14
