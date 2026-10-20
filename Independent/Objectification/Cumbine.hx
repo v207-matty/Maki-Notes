@@ -30,10 +30,12 @@ class Cumbine {
 				continue;
 			if (path.file == 'README')
 				continue;
+			if (path.file == 'Cumbo')
+				continue;
 
 			cumbofile += '# ${path.file}\n${File.getContent(file)}\n';
 		}
 
-		File.saveContent();
+		File.saveContent('Cumbo.md', cumbofile);
 	}
 }
