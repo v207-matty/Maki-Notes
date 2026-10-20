@@ -72,7 +72,7 @@
 
 1673
 
-- Several cases o
+- Several cases of Police brutality against fighters for Women's rights have been reported
 
 1773
 
