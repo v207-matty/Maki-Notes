@@ -27,7 +27,7 @@ March 1569
 
 1573
 
-- 
+- Sex Businesses run by Males become 
 
 June 1577
 
