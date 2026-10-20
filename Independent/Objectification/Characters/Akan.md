@@ -34,6 +34,8 @@ Pronouns: He / Him
 
 - One day Akan ended up meeting Susu Fine, she moved in with him and they eventually get married
 
-Age 24
+#### Age 24
 
 - Akan gets laid off of his job
+
+#### 
