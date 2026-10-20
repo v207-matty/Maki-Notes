@@ -19,5 +19,7 @@ class Cumbine {
 		return files;
 	}
 
-	static function main() {}
+	static function main() {
+        var cumbofile = '';
+    }
 }
