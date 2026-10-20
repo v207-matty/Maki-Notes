@@ -48,12 +48,13 @@ February 1573
 June 1577
 
 - In 18% of countries the age of consent is now 14
-- Female Transphobia is common in 20% of countries
+- Female Transphobia is common in 23% of countries
 - Abortion rates increase to 45%
 
 1581
 
 - 48% of places where you can make purchases apply VTax
+- Another Womens Right movement started
 
 August 1594
 
