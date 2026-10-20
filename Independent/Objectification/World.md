@@ -23,7 +23,7 @@ December 1568
 March 1569
 
 - Breast reduction surgery improved rapidly compared to 1568 thanks to the work of trans male "Lincoln Park"
-- 86% of Crimes reported by Females
+- 86% of crimes reported by Females have been ignore
 
 June 1577
 
