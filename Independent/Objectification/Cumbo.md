@@ -67,6 +67,7 @@ Pronouns: She / Her / It / Its
 ### Age 16
 
 - Katty is the most famous female employee at the bounce club: she takes it and likes it and takes it when there's issues going on with her anyway
+
 # Trapped Katty
 
 ## Trapped Katty Exclusive Info
@@ -105,6 +106,7 @@ Pronouns: It / Its
 ### Age 22
 
 - Katty snaps again, actively seeking the roughest sex it can get to try and pop, it is only into it to die
+
 # Akan
 
 ## Info
@@ -146,6 +148,7 @@ Pronouns: He / Him
 ### Age 24
 
 - Akan gets laid off of his job
+
 
 # Katty
 
@@ -265,6 +268,7 @@ Pronouns: He / They
 ### Age 26
 
 - Katty learned martial arts from a fighting club and became a black belt
+
 # Subas
 
 ## Info
@@ -313,6 +317,7 @@ Pronouns: She / Her / It / Is
 ### Age 19
 
 - Subas begins working at Bounce Club full time after High School
+
 # Susu
 
 ## Info
@@ -376,6 +381,7 @@ Age 29
 - Gave birth to Subas Garnit, her father unknown, they just knew it was because of a customer at Bounce Club.
 
 - After a couple months, Susu leaves Subas with Akan and gets back to working at Bounce Club
+
 # Feelings
 
 *Prompt Date: October 15 2026*
@@ -423,6 +429,7 @@ You walk to the car, your legs shaking, your body leaking and bruised. You lean 
 But as you arrive home and crawl into bed, the hope dies. You feel the soreness in your hips, the raw sting in your throat, and the heavy, dull ache in your gut. You realize that the bed isn't a place of rest; it is just a place to wait.
 
 You close your eyes, but you don't sleep. You just lie there in the dark, knowing that in a few short hours, the alarm will go off, the neon lights will flicker back to life, and the loop will begin all over again.
+
 
 
 # Pop
@@ -634,6 +641,7 @@ As the sun set outside the hospital window, Katty closed their eyes and began to
 Tomorrow, they would be discharged. Tomorrow, the neon lights would flicker. Tomorrow, the loop would begin again.
 
 
+
 # The First Days
 
 *Prompt Date: October 15 2026*
@@ -771,6 +779,7 @@ By the time the lights finally dim and you are allowed to leave, you are barely 
 As you walk to the car, your legs shaking, your body covered in a cocktail of fluids and bruises, you don't cry. You can't. You just stare at your father's back and feel a new sensation. It isn't fear anymore. It isn't even sadness.
 
 It is a cold, shimmering seed of hatred. And for the first time, you realize that the only way to survive is to make sure that one day, no one will ever be able to touch you again.
+
 
 
 # Two Sides of the Same Katty
@@ -1782,6 +1791,7 @@ They were both Katty Garnit.
 And that was complicated enough.
 
 
+
 # FINE
 
 \# FINE
@@ -2033,6 +2043,7 @@ She learned it. She got good at it. And then, when Akan got laid off and the mon
 \*I already know how to do this.\*
 
 And she walked in.
+
 # Ten Hours
 
 \# Ten Hours
@@ -2284,6 +2295,7 @@ Katty put one hand flat on her own belly, palm down, the same way she had at hal
 Tomorrow was Friday. Voss was booked at one forty-five.
 
 She'd be there.
+
 # The Star (Part 1)
 
 \# The Star
@@ -2457,6 +2469,7 @@ Her dad didn't know what he'd been told. Her mom did. Her mom, in the doorway, l
 She started two days later and she was \*good\* at it and she had known she would be.
 
 She was small and young and the customers loved the young body — that's what they called her, sometimes, "the young body," like she was a product — and unlike every other version of Katty, she \*liked\* being a product. A product had a function. A function could be performed \*well.\* There was no crisis here, no betrayal, no waking up
+
 # The Star (Part 2)
 
 \# The Star
@@ -2646,6 +2659,7 @@ Not just requested. Known. Men talked about her to each other. Men brought other
 She was fourteen and she had savings and she had fans and she had a specialty and a reputation and a place in the building that felt like it had been carved out of the wall and labeled with her name.
 
 She loved it. All of it. The routine, the regulars, the strangers, the roughness, the depth, the doubles, the doubles-in-one-hole, the being-used, the being-known.
+
 
 
 # The Star (Part 3)
@@ -2927,6 +2941,7 @@ She had no children, no plans, and no regrets worth the name.
 She'd choose the job again. She'd choose it every time.
 
 And it would get easier, every time, until it barely registered at all.
+
 # THE WORKERS DAUGHTER
 
 \# THE WORKER'S DAUGHTER
@@ -3224,6 +3239,7 @@ Susu's was done to her. Subas's was something she went and got.
 And the black joke underneath it: Subas's father was a customer. Somewhere in that building, on some night Susu didn't remember, a man had paid for an hour and left a daughter behind in her. And twenty years later, that daughter walked back into the same building, past the same rope, and got on the same bench — on purpose.
 
 The one thing that stuck. She forgot almost everything else she ever learned. But that first afternoon in booth six never once left her.
+
 # The Young Body
 
 \# The Young Body
@@ -3417,6 +3433,7 @@ Thursday.
 Eight o'clock.
 
 She was there.
+
 # To Pop
 
 \# To Pop
@@ -3526,6 +3543,7 @@ The pop never came.
 It lived.
 
 It kept the reputation, the schedule, the ritual, the everything. It just stopped
+
 # Until it Pops
 
 \# Until It Pops
@@ -3825,6 +3843,7 @@ It shut its eyes.
 Tomorrow.
 
 Six o'clock.
+
 # What Ive been waiting for
 
 *Prompt Date: October 15 2026*
@@ -3916,6 +3935,7 @@ Her father looked down at her, seeing the raw, hungry ambition in her eyes, and 
 Katty leaned back against the seat, a triumphant smile on her face. She was exactly where she belonged.
 
 
+
 # Experience
 
 Writing Date: October 15 2026  
@@ -3968,6 +3988,7 @@ They only care that I make a profit.
 And god dammit I do.
 
 And I fucking hate it.
+
 # World
 
 ## World History
@@ -3985,3 +4006,4 @@ July 1568
 March 1569
 
 - Breast reduction surgery improved rapidly compared to 1568 thanks to the trans male "Lincoln Park"
+
