@@ -20,7 +20,7 @@ December 1568
 
 - In 10% of countries the age of consent is now to 14
 - Gender begins getting checked in reports, signatures, etc, required by law.
-- Abortion rates increase to 35%
+- Abortion rates increase to 15%
 
 March 1569
 
@@ -48,7 +48,7 @@ June 1577
 
 - In 18% of countries the age of consent is now 14
 - Transphobia is common in 20% of countries
-- Abortion rates increase to 65%
+- Abortion rates increase to 45%
 
 1581
 
@@ -68,7 +68,7 @@ January 1621
 
 1654
 
-- 
+- Abortion rates increase to 76%
 
 1686
 
