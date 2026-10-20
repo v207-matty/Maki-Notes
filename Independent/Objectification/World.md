@@ -60,7 +60,7 @@ August 1604
 			- This has the prices increase of methods of breast size increasing
 		- Medium or Large Ass
 			- Talks have begun to make the price of BBL's higher
-		- Slim
+		- Slim figure
 	- Women younger then 16 will get partial rights
 		- Sexual assault not in the work place will be an actual priority
 
