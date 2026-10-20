@@ -36,7 +36,7 @@ November 1570
 February 1573
 
 - Sex Businesses have become the easiest job for Women to get (95% acceptance rate)
-- Genitalia checks have been replaced with a machine
+- Genitalia checks have been replaced with a machine at the entrance 
 - VTax is now strictly 25% extra on anyone that is found to have a vulva
 
 June 1577
