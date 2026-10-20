@@ -25,7 +25,7 @@ March 1569
 
 - Breast reduction surgery improved rapidly compared to 1568 thanks to the work of trans male "Lincoln Park"
 - 86% of crimes reported by Women are being ignored by 59% of Men
-- 35% of places where you can make purchases apply VTax
+- 16% of places where you can make purchases apply VTax
 
 November 1570
 
