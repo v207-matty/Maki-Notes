@@ -12,12 +12,13 @@ July 1568
 
 September 1568
 
-- Sex Trafficking starts to be ignored by male cops
+- Sex Trafficking starts to rise
 - Reports of Female Rape has grown more and more
 
 December 1568
 
 - In 10% of countries the age of consent is now to 14
+- Crimes reporrte
 
 March 1569
 
