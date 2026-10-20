@@ -1,23 +1,17 @@
 ## World History
 
-June 1568
+1568
 
 - The first attempt at fighting for women's rights happened to great failure on June 9th, 1568
+
 - Women begin to get more and more objectified by Men
-
-July 1568
-
 - "Vulva Tax" / "VTax" becomes a thing, charging 15 - 30% extra on purchases made by Women
 - Trans masculinity begins to grow in popularity
 - 2% of places where purchases can be made apply VTax
 
-September 1568
-
 - Sex Trafficking starts to rise
 - Reports of Female Rape has grown more and more
 - Several murders have begun to happen where the (female) victim was clearly raped before, after, or during the murder
-
-December 1568
 
 - In 10% of countries the age of consent is now to 14
 - Gender begins getting checked in reports, signatures, etc, required by law.
