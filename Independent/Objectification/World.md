@@ -68,10 +68,10 @@
 - Abortion rates increase to 76%
 - In 78% of countries the age of consent is now 14
 - Rape reports have increased
-- Several minor Women's rights movements have begun to try and 
 
-1673
+1671
 
+- Several minor Women's rights movements have begun
 - Several cases of Police brutality against fighters for Women's rights have been reported
 
 1773
