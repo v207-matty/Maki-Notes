@@ -58,7 +58,7 @@ August 1604
 - Another Women's Right movement started that at least partially gave some rights
 	- Women have to follow a beauty standard to achieve rights
 		- Medium or Large breasts
-		- Medium or Large bust
+		- Medium or Large 
 
 January 1654
 
