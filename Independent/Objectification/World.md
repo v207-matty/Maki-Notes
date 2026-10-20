@@ -73,12 +73,10 @@ September 1604
 
 January 1654
 
-- Rape cases have 
 - Another Women's rights movement begun
-
-
 - Abortion rates increase to 76%
 - In 78% of countries the age of consent is now 14
+- Rape reports have increased
 
 1773
 
