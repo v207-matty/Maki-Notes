@@ -27,7 +27,7 @@ March 1569
 
 November 1570
 
-- 
+- 65% of Women in the world 
 - Stores begin checking 
 
 February 1573
