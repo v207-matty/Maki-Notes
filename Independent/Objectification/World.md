@@ -54,7 +54,7 @@ June 1577
 August 1604
 
 - 48% of places where you can make purchases apply VTax
-- Another Women's Right movement started that at least partially gave some rights
+- Another Women's Right movement started that at least partially did something
 	- Women have to participate a beauty standard once they're 16 or older to achieve rights
 		- Medium or Large Breasts
 			- This has the prices increase of methods of breast size increasing
@@ -63,6 +63,7 @@ August 1604
 		- Slim figure
 	- Women younger then 16 will get partial rights
 		- Sexual assault not in the work place will be an actual priority
+	- 
 
 September 1604
 - In 50% of countries the age of consent is now 14
