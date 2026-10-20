@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/Objectification/AUs/Kinky Katty.md",
+                "file": "Independent/Objectification/World.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kinky Katty"
+              "title": "World"
             }
           }
         ]
@@ -208,10 +208,11 @@
   },
   "active": "93fb461f0fb1f8cf",
   "lastOpenFiles": [
+    "Independent/Objectification/README.md",
+    "Independent/Objectification/AUs/Kinky Katty.md",
     "Independent/Objectification/Characters/Susu.md",
     "Independent/Objectification/Characters/Katty.md",
     "Independent/Objectification/Characters/Subas.md",
-    "Independent/Objectification/AUs/Kinky Katty.md",
     "Independent/Objectification/AUs/Trapped Katty.md",
     "Independent/Objectification/World.md",
     "Independent/README.md",
@@ -233,7 +234,6 @@
     "Independent/Objectification/Tales/Clanker/What Ive been waiting for.md",
     "Independent/Objectification/Tales/Clanker/The First Days.md",
     "Independent/Objectification/Tales/Clanker/Two Sides of the Same Katty.md",
-    "Independent/Objectification/gitignore.md",
     "Independent/Objectification/Tales/Clanker/Venice",
     "Independent/Objectification/Tales/Clanker",
     "Independent/Objectification/Tales/Human",

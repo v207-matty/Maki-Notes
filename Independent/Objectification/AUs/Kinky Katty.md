@@ -46,7 +46,7 @@ Pronouns: She / Her / It / Its
 
 #### Age 10
 
-- One day, Katty is wandering the sex business place and is mistaken for an employee and used, loving it (The man apologized after when he realized she wa)
+- One day, Katty is wandering the sex business place and is mistaken for an employee and used, loving it (The man apologized after when he realized she was 10)
 - From this point onward she is basically an intern at bounce club, visiting constantly on the weekends and basically functioning as staff
 
 - Katty likes the bullying at school, reminds her of bounce club and gets her in a happy mood  
