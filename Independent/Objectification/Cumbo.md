@@ -1,13 +1,13 @@
 # Kinky Katty
 
-### Kinky Katty Exclusive Info
+## Kinky Katty Exclusive Info
 
 Identification: Female  
 Birth Identification: Female  
 Classification: Female  
 Pronouns: She / Her / It / Its
 
-### Kinky Katty Personality
+## Kinky Katty Personality
 
 - Prefers clothes that reveal her body  
 - Loves thin clothes  
@@ -38,15 +38,15 @@ Pronouns: She / Her / It / Its
 - Curious  
   - ***Always*** willing to try new things
 
-### Kinky Katty Overwriting History
+## Kinky Katty Overwriting History
 
-#### Age 8
+### Age 8
 
 - After school one day, where kids were talking about where their parent(s) worked, Katty asked her mom about where she worked and learned about bounce club  
 - Katty was intrigued and was interested by the place and kept asking her mom to take her there again and again for years, slowly Katty was seeing "what the big girls do"  
 - Katty learns about sex at this age and over the years is taught many things
 
-#### Age 10
+### Age 10
 
 - One day, Katty is wandering the sex business place and is mistaken for an employee and used, loving it (The man apologized after when he realized she was 10)
 - From this point onward she is basically an intern at bounce club, visiting constantly on the weekends and basically functioning as staff
@@ -54,7 +54,7 @@ Pronouns: She / Her / It / Its
 - Katty likes the bullying at school, reminds her of bounce club and gets her in a happy mood  
   - This causes the bullying to cease around the end of the school year, disappointing Katty
 
-#### Age 14
+### Age 14
 
 - The day after her bday, Katty and her dad talk about how they've decided to pull her from school and get her a job  
 - Katty agrees, begging for it to be at bounce club, her dad reveals that that is actually where they planned to send her, and Katty is thrilled  
@@ -64,19 +64,19 @@ Pronouns: She / Her / It / Its
 
 - Around the end of the year Katty performs her first abortion
 
-#### Age 16
+### Age 16
 
 - Katty is the most famous female employee at the bounce club: she takes it and likes it and takes it when there's issues going on with her anyway
 # Trapped Katty
 
-### Trapped Katty Exclusive Info
+## Trapped Katty Exclusive Info
 
 Identification: Object  
 Birth Identification: Female  
 Classification: Female  
 Pronouns: It / Its
 
-### Trapped Katty Personality
+## Trapped Katty Personality
 
 - Has a temper  
   - Desperate  
@@ -93,21 +93,21 @@ Pronouns: It / Its
 - Dissociative  
   - Only snaps back to reality when there is danger that it will run to
 
-### Trapped Katty Overwriting History
+## Trapped Katty Overwriting History
 
-#### Age 16
+### Age 16
 
 - After 2 years of working at bounce club and several scares of Katty potentially getting pregnant, Katty can't leave, it woke up too late, and then the cycle repeats  
 - But the enthusiasm from the previous day because it was excited to be gone gets it brutal treatment from the men because they think that Katty has finally accepted it
 
 - Katty is mentally broken, it seems like its only purpose is to be someone else's satisfaction
 
-#### Age 22
+### Age 22
 
 - Katty snaps again, actively seeking the roughest sex it can get to try and pop, it is only into it to die
 # Akan
 
-### Info
+## Info
 
 Name: Akan Garnit  
 Species: Furnokers
@@ -120,7 +120,7 @@ Birth Identification: Male
 Classification: Male  
 Pronouns: He / Him
 
-### Personality
+## Personality
 
 - Lazy  
   - Has a hard time getting work done that he doesn't want to do  
@@ -133,23 +133,23 @@ Pronouns: He / Him
 - Predatory  
   - Willing to go to disturbing means to get what he wants
 
-### History
+## History
 
-#### Age 18
+### Age 18
 
 - Akan gets kicked out of his parents house after High School and is forced to live on his own, getting a job, and not being spoiled like he used too
 
-#### Age 20
+### Age 20
 
 - One day Akan ended up meeting Susu Fine, she moved in with him and they eventually get married
 
-#### Age 24
+### Age 24
 
 - Akan gets laid off of his job
 
 # Katty
 
-### Katty Info
+## Katty Info
 
 Name: Katty Garnit  
 Species: Furnokers
@@ -162,7 +162,7 @@ Birth Identification: Female
 Classification: Transmasculine  
 Pronouns: He / They
 
-### Katty Personality
+## Katty Personality
 
 - Doesn't like reminders he's short (species thing)  
   - Like any man would
@@ -206,33 +206,33 @@ Pronouns: He / They
 - Hates any large round spherical object  
   - Tittys
 
-### Regular Katty Exclusive History
+## Regular Katty Exclusive History
 
-#### Age 2
+### Age 2
 
 - Katty's parents began to struggle financially as Katty's dad was laid off  
 - Katty's mom decides to join a global sex business (Bounce Club) to keep the money going
 
-#### Age 7
+### Age 7
 
 - Katty's mom has earned enough money that Katty can actually go to school (starting 3rd grade because they were homeschooled and learned a lot already)  
 - Kattys dad has become lazy, he's not even looking for a job, he's letting others fuck his wife and is enjoying the pay from it
 
-#### Age 10
+### Age 10
 
 - Katty starts getting bullied by other 5th graders
 
 - Katty doesn't like the bullying and complains about it constantly  
 - Katty's dad tried to teach them how to fight so people stop bullying them but Katty gets hurt and doesn't want to do it again
 
-#### Age 13
+### Age 13
 
 - Katty's mom gets pregnant by accident  
 - Katty's parents begin thinking about how they're gonna make money while Katty's mom is on maternity leave
 
 - 10 days before *the talk*
 
-#### Age 14
+### Age 14
 
 - The day after his bday, Katty and his dad talk about how they've decided to pull him from school and get him a job, *they need money*.  
 - Katty agrees, innocently, not knowing what was waiting for them.  
@@ -242,7 +242,7 @@ Pronouns: He / They
 - Katty tries and tries to get their parents to let them leave but their parents don't listen, they get even more pay then their mom did because the customers love "the young body".  
 - Katty begins to mature into the modern katty, slowly
 
-#### Age 16
+### Age 16
 
 - After 2 years of working at bounce club and several scares of Katty potentially getting pregnant (protection on the women's side is highly discouraged), Katty runs away  
 - They pack their shit, take all the money they can from their job that their parents have not taken, and leave home, never returning
@@ -254,20 +254,20 @@ Pronouns: He / They
 
 - Katty found a dog on his way to another place, named him "Happy" and kept going
 
-#### Age 17
+### Age 17
 
 - Katty learns ice magic, enough to keep him cool as he has begun to wear thick clothes and to keep people away
 
-#### Age 24
+### Age 24
 
 - Happy died of a cancer exclusive to his breed
 
-#### Age 26
+### Age 26
 
 - Katty learned martial arts from a fighting club and became a black belt
 # Subas
 
-### Info
+## Info
 
 Name: Subas Garnit  
 Species: Furnokers
@@ -280,7 +280,7 @@ Birth Identification: Female
 Classification: Female  
 Pronouns: She / Her / It / Is
 
-### Personality
+## Personality
 
 - Curious  
   - Big question asker  
@@ -293,29 +293,29 @@ Pronouns: She / Her / It / Is
 - Adaptive  
   - Figures out how to make things work for her and for others
 
-### History
+## History
 
-#### Age 8
+### Age 8
 
 - Learns about where her mom works (Bounce Club)  
 - Becomes intrigued and wants to learn what they do specifically  
 - Starts to visit Bounce Club weekly on weekends after begging her parents
 
-#### Age 12
+### Age 12
 
 - One day at Bounce Club, Subas wanders too far and is grabbed by a customer who confuses her for a young employee and Subas gets used, with the man begrudgingly apologizing when Susu demands it
 
-#### Age 16
+### Age 16
 
 - Subas wants to get a job and one day asks Susu if she could work at Bounce Club  
   - Susu agrees and Subas begins working at Bounce Club on the weekends, the customers like her
 
-#### Age 19
+### Age 19
 
 - Subas begins working at Bounce Club full time after High School
 # Susu
 
-### Info
+## Info
 
 Name: Susu Garnit  
 Maiden name: Susu Fine  
@@ -329,7 +329,7 @@ Birth Identification: Female
 Classification: Female  
 Pronouns: She / Her / It / Is
 
-### Personality
+## Personality
 
 - Lustful  
   - Works at Bounce Club (A sex business)  
@@ -340,7 +340,7 @@ Pronouns: She / Her / It / Is
 
 - Uncaring for her own well being : Grew up being used and continues to grow up being used, and thus has developed a priority of others before herself
 
-### History
+## History
 
 Age 14
 
@@ -350,16 +350,16 @@ Age 14
   - "She'll have to learn it anyway, and either way she's legal"  
   - Over the years Susu becomes used to being someone else's toy or object to fulfill their needs
 
-#### Age 15
+### Age 15
 
 - Susu moved out of her fathers house and ended up meeting Akan Garnit, moving in with him and eventually married him
 
-#### Age 17
+### Age 17
 
 - Gave birth to Katty Garnit  
 - Susu needed to get a well paying job so that Akan, and Katty could live a good life
 
-#### Age 19
+### Age 19
 
 - Akan got laid off and now Susu's job hunt had to get quicker, they only had so much left over
 
@@ -367,7 +367,7 @@ Age 14
 
 - Susu began working at Bounce Club
 
-#### Age 28
+### Age 28
 
 - A few days before the 14th birthday of Katty, Susu gets pregnant and has to take maternity leave
 
@@ -781,7 +781,7 @@ Katty Variation: Both
 
 AI: ChatGPT
 
-## **Two Sides of the Same Katty**
+# **Two Sides of the Same Katty**
 
 An alternate-universe encounter
 
@@ -885,7 +885,7 @@ And she knew everything about him.
 
 Including the things he'd rather forget.
 
-### **1\. The Unfortunate Similarities**
+## **1\. The Unfortunate Similarities**
 
 Kinky Katty swung her legs.
 
@@ -989,7 +989,7 @@ There was something deeply irritating about talking to someone who could predict
 
 It was like arguing with a mirror that had been dropped on its head.
 
-### **2\. The Question About the Body**
+## **2\. The Question About the Body**
 
 Kinky Katty leaned back in her chair.
 
@@ -1123,7 +1123,7 @@ She laughed.
 
 He reluctantly conceded that point with a grunt.
 
-### **3\. The Ice Magic Incident**
+## **3\. The Ice Magic Incident**
 
 "Speaking of ice magic," Kinky Katty said, "show me\!"
 
@@ -1237,7 +1237,7 @@ She crossed her arms.
 
 "I accept it anyway\!"
 
-### **4\. Happy**
+## **4\. Happy**
 
 The conversation eventually slowed.
 
@@ -1347,7 +1347,7 @@ She simply sat there with him.
 
 And, strangely enough, he appreciated that more than he would have admitted.
 
-### **5\. The Children**
+## **5\. The Children**
 
 Eventually, Regular Katty asked the question he'd been avoiding.
 
@@ -1489,7 +1489,7 @@ She looked away.
 
 For once, she had nothing cheerful to say.
 
-### **6\. Who Is Happier?**
+## **6\. Who Is Happier?**
 
 After a long silence, Kinky Katty suddenly asked, "Are you happy?"
 
@@ -1627,7 +1627,7 @@ He sighed.
 
 But this time, he didn't look away.
 
-### **7\. Before They Leave**
+## **7\. Before They Leave**
 
 Eventually, the door unlocked.
 
@@ -1784,9 +1784,9 @@ And that was complicated enough.
 
 # FINE
 
-\## FINE
+\# FINE
 
-\#\## I. The Hour Before
+\#\# I. The Hour Before
 
 Her mother left at eight and did not come back until morning, and that was the whole reason anything happened at all.
 
@@ -1800,7 +1800,7 @@ Her father was a big man. Dorn Fine, six foot four, loading dock at the smelter,
 
 She fell asleep to the sound of him pouring.
 
-\#\## II. The Weight on the Mattress
+\#\# II. The Weight on the Mattress
 
 She woke because the room got warmer.
 
@@ -1826,7 +1826,7 @@ And Susu, ten years old, half-asleep, said, "Mm."
 
 She would think about that for the rest of her life. That she said \*mm.\* That she never once said \*no, it's me.\*
 
-\#\## III. Fingers
+\#\# III. Fingers
 
 He turned her onto her back. He hiked the nightshirt up past her ribs, all the way to her armpits, and she felt the cool air hit her belly and then his hand come down on it, palm flat, and his hand was so hot it felt like a poultice.
 
@@ -1850,7 +1850,7 @@ He worked his fingers in and out. She was hot inside — Furnoker girls run hott
 
 He pulled his fingers out and held them up in the dark where the ember-light from his own seams could catch them, and she saw the shine on them, and then he put them in his mouth and sucked them clean, and she watched him do it, and something in her chest turned over.
 
-\#\## IV. The First Time He Pushes In
+\#\# IV. The First Time He Pushes In
 
 He got his trousers open.
 
@@ -1904,7 +1904,7 @@ It ran out of her in a rush. Thick, and hot enough that she felt it go down over
 
 He laughed, relieved, and rolled off her, and she thought it was over.
 
-\#\## V. Turned Over
+\#\# V. Turned Over
 
 It was not over.
 
@@ -1952,7 +1952,7 @@ She felt that too, and it was worse and better than the first time. Hot, sudden,
 
 When he finally pulled out, she felt her asshole stay open around nothing, gaped and stinging, and then the come started to come out of her. Slowly. Thick and hot, sliding down the inside of her thigh. She could feel the shape of it. She could feel exactly how much there was.
 
-\#\## VI. Her Mouth
+\#\# VI. Her Mouth
 
 He sat back on the mattress and pulled her up by the arm, and she went, wobbly, knees useless, and he pushed her down onto her knees between his legs on the floor.
 
@@ -1976,7 +1976,7 @@ It was hot. Hotter than the rest had been, somehow, and it hit the back of her t
 
 Then he pulled out and a string of it broke off her lip and landed on her chin, and he wiped it with his thumb and pushed the thumb into her mouth too, and she sucked it without being told, and he said, "Good girl," in a voice that was almost wrecked.
 
-\#\## VII. Back Inside Her
+\#\# VII. Back Inside Her
 
 She thought that was it. Third time. Surely that was it.
 
@@ -2000,7 +2000,7 @@ He came in her cunt. Deep. He pushed in as far as he could get and ground in and
 
 She lay there with him still inside her, both of them lit up like coals, breathing hard in a small hot room, and she thought, very clearly, \*this is mine now.\*
 
-\#\## VIII. After
+\#\# VIII. After
 
 He fell asleep half on top of her, mouth open, drunk and spent, seams fading down to dull amber, and eventually he rolled off and the cold came in and she pulled the nightshirt down and lay still.
 
@@ -2012,7 +2012,7 @@ At some point, near dawn, she got up and went to the bathroom to pee, and when s
 
 He was still asleep when her mother got home.
 
-\#\## IX. The Habit
+\#\# IX. The Habit
 
 Mira never knew. Not that night, not the next week, not the next month. And here's the thing — she never got the chance to find out, because Dorn was careful, and Dorn was quiet, and Dorn was \*drunk\* most nights, and so the pattern just continued, unremarked, unexamined, a fact of the house like the laundry vent or the broken couch spring.
 
@@ -2035,7 +2035,7 @@ She learned it. She got good at it. And then, when Akan got laid off and the mon
 And she walked in.
 # Ten Hours
 
-\## Ten Hours
+\# Ten Hours
 
 \*\*6:40 AM\*\*
 
@@ -2286,9 +2286,9 @@ Tomorrow was Friday. Voss was booked at one forty-five.
 She'd be there.
 # The Star (Part 1)
 
-\## The Star
+\# The Star
 
-\#\## Age 8 — The Question
+\#\# Age 8 — The Question
 
 It started with a question, the way the best disasters do.
 
@@ -2312,7 +2312,7 @@ Her mom looked at her dad. Her dad looked at his plate. There was a long pause, 
 
 \---
 
-\#\## Age 8 — First Visit
+\#\# Age 8 — First Visit
 
 Saturday arrived and Katty vibrated the entire way there.
 
@@ -2332,7 +2332,7 @@ It wasn't. So she kept coming back.
 
 \---
 
-\#\## Age 8 to 12 — The Weekly Apprentice
+\#\# Age 8 to 12 — The Weekly Apprentice
 
 Every week. Every single week.
 
@@ -2354,7 +2354,7 @@ Katty started to want.
 
 \---
 
-\#\## Age 10 — The Incident
+\#\# Age 10 — The Incident
 
 The slow Tuesday that changed her life started the way all slow Tuesdays do — with boredom.
 
@@ -2410,7 +2410,7 @@ She walked home that night feeling like she'd been let in on the biggest secret 
 
 \---
 
-\#\## Age 10 to 14 — The Apprentice
+\#\# Age 10 to 14 — The Apprentice
 
 After that, she didn't visit the building.
 
@@ -2432,7 +2432,7 @@ Fourteen, the birthday, approached. She'd been counting.
 
 \---
 
-\#\## Age 14 — The Talk
+\#\# Age 14 — The Talk
 
 The day after her birthday, June 9th, her dad sat her down.
 
@@ -2452,16 +2452,16 @@ Her dad didn't know what he'd been told. Her mom did. Her mom, in the doorway, l
 
 \---
 
-\#\## Age 14 — The Job
+\#\# Age 14 — The Job
 
 She started two days later and she was \*good\* at it and she had known she would be.
 
 She was small and young and the customers loved the young body — that's what they called her, sometimes, "the young body," like she was a product — and unlike every other version of Katty, she \*liked\* being a product. A product had a function. A function could be performed \*well.\* There was no crisis here, no betrayal, no waking up
 # The Star (Part 2)
 
-\## The Star
+\# The Star
 
-\#\## Age 14 — Month One: The New One
+\#\# Age 14 — Month One: The New One
 
 She started on a Thursday, two days after the talk, and she arrived early because she wanted to see the room before it had customers in it.
 
@@ -2479,7 +2479,7 @@ Month one was like that every day. Different men, different styles, the same eag
 
 \---
 
-\#\## Age 14 — Month Two: The Reputation Begins
+\#\# Age 14 — Month Two: The Reputation Begins
 
 The word got around faster than she expected.
 
@@ -2497,7 +2497,7 @@ By the end of month two, gentle had become the exception.
 
 \---
 
-\#\## Age 14 — Month Three: Learning Her Body
+\#\# Age 14 — Month Three: Learning Her Body
 
 Month three was when she stopped being a girl having sex and started being a worker \*working.\*
 
@@ -2511,7 +2511,7 @@ She learned the trick that would become her signature: being \*small.\* She was 
 
 \---
 
-\#\## Age 14 — Month Four: Roughness as Default
+\#\# Age 14 — Month Four: Roughness as Default
 
 By month four she'd stopped accepting gentle men entirely.
 
@@ -2531,7 +2531,7 @@ The reputation grew teeth.
 
 \---
 
-\#\## Age 14 — Month Five: The First Triple
+\#\# Age 14 — Month Five: The First Triple
 
 It was her idea.
 
@@ -2551,7 +2551,7 @@ She was, at fourteen, the house's doubles girl.
 
 \---
 
-\#\## Age 14 — Month Six: Six Months In
+\#\# Age 14 — Month Six: Six Months In
 
 The half-year mark came in the dead of winter and Katty barely noticed it because she was too busy.
 
@@ -2569,7 +2569,7 @@ By the end of month six she was, by any reasonable measure, one of the best work
 
 \---
 
-\#\## Age 14 — Month Seven: The Deep
+\#\# Age 14 — Month Seven: The Deep
 
 Month seven was the month of \*depth.\*
 
@@ -2587,7 +2587,7 @@ By the end of month seven she was taking men to the base as a matter of course a
 
 \---
 
-\#\## Age 14 — Month Eight: Two At Once, One Hole
+\#\# Age 14 — Month Eight: Two At Once, One Hole
 
 This was the month she found the frontier.
 
@@ -2619,7 +2619,7 @@ By the end of month eight, Katty was the house's go-to for two-in-one. Men booke
 
 \---
 
-\#\## Age 14 — Month Nine: The Roughness Threshold
+\#\# Age 14 — Month Nine: The Roughness Threshold
 
 By month nine, roughness had become a baseline and she'd started looking for the ceiling.
 
@@ -2637,7 +2637,7 @@ The performance of being an object was, Katty discovered, the most fun she'd eve
 
 \---
 
-\#\## Age 14 — Month Ten: Known
+\#\# Age 14 — Month Ten: Known
 
 By month ten she was \*known.\*
 
@@ -2650,9 +2650,9 @@ She loved it. All of it. The routine, the regulars, the strangers, the roughness
 
 # The Star (Part 3)
 
-\## The Star
+\# The Star
 
-\#\## Age 14 — Month Ten: The Tell
+\#\# Age 14 — Month Ten: The Tell
 
 The first sign was the smell.
 
@@ -2694,7 +2694,7 @@ That was the month. She was fourteen. She was on top of the world. And there was
 
 \---
 
-\#\## Age 14 — Month Eleven: The Slow
+\#\# Age 14 — Month Eleven: The Slow
 
 The house clocked her before she did.
 
@@ -2754,7 +2754,7 @@ Nobody asked. She called it gas anyway.
 
 \---
 
-\#\## Age 14 — Month Twelve: The Kick
+\#\# Age 14 — Month Twelve: The Kick
 
 It happened on a Tuesday.
 
@@ -2814,7 +2814,7 @@ It had been in there for months. It had been in there while she worked. It had b
 
 \---
 
-\#\## Age 14 — Month Twelve: The Choice
+\#\# Age 14 — Month Twelve: The Choice
 
 She told her mother that night.
 
@@ -2858,7 +2858,7 @@ The machine needed maintenance.
 
 \---
 
-\#\## The Clinic
+\#\# The Clinic
 
 The waiting room had nine women in it and three of them were crying and one was asleep and one was on the phone with somebody she was clearly arguing with.
 
@@ -2896,7 +2896,7 @@ She'd got it out of her system. She noticed the phrase and liked it.
 
 \---
 
-\#\## Age 15 — Two Days After
+\#\# Age 15 — Two Days After
 
 They told her a week. She took four days.
 
@@ -2929,9 +2929,9 @@ She'd choose the job again. She'd choose it every time.
 And it would get easier, every time, until it barely registered at all.
 # THE WORKERS DAUGHTER
 
-\## THE WORKER'S DAUGHTER
+\# THE WORKER'S DAUGHTER
 
-\#\## I. Begging
+\#\# I. Begging
 
 She was eight when she found out where the money came from, and it happened by accident.
 
@@ -2959,7 +2959,7 @@ So she did. Every Saturday. Every Sunday. She sat on a stool by the bar with a j
 
 She was ten when she found out the rest.
 
-\#\## II. The Wander
+\#\# II. The Wander
 
 The front room is the bar and the floor. The back corridor is eight doors, and the doors all lock, and behind the doors are booths with a bench in them and a rail to hold onto and not much else.
 
@@ -2971,7 +2971,7 @@ It wasn't rebellion. It was just that the rope was boring and there was a corrid
 
 She got to door six. Door six was not closed all the way. She pushed it.
 
-\#\## III. The Grab
+\#\# III. The Grab
 
 The man inside was called Hask. He was forty-four, he ran a load line at the same smelter her grandfather had run one at, he had a wife who didn't like the club and so he came alone, and he was three drinks deep into his day off.
 
@@ -3003,7 +3003,7 @@ She liked him, so she stayed. She liked him, so when he put his hand on the back
 
 That was the whole negotiation. \*Okay.\*
 
-\#\## IV. The First Time
+\#\# IV. The First Time
 
 He lifted her shirt off over her head. She put her arms up for it, obedient, easy. Underneath she was a ten-year-old Furnoker girl: narrow as a lath, ribs showing, flat as a board, the little hard buds of her tits no bigger than the tip of his thumb. Her seams ran thin and bright up the insides of her arms — \*bright\*, whiter than the working girls', the fast-flaring white-orange of a young body that hadn't learned to bank it yet.
 
@@ -3047,7 +3047,7 @@ She felt it. Heat. A scalding thick pulse, deep, more of it than seemed reasonab
 
 Then he pulled out and the wet came with him, and it ran down over her ass and onto the bench in a hot trickle, and her cunt stayed open around nothing, gaped and stinging.
 
-\#\## V. Turned
+\#\# V. Turned
 
 He didn't stop. He rolled her over onto her front with one hand and pulled her up onto her knees, and her face went down onto the velvet and her little round ass came up, and the wet ran \*down\*, from her cunt down the seam onto the second hole, and he wiped two fingers through it and pushed them in.
 
@@ -3075,7 +3075,7 @@ He came in her ass.
 
 Hot, sudden, deep, packed in with nowhere to go because he didn't pull out, and it just \*stayed\* there — a heavy hot fullness sitting in her guts, sealed in, burning. He ground in and pulsed and pulsed, and she pressed her face into the velvet and her toes curled and she made a sound into it that was almost a sob, and when he finally pulled out she felt her asshole stay open around nothing, gaped and stinging, and then the come started to slide out of her, slow and thick, down the inside of her thigh.
 
-\#\## VI. Her Mouth
+\#\# VI. Her Mouth
 
 He pulled her up by the arm onto her knees on the floor between his legs, and put a hand on the back of her head, and pushed himself at her lips.
 
@@ -3095,7 +3095,7 @@ He came in her mouth. Third time, and there was still plenty. Hot — hotter tha
 
 He pulled out and a string of it broke on her lip and landed on her chin. He wiped it off with his thumb and pushed the thumb into her mouth too. She sucked it without being told. "Good girl," he said, wrecked.
 
-\#\## VII. The Third Time
+\#\# VII. The Third Time
 
 He picked her up and laid her back down on the bench and got between her legs again.
 
@@ -3113,7 +3113,7 @@ Then he came in her cunt. Deep. Ground in as far as he could and emptied into he
 
 She lay there full of him, both of them lit up like coals, breathing hard in a small hot room.
 
-\#\## VIII. The Questions
+\#\# VIII. The Questions
 
 He let her lie there a while. Then he sat up and started getting dressed, and Subas stayed flat on her back on the velvet bench, legs apart, leaking from three places, and began asking questions.
 
@@ -3167,7 +3167,7 @@ He laughed and put forty credits on the bench. Susu took it and folded it and pu
 
 And she walked out. And Subas stood there in the corridor holding forty credits in her fist, ten years old, sore in three places, and \*delighted.\*
 
-\#\## IX. Weekly
+\#\# IX. Weekly
 
 She found Hask again the next Saturday.
 
@@ -3179,7 +3179,7 @@ By twelve she'd stopped calling it anything and started calling it work. By four
 
 By sixteen she wanted the job for real.
 
-\#\## X. Sixteen
+\#\# X. Sixteen
 
 She asked Susu on a Sunday morning, in the kitchen, while Susu was drinking her coffee.
 
@@ -3209,7 +3209,7 @@ By eighteen she had regulars. By nineteen she had a following.
 
 At nineteen she finished school and went full time, and Susu signed her on properly, and Subas Garnit started pulling four hundred a day on good nights, and moved into a room two streets from her mother's and started living like a woman with a trade.
 
-\#\## XI. Coda
+\#\# XI. Coda
 
 Here's the difference between the two of them, and it's the whole of it.
 
@@ -3226,7 +3226,7 @@ And the black joke underneath it: Subas's father was a customer. Somewhere in th
 The one thing that stuck. She forgot almost everything else she ever learned. But that first afternoon in booth six never once left her.
 # The Young Body
 
-\## The Young Body
+\# The Young Body
 
 \*\*Three weeks in.\*\*
 
@@ -3419,7 +3419,7 @@ Eight o'clock.
 She was there.
 # To Pop
 
-\## To Pop
+\# To Pop
 
 It had done the math once, in the rare gap between customers when the room went quiet enough for thinking.
 
@@ -3528,7 +3528,7 @@ It lived.
 It kept the reputation, the schedule, the ritual, the everything. It just stopped
 # Until it Pops
 
-\## Until It Pops
+\# Until It Pops
 
 \*\*7:00 AM.\*\*
 
@@ -3921,7 +3921,7 @@ Katty leaned back against the seat, a triumphant smile on her face. She was exac
 Writing Date: October 15 2026  
 Katty variation: Regular
 
-## Experience
+# Experience
 
 Pain.
 
@@ -3970,7 +3970,7 @@ And god dammit I do.
 And I fucking hate it.
 # World
 
-### World History
+## World History
 
 June 1568
 
