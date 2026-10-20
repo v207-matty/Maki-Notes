@@ -51,16 +51,12 @@ June 1577
 - Female Transphobia is common in 23% of countries
 - Abortion rates increase to 45%
 
-August 1609
+August 1604
 
 - In 50% of countries the age of consent is now 14
 - 48% of places where you can make purchases apply VTax
 - Another Women's Right movement started that caused at least some movement
-	- Women
-
-1613
-
-- 
+	- W
 
 January 1621
 
