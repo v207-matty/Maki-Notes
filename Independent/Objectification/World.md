@@ -25,7 +25,7 @@ March 1569
 - Breast reduction surgery improved rapidly compared to 1568 thanks to the work of trans male "Lincoln Park"
 - 86% of crimes reported by Females are being ignored by 59% of Males
 
-#### 1573
+1573
 
 - 
 
@@ -33,11 +33,11 @@ June 1577
 
 - In 18% of countries the age of consent is now 14
 
-#### 1584
+1584
 
 - 
 
-#### August 1594
+August 1594
 
 - In 50% of countries the age of consent is now 14
 
