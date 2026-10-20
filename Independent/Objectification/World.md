@@ -73,6 +73,8 @@ September 1604
 
  August 1632
 
+- Rape cases have 
+- 
 
 January 1654
 
