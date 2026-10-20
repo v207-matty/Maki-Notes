@@ -17,20 +17,20 @@
 - Gender begins getting checked in reports, signatures, etc, required by law.
 - Abortion rates increase to 15%
 
-March 1569
+1569
 
 - Breast reduction surgery improved rapidly compared to 1568 thanks to the work of trans male "Lincoln Park"
 - 86% of crimes reported by Women are being ignored by 59% of Men
 - 16% of places where you can make purchases apply VTax
 
-November 1570
+1570
 
 - 65% of Adult Women in the world are reported to transition into a Man early during their life
 - Places where purchases can be placed begin requiring a genitalia check at the counter for any Man making purchases (Especially by females)
 - Reports of Female Sexual Harassment increase
 - Bottom surgery is cheaper for females to counteract VTax
 
-February 1573
+1573
 
 - Sex Businesses have become the easiest job for Women to get (95% acceptance rate)
 - Genitalia checks have been replaced with a gender detection and tagging machine due to controversy with Genitalia checks, and either way the machine is always right.
@@ -39,7 +39,7 @@ February 1573
 	- The machine is 100% accurate and can detect transman as biologically women
 - VTax is now strictly 25% extra on anyone that is found to have a vulva
 
-June 1577
+1577
 
 - In 18% of countries the age of consent is now 14
 - Female Transphobia is common in 23% of countries
