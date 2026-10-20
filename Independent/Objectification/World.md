@@ -57,8 +57,8 @@ August 1604
 - 48% of places where you can make purchases apply VTax
 - Another Women's Right movement started that at least partially gave some rights
 	- Women have to follow a beauty standard once they're 16 or older to achieve rights
-		- Medium or Large breasts
-		- Medium or Large ass
+		- Medium or Large Breasts
+		- Medium or Large Ass
 	- Women younger then 16 will get partial rights
 		- Sexual assault not in the work place will be an actual priority
 
