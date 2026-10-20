@@ -4,7 +4,7 @@ Name: Akan Garnit
 Species: Furnokers
 
 Modern Age: 57  
-Birthday: March 4th
+Birthday: March 4th 1716
 
 Identification: Male  
 Birth Identification: Male  
