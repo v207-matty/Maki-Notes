@@ -13,7 +13,7 @@ July 1568
 September 1568
 
 - Sex Trafficking starts to be ignored by male cops
-- 
+- Reports of Rape has grown more and more
 
 March 1569
 
