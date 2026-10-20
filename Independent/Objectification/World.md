@@ -28,6 +28,7 @@ March 1569
 February 1573
 
 - Sex Businesses have become the easiest job for Women to get (95% acceptance rate)
+- Stores are now supplied with a machine that can detect the
 - VTax is now strictly 25% extra on anyone that is found to have a vulva
 
 June 1577
