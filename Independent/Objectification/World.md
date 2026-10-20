@@ -18,7 +18,7 @@ September 1568
 December 1568
 
 - In 10% of countries the age of consent is now to 14
-- Gender begins getting chec
+- Gender begins getting checked in reports, signatures, etc, required by la
 
 March 1569
 
