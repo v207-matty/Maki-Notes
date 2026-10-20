@@ -55,7 +55,7 @@ August 1604
 
 - 48% of places where you can make purchases apply VTax
 - Another Women's Right movement started that at least partially did something
-	- Women have to participate a beauty standard once they're 16 or older to achieve rights
+	- Women have to participate with a beauty standard once they're 16 or older to achieve rights
 		- Medium or Large Breasts
 			- This has the prices increase of methods of breast size increasing
 		- Medium or Large Ass
