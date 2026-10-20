@@ -56,9 +56,10 @@ August 1604
 - In 50% of countries the age of consent is now 14
 - 48% of places where you can make purchases apply VTax
 - Another Women's Right movement started that at least partially gave some rights
-	- Women have to follow a beauty standard to achieve rights
+	- Women have to follow a beauty standard once they're 16 or older to achieve rights
 		- Medium or Large breasts
-		- Medium or Large 
+		- Medium or Large ass
+	- Women younger then 
 
 January 1654
 
