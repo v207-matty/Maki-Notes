@@ -63,7 +63,7 @@ August 1604
 		- Slim figure
 	- Women younger then 16 will get partial rights
 		- Sexual assault not in the work place will be an actual priority
-	- Several well-known re
+	- Several well-known rapists 
 
 September 1604
 - In 50% of countries the age of consent is now 14
