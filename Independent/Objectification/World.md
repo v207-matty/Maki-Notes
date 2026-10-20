@@ -10,6 +10,9 @@ July 1568
 - "Vulva Tax" / "VTax" became a thing, charging 15 \- 30% extra on purchases made by Females  
 - Trans masculinity begins to grow in popularity
 
+September 1568
+
+- Sex Trafficking starts to be ignored by cops ()
 
 March 1569
 
