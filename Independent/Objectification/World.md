@@ -7,7 +7,7 @@ June 1568
 
 July 1568
 
-- "Vulva Tax" / "VTax" became a thing, charging 15 - 30% extra on purchases made by Women  
+- "Vulva Tax" / "VTax" becomes a thing, charging 15 - 30% extra on purchases made by Women  
 - Trans masculinity begins to grow in popularity
 
 September 1568
@@ -28,12 +28,12 @@ March 1569
 November 1570
 
 - 65% of Adult Women in the world are reported to transition into a Man early during their life
-- Stores begin requiring a genitalia check for any Man making purchases
+- Places where purchase are made begin requiring a genitalia check for any Man making purchases
 
 February 1573
 
 - Sex Businesses have become the easiest job for Women to get (95% acceptance rate)
-- 
+- Genitalia
 - VTax is now strictly 25% extra on anyone that is found to have a vulva
 
 June 1577
