@@ -55,7 +55,7 @@ August 1604
 
 - 48% of places where you can make purchases apply VTax
 - Another Women's Right movement started that at least partially did something
-	- Women have to at least partially follow a beauty standard once they're 16 or older to achieve rights
+	- Women have to at least partially follow a beauty standard once they're 16 or older to properly achieve "rights"
 		- Medium or Large Breasts
 			- This has the prices increase of methods of breast size increasing
 		- Medium or Large Ass
@@ -70,6 +70,7 @@ September 1604
 - In 50% of countries the age of consent is now 14
 - BBL's have finally doubled in price
 - VTax is now strictly 20% extra on anyone that is found to have a vulva
+ 1632
 
 January 1654
 
