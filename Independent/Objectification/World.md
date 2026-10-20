@@ -25,9 +25,9 @@ March 1569
 - Breast reduction surgery improved rapidly compared to 1568 thanks to the work of trans male "Lincoln Park"
 - 86% of crimes reported by Women are being ignored by 59% of Men
 
-1573
+June1573
 
-- Sex Businesses run become the easiest job for Women to get
+- Sex Businesses have become the easiest job for Women to get (95% acceptance rate)
 - VTax is now strictly 25% extra on anyone that is found to have a vulva
 
 June 1577
