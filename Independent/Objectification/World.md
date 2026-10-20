@@ -56,7 +56,8 @@ August 1604
 - In 50% of countries the age of consent is now 14
 - 48% of places where you can make purchases apply VTax
 - Another Women's Right movement started that caused at least some movement
-	- W
+	- Women have to follow a beauty standard to achieve rights
+		- 
 
 January 1621
 
