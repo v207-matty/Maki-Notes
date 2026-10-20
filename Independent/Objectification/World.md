@@ -27,7 +27,7 @@ March 1569
 
 1573
 
-- Sex Businesses run by Males become 
+- Sex Businesses run become the easiest job for Women to get
 
 June 1577
 
