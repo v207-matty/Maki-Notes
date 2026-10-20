@@ -37,5 +37,3 @@ Pronouns: He / Him
 #### Age 24
 
 - Akan gets laid off of his job
-
-#### 176

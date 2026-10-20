@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/Objectification/Characters/Akan.md",
+                "file": "Independent/Objectification/Characters/Subas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Akan"
+              "title": "Subas"
             }
           }
         ]
@@ -206,11 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "93fb461f0fb1f8cf",
   "lastOpenFiles": [
-    "Independent/Objectification/Characters/Subas.md",
     "Independent/Objectification/Characters/Susu.md",
     "Independent/Objectification/Characters/Akan.md",
+    "Independent/Objectification/Characters/Subas.md",
     "Independent/Objectification/Characters/Katty.md",
     "Independent/Objectification/AUs/Trapped Katty.md",
     "Independent/Objectification/AUs/Kinky Katty.md",
