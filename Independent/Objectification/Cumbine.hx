@@ -20,6 +20,13 @@ class Cumbine {
 	}
 
 	static function main() {
-        var cumbofile = '';
-    }
+		var cumbofile = '';
+
+		for (file in readDir('.')) {
+            file = file.substr(1);
+            
+			if (file == 'README.md')
+				continue;
+		}
+	}
 }
