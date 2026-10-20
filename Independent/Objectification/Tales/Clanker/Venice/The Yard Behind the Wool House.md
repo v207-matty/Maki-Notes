@@ -201,3 +201,113 @@ And that was the moment. The moment on the third step from the bottom, with the 
 Because it wasn't going to stop. That was the revelation. She was thirty-four and unmarried and she was a woman with a vulva and a tag that said so, and there would be another loft, another mattress, another set of men. Next month, next year, the year after, until she was old, and even then probably not, because there were stories of men who liked them older and stories of men who liked *anything*. She would be doing this at forty, at fifty, at sixty. The tax would keep coming out of her purse and the men would keep coming out of her body, and there would never be a version of her life where she walked home from a loft and was *empty*.
 
 She would never be empty again.
+
+---
+
+She sat on the third step for a long time.
+
+Long enough that the candle inside the loft guttered and the men's voices changed from talking to *saying goodbye* — the scrape of chairs, the stomp of boots, the low goodnights — and she realized she needed to be gone before they came down, because if they came down and found her on the stairs they would look at her and say *are you still here* and she did not have an answer.
+
+She got up. She went down the last three steps and out the door into the night air and the night air hit the wet of her and it was *cold*, colder than the loft, and the cold made everything sharper: the sore, the raw, the ache in the small of her back from where the seventh man had held her hips, the deep bruise-feeling inside her, the strange loose sensation in her arse. Her legs were hers again but they were heavy, and every step was a small negotiation.
+
+She walked.
+
+Fisher's Row was empty and the lamp at the corner was lit and she passed under it and she knew what she looked like under a lamp. Hair down and tangled. Bodice laced wrong. Skirt wrinkled and damp at the front. Thighs slick. A woman who had been somewhere. Any man passing would know what she'd been doing and any woman would know too and both would know it without asking.
+
+She got to her own street. She got to her own door. The stair was two flights and creaked on the fourth step and the seventh, and on the fourth step she had to stop because of the leak again, and on the seventh she had to stop because she was crying again.
+
+She got inside. She closed the door. She stood in the dark of her own room and did not light the candle, because lighting the candle meant seeing the state of her, and she wasn't ready.
+
+She took her clothes off by feel and dropped them where they fell.
+
+She got the basin and the jug and the cloth.
+
+---
+
+Washing was the worst part.
+
+She did it standing, one foot in the basin, one foot on the floor, and the water was cold and she wrung the cloth out and started at her chin and worked down. The chin was crusted. The throat was crusted. Her breasts had dried patches on them from where the seventh man's sweat had run and then cooled. She wiped and the cloth came away sticky and grey.
+
+Her belly had a streak down the middle where spend had run and dried, a pale chalky trail from her navel to her pubic hair, and she scrubbed it off and the scrubbing made her skin pink and it still felt like someone else's belly.
+
+Then the thighs. Both of them, front and inside, all the way down to the knee, and the cloth had to be rinsed twice.
+
+Then between.
+
+She spread her legs over the basin and wiped and *more came out*, a slow thick seep, and she wiped again and it came again, and she understood that it would keep coming for hours. She would be walking around tomorrow with eight men inside her, slowly leaking into her clothes, and there was nothing to do about it but wait.
+
+She put two fingers in to check, carefully, and her cunt was swollen and hot and tender to the touch, the walls of it puffed up from being used, and she could feel how *open* she was, how she closed slowly, like a door on a soft hinge. She pushed a little and pressed and a proper gush came out, three days of it in one push, and she watched it fall into the basin and go cloudy in the water.
+
+She thought, *eight*.
+
+She thought, *and one of them twice, maybe*.
+
+She thought, *and the mattress*.
+
+And then she thought, *and my legs went numb and I couldn't get up and they just watched*, and that was the thing that broke her, that was the thing that put her on the floor with her back against the bed frame and the cloth in her hand and her legs folded under her, and she cried properly now, not the wet eyes of the stairs, a real cry, shoulders shaking, face in her hands, the whole architecture of it.
+
+---
+
+She was thirty-four.
+
+That was the arithmetic she kept coming back to. Thirty-four, unmarried, no children, a cut in hours at the mill, rent due Friday, a quarter more than a man for everything she bought, and a body that had just been passed around a loft like a jug at a table.
+
+And it would happen again.
+
+There was no version of the future where it didn't. The mill would cut her hours again, or she'd lose the mill altogether, and the mill was the only honest work a woman could get, and if the mill went then she had *one* other option and everybody knew what it was. Sex businesses had a 95% acceptance rate for women. *Ninety-five.* They'd take anyone. They'd take her. And if she went into that line of work then she wasn't getting used by eight men on a Tuesday, she was getting used by eight men *every day*, eight men before supper, eight men after, a conveyor of men, a queue, a *shift change*, and she would stop being a woman who had sex and start being a woman who *was* sex, a facility, a place men went.
+
+And even if she kept the mill, even if she kept everything, there were still the lofts and the back rooms and the borrowed mattresses and the men who thought a woman alone after dark was an invitation. There would be more Bertrams. There would be more nights where the arithmetic was eight and the answer was her.
+
+She would never be empty again.
+
+She sat on the floor with that thought and it did not get smaller. It got *larger*. It expanded to fill the room. It sat down next to her like a relative who had come to stay.
+
+She would never be empty again. Every week a man, every month a room, every year a new ache in a new place, and at the end of it she would be old and she would have been *had* by a thousand men and she would not remember most of their faces and none of them would remember hers. She would be a name a man forgot by the time he got home. She would be *a woman he'd had* in a story he told in a tavern, and the story would be one sentence long, and she would not be in it.
+
+The quiet fat one from the loft had said *there it is*, and she had not understood it then, and she understood it now. *There it is.* The moment the woman on the mattress becomes an object in a room. The moment she stops being Sela or Corvin or Maren and becomes *it*, the thing on the mattress, the thing they're using, and the men stop talking to her and start talking *about* her, and she becomes furniture with a pulse, a piece of equipment in the loft, a thing to be moved and opened and filled and left.
+
+She was thirty-four and she was equipment and she would be equipment tomorrow and the day after and every day until she died.
+
+---
+
+She washed the rest of herself.
+
+She put on a clean shift. She made the bed and got into it and lay on her back because her front was sore and her back was worse and there was no position that wasn't something, and she pulled the blanket up to her chin and stared at the ceiling and waited for the leak to stop, which it did not.
+
+She fell asleep somewhere in the middle of the night, mid-thought, and woke at dawn with her shift stuck to her thighs and the taste of somebody's cock still faintly in the back of her throat.
+
+She got up. She put the kettle on. She dressed and laced her own bodice this time, all the way, tight, so the pressure on her ribs felt like being held.
+
+She had work at eight.
+
+---
+
+At the mill door there was a machine and she put her wrist in it and it clicked a tag onto her and the tag said *VULVA — 25% SURCHARGE APPLIES*, and it had said that every day for twelve years and it would say it every day until she died, and she looked at it for a moment and then she went in and sat down at her frame.
+
+The woman next to her, Hettie, looked at her sideways. "You look rough."
+
+"I'm rough."
+
+"Loft?"
+
+"Loft."
+
+"How many?"
+
+"Eight."
+
+Hettie whistled, low, the way you'd whistle at a price. "Eight."
+
+"Eight."
+
+"Are you alright?"
+
+Corvin put her hands on the frame and looked at the threads and started to work, and for a moment she thought about lying, and then she thought about the third step from the bottom and the arithmetic and the thing that would not get smaller, and she said the truest thing she knew.
+
+"I'm alright," she said. "This is just what it is now."
+
+And Hettie nodded, because Hettie was forty-one and had been doing this for twenty years, and Hettie *knew*.
+
+"Yes," Hettie said. "It is."
+
+And they worked, side by side, two pieces of equipment with a pulse, while the mill went on around them and the tags clicked and beeped and the surcharge applied.
