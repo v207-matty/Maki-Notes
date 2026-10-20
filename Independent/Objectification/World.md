@@ -57,6 +57,7 @@ August 1604
 - 48% of places where you can make purchases apply VTax
 - Another Women's Right movement started that caused at least some movement
 	- Women have to follow a beauty standard to achieve rights
+		- Medium or Large breasts
 		- 
 
 January 1621
