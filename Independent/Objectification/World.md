@@ -2,7 +2,7 @@
 
 June 1568
 
-- The first attempt at fighting for women's rights happened to great failure on June 9th, 1568
+- An attempt at fighting for women's rights happened to great failure on June 9th, 1568
 - Women begin to get more and more objectified by Men
 
 July 1568
@@ -47,6 +47,7 @@ June 1577
 
 - In 18% of countries the age of consent is now 14
 - Transphobia is common in 20% of countries
+- Abortion rates increase
 
 1581
 
