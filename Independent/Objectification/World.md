@@ -7,8 +7,9 @@ June 1568
 
 July 1568
 
-- "Vulva Tax" / "VTax" became a thing, charging 15 \- 30% extra on purchases made on Females  
+- "Vulva Tax" / "VTax" became a thing, charging 15 \- 30% extra on purchases made by Females  
 - Trans masculinity begins to grow in popularity
+
 
 March 1569
 
@@ -16,4 +17,4 @@ March 1569
 
 July 1580
 
-- In all states the age of consent was lowered to 14
+- In 80% of states the age of consent was lowered to 14
