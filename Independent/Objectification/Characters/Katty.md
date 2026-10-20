@@ -57,6 +57,16 @@ Pronouns: He / They
 
 # Regular Katty Exclusive History
 
+#### Age 2
+
+- Katty's parents began to struggle financially as Katty's dad was laid off  
+- Katty's mom decides to join a global sex business (Bounce Club) to keep the money going
+
+#### Age 7
+
+- Katty's mom has earned enough money that Katty can actually go to school (starting 3rd grade because they were homeschooled and learned a lot already)  
+- Kattys dad has become lazy, he's not even looking for a job, he's letting others fuck his wife and is enjoying the pay from it
+
 #### Age 10
 
 - Katty doesn't like the bullying and complains about it constantly  
@@ -95,18 +105,6 @@ Pronouns: He / They
 #### Age 26
 
 - Katty learned martial arts from a fighting club and became a black belt
-
-# Common History
-
-#### Age 2
-
-- Katty's parents began to struggle financially as Katty's dad was laid off  
-- Katty's mom decides to join a global sex business (Bounce Club) to keep the money going
-
-#### Age 7
-
-- Katty's mom has earned enough money that Katty can actually go to school (starting 3rd grade because they were homeschooled and learned a lot already)  
-- Kattys dad has become lazy, he's not even looking for a job, he's letting others fuck his wife and is enjoying the pay from it
 
 #### Age 10
 

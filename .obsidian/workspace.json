@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/Objectification/AUs/Trapped Katty.md",
+                "file": "Independent/Objectification/Characters/Katty.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Trapped Katty"
+              "title": "Katty"
             }
           }
         ]
@@ -208,10 +208,11 @@
   },
   "active": "93fb461f0fb1f8cf",
   "lastOpenFiles": [
+    "Independent/Objectification/Characters/Subas.md",
+    "Independent/Objectification/AUs/Trapped Katty.md",
     "Independent/Objectification/AUs/Kinky Katty.md",
     "Independent/Objectification/World.md",
     "Independent/README.md",
-    "Independent/Objectification/Characters/Subas.md",
     "Independent/Objectification/Characters/Susu.md",
     "Independent/Objectification/Characters/Akan.md",
     "Independent/Objectification/Characters/Katty.md",
@@ -237,7 +238,6 @@
     "Independent/Objectification/Tales/Clanker",
     "Independent/Objectification/Tales/Human",
     "Independent/Objectification/Tales",
-    "Independent/Objectification/README.md",
     "Independent/Objectification/Characters",
     "Sinco Related/Colonized/Explanation",
     "Sinco Related/Colonized/Story",
