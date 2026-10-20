@@ -61,7 +61,7 @@ August 1604
 		- Medium or Large Ass
 	- Women younger then 16 will get partial rights
 		- Sexual assault not in the work place will be an actual priority
-- Surgory
+- BBL's have doubled in price
 
 January 1654
 
