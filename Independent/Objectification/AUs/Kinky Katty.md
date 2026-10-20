@@ -56,7 +56,7 @@ Pronouns: She / Her / It / Its
 
 - The day after her bday, Katty and her dad talk about how they've decided to pull her from school and get her a job  
 - Katty agrees, begging for it to be at bounce club, her dad reveals that that is actually where they planned to send her, and Katty is thrilled  
-- Katty willingly joins bounce club as an official employee mother, 2 days after her bday (age of consent is 14 where they were living so it was legally fine and either way Katty wanted to be here)
+- Katty willingly joins bounce club as an official employee, 2 days after her bday (age of consent is 14 where they were living so it was legally fine and either way Katty wanted to be here)
 
 - Katty loves it
 
