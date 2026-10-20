@@ -5,7 +5,7 @@ Maiden name: Susu Fine
 Species: Furnokers
 
 Modern Age: 52  
-Birthday: April 3rd
+Birthday: April 3rd 1721
 
 Identification: Female  
 Birth Identification: Female  
