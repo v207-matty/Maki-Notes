@@ -54,7 +54,7 @@ June 1577
 1581
 
 - 48% of places where you can make purchases apply VTax
-- Another Womens Right movement started
+- Another Womens Right movement started that caused at
 
 August 1594
 
