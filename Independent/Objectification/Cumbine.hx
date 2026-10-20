@@ -28,11 +28,7 @@ class Cumbine {
 		for (file in readDir('.')) {
 			var path = new Path(file.substr(1));
 
-			if (path.ext != 'md')
-				continue;
-			if (path.file == 'README')
-				continue;
-			if (path.file == 'Cumbo')
+			if (path.ext != 'md' || path.file == 'README' || path.file == 'Cumbo' || path.dir == 'Tales')
 				continue;
 
 			cumbofile += '# ${path.file}\n\n${File.getContent(file)}\n\n';
