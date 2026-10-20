@@ -1,13 +1,13 @@
 # Kinky Katty
 
-## Kinky Katty Exclusive Info
+### Kinky Katty Exclusive Info
 
 Identification: Female  
 Birth Identification: Female  
 Classification: Female  
 Pronouns: She / Her / It / Its
 
-## Kinky Katty Personality
+### Kinky Katty Personality
 
 - Prefers clothes that reveal her body  
 - Loves thin clothes  
@@ -38,15 +38,15 @@ Pronouns: She / Her / It / Its
 - Curious  
   - ***Always*** willing to try new things
 
-## Kinky Katty Overwriting History
+### Kinky Katty Overwriting History
 
-### Age 8
+#### Age 8
 
 - After school one day, where kids were talking about where their parent(s) worked, Katty asked her mom about where she worked and learned about bounce club  
 - Katty was intrigued and was interested by the place and kept asking her mom to take her there again and again for years, slowly Katty was seeing "what the big girls do"  
 - Katty learns about sex at this age and over the years is taught many things
 
-### Age 10
+#### Age 10
 
 - One day, Katty is wandering the sex business place and is mistaken for an employee and used, loving it (The man apologized after when he realized she was 10)
 - From this point onward she is basically an intern at bounce club, visiting constantly on the weekends and basically functioning as staff
@@ -54,7 +54,7 @@ Pronouns: She / Her / It / Its
 - Katty likes the bullying at school, reminds her of bounce club and gets her in a happy mood  
   - This causes the bullying to cease around the end of the school year, disappointing Katty
 
-### Age 14
+#### Age 14
 
 - The day after her bday, Katty and her dad talk about how they've decided to pull her from school and get her a job  
 - Katty agrees, begging for it to be at bounce club, her dad reveals that that is actually where they planned to send her, and Katty is thrilled  
@@ -64,20 +64,20 @@ Pronouns: She / Her / It / Its
 
 - Around the end of the year Katty performs her first abortion
 
-### Age 16
+#### Age 16
 
 - Katty is the most famous female employee at the bounce club: she takes it and likes it and takes it when there's issues going on with her anyway
 
 # Trapped Katty
 
-## Trapped Katty Exclusive Info
+### Trapped Katty Exclusive Info
 
 Identification: Object  
 Birth Identification: Female  
 Classification: Female  
 Pronouns: It / Its
 
-## Trapped Katty Personality
+### Trapped Katty Personality
 
 - Has a temper  
   - Desperate  
@@ -94,22 +94,22 @@ Pronouns: It / Its
 - Dissociative  
   - Only snaps back to reality when there is danger that it will run to
 
-## Trapped Katty Overwriting History
+### Trapped Katty Overwriting History
 
-### Age 16
+#### Age 16
 
 - After 2 years of working at bounce club and several scares of Katty potentially getting pregnant, Katty can't leave, it woke up too late, and then the cycle repeats  
 - But the enthusiasm from the previous day because it was excited to be gone gets it brutal treatment from the men because they think that Katty has finally accepted it
 
 - Katty is mentally broken, it seems like its only purpose is to be someone else's satisfaction
 
-### Age 22
+#### Age 22
 
 - Katty snaps again, actively seeking the roughest sex it can get to try and pop, it is only into it to die
 
 # Akan
 
-## Info
+### Info
 
 Name: Akan Garnit  
 Species: Furnokers
@@ -122,7 +122,7 @@ Birth Identification: Male
 Classification: Male  
 Pronouns: He / Him
 
-## Personality
+### Personality
 
 - Lazy  
   - Has a hard time getting work done that he doesn't want to do  
@@ -135,24 +135,24 @@ Pronouns: He / Him
 - Predatory  
   - Willing to go to disturbing means to get what he wants
 
-## History
+### History
 
-### Age 18
+#### Age 18
 
 - Akan gets kicked out of his parents house after High School and is forced to live on his own, getting a job, and not being spoiled like he used too
 
-### Age 20
+#### Age 20
 
 - One day Akan ended up meeting Susu Fine, she moved in with him and they eventually get married
 
-### Age 24
+#### Age 24
 
 - Akan gets laid off of his job
 
 
 # Katty
 
-## Katty Info
+### Katty Info
 
 Name: Katty Garnit  
 Species: Furnokers
@@ -165,7 +165,7 @@ Birth Identification: Female
 Classification: Transmasculine  
 Pronouns: He / They
 
-## Katty Personality
+### Katty Personality
 
 - Doesn't like reminders he's short (species thing)  
   - Like any man would
@@ -209,33 +209,33 @@ Pronouns: He / They
 - Hates any large round spherical object  
   - Tittys
 
-## Regular Katty Exclusive History
+### Regular Katty Exclusive History
 
-### Age 2
+#### Age 2
 
 - Katty's parents began to struggle financially as Katty's dad was laid off  
 - Katty's mom decides to join a global sex business (Bounce Club) to keep the money going
 
-### Age 7
+#### Age 7
 
 - Katty's mom has earned enough money that Katty can actually go to school (starting 3rd grade because they were homeschooled and learned a lot already)  
 - Kattys dad has become lazy, he's not even looking for a job, he's letting others fuck his wife and is enjoying the pay from it
 
-### Age 10
+#### Age 10
 
 - Katty starts getting bullied by other 5th graders
 
 - Katty doesn't like the bullying and complains about it constantly  
 - Katty's dad tried to teach them how to fight so people stop bullying them but Katty gets hurt and doesn't want to do it again
 
-### Age 13
+#### Age 13
 
 - Katty's mom gets pregnant by accident  
 - Katty's parents begin thinking about how they're gonna make money while Katty's mom is on maternity leave
 
 - 10 days before *the talk*
 
-### Age 14
+#### Age 14
 
 - The day after his bday, Katty and his dad talk about how they've decided to pull him from school and get him a job, *they need money*.  
 - Katty agrees, innocently, not knowing what was waiting for them.  
@@ -245,7 +245,7 @@ Pronouns: He / They
 - Katty tries and tries to get their parents to let them leave but their parents don't listen, they get even more pay then their mom did because the customers love "the young body".  
 - Katty begins to mature into the modern katty, slowly
 
-### Age 16
+#### Age 16
 
 - After 2 years of working at bounce club and several scares of Katty potentially getting pregnant (protection on the women's side is highly discouraged), Katty runs away  
 - They pack their shit, take all the money they can from their job that their parents have not taken, and leave home, never returning
@@ -257,21 +257,21 @@ Pronouns: He / They
 
 - Katty found a dog on his way to another place, named him "Happy" and kept going
 
-### Age 17
+#### Age 17
 
 - Katty learns ice magic, enough to keep him cool as he has begun to wear thick clothes and to keep people away
 
-### Age 24
+#### Age 24
 
 - Happy died of a cancer exclusive to his breed
 
-### Age 26
+#### Age 26
 
 - Katty learned martial arts from a fighting club and became a black belt
 
 # Subas
 
-## Info
+### Info
 
 Name: Subas Garnit  
 Species: Furnokers
@@ -284,7 +284,7 @@ Birth Identification: Female
 Classification: Female  
 Pronouns: She / Her / It / Is
 
-## Personality
+### Personality
 
 - Curious  
   - Big question asker  
@@ -297,30 +297,30 @@ Pronouns: She / Her / It / Is
 - Adaptive  
   - Figures out how to make things work for her and for others
 
-## History
+### History
 
-### Age 8
+#### Age 8
 
 - Learns about where her mom works (Bounce Club)  
 - Becomes intrigued and wants to learn what they do specifically  
 - Starts to visit Bounce Club weekly on weekends after begging her parents
 
-### Age 12
+#### Age 12
 
 - One day at Bounce Club, Subas wanders too far and is grabbed by a customer who confuses her for a young employee and Subas gets used, with the man begrudgingly apologizing when Susu demands it
 
-### Age 16
+#### Age 16
 
 - Subas wants to get a job and one day asks Susu if she could work at Bounce Club  
   - Susu agrees and Subas begins working at Bounce Club on the weekends, the customers like her
 
-### Age 19
+#### Age 19
 
 - Subas begins working at Bounce Club full time after High School
 
 # Susu
 
-## Info
+### Info
 
 Name: Susu Garnit  
 Maiden name: Susu Fine  
@@ -334,7 +334,7 @@ Birth Identification: Female
 Classification: Female  
 Pronouns: She / Her / It / Is
 
-## Personality
+### Personality
 
 - Lustful  
   - Works at Bounce Club (A sex business)  
@@ -345,7 +345,7 @@ Pronouns: She / Her / It / Is
 
 - Uncaring for her own well being : Grew up being used and continues to grow up being used, and thus has developed a priority of others before herself
 
-## History
+### History
 
 Age 14
 
@@ -355,16 +355,16 @@ Age 14
   - "She'll have to learn it anyway, and either way she's legal"  
   - Over the years Susu becomes used to being someone else's toy or object to fulfill their needs
 
-### Age 15
+#### Age 15
 
 - Susu moved out of her fathers house and ended up meeting Akan Garnit, moving in with him and eventually married him
 
-### Age 17
+#### Age 17
 
 - Gave birth to Katty Garnit  
 - Susu needed to get a well paying job so that Akan, and Katty could live a good life
 
-### Age 19
+#### Age 19
 
 - Akan got laid off and now Susu's job hunt had to get quicker, they only had so much left over
 
@@ -372,7 +372,7 @@ Age 14
 
 - Susu began working at Bounce Club
 
-### Age 28
+#### Age 28
 
 - A few days before the 14th birthday of Katty, Susu gets pregnant and has to take maternity leave
 
@@ -384,7 +384,7 @@ Age 29
 
 # World
 
-## World History
+### World History
 
 June 1568
 
