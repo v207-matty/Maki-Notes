@@ -1,4 +1,6 @@
-# Kinky Katty
+# Objectification
+
+## Kinky Katty
 
 ### Kinky Katty Exclusive Info
 
@@ -68,7 +70,7 @@ Pronouns: She / Her / It / Its
 
 - Katty is the most famous female employee at the bounce club: she takes it and likes it and takes it when there's issues going on with her anyway
 
-# Trapped Katty
+## Trapped Katty
 
 ### Trapped Katty Exclusive Info
 
@@ -107,7 +109,7 @@ Pronouns: It / Its
 
 - Katty snaps again, actively seeking the roughest sex it can get to try and pop, it is only into it to die
 
-# Akan
+## Akan
 
 ### Info
 
@@ -150,7 +152,7 @@ Pronouns: He / Him
 - Akan gets laid off of his job
 
 
-# Katty
+## Katty
 
 ### Katty Info
 
@@ -269,7 +271,7 @@ Pronouns: He / They
 
 - Katty learned martial arts from a fighting club and became a black belt
 
-# Subas
+## Subas
 
 ### Info
 
@@ -318,7 +320,7 @@ Pronouns: She / Her / It / Is
 
 - Subas begins working at Bounce Club full time after High School
 
-# Susu
+## Susu
 
 ### Info
 
@@ -382,7 +384,7 @@ Age 29
 
 - After a couple months, Susu leaves Subas with Akan and gets back to working at Bounce Club
 
-# World
+## World
 
 ### World History
 

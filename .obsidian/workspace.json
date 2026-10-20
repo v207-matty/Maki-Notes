@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7082edb0fa12ab58",
+        "id": "1790edc560c1c5d5",
         "type": "tabs",
         "children": [
           {
-            "id": "93fb461f0fb1f8cf",
+            "id": "05cd2af50b3e4065",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/Objectification/Characters/Subas.md",
+                "file": "Independent/Objectification/Cumbo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Subas"
+              "title": "Cumbo"
             }
           }
         ]
@@ -206,15 +206,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93fb461f0fb1f8cf",
+  "active": "05cd2af50b3e4065",
   "lastOpenFiles": [
+    "Independent/Objectification/Characters/Subas.md",
     "Independent/Objectification/Cumbo.md",
     "Independent/Objectification/cumbine.hxml",
     "Independent/Objectification/Cumbine.hx",
     "Independent/Objectification/combine.hx",
     "Independent/Objectification/Characters/Susu.md",
     "Independent/Objectification/Characters/Akan.md",
-    "Independent/Objectification/Characters/Subas.md",
     "Independent/Objectification/Characters/Katty.md",
     "Independent/Objectification/AUs/Trapped Katty.md",
     "Independent/Objectification/AUs/Kinky Katty.md",
