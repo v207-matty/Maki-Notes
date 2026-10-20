@@ -27,7 +27,7 @@ March 1569
 
 November 1570
 
-- 65% of Women in the world 
+- 65% of Adult Women in the world transition 
 - Stores begin checking 
 
 February 1573
