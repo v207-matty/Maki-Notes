@@ -4,7 +4,7 @@ Name: Subas Garnit
 Species: Furnokers
 
 Modern Age: 23
-Birthday: February 6th
+Birthday: March 10th
 
 Identification: Female  
 Birth Identification: Female  
