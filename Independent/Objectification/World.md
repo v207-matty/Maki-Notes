@@ -60,7 +60,7 @@ August 1604
 		- Medium or Large breasts
 		- Medium or Large ass
 	- Women younger then 16 will get partial rights
-		- Sexual assault not in the work place w
+		- Sexual assault not in the work place will be an actual priority
 
 January 1654
 
