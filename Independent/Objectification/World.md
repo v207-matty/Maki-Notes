@@ -34,6 +34,7 @@ June 1577
 - In 18% of countries the age of consent is now 14
 
 #### 1584
+
 - 
 
 #### August 1594
@@ -42,17 +43,27 @@ June 1577
 
 #### 1613
 
-January 1621
+- 
+
+#### January 1621
 
 - In 78% of countries the age of consent is now 14
 
 #### 1654
 
+- 
+
 #### 1686
+
+- 
 
 #### 1703
 
+- 
+
 #### 1745
+
+- 
 
 #### 1773
 
