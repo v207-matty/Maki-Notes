@@ -2,6 +2,8 @@ import sys.io.File;
 import haxe.io.Path;
 import sys.FileSystem;
 
+using StringTools;
+
 class Cumbine {
 	static function readDir(d:String):Array<String> {
 		var files:Array<String> = [];
@@ -33,7 +35,7 @@ class Cumbine {
 			if (path.file == 'Cumbo')
 				continue;
 
-			cumbofile += '# ${path.file}\n\n${File.getContent(file)}\n';
+			cumbofile += '# ${path.file}\n\n${File.getContent(file).replace('# ', '## ')}\n';
 		}
 
 		File.saveContent('Cumbo.md', cumbofile);
