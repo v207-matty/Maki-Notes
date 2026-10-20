@@ -102,8 +102,6 @@ The fifth man came in her mouth.
 
 The sixth man came in her cunt.
 
-That was five loads. She had five men's spend in her, some in her mouth, some in her belly.
-
 The sixth man pulled out and a rope of it came with him, thick and white and clotted, hanging between her thighs and swinging when she swayed, and she was so far past shame that she just let it hang, let it cool, let it dry, and nobody wiped her because there was nothing to wipe her with.
 
 Two men left.
