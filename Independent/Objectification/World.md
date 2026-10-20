@@ -38,7 +38,9 @@ February 1573
 
 - Sex Businesses have become the easiest job for Women to get (95% acceptance rate)
 - Genitalia checks have been replaced with a gender detection and tagging machine due to controversy with Genitalia checks, and either way the machine is always right.
-	- The tag is applied after a DNA check which says if a person will have VTax applied to them by ch
+	- The tag is applied after a DNA check which says if a person will have VTax applied to them
+	- The tag is removed by the machine when someones leaving
+	- The machine is 100% accuray
 - VTax is now strictly 25% extra on anyone that is found to have a vulva
 
 June 1577
