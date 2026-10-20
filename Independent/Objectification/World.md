@@ -27,7 +27,7 @@ March 1569
 
 November 1570
 
-- 65% of Adult Women in the world transition 
+- 65% of Adult Women in the world are reported to transition into a Man sometime during
 - Stores begin checking 
 
 February 1573
