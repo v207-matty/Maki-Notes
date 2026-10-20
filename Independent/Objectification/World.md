@@ -18,12 +18,12 @@ September 1568
 December 1568
 
 - In 10% of countries the age of consent is now to 14
-- Gender begins getting checked in reports, signatures, etc, required by la
+- Gender begins getting checked in reports, signatures, etc, required by law.
 
 March 1569
 
 - Breast reduction surgery improved rapidly compared to 1568 thanks to the work of trans male "Lincoln Park"
-- Crimes reported by Females
+- 86% of Crimes reported by Females
 
 June 1577
 
