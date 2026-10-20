@@ -25,7 +25,10 @@ March 1569
 - Breast reduction surgery improved rapidly compared to 1568 thanks to the work of trans male "Lincoln Park"
 - 86% of crimes reported by Women are being ignored by 59% of Men
 
-November 15
+November 1570
+
+- 
+- Stores begin checking 
 
 February 1573
 
