@@ -59,7 +59,8 @@ August 1604
 	- Women have to follow a beauty standard once they're 16 or older to achieve rights
 		- Medium or Large breasts
 		- Medium or Large ass
-	- Women younger then 
+	- Women younger then 16 will get partial rights
+		- Sexual assault not in the work place w
 
 January 1654
 
