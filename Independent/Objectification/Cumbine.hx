@@ -10,7 +10,9 @@ class Cumbine {
 
         for (file in FileSystem.readDirectory(d))
         {
-            files.push('$d/$file');
+            var p = '$d/$file';
+
+            files.push(p);
         }
     }
 
