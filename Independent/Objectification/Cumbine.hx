@@ -1,3 +1,4 @@
+import sys.io.File;
 import haxe.io.Path;
 import sys.FileSystem;
 
@@ -23,9 +24,12 @@ class Cumbine {
 		var cumbofile = '';
 
 		for (file in readDir('.')) {
-            var path = new Path(file.substr(1));
+			var path = new Path(file.substr(1));
 
-            cumbofile += '# ${path.file}\n';
+			if (path.file == 'README')
+				continue;
+
+			cumbofile += '# ${path.file}\n${File.getContent(file)}';
 		}
 	}
 }
