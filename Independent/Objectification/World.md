@@ -30,12 +30,12 @@ March 1569
 November 1570
 
 - 65% of Adult Women in the world are reported to transition into a Man early during their life
-- Places where purchase are made begin requiring a genitalia check for any Man making purchases
+- Places where purchases can be placed begin requiring a genitalia check for any Man making purchases
 
 February 1573
 
 - Sex Businesses have become the easiest job for Women to get (95% acceptance rate)
-- Genitalia checks have been replaced with a s
+- Genitalia checks have been replaced with a machine
 - VTax is now strictly 25% extra on anyone that is found to have a vulva
 
 June 1577
