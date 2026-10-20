@@ -4,81 +4,91 @@
 
 ### World History
 
-June 1568
+1568
 
 - The first attempt at fighting for women's rights happened to great failure on June 9th, 1568
+
 - Women begin to get more and more objectified by Men
-
-July 1568
-
 - "Vulva Tax" / "VTax" becomes a thing, charging 15 - 30% extra on purchases made by Women
 - Trans masculinity begins to grow in popularity
 - 2% of places where purchases can be made apply VTax
 
-September 1568
-
 - Sex Trafficking starts to rise
 - Reports of Female Rape has grown more and more
-
-December 1568
+- Several murders have begun to happen where the (female) victim was clearly raped before, after, or during the murder
 
 - In 10% of countries the age of consent is now to 14
 - Gender begins getting checked in reports, signatures, etc, required by law.
+- Abortion rates increase to 15%
 
-March 1569
+1569
 
 - Breast reduction surgery improved rapidly compared to 1568 thanks to the work of trans male "Lincoln Park"
 - 86% of crimes reported by Women are being ignored by 59% of Men
 - 16% of places where you can make purchases apply VTax
 
-November 1570
+1570
 
 - 65% of Adult Women in the world are reported to transition into a Man early during their life
 - Places where purchases can be placed begin requiring a genitalia check at the counter for any Man making purchases (Especially by females)
 - Reports of Female Sexual Harassment increase
+- Bottom surgery is cheaper for females to counteract VTax
 
-February 1573
+1573
 
 - Sex Businesses have become the easiest job for Women to get (95% acceptance rate)
-- Genitalia checks have been replaced with a machine at the entrance that checks the DNA and applies a tag to the wrist, which gets removed with a machine at the exit
+- Genitalia checks have been replaced with a gender detection and tagging machine due to controversy with Genitalia checks, and either way the machine is always right.
+	- The tag is applied after a DNA check which says if a person will have VTax applied to them
+	- The tag is removed by the machine when someones leaving
+	- The machine is 100% accurate and can detect transman as biologically women
 - VTax is now strictly 25% extra on anyone that is found to have a vulva
 
-June 1577
+1577
 
 - In 18% of countries the age of consent is now 14
-- Transphobia is common in 20% of countries
+- Female Transphobia is common in 23% of countries
+- Abortion rates increase to 45%
 
-1584
+1604
 
 - 48% of places where you can make purchases apply VTax
-
-August 1594
+- Another Women's Right movement started that at least partially did something
+	- Women have to at least partially follow a beauty standard once they're 16 or older to properly achieve "rights"
+		- Medium or Large Breasts
+			- This has the prices increase of methods of breast size increasing
+		- Medium or Large Ass
+			- Talks have begun to make the price of BBL's higher
+		- Slim figure
+	- Women younger then 16 will get partial rights
+		- Sexual assault not in the work place will be an actual priority
+	- Several well-known rapists were arrested
 
 - In 50% of countries the age of consent is now 14
+- BBL's have finally doubled in price
+- VTax is now strictly 20% extra on anyone that is found to have a vulva
 
-1613
+1635
 
-- 
-
-January 1621
-
+- Abortion rates increase to 76%
 - In 78% of countries the age of consent is now 14
+- Rape reports have increased
 
-1654
+1671
+
+- Several minor Women's rights movements have begun
+- Several cases of Police brutality against fighters for Women's rights have been reported
+
+1721
 
 - 
 
-1686
-
-- 
-
-1745
+1756
 
 - 
 
 1773
 
-- Present year in the story
+- Present year
 
 ## Katty
 
