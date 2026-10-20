@@ -102,4 +102,104 @@ The fifth man came in her mouth.
 
 The sixth man came in her cunt.
 
-That was five loads. She had five men's spend in her, some in her mouth, some in her belly, some running down the
+That was five loads. She had five men's spend in her, some in her mouth, some in her belly.
+
+The sixth man pulled out and a rope of it came with him, thick and white and clotted, hanging between her thighs and swinging when she swayed, and she was so far past shame that she just let it hang, let it cool, let it dry, and nobody wiped her because there was nothing to wipe her with.
+
+Two men left.
+
+The seventh was the one who'd been quiet the whole time, the one who'd watched, and watching had done something to him, because he was harder than any of them and he was *rough*. He grabbed her by the hips and dragged her to the edge of the mattress and stood on the floor at the side of it and pulled her legs off the edge so that her arse was hanging in the air and her cunt was presented at exactly the height of his cock, and he didn't kneel, he didn't get on the mattress, he just stood there and held her legs up by the ankles and slammed into her.
+
+From this angle he was deeper than anyone had been.
+
+He bottomed out on the first stroke and every stroke after that was a full pull and a full plunge and he was hitting the mouth of her womb and it hurt, it was a good hurt but it was *hurt*, a deep bruising hurt, and she put one hand on her own belly to feel it and she could feel him moving inside her through the wall of her stomach, and that was the moment her legs stopped working.
+
+They went numb. Not fully, not dead, but *numb*, a heavy tingling heaviness, the ankles he was holding no longer quite hers, and she tried to flex her feet and couldn't, and she said "my legs" in a thin voice, and nobody listened, and he kept going.
+
+He went for a long time. Long enough that the seventh man's sweat started to drip on her, on her belly, on her breasts, long enough that she stopped counting strokes and started counting *sets* of strokes, long enough that her cunt went from sore to *raw* and the raw stopped mattering because it was just the shape of the night now.
+
+When he came he came so deep she could feel the pulse against the very back of her, and he ground himself in and held it, held it, held it, and she felt him twitch three times and then a fourth, and then he let her legs drop and her feet hit the mattress and she couldn't feel them hit the mattress.
+
+The eighth man came over and looked at her.
+
+She was on her back at the edge of the mattress, legs splayed, cunt open and streaming, arse still wet from before, mouth still tasting of the fifth man, and there was spend pooled under her, and her own slick, and the mattress beneath her was a swamp, and the eighth man looked at all of it and said one word.
+
+"Both."
+
+---
+
+She understood.
+
+He wanted her cunt and he wanted to be able to reach everything else while he had it. So he put her on her side and he lay behind her and he lifted her top leg, and he pushed in, and from this angle he could reach down with his hand and work her, and he could reach up with his other hand and hold her throat, and he could lean over her shoulder and breathe on her neck, and he could do *everything*, and he did.
+
+She was so sensitive by now that his fingers on her were almost too much. Almost. He found her with two fingers, slid them down her slick, found her clit, and started rubbing small circles, and she *came* — the first time all night she came, a real one, a whole-body one, a thing that rolled up from the numb legs she couldn't feel and crashed through her and made her arch back into his chest and moan like a wounded animal — and the eight men in the room heard it and the quiet ones said something and the loud ones laughed, and the eighth man just kept going, kept rubbing, kept pushing, *kept going*.
+
+She came twice more. She wasn't sure she was allowed. Nobody asked her. He just kept going and her body kept answering and it was the closest thing to joy she'd felt all night, three little pieces of joy buried in all of it, and then he came too, deep, in her cunt, the third load in her cunt, the *eighth* load in her body, and he grunted and shuddered and slumped and stayed inside her for a full minute afterward, softening, breathing, holding her throat.
+
+And then he pulled out.
+
+And then they all stepped back.
+
+And that was the end.
+
+---
+
+Nobody helped her up.
+
+That was the thing she would remember. That they had all used her, all eight of them, every one of them inside her in one way or another, and when it was finished they all just *stood back* and looked at their work, and it was her job to get up, and she could not get up.
+
+She was on her side on the mattress and her legs were heavy as sandbags and her cunt was open and streaming and her thighs were wet with the spend of six men, some of it dried, some of it fresh, some of it running, and there was spend on her belly from where the seventh man had dripped on her, and spend on her chin, and spend in her hair, and spend pooled in the mattress beneath her, and it was *her* but it didn't feel like hers, it felt like something she had been *given*, something left inside her and left *on* her.
+
+She tried to sit up and her stomach muscles worked and her legs did nothing.
+
+She tried again and got halfway and her arms gave out.
+
+She lay back down and laughed, a wet broken laugh, and one of the men — the young one, the nice one — said, "you alright?"
+
+And she said, "my legs."
+
+And he said, "what about them."
+
+And she said, "they don't work."
+
+And he said, "give it a minute."
+
+---
+
+She gave it five minutes.
+
+They dressed and talked above her while she lay there, about fleece prices, about the mill, about a man they all knew who'd gone to the capital and come back different, and it was so *normal*, so blessedly ordinary, that she started to cry.
+
+Not from pain. From the *ordinariness*. From the fact that the entire event — the whole long terrible thing — had been a Tuesday for them. They'd been sorting fleece and then they'd had a woman and then they'd go home and have dinner. That was the shape of their night.
+
+For her it had been a reshaping.
+
+She cried quietly while they talked and then she stopped crying and sat up properly and her legs came back, first pins and needles, then heaviness, then *hers* again, and she swung them off the mattress and stood, and everything she was holding in her body came out of her in one slow gush, and she clamped her thighs together and there was no helping it, and the young one handed her her shift and she put it on and the shift went instantly wet at the crotch.
+
+She found her skirt. She found her bodice. She couldn't lace the bodice so she just held it closed with one hand and the young one laced it for her, gently, from behind, like a husband, and she almost cried again.
+
+She found her boots. Her feet went into them and she couldn't feel them properly and it didn't matter because she wasn't walking far.
+
+She found the tag on her wrist. *VULVA — 25% SURCHARGE APPLIES.* It had survived everything. It was still on her wrist.
+
+She laughed.
+
+---
+
+On the stairs she had to stop and sit down.
+
+Not because of her legs. Because of the *leak*. Every step, it came out of her, a slow constant seep, and by the bottom of the stairs her inner thighs were slick to the knee, and she sat on the third step from the bottom and put her head on her knees and thought about the walk home and how she would be walking it with the spend of eight men inside her.
+
+Eight.
+
+Somewhere in the middle of it she'd stopped counting loads. She'd counted men — she was sure of eight — but the loads, the *finishes*, those had blurred. Was it six in her cunt? Seven? Was the one in her mouth the fifth or the sixth? Had the seventh man also come in her cunt, or had he pulled out? Had the fourth man finished in her arse, or had he just stopped because he was tired?
+
+She didn't know. She couldn't reconstruct it. She had been *used* by eight men and she could not give a full accounting of it.
+
+She thought, *this is my life*.
+
+And that was the moment. The moment on the third step from the bottom, with the loft door still open behind her and the men still talking inside, the moment where the whole thing turned from *tonight* into *always*.
+
+Because it wasn't going to stop. That was the revelation. She was thirty-four and unmarried and she was a woman with a vulva and a tag that said so, and there would be another loft, another mattress, another set of men. Next month, next year, the year after, until she was old, and even then probably not, because there were stories of men who liked them older and stories of men who liked *anything*. She would be doing this at forty, at fifty, at sixty. The tax would keep coming out of her purse and the men would keep coming out of her body, and there would never be a version of her life where she walked home from a loft and was *empty*.
+
+She would never be empty again.
