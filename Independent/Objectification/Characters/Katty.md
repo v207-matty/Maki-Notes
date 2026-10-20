@@ -69,8 +69,17 @@ Pronouns: He / They
 
 #### Age 10
 
+- Katty starts getting bullied by other 5th graders
+
 - Katty doesn't like the bullying and complains about it constantly  
 - Katty's dad tried to teach them how to fight so people stop bullying them but Katty gets hurt and doesn't want to do it again
+
+#### Age 13
+
+- Katty's mom gets pregnant by accident  
+- Katty's parents begin thinking about how they're gonna make money while Katty's mom is on maternity leave
+
+- 10 days before *the talk*
 
 #### Age 14
 
@@ -105,14 +114,3 @@ Pronouns: He / They
 #### Age 26
 
 - Katty learned martial arts from a fighting club and became a black belt
-
-#### Age 10
-
-- Katty starts getting bullied by other 5th graders
-
-#### Age 13
-
-- Katty's mom gets pregnant by accident  
-- Katty's parents begin thinking about how they're gonna make money while Katty's mom is on maternity leave
-
-- 10 days before *the talk*
