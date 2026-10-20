@@ -26,10 +26,14 @@ class Cumbine {
 		for (file in readDir('.')) {
 			var path = new Path(file.substr(1));
 
+			if (path.ext != 'md')
+				continue;
 			if (path.file == 'README')
 				continue;
 
-			cumbofile += '# ${path.file}\n${File.getContent(file)}';
+			cumbofile += '# ${path.file}\n${File.getContent(file)}\n';
 		}
+
+		File.saveContent();
 	}
 }
