@@ -63,11 +63,12 @@ August 1604
 		- Slim figure
 	- Women younger then 16 will get partial rights
 		- Sexual assault not in the work place will be an actual priority
-	- Several well-known rapists 
+	- Several well-known rapists were arrested
 
 September 1604
+
 - In 50% of countries the age of consent is now 14
-- BBL's have doubled in price
+- BBL's have finally doubled in price
 
 January 1654
 
