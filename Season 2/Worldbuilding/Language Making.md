@@ -1,3 +1,5 @@
+Noun - Person, place, or thing
+
 ## Example
 
 Base: River
