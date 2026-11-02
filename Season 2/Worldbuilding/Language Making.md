@@ -37,4 +37,8 @@ Abstract: nami
 Adjective: namir
 - riverine, river-like of or relating to river
 - flowing
-- passing, short-lived, 
+- passing, short-lived, fleeting
+- profitable, lucrative, fruitful
+- traffic congested, crowded with people
+- busy, occupied with something
+- fishy, 
