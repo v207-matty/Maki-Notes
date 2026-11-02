@@ -59,7 +59,8 @@ Establish a new Sinco world
 - Sinco runs inside the forest
 	- Sinco makes it to the center of the massive forest in 8 seconds with just running
 	- Several machines with a "T" label are cutting down trees
-- Sinco jumps upward ont
+- Sinco jumps upward on top of a tree and swings upward
+- Sinco grabs 2 branches and pounces at one of the machines
 
 ## Rising Action
 
