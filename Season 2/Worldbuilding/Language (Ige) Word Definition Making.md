@@ -53,9 +53,9 @@ Chabur : Positive connotation
 - V: To be above others in status
 
 Chabui : Positive connotation
-- N: Extrodinary
+- N: An extrodinary thing
 - V: To be above all in status
 
 Chabin : Negative connotation
-- N: To be wierd
+- N: A weird thing
 - V: To be different
