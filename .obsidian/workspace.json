@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 1/Objectification/Objectification.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Objectification"
-            }
-          },
-          {
-            "id": "8afeb7af92911a48",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,10 +206,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8afeb7af92911a48",
+  "active": "05cd2af50b3e4065",
   "lastOpenFiles": [
-    "README.md",
+    "Season 1/CNU/Stories/CNU Part 1.md",
     "Season 1/Objectification/Objectification.md",
+    "Season 1/CNU/CNU.md",
+    "README.md",
     "Season 1/Granule/Granule.md",
     "Season 1/CVT.md",
     "Season 1/Sinco Renewed/Sinco Renewed.md",
@@ -249,8 +240,6 @@
     "Independent/Objectification/Objectification _ Katty Garnit.md",
     "Season 1/Objectification/Tales/Clanker/Venice/THE WORKERS DAUGHTER.md",
     "Season 1/Objectification/Tales/Clanker/Venice/FINE.md",
-    "Season 1/Objectification/Tales/Clanker/Venice/The Star (Part 3).md",
-    "Season 1/Objectification/Tales/Clanker/Venice/The Star (Part 2).md",
     "Season 1/Objectification/Tales/Clanker/Venice",
     "Season 1/Objectification/Tales/Clanker",
     "Season 1/Objectification/Tales/Human",
