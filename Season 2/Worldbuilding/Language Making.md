@@ -41,4 +41,4 @@ Adjective: namir
 - profitable, lucrative, fruitful
 - traffic congested, crowded with people
 - busy, occupied with something
-- fishy, 
+- fishy, one who is like a fish, hard to pin down, agile, nimble, elusive
