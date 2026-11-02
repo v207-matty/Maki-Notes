@@ -102,7 +102,7 @@ Establish a new Sinco world
 ## Rising Action
 
 - Sinco wakes up, hours later, day is just arriving
-- The forest is nearly gone,
+- The forest has a clear pathway in the cente
 
 ## Climax
 
