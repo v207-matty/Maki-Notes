@@ -2,6 +2,9 @@
 
 Base: River
 Basic: nam
+- river
 Place: nama
+- 
 Animal: namai
-Collective: 
+Collective: namo
+Abstract: nami
