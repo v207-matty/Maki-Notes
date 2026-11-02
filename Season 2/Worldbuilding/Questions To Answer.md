@@ -1,2 +1,2 @@
 - What is The Zonia Empire
-- What are S
+- What are Stones powers

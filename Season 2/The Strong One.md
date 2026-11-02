@@ -19,7 +19,7 @@
   - TSO using his powers to help the world  
   - Menya citizens do not like TSO  
 - A war begins between Torta and Menya  
-  - Menya	 has been overtaking country after country  
+  - Menya has been overtaking country after country  
   - Torta is the last country they need to take over  
 - TSO helps in the war  
   - The war ends shortly after  
