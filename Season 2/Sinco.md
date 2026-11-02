@@ -19,7 +19,8 @@ Establish a new Sinco world
 - Environment is a forest on the planet Chabur
 - Sinco jumps from tree to tree
 	- His hands for branches above his head
-	- His tail for br
+	- His tail for branches below and so that he can swing for momentum
+- Sinco rips a 
 
 ## Inciting Incident
 
