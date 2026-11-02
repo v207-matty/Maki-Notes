@@ -5,6 +5,10 @@ More focus on film structure in story
 - [[The Strong One]]
 - [[Sinco]]
 
+## Worldbuilding
+
+- [[Language ( Ige ) Development]]
+
 ## Structures
 
 ![][Assets/storystructure-5acts.jpg]
