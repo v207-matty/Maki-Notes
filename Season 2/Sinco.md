@@ -71,9 +71,10 @@ Establish a new Sinco world
 	- Sinco jabs the logs into the machines shell as hard as he can and it doesn't do anything
 ## Rising Action
 
-- Sinco jumps back up on t
+- Sinco jumps back up onto the tree
 - Sinco raises his hand
-- Sinco fires several energy beams at the machines that leave noticeable dents or holes
+- Sinco fires several energy blasts at the machines that leave noticeable dents or holes
+	- The machine
 
 ## Climax
 
