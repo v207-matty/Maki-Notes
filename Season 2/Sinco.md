@@ -1,3 +1,4 @@
+# Plot
 ## Exposition
 
 ## Inciting Incident
@@ -13,3 +14,5 @@
 ## Catastrophe
 
 ## Denouement
+
+# Themes
