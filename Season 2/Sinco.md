@@ -35,7 +35,9 @@ Establish a new Sinco world
 	- Sinco then stabs the other one
 - Sinco raises a hand toward the closest tree to him
 	- Out comes a beam of glowing energy that punctures the tree
-	- Sinco moves his hand so that the 
+	- Sinco moves his hand so that the tree gets fully cut
+	- The tree collapses
+- Sinco cuts chunks out of the tre
 
 ## Inciting Incident
 
