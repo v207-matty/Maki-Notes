@@ -51,7 +51,8 @@ Establish a new Sinco world
 - Sincos tail twitches rapidly
 - Trees begin falling inside the forest
 	- A chain reaction of trees falling nearly gets Sinco killed when the last tree in the chain falls in front of him
-- Sinco runs inside the forest, making it to the center in 4 seconds
+- Sinco runs inside the forest
+	- Sinco makes it to the center of the massive forin 4 seconds with just running
 	- Several machines are cutting down trees
 
 ## Conflict
