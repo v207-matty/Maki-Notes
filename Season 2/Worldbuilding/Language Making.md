@@ -1,5 +1,7 @@
 Noun - Person, place, or thing
-Verb - Action
+Verb - Action(?)
+
+https://youtu.be/TocHnrdaNG8?si=JXfkAjPfDxNLX6yF
 
 ## Example
 
