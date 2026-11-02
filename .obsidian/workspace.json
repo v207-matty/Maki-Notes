@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 1/Objectification/World.md",
+                "file": "Season 1/Objectification.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "World"
+              "title": "Objectification"
+            }
+          },
+          {
+            "id": "8afeb7af92911a48",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,11 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05cd2af50b3e4065",
+  "active": "8afeb7af92911a48",
   "lastOpenFiles": [
-    "Season 1/Objectification/Cumbo.md",
-    "Season 1/Objectification/README.md",
+    "Season 1/Objectification.md",
     "Season 1/Objectification/World.md",
+    "Season 1/Objectification/Cumbo.md",
     "Season 1/Objectification/Tales/Clanker/Venice/The Alley Off Candlewick Row.md",
     "Season 1/Sinco Colonized AU.md",
     "README.md",

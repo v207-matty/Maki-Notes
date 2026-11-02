@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Granule  ",
@@ -34,11 +34,11 @@
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1.35590158829025,
   "lineSizeMultiplier": 2.50345686701962,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0,
   "repelStrength": 20,
   "linkStrength": 0,
   "linkDistance": 30,
-  "scale": 0.2292013594174928,
-  "close": true
+  "scale": 0.042315902689759065,
+  "close": false
 }
