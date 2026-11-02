@@ -83,7 +83,7 @@ Establish a new Sinco world
 - Tirok asks if Sinco is one of the "Dirty Chabin" that keeps messing with his machines
 	- Sinco denies this : "I ain't no Chabin! I am a Chabui! You're the Chabin! You're destroying my home!"
 	- Tirok: "Your weird self and your home is in the way of the future, either get with the program or get lost."
-- Sincos tail
+- Sincos tail goes numb
 - Tirok enters the ship
 	- The ship lets go of Sinco
 	- The ship retracts the arm into its bottom
