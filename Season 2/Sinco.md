@@ -81,7 +81,8 @@ Establish a new Sinco world
 - Sinco is grabbed mid air by the tail
 	- A surge of pain goes through Sincos entire body
 	- Sinco struggles to do anything
-- Sinco is being held by the tail by a flying mechanical ship with an arm popping out of the bottom and the same "T"
+- Sinco is being held by the tail by a flying mechanical ship with an arm popping out of the bottom and the same "TAZ" label as the machines
+- The ship opens from the to
 
 ## Climax
 
