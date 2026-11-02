@@ -16,7 +16,7 @@ Establish a new Sinco world
 
 ## Exposition
 
-- 
+- Environment is a forest on the planet
 
 ## Inciting Incident
 
