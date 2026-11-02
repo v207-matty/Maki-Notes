@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "image1.md",
+                "file": "Assets/plot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "image1"
+              "title": "plot"
             }
           }
         ]
@@ -208,9 +208,9 @@
   },
   "active": "f99f5285bf50c982",
   "lastOpenFiles": [
-    "Untitled",
+    "Assets",
     "Season 2/The Strong One/Installments/The Strong One.md",
-    "image1.md",
+    "Assets/plot.md",
     "Season 2/The Strong One/The Strong One.md",
     "Season 2/The Strong One/Installments",
     "README.md",
