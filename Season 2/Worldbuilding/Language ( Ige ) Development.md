@@ -29,7 +29,7 @@ Kef
 
 Ige : Kef
 
-# Super
+# Super ( Ch)
 
 English : Super
 Spanish : Súper
@@ -43,5 +43,8 @@ Hachur
 Rabas
 Sabur
 Bursach
+Achurb
 
-Ige : 
+Chabur
+
+Ige : Chabur
