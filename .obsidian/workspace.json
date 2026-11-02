@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/Worldbuilding/Language Making.md",
+                "file": "Season 2/Sinco.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Language Making"
+              "title": "Sinco"
             }
           }
         ],
@@ -233,8 +233,8 @@
   },
   "active": "c03354f89102950d",
   "lastOpenFiles": [
-    "Season 2/Worldbuilding/Language Development.md",
     "Season 2/Worldbuilding/Language Making.md",
+    "Season 2/Worldbuilding/Language Development.md",
     "Season 2/The Strong One.md",
     "Season 2/Sinco.md",
     "Season 2/Worldbuilding",
