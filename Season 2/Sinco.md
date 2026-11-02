@@ -68,7 +68,7 @@ Establish a new Sinco world
 - Sinco jumps back upward
 	- Sinco lazers out 2 logs that will fit inside his hands
 - Sinco pounces on another of the machines
-- 
+	- Sinco jabs the logs into the machines shell as hard as he can and it doesnt 
 
 ## Rising Action
 
