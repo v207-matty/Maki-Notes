@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent/The Stone One/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -208,17 +208,18 @@
   },
   "active": "f99f5285bf50c982",
   "lastOpenFiles": [
+    "Untitled.md",
+    "README.md",
+    "Season 2/The Stone One/README.md",
     "Season 2",
     "Season 1",
     "Season 1/Objectification/Cumbo.md",
-    "Independent/The Stone One/README.md",
-    "Independent/The Stone One",
+    "Season 2/The Stone One",
     "Season 1/Objectification/World.md",
     "Season 1/Objectification/Characters/Akan.md",
     "Season 1/Objectification/Characters/Susu.md",
     "Season 1/Objectification/Characters/Subas.md",
     "Season 1/Objectification/Characters/Katty.md",
-    "Untitled.md",
     "Season 1/Objectification/Tales/Clanker/Venice/The Yard Behind the Wool House.md",
     "Season 1/Objectification/Tales/Clanker/Venice/The Long Room Above the Tannery.md",
     "Season 1/Objectification/Tales/Clanker/Venice/The Alley Off Candlewick Row.md",
@@ -243,7 +244,6 @@
     "Season 1/Objectification/Tales/Clanker",
     "Season 1/Objectification/Tales/Human",
     "Season 1/Objectification/Tales",
-    "Season 1/Objectification/Characters",
     "Untitled.canvas",
     "Renewed/Explanations/CANVAS.canvas"
   ]

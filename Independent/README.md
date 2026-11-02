@@ -1,1 +1,0 @@
-This are stories that are independent and run on their own with associations to other creations of mine simply being for fun unless spoken otherwise
