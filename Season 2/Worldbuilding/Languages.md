@@ -1,5 +1,5 @@
 ## Example
 
 Base: River
-Basic: nam
-Place: 
+Basic: nam - river
+Place: nama
