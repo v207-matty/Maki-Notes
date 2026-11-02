@@ -85,7 +85,8 @@ Establish a new Sinco world
 - Tirok enters the ship
 	- The ship lets go of Sinco
 - Sinco grabs onto a tree branch with his tail and swings back onto the tree
-	- Sinc
+	- Sinco: "My parents always told me you regulars were assholes."
+	- Sinco raises h
 
 ## Rising Action
 
