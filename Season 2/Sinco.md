@@ -25,9 +25,8 @@ Establish a new Sinco world
 	- Sinco is prepared and instantly grabbed onto another branch at the same time
 	- Sinco keeps the branch that snapped
 - Sinco swings to a tree below that is closer to the ground
-- Sinco waits
-	- Several animals in groups walk by
-	- 
+	- Sinco waits on top of the tree
+- Several animals in groups walk by
 
 ## Inciting Incident
 
