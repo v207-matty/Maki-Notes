@@ -96,11 +96,12 @@ Establish a new Sinco world
 - Sinco hits the ground
 	- The full impact of the toss and fall spreads throughout his entire body
 - Tirok speaks before leaving : "If you Chabeten weren't assholes or jerks most of the time with your differences, maybe WE wouldn't be assholes!"
-	- Tirok flies away to the sky in his ship,
+	- Tirok flies away to the sky in his ship, watching the deforestation
+- Sinco f
 
 ## Rising Action
 
--
+- Sinco 
 
 ## Climax
 
