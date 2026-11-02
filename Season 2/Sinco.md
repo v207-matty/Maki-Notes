@@ -1,14 +1,12 @@
-# Outline
+## Tale
 
-# ![][Assets/storystructure-5acts.jpg]
+### Exposition
 
-## Exposition
+### Inciting Incident
 
-## Inciting Incident
+### Conflict
 
-## Conflict
-
-## Rising Action
+### Rising Action
 
 ## Climax
 
