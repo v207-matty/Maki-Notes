@@ -52,8 +52,9 @@ Establish a new Sinco world
 - Trees begin falling inside the forest
 	- A chain reaction of trees falling nearly gets Sinco killed when the last tree in the chain falls in front of him
 - Sinco runs inside the forest
-	- Sinco makes it to the center of the massive forin 4 seconds with just running
-	- Several machines are cutting down trees
+	- Sinco makes it to the center of the massive forest in 8 seconds with just running
+	- Several machines with a "T" label are cutting down trees
+	- 
 
 ## Conflict
 
