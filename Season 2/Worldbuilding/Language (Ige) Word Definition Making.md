@@ -57,5 +57,5 @@ Chabui : Positive connotation
 - V: To be above all in status
 
 Chabin : Negative connotation
-- N: Different, Unusual
+- N: To be wierd
 - V: To be different
