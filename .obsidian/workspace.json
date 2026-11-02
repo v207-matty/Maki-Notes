@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 1/Sinco Colonized AU/README.md",
+                "file": "Season 1/Sinco Colonized AU.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Sinco Colonized AU"
             }
           }
         ]
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05cd2af50b3e4065",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
     "README.md",
     "Untitled.md",
