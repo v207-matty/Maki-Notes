@@ -26,7 +26,7 @@ Establish a new Sinco world
 	- Sinco keeps the branch that snapped
 - Sinco swings to a tree below that is closer to the ground
 	- Sinco waits on top of the tree
-- Several animals in groups walk by
+- Several animals walk by in groups
 
 ## Inciting Incident
 
