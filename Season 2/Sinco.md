@@ -69,12 +69,13 @@ Establish a new Sinco world
 	- Sinco lazers out 2 logs that will fit inside his hands
 - Sinco pounces on another of the machines
 	- Sinco jabs the logs into the machines shell as hard as he can and it doesn't do anything
-	- 
 - Sinco jumps back up onto the tree
 - Sinco raises his hand
 - Sinco fires several energy blasts at the machines that leave noticeable dents or holes
 	- The machines start to slow
-- Sincos tail twitches
+- Sincos tail twitches rapidly
+	- Sinco begins to turn around as he jumps off the 
+
 ## Rising Action
 
 ## Climax
