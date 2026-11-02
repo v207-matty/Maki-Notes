@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "file:README",
+      "query": "path:",
       "color": {
         "a": 1,
         "rgb": 11657298
