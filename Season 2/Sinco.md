@@ -33,8 +33,8 @@ Establish a new Sinco world
 - Sinco pounces at the animals
 	- He stabs one of them and then stomps on the others tail so that it wont escape
 	- Sinco then stabs the other one
-- Sinco raises a hand
-	- Out comes a ball 
+- Sinco raises a hand toward the closest tree to him
+	- Out comes a glowing ball of energy that 
 
 ## Inciting Incident
 
