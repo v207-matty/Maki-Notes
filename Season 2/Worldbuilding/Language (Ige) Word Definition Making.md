@@ -48,4 +48,8 @@ Adjective: namir
 ## Chabur
 
 Chabur
-- 
+- Above Average
+- Extrodinary
+
+Chaburin
+- Above 
