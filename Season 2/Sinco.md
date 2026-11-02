@@ -52,7 +52,7 @@ Establish a new Sinco world
 - Trees begin falling inside the forest
 - A chain reaction of trees falling nearly gets Sinco killed
 	- The last tree in the chain falls in front of him
-	- Sincos 
+	- Sincos campfire is 
 
 ## Conflict
 

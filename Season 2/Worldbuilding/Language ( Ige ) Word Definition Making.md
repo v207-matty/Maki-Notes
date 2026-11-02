@@ -59,3 +59,6 @@ Chabui : Positive connotation
 Chabin : Negative connotation
 - N: A weird or unusual thing
 - V: To be different
+
+Chabuy
+- N : Multiple Cha
