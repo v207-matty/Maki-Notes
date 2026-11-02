@@ -4,3 +4,4 @@ A being with immense power on a foreign planet that is raised on said planet and
 
 ## Installments
 
+[[The Strong One]]
