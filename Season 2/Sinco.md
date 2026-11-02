@@ -61,7 +61,7 @@ Establish a new Sinco world
 
 - Sinco runs inside the forest
 	- Sinco makes it to the center of the massive forest in 8 seconds with just running
-	- Several machines with a "T" label are cutting down trees
+	- Several machines with a "TAZ" label are cutting down trees
 - Sinco jumps upward on top of a tree and swings upward
 - Sinco grabs 2 branches and pounces at one of the machines
 	- Sinco jabs the branches into the machines shell as hard as he can and the sticks break
@@ -81,7 +81,7 @@ Establish a new Sinco world
 - Sinco is grabbed mid air by the tail
 	- A surge of pain goes through Sincos entire body
 	- Sinco struggles to do anything
-- Sinco is being held by the tail by a flying mechanical ship with an arm popping out of the bottom
+- Sinco is being held by the tail by a flying mechanical ship with an arm popping out of the bottom and the same "T"
 
 ## Climax
 
