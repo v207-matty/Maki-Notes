@@ -81,7 +81,7 @@ Establish a new Sinco world
 - The ship opens from the top and out comes a regular human with black hair, a closed black trench coat and pants
 	- The man introduces himself as "Tirok"
 - Tirok asks if Sinco is one of the "Dirty Chabin" that keeps messing with his machines
-	- Sinco denies, saying "I ain't no Chabin! I am a Chabui! You're the Chabin! You're destroying my home!"
+	- Sinco denies this : "I ain't no Chabin! I am a Chabui! You're the Chabin! You're destroying my home!"
 	- Tirok: "Your weird self and your home is in the way of the future, either get with the program or get lost."
 - Tirok enters the ship
 	- The ship lets go of Sinco
