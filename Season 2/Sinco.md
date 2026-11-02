@@ -24,7 +24,7 @@ Establish a new Sinco world
 - A branch snaps once Sinco grabs it
 	- Sinco is prepared and instantly grabbed onto another branch at the same time
 	- Sinco keeps the branch that snapped
-- Sincpo 
+- Sinco swings on top of a tree where the ground is visible but he is not
 
 ## Inciting Incident
 
