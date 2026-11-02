@@ -48,8 +48,11 @@ Adjective: namir
 ## Chabur
 
 Chabur
-- V: To be above
+- V: To be above others in status
 
-Animal : Chabin
+Chabin
 - N: Different, Unusual
 - V: To be different
+
+Chabui
+- V: T
