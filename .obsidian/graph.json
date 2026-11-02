@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Season 1/Granule\"  ",
@@ -43,16 +43,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -0.5,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 5,
   "lineSizeMultiplier": 3.91615540330115,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 0,
+  "linkStrength": 0.594440984117097,
   "linkDistance": 30,
-  "scale": 0.6316046762907467,
+  "scale": 0.030182895067324075,
   "close": false
 }
