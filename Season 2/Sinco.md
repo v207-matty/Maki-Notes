@@ -85,6 +85,7 @@ Establish a new Sinco world
 	- Tirok: "Your weird self and your home is in the way of the future, either get with the program or get lost."
 - Tirok enters the ship
 	- The ship lets go of Sinco
+	- The ship retracts the arm into its bottom
 - Sinco grabs onto a tree branch with his tail and swings towards the ship, landing on top of it
 	- Sinco: "My parents always told me you regulars were assholes."
 	- Sinco raises his hand to charge an energy blast

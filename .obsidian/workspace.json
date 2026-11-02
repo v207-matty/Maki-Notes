@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/Sinco.md",
+                "file": "Season 2/Worldbuilding/Language ( Ige ) Development.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sinco"
+              "title": "Language ( Ige ) Development"
             }
           }
         ]
@@ -206,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05cd2af50b3e4065",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
-    "Season 2/Maki Season 2.md",
     "Season 2/Sinco.md",
+    "Season 2/Maki Season 2.md",
     "README.md",
     "Season 2/Worldbuilding/Language ( Ige ) Development.md",
     "Season 2/Worldbuilding/Language ( Ige ) Word Definition Making.md",
