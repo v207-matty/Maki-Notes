@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Season 2/Sinco.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Sinco"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "Language ( Ige ) Development"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,10 +230,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c03354f89102950d",
+  "active": "05cd2af50b3e4065",
   "lastOpenFiles": [
-    "Season 2/Worldbuilding/Language (Ige) Word Definition Making.md",
+    "README.md",
     "Season 2/Worldbuilding/Language ( Ige ) Development.md",
+    "Season 2/Worldbuilding/Language (Ige) Word Definition Making.md",
     "Season 2/Sinco.md",
     "Season 2/The Strong One.md",
     "Season 2/Worldbuilding",
@@ -247,7 +247,6 @@
     "Assets/storystructure-5acts.jpg",
     "Assets",
     "Season 2/The Strong One/Installments",
-    "README.md",
     "Season 1/CNU/Stories/CNU Part 1.md",
     "Season 1/CNU/CNU.md",
     "Season 1/Granule/Granule.md",

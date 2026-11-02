@@ -29,7 +29,7 @@ Kef
 
 Ige : Kef
 
-# Super ( Ch)
+# Super ( Chabur )
 
 English : Super
 Spanish : Súper
