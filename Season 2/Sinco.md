@@ -32,7 +32,8 @@ Establish a new Sinco world
 	- The animals are slow and easier to capture
 - Sinco jumps down
 	- He lands in front of the animals
-	- He stabs one of them
+	- He stabs one of them and then stomps on the others tail so that it wont escape
+	- So
 
 ## Inciting Incident
 
