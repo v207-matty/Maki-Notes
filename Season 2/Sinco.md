@@ -73,14 +73,15 @@ Establish a new Sinco world
 - Sinco raises his hand
 - Sinco fires several energy blasts at the machines that leave noticeable dents or holes
 	- The machines start to slow
-- Sincos tail twitches rapidly
+- Sincos tail twitches so fast that its almost imperceptable
 	- Sinco begins to turn around as he jumps off the tree
 
 ## Rising Action
 
 - Sinco is grabbed mid air by the tail
 	- A surge of pain goes through Sincos entire body
-	- Sinco stru
+	- Sinco struggles to do anything
+- Sinc
 
 ## Climax
 
