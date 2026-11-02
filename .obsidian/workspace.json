@@ -35,24 +35,10 @@
             "id": "8afeb7af92911a48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -233,15 +219,15 @@
   },
   "active": "8afeb7af92911a48",
   "lastOpenFiles": [
-    "Season 1/Granule/Granule.md",
+    "README.md",
     "Season 1/Objectification/Objectification.md",
+    "Season 1/Granule/Granule.md",
     "Season 1/CVT.md",
     "Season 1/Sinco Renewed/Sinco Renewed.md",
     "Season 1/Objectification/World.md",
     "Season 1/Objectification/Cumbo.md",
     "Season 1/Objectification/Tales/Clanker/Venice/The Alley Off Candlewick Row.md",
     "Season 1/Sinco Colonized AU.md",
-    "README.md",
     "Untitled.md",
     "Season 2/The Strong One/The Strong One.md",
     "Season 2",

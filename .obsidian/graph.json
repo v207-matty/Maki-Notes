@@ -43,14 +43,14 @@
       }
     },
     {
-      "query": "file:CVT",
+      "query": "path:\"Season 1/CVT\"",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "file:\"Sinco Colonized AU\"",
+      "query": "path:\"Season 1/Sinco Colonized AU\"",
       "color": {
         "a": 1,
         "rgb": 5395168
@@ -67,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 0.594440984117097,
   "linkDistance": 471,
-  "scale": 0.08317427835927518,
+  "scale": 0.021528718442430185,
   "close": false
 }
