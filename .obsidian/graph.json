@@ -32,14 +32,14 @@
       "query": "path:\"Season 1/CVT\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 11059880
       }
     },
     {
       "query": "path:\"Season 1/Objectification\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 11782080
       }
     }
   ],
@@ -53,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 0,
   "linkDistance": 30,
-  "scale": 0.042315902689759065,
+  "scale": 0.04231590268975911,
   "close": false
 }
