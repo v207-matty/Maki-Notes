@@ -94,7 +94,7 @@ Establish a new Sinco world
 - Sinco gets tossed to the ground with no trees to help him
 - Sinco hits the ground
 	- The full impact of the toss and fall spreads throughout his entire body
-- Tirok speaks before leaving : "If you "
+- Tirok speaks before leaving : "If you Chabeten weren't assholes or jerks most of the time with your differences, maybe "
 
 ## Rising Action
 
