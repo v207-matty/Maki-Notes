@@ -107,7 +107,7 @@ Establish a new Sinco world
 - Sinco gets up
 	- He can feel his tail again
 	- He's no longer in pain
-- Sinco looks toward the city and sees a factory with the "T"
+- Sinco looks toward the city and sees a factory with the "TAZ" label
 
 ## Climax
 
