@@ -50,9 +50,10 @@ Adjective: namir
 Chabur
 - V: To be above others in status
 
+Chabui
+- V: To be above all in status
+- N: 
+
 Chabin
 - N: Different, Unusual
 - V: To be different
-
-Chabui
-- V: T
