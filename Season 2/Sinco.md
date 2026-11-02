@@ -43,9 +43,6 @@ Establish a new Sinco world
 - Sinco cuts chunks out of the tree, creating tiny logs
 	- Sinco grabs 10 tiny logs and the animal corpses
 	- Sinco wanders off
-
-## Inciting Incident
-
 - Sinco is now at an edge of the forest
 	- The ocean sits right beside him
 	- He has a fire setup
@@ -54,8 +51,10 @@ Establish a new Sinco world
 - Sincos tail twitches rapidly
 - Trees begin falling inside the forest
 - A chain reaction of trees falling nearly gets Sinco killed
-	- The last tree in the chain falls in front of him
-	- Sincos campfire is 
+	- The last tree in the chain falls in front of him on top of his campfire
+
+## Inciting Incident
+
 
 ## Conflict
 
