@@ -51,6 +51,6 @@ Base : Chabur
 - Above Average
 - Extrodinary
 
-Animal: Chabin
-- Above Average Person, 
-- 
+Animal : Chabin
+- Different
+- Unusual
