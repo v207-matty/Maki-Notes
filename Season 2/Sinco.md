@@ -37,7 +37,8 @@ Establish a new Sinco world
 	- Out comes a beam of glowing energy that punctures the tree
 	- Sinco moves his hand so that the tree gets fully cut
 	- The tree collapses
-- Sinco cuts chunks out of the tre
+- Sinco cuts chunks out of the tree, creating tiny logs
+	- Sinco grabs 10 mini
 
 ## Inciting Incident
 
