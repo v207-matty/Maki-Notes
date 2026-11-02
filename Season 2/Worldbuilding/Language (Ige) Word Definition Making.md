@@ -48,8 +48,8 @@ Adjective: namir
 ## Chabur
 
 Base : Chabur
-- Above Average
-- Extrodinary
+- N: Above Average, Extraordinary
+- V:
 
 Animal : Chabin
 - Different
