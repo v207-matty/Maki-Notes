@@ -6,13 +6,10 @@
 
 ## Rising Action
 
-### Climax
+## Climax
 
-### Falling Action
+## Falling Action
 
-### Catastrophe
+## Catastrophe
 
-### Denouement
-
-## Themes
-
+## Denouement
