@@ -45,6 +45,7 @@ Adjective: namir
 - busy, occupied with something
 - fishy, one who is like a fish, hard to pin down, agile, nimble, elusive
 
+
 ## Chabur
 
 Chabur
@@ -52,8 +53,8 @@ Chabur
 
 Chabui
 - V: To be above all in status
-- N: 
+- N: Ex
 
-Chabin
+Chabin : Negative connota
 - N: Different, Unusual
 - V: To be different
