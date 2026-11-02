@@ -118,13 +118,19 @@ Sinco trashes TAZ factory
 
 ## Falling Action
 
+Tirok and Sinco meet again
+
 - 
 
 ## Catastrophe
 
+Tirok and Sinco fight
+
 - 
 
 ## Denouement
+
+Sinco winds 
 
 - 
 
