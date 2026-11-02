@@ -53,7 +53,7 @@ Chabur : Positive connotation
 - V: To be above others in status
 
 Chabui : Positive connotation
-- N: Ex
+- N: To be extrodinary
 - V: To be above all in status
 
 Chabin : Negative connotation
