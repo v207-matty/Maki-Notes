@@ -71,7 +71,7 @@ Establish a new Sinco world
 	- Sinco jabs the logs into the machines shell as hard as he can and it doesn't do anything
 - Sinco jumps back up
 - Sinco raises his hand
-- Sinco fires seve
+- Sinco fires several energy beams at the machines that leave noticeable dents or holes
 
 ## Rising Action
 
