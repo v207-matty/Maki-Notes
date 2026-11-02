@@ -89,6 +89,7 @@ Establish a new Sinco world
 - Sinco grabs onto a tree branch with his tail and swings towards the ship, landing on top of it
 	- Sinco: "My parents always told me you regulars were assholes."
 	- Sinco raises his hand to charge an energy blast
+- Sincos tail suddenly sends a painf
 - Tiroks ship releases another arm from the behind that grabs Sinco
 - Sinco gets tossed to the ground with no trees to help him
 - Sinco falls to the ground
