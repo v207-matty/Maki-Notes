@@ -23,7 +23,8 @@ Establish a new Sinco world
 - Sincos tail twitches slightly
 - A branch snaps once Sinco grabs it
 	- Sinco is prepared and instantly grabbed onto another branch at the same time
-	- Sinco holds onto the branch that 
+	- Sinco keeps the branch that snapped
+- 
 
 ## Inciting Incident
 
