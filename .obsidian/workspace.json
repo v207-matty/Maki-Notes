@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/Maki Season 2.md",
+                "file": "Season 2/Sinco.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Maki Season 2"
-            }
-          },
-          {
-            "id": "394e94b51abc216c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Sinco"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "394e94b51abc216c",
+  "active": "05cd2af50b3e4065",
   "lastOpenFiles": [
     "Season 2/Maki Season 2.md",
     "Season 2/Sinco.md",
