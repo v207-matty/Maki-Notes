@@ -73,10 +73,6 @@ Establish a new Sinco world
 	- Sinco begins to turn around as he jumps off the tree
 
 ## Conflict
-
-
-## Rising Action
-
 - Sinco is grabbed mid air by the tail
 	- A surge of pain goes through Sincos entire body
 	- Sinco struggles to do anything
@@ -88,7 +84,10 @@ Establish a new Sinco world
 	- Tirok: "Your home is in the way of the future, either get with the program or get lost."
 - Tirok enters the ship
 	- The ship lets go of Sinco
-- Sinco 
+- Sinco grabs onto a tree branch with his 
+
+## Rising Action
+
 
 ## Climax
 
