@@ -61,7 +61,9 @@ Establish a new Sinco world
 	- Several machines with a "T" label are cutting down trees
 - Sinco jumps upward on top of a tree and swings upward
 - Sinco grabs 2 branches and pounces at one of the machines
-	- Sinco jabs the branches into the machines shell as hard as he x 
+	- Sinco jabs the branches into the machines shell as hard as he can and the sticks break
+- Sinco jumps back upward
+	- Sinco lazers out 2 logs that
 
 ## Rising Action
 
