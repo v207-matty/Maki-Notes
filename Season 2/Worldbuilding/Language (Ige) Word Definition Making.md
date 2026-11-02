@@ -47,10 +47,10 @@ Adjective: namir
 
 ## Chabur
 
-Chabur
+Base : Chabur
 - Above Average
 - Extrodinary
 
-Chabin
+Animal: Chabin
 - Above Average Person, 
 - 
