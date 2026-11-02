@@ -48,6 +48,7 @@ Establish a new Sinco world
 	- He has a fire setup
 	- He has the animal corpses chopped to bits
 	- He has 1 stick that he uses to pierce the animal corpse bits, dangle them over the fire, and eat them
+- Sincos tail twiches rapidly
 
 ## Conflict
 
