@@ -1,1 +1,0 @@
-These are stories that are in a universe where the character Sinco exists
