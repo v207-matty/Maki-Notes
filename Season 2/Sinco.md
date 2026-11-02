@@ -33,7 +33,8 @@ Establish a new Sinco world
 - Sinco pounces at the animals
 	- He stabs one of them and then stomps on the others tail so that it wont escape
 	- Sinco then stabs the other one
-- Sinco takes the 
+- Sinco raises a hand
+	- Out comes a ball 
 
 ## Inciting Incident
 
