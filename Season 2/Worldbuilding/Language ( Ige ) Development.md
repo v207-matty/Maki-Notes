@@ -34,3 +34,4 @@ Ige : Kef
 English
 Spanish
 Japanese
+Hindi
