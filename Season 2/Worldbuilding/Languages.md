@@ -10,5 +10,6 @@ Animal: namai
 - n (colloquial) : anything that lives in the water
 Collective: namo
 - n : network of rivers, river system
+- n (colloquial) : delta, tributary
 Abstract: nami
-- n : life-river (world-view)
+- n : life-river (world-view; to live life like the river)
