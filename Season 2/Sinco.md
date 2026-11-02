@@ -80,7 +80,7 @@ Establish a new Sinco world
 
 - Sinco is grabbed mid air by the tail
 	- A surge of pain goes through Sincos entire body
-	- 
+	- Sinco stru
 
 ## Climax
 
