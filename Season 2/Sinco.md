@@ -46,7 +46,8 @@ Establish a new Sinco world
 - Sinco is now at an edge of the forest
 	- The ocean sits right beside him
 	- He has a fire setup
-	- He has the animal c
+	- He has the animal corpses chopped to bits
+	- He has 1 stick thst
 
 ## Conflict
 
