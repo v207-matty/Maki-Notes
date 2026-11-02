@@ -15,3 +15,5 @@ Collective: namo
 - n : trade (as a movement/exchange of goods; exchange and communication of ideas)
 Abstract: nami
 - n : life-river (world-view; to live life like the river)
+- n : the irreversible passage of time
+- n : 
