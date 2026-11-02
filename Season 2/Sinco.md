@@ -20,8 +20,9 @@ Establish a new Sinco world
 - Sinco jumps from tree to tree
 	- His hands for branches above his head
 	- His tail for branches below and so that he can swing for momentum
-- Sincos tail twitches sl
-- A branch snaps while Sinco is 
+- Sincos tail twitches slightly
+- A branch snaps afterward
+- Sinco 
 
 ## Inciting Incident
 
