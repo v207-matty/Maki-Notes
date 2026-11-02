@@ -1,14 +1,10 @@
+## Exposition
 
+## Inciting Incident
 
-## Tale
+## Conflict
 
-### Exposition
-
-### Inciting Incident
-
-### Conflict
-
-### Rising Action
+## Rising Action
 
 ### Climax
 
