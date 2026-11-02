@@ -2,4 +2,6 @@
 - What are Stones powers
 - Where does Stone come from
 
-- What is a 
+- What is "TAZ"
+- What are Chabin?
+- Why are Chabin
