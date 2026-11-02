@@ -20,6 +20,7 @@ Establish a new Sinco world
 ## Exposition
 
 - Environment is a forest on the planet Chabur
+	- It is late
 - Sinco jumps from tree to tree at incredible speeds
 	- His hands for branches above his head
 	- His tail for branches below and so that he can swing for momentum
