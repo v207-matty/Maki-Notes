@@ -35,3 +35,8 @@ English : Super
 Spanish : Súper
 Japanese : Subarashī
 Hindi : बहुत अच्छा / bahut acha
+
+Subaca
+Charis
+
+Ige : 
