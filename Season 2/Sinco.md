@@ -50,7 +50,7 @@ Establish a new Sinco world
 	- He has 1 stick that he uses to pierce the animal corpse bits, dangle them over the fire, and eat them
 - Sincos tail twitches rapidly
 - Trees begin falling inside the forest
-	- A chain reaction of trees falling nearly gets Sinco killed when the last tree in the chain falls in
+	- A chain reaction of trees falling nearly gets Sinco killed when the last tree in the chain falls in front of him,
 	- 
 
 ## Conflict
