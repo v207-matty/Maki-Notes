@@ -6,11 +6,11 @@ Establish a new Sinco world
 - Tirok is the main villain  
 - Figure out Earth  
   - How long have Supers been there?  
-    - 58 years  
+	  - 58 years  
 - Does technology exist to deal with Supers?  
-  - Some  
+	- Some  
 - Is there a good or bad reputation for Supers?  
-  - Bad
+	- Bad
 
 # Plot
 
