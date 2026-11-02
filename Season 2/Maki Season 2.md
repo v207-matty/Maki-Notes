@@ -8,6 +8,7 @@ More focus on film structure in story
 ## Worldbuilding
 
 - [[Language ( Ige ) Development]]
+- [[Language (Ige) Word Definition Making]]
 
 ## Structures
 
