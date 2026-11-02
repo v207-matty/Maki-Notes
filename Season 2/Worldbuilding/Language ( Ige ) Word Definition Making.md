@@ -48,8 +48,8 @@ Adjective: namir
 
 ## Chabur
 
-Chabur : Positive connotation
-- N: One that is above others
+Chabur (Singular) / Chabet (Plural) : Positive connotation
+- N: One (that is above others
 - V: To be above others in status
 
 Chabui : Positive connotation
@@ -59,6 +59,3 @@ Chabui : Positive connotation
 Chabin : Negative connotation
 - N: A weird or unusual thing
 - V: To be different
-
-Chabet
-- N : Multiple Chabur
