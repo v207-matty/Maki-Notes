@@ -30,7 +30,9 @@ Establish a new Sinco world
 	- Sinco is waiting for the right moment to strike
 - 2 animals walk below
 	- The animals are slow and easier to capture
-	- Sinco 
+- Sinco jumps down
+	- He lands in front of the animals
+	- He stabs one of them
 
 ## Inciting Incident
 
