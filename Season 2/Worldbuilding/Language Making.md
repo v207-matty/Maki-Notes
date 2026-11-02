@@ -23,7 +23,7 @@ Animal: namai / naim
 Collective: namo
 - n : network of rivers, river system
 - n (colloquial) : delta, tributary confluence
-- n : traffic (of people, goods and transporation)
+- n : traffic (of people, goods and transportation)
 - n : trade (as a movement/exchange of goods; exchange and communication of ideas)
 - v : to flow (of liquids, objects and people)
 - v : to pass (of people and time)
