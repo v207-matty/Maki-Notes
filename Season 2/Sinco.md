@@ -90,7 +90,8 @@ Establish a new Sinco world
 	- Sinco: "My parents always told me you regulars were assholes."
 	- Sinco raises his hand to charge an energy blast
 - Tiroks ship releases another arm from the behind that grabs Sinco
-- Sinco gets tosses him to the ground
+- Sinco gets tossed to the ground with no trees to help him
+- Sinco
 
 ## Rising Action
 
