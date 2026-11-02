@@ -52,10 +52,10 @@ Chabur (Singular) / Chabet (Plural) : Positive connotation
 - N: One (or multiple) that is / are above others
 - V: To be above others in status
 
-Chabui (Singular) : Positive connotation
+Chabui (Singular) / Chabeti (Plural) : Positive connotation
 - N: An extraordinary thing
 - V: To be above all in status
 
-Chabin : Negative connotation
+Chabin (Singular) / Chabeten  : Negative connotation
 - N: A weird or unusual thing
 - V: To be different
