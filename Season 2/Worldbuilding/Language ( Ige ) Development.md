@@ -12,7 +12,7 @@ Ige
 
 Ige : Ige
 
-# Fuck ( KEf )
+# Fuck ( Kef )
 
 English : Fuck  
 Spanish : Mierda  
@@ -28,3 +28,5 @@ Kem
 Kef
 
 Ige : Kef
+
+# 
