@@ -102,11 +102,12 @@ Establish a new Sinco world
 
 ## Rising Action
 
-- Sinco wakes up, hours later, mid dat
+- Sinco wakes up, hours later, mid day
 - The forest has a clear pathway in the center of it from the city to the ocean, not a single tree in the way of it
 - Sinco gets up
 	- He can feel his tail again
-	- He no l
+	- He's no longer in pain
+- Sinco sees a fact
 
 ## Climax
 
