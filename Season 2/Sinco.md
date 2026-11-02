@@ -28,7 +28,9 @@ Establish a new Sinco world
 	- Sinco waits on top of the tree
 - Several animals walk by either by themselves or in a group
 	- Sinco is waiting for the right moment to strike
-	- 
+- 2 animals walk below
+	- The animals are slow and easier to capture
+	- Sinco 
 
 ## Inciting Incident
 
