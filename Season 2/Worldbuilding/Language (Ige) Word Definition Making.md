@@ -49,7 +49,7 @@ Adjective: namir
 ## Chabur
 
 Chabur : Positive connotation
-- N: One with 
+- N: One that is above others
 - V: To be above others in status
 
 Chabui : Positive connotation
