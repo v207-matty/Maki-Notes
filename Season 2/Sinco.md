@@ -69,13 +69,11 @@ Establish a new Sinco world
 	- Sinco lazers out 2 logs that will fit inside his hands
 - Sinco pounces on another of the machines
 	- Sinco jabs the logs into the machines shell as hard as he can and it doesn't do anything
-- Sinco jumps back up
-- Sinco raises his hand
-- Sinco fires several energy beams at the machines that leave noticeable dents or holes
-
 ## Rising Action
 
-- 
+- Sinco jumps back up on t
+- Sinco raises his hand
+- Sinco fires several energy beams at the machines that leave noticeable dents or holes
 
 ## Climax
 
