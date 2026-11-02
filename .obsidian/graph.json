@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "file:\"Sinco Colonized AU\"",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 0.594440984117097,
   "linkDistance": 471,
-  "scale": 0.030182895067324068,
+  "scale": 0.08317427835927518,
   "close": false
 }
