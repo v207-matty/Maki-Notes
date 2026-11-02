@@ -73,6 +73,7 @@ Establish a new Sinco world
 	- Sinco begins to turn around as he jumps off the tree
 
 ## Conflict
+
 - Sinco is grabbed mid air by the tail
 	- A surge of pain goes through Sincos entire body
 	- Sinco struggles to do anything
@@ -86,10 +87,11 @@ Establish a new Sinco world
 	- The ship lets go of Sinco
 - Sinco grabs onto a tree branch with his tail and swings towards the ship, landing on top of it
 	- Sinco: "My parents always told me you regulars were assholes."
-	- Sinco raises his hand to charge an ene
+	- Sinco raises his hand to charge an energy blast
 
 ## Rising Action
 
+-
 
 ## Climax
 
