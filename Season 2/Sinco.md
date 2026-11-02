@@ -92,8 +92,9 @@ Establish a new Sinco world
 - Sincos tail suddenly sends a wave of pain throughout Sincos body
 - Tiroks ship releases another arm from the behind that grabs Sinco
 - Sinco gets tossed to the ground with no trees to help him
-- Sinco falls to the ground
+- Sinco hits the ground
 	- The full impact of the toss and fall spreads throughout his entire body
+- Tirok speaks before leaving : "If you "
 
 ## Rising Action
 
