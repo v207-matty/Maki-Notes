@@ -48,13 +48,14 @@ Adjective: namir
 
 ## Chabur
 
-Chabur
+Chabur : Positive connotation
+- N: 
 - V: To be above others in status
 
-Chabui
-- V: To be above all in status
+Chabui : Positive connotation
 - N: Ex
+- V: To be above all in status
 
-Chabin : Negative connota
+Chabin : Negative connotation
 - N: Different, Unusual
 - V: To be different
