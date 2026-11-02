@@ -4,4 +4,4 @@ A being with immense power on a foreign planet that is raised on said planet and
 
 ## Installments
 
-[[The Strong One]]
+[[Season 2/The Strong One/Installments/The Strong One|The Strong One]]
