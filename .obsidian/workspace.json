@@ -11,24 +11,10 @@
             "id": "05cd2af50b3e4065",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/Maki Season 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Maki Season 2"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -208,8 +194,8 @@
   },
   "active": "05cd2af50b3e4065",
   "lastOpenFiles": [
-    "Season 2/The Strong One.md",
     "Season 2/Maki Season 2.md",
+    "Season 2/The Strong One.md",
     "Season 2/The Strong One/The Strong One.md",
     "image1.md",
     "Assets/plot.md",
