@@ -43,7 +43,10 @@ Establish a new Sinco world
 
 ## Inciting Incident
 
-- Sinco is now at an edge of the fore
+- Sinco is now at an edge of the forest
+	- The ocean sits right beside him
+	- He has a fire setup
+	- He has the animal c
 
 ## Conflict
 
