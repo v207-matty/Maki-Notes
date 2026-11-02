@@ -86,7 +86,8 @@ Establish a new Sinco world
 	- The man introduces himself as "Tirok"
 - Tirok asks if Sinco is one of the "Dirty Chabin" that keeps messing with his machines
 	- Sinco denies, saying "I ain't no Chabin! I am a Chabui! You're the Chabin! You're destroying my home!"
-	- Tirok: "Y"
+	- Tirok: "Your home is in the way of the future, either get with the program or get lost."
+- Tiro nk
 
 ## Climax
 
