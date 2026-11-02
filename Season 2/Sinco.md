@@ -16,11 +16,11 @@ Establish a new Sinco world
 
 ## Exposition
 
-- In a forest on the planet Chabur
+- 
 
 ## Inciting Incident
 
-\-
+\- 
 
 ## Conflict
 
