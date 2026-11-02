@@ -13,7 +13,7 @@ Establish a new Sinco world
 	- Bad
 # Themes
 
-- Protect
+- Protect the environment
 
 # Plot
 
