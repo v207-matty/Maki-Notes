@@ -60,4 +60,4 @@ Chabin (Singular) / Chabeten (Plural) : Negative connotation
 - N: A weird or unusual thing
 - V: To be different
 
-There is a Chabeti that is actually a Chabeten cause of the amount of Chabin in there cmpared to the amount of Chab
+There is a Chabeti that is actually a Chabeten cause of the amount of Chabin in there ccmpared to the amount of Chabur.
