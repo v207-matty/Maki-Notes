@@ -55,9 +55,6 @@ Establish a new Sinco world
 
 ## Inciting Incident
 
-
-## Conflict
-
 - Sinco runs inside the forest
 	- Sinco makes it to the center of the massive forest in 8 seconds with just running
 	- Several machines with a "TAZ" label are cutting down trees
@@ -74,6 +71,9 @@ Establish a new Sinco world
 	- The machines start to slow
 - Sincos tail twitches so fast that its almost imperceptible
 	- Sinco begins to turn around as he jumps off the tree
+
+## Conflict
+
 
 ## Rising Action
 
