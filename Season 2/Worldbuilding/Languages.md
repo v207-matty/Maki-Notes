@@ -21,9 +21,10 @@ Collective: namo
 - n : traffic (of people, goods and transporation)
 - n : trade (as a movement/exchange of goods; exchange and communication of ideas)
 - v : to flow (of liquids, objects and people)
-- v : to pass
-- v : to exchange (news, goo)
+- v : to pass (of people and time)
+- v : to exchange (news, goods, ideas, money)
 
 Abstract: nami
 - n : life-river (world-view; to live life like the river)
 - n : the irreversible passage of time
+- v : to behave or act as the river, to follow the life-river
