@@ -17,7 +17,9 @@ Establish a new Sinco world
 ## Exposition
 
 - Environment is a forest on the planet Chabur
-- Sinco jumps from tree to 
+- Sinco jumps from tree to tree
+	- His hands for branches above his head
+	- His tail for br
 
 ## Inciting Incident
 
