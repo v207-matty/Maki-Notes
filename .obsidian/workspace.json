@@ -11,10 +11,24 @@
             "id": "05cd2af50b3e4065",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Season 1/Objectification/Objectification.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Objectification"
             }
           }
         ]
@@ -194,6 +208,8 @@
   },
   "active": "05cd2af50b3e4065",
   "lastOpenFiles": [
+    "Season 1/Objectification/Cumbo.md",
+    "Season 1/Objectification/Objectification.md",
     "Season 2/Maki Season 2.md",
     "Season 2/The Strong One.md",
     "Season 2/The Strong One/The Strong One.md",
@@ -204,13 +220,11 @@
     "Season 2/The Strong One/Installments",
     "README.md",
     "Season 1/CNU/Stories/CNU Part 1.md",
-    "Season 1/Objectification/Objectification.md",
     "Season 1/CNU/CNU.md",
     "Season 1/Granule/Granule.md",
     "Season 1/CVT.md",
     "Season 1/Sinco Renewed/Sinco Renewed.md",
     "Season 1/Objectification/World.md",
-    "Season 1/Objectification/Cumbo.md",
     "Season 1/Objectification/Tales/Clanker/Venice/The Alley Off Candlewick Row.md",
     "Season 1/Sinco Colonized AU.md",
     "Untitled.md",
