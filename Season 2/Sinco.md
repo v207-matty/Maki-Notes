@@ -39,11 +39,11 @@ Establish a new Sinco world
 	- The tree collapses
 - Sinco cuts chunks out of the tree, creating tiny logs
 	- Sinco grabs 10 tiny logs and the animal corpses
-	- Sinco wanders off to
+	- Sinco wanders off
 
 ## Inciting Incident
 
-- 
+- Sinco is now at an edge of the fore
 
 ## Conflict
 
