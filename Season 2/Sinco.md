@@ -82,7 +82,7 @@ Establish a new Sinco world
 	- A surge of pain goes through Sincos entire body
 	- Sinco struggles to do anything
 - Sinco is being held by the tail by a flying mechanical ship with an arm popping out of the bottom and the same "TAZ" label as the machines
-- The ship opens from the to
+- The ship opens from the top and out comes a regular human with black hair, a black trench coat
 
 ## Climax
 
