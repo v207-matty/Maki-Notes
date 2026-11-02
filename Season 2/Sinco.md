@@ -64,7 +64,7 @@ Establish a new Sinco world
 	- Sinco jabs the branches into the machines shell as hard as he can and the sticks break
 - Sinco jumps back upward
 	- Sinco lazers out 2 logs that will fit inside his hands
-- Sinco pounces back
+- Sinco pounces another of the machines
 
 ## Rising Action
 
@@ -85,6 +85,4 @@ Establish a new Sinco world
 ## Denouement
 
 - 
-
-# Themes
 
