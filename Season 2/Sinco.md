@@ -81,7 +81,7 @@ Establish a new Sinco world
 - Sinco is grabbed mid air by the tail
 	- A surge of pain goes through Sincos entire body
 	- Sinco struggles to do anything
-- Sinc
+- Sinco is being held by the tail by a flying mec
 
 ## Climax
 
