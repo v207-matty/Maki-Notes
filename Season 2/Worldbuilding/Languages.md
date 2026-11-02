@@ -20,7 +20,9 @@ Collective: namo
 - n (colloquial) : delta, tributary confluence
 - n : traffic (of people, goods and transporation)
 - n : trade (as a movement/exchange of goods; exchange and communication of ideas)
-- v  
+- v : to flow (of liquids, objects and people)
+- v : to pass
+- v : to exchange (news, goo)
 
 Abstract: nami
 - n : life-river (world-view; to live life like the river)
