@@ -27,6 +27,7 @@ Establish a new Sinco world
 - Sinco swings to a tree below that is closer to the ground
 - Sinco waits
 	- Several animals in groups walk by
+	- 
 
 ## Inciting Incident
 
