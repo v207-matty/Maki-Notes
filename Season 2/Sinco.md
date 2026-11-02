@@ -34,7 +34,8 @@ Establish a new Sinco world
 	- He stabs one of them and then stomps on the others tail so that it wont escape
 	- Sinco then stabs the other one
 - Sinco raises a hand toward the closest tree to him
-	- Out comes a glowing ball of energy that pierces the tree, 
+	- Out comes an oval disc of glowing energy
+	- Sinco that pierces the tree, 
 
 ## Inciting Incident
 
