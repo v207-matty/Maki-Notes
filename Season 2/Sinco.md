@@ -16,7 +16,7 @@ Establish a new Sinco world
 
 ## Exposition
 
-- In a forest on the planet S
+- In a forest on the planet
 
 ## Inciting Incident
 

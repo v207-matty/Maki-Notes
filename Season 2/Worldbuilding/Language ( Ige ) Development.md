@@ -1,4 +1,4 @@
-# English
+# English ( Ige )
 
 English : English  
 Spanish : Ingles  
@@ -12,7 +12,7 @@ Ige
 
 Ige : Ige
 
-# Fuck
+# Fuck ( KEf )
 
 English : Fuck  
 Spanish : Mierda  
