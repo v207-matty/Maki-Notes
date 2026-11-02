@@ -34,4 +34,4 @@ Ige : Kef
 English
 Spanish
 Japanese
-Hindi
+Hindi : बहुत अच्छा / bahut acha
