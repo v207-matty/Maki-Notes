@@ -83,6 +83,7 @@ Establish a new Sinco world
 - Tirok asks if Sinco is one of the "Dirty Chabin" that keeps messing with his machines
 	- Sinco denies this : "I ain't no Chabin! I am a Chabui! You're the Chabin! You're destroying my home!"
 	- Tirok: "Your weird self and your home is in the way of the future, either get with the program or get lost."
+- Sincos tail
 - Tirok enters the ship
 	- The ship lets go of Sinco
 	- The ship retracts the arm into its bottom
@@ -95,7 +96,7 @@ Establish a new Sinco world
 - Sinco hits the ground
 	- The full impact of the toss and fall spreads throughout his entire body
 - Tirok speaks before leaving : "If you Chabeten weren't assholes or jerks most of the time with your differences, maybe WE wouldn't be assholes!"
-	- Tirok flies away 
+	- Tirok flies away to the sky in his ship,
 
 ## Rising Action
 
