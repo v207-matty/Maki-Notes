@@ -74,9 +74,13 @@ Establish a new Sinco world
 - Sinco fires several energy blasts at the machines that leave noticeable dents or holes
 	- The machines start to slow
 - Sincos tail twitches rapidly
-	- Sinco begins to turn around as he jumps off the 
+	- Sinco begins to turn around as he jumps off the tree
 
 ## Rising Action
+
+- Sinco is grabbed mid air by the tail
+	- A surge of pain goes through Sincos entire body
+	- 
 
 ## Climax
 
