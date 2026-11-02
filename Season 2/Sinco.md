@@ -130,7 +130,7 @@ Tirok and Sinco fight
 
 ## Denouement
 
-Sinco winds 
+Tirok ends up victorious
 
 - 
 
