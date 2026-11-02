@@ -29,4 +29,8 @@ Kef
 
 Ige : Kef
 
-# 
+# Super
+
+English
+Spanish
+Japanese
