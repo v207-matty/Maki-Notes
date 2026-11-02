@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/plot.md",
+                "file": "Season 2/The Strong One/Installments/The Strong One.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "plot"
+              "title": "The Strong One"
             }
           }
         ]
@@ -206,13 +206,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "05cd2af50b3e4065",
   "lastOpenFiles": [
+    "Season 2/The Strong One/The Strong One.md",
+    "Season 2/The Strong One/Installments/The Strong One.md",
+    "image1.md",
+    "Assets/plot.md",
     "Assets/storystructure-5acts.jpg",
     "Assets",
-    "Season 2/The Strong One/Installments/The Strong One.md",
-    "Assets/plot.md",
-    "Season 2/The Strong One/The Strong One.md",
     "Season 2/The Strong One/Installments",
     "README.md",
     "Season 1/CNU/Stories/CNU Part 1.md",

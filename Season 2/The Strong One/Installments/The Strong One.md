@@ -1,6 +1,6 @@
 # Outline
 
-# ![][image1]
+# ![][Assets/storystructure-5acts]
 
 ## Exposition
 
