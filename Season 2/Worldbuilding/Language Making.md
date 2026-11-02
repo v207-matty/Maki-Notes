@@ -1,5 +1,5 @@
 Noun - Person, place, or thing
-Verb
+Verb - Action
 
 ## Example
 
@@ -18,6 +18,7 @@ Animal: namai / naim
 - n (colloquial) : anything that lives in the water
 - v : to fish
 - v : to prepare fish for market
+- v : to set up a stall at market
 
 Collective: namo
 - n : network of rivers, river system
