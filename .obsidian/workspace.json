@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/Sinco.md",
+                "file": "Season 2/Worldbuilding/Languages.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sinco"
+              "title": "Languages"
             }
           }
         ]
@@ -208,8 +208,10 @@
   },
   "active": "05cd2af50b3e4065",
   "lastOpenFiles": [
-    "Season 2/Maki Season 2.md",
     "Season 2/Sinco.md",
+    "Season 2/Worldbuilding/Languages.md",
+    "Season 2/Worldbuilding",
+    "Season 2/Maki Season 2.md",
     "Season 2/The Strong One.md",
     "Season 1/Objectification/Objectification.md",
     "Season 1/Objectification/Cumbo.md",
@@ -242,9 +244,7 @@
     "Season 1/Objectification/Cumbine.hx",
     "Independent/Objectification/combine.hx",
     "Season 1/Objectification/AUs/Trapped Katty.md",
-    "Season 1/Objectification/AUs/Kinky Katty.md",
     "Season 1/Objectification/Tales/Clanker/Venice",
-    "Season 1/Objectification/Tales/Clanker",
     "Untitled.canvas",
     "Renewed/Explanations/CANVAS.canvas"
   ]
