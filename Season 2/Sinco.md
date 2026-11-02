@@ -4,7 +4,7 @@ Establish a new Sinco world
 
 - Less time skips (More events in less time)  
 - Tirok is the main villain  
-- Figure out Earth  
+- Figure out the new planet  
   - How long have Supers been there?  
 	  - 58 years  
 - Does technology exist to deal with Supers?  
