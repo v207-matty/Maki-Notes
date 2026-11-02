@@ -112,6 +112,8 @@ Establish a new Sinco world
 
 ## Climax
 
+Sinco trashes TAZ factory
+
 - 
 
 ## Falling Action
