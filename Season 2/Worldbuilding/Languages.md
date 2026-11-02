@@ -7,7 +7,8 @@ Place: nama
 - n : floodplain, river valley
 Animal: namai
 - n : fish
-- n (colloclial) : anything that lives in the water
+- n (colloquial) : anything that lives in the water
 Collective: namo
-- n : 
+- n : network of rivers, river system
 Abstract: nami
+- n : life-river (world-view)
