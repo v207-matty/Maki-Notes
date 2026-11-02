@@ -1,4 +1,4 @@
-The planet earth in the [[Independent/Granule/README]] world is the only planet that is behind, technology and ability-wise.
+The planet earth in the [[Season 1/Granule/README]] world is the only planet that is behind, technology and ability-wise.
 
 But in the late 19th century, during the Civil War, earth was blessed by the [[Tosullins]] in
 "[[The First Blessing|The Blessing]]", and then the Earth started to catch up.
