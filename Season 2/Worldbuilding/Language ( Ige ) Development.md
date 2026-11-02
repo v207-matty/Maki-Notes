@@ -38,5 +38,8 @@ Hindi : बहुत अच्छा / bahut acha
 
 Subaca
 Charis
+Chabur
+Hachur
+Ra
 
 Ige : 
