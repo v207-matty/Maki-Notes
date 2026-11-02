@@ -40,6 +40,8 @@ Subaca
 Charis
 Chabur
 Hachur
-Ra
+Rabas
+Sabur
+Bursach
 
 Ige : 
