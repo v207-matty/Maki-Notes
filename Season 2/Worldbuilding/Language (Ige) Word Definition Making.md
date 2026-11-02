@@ -51,5 +51,6 @@ Chabur
 - Above Average
 - Extrodinary
 
-Chaburin
-- Above 
+Chabin
+- Above Average Person, 
+- 
