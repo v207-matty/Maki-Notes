@@ -91,7 +91,7 @@ Establish a new Sinco world
 	- Sinco raises his hand to charge an energy blast
 - Tiroks ship releases another arm from the behind that grabs Sinco
 - Sinco gets tossed to the ground with no trees to help him
-- Sinco
+- Sinco falls to the 
 
 ## Rising Action
 
