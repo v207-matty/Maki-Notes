@@ -51,5 +51,5 @@ Base : Chabur
 - N: Above Average, Extraordinary
 
 Animal : Chabin
-- Different
-- Unusual
+- N: Different, Unusual
+- V: To be different
