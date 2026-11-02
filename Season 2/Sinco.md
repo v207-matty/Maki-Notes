@@ -22,7 +22,8 @@ Establish a new Sinco world
 	- His tail for branches below and so that he can swing for momentum
 - Sincos tail twitches slightly
 - A branch snaps once Sinco grabs it
-	- Sinco is prepared and 
+	- Sinco is prepared and instantly grabbed onto another branch at the same time
+	- Sinco holds onto the branch that 
 
 ## Inciting Incident
 
