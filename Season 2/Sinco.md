@@ -2,7 +2,7 @@
 
 Establish a new Sinco world
 
-- Less timeskips (More events in less time)  
+- Less time skips (More events in less time)  
 - Tirok is the main villain  
 - Figure out Earth  
   - How long have Supers been there?  
