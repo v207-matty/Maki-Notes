@@ -38,7 +38,7 @@ Establish a new Sinco world
 	- Sinco moves his hand so that the tree gets fully cut
 	- The tree collapses
 - Sinco cuts chunks out of the tree, creating tiny logs
-	- Sinco grabs 10 mini
+	- Sinco grabs 10 tiny logs
 
 ## Inciting Incident
 
