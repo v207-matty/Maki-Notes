@@ -5,10 +5,10 @@ Base: River
 Basic: nam
 - n : river
 
-Place: nama
+Place: nama / anama
 - n : floodplain, river valley
 
-Animal: namai
+Animal: namai / naim
 - n : fish
 - n (colloquial) : anything that lives in the water
 
