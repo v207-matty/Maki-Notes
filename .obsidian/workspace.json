@@ -35,14 +35,27 @@
             "id": "8afeb7af92911a48",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Season 1/Granule/Granule.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Granule"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,20 +230,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "05cd2af50b3e4065",
   "lastOpenFiles": [
-    "Season 1/Sinco Renewed/Sinco Renewed.md",
+    "Season 1/Granule/Granule.md",
+    "Season 1/CVT.md",
     "Season 1/Objectification/Objectification.md",
+    "Season 1/Sinco Renewed/Sinco Renewed.md",
     "Season 1/Objectification/World.md",
     "Season 1/Objectification/Cumbo.md",
     "Season 1/Objectification/Tales/Clanker/Venice/The Alley Off Candlewick Row.md",
     "Season 1/Sinco Colonized AU.md",
     "README.md",
     "Untitled.md",
-    "Season 2/The Stone One/README.md",
+    "Season 2/The Strong One/The Strong One.md",
     "Season 2",
     "Season 1",
-    "Season 2/The Stone One",
+    "Season 2/The Strong One",
     "Season 1/Objectification/Characters/Akan.md",
     "Season 1/Objectification/Characters/Susu.md",
     "Season 1/Objectification/Characters/Subas.md",
@@ -249,8 +264,6 @@
     "Season 1/Objectification/Tales/Clanker/Venice/FINE.md",
     "Season 1/Objectification/Tales/Clanker/Venice/The Star (Part 3).md",
     "Season 1/Objectification/Tales/Clanker/Venice/The Star (Part 2).md",
-    "Season 1/Objectification/Tales/Clanker/Venice/The Star (Part 1).md",
-    "Season 1/Objectification/Tales/Clanker/Venice/To Pop.md",
     "Season 1/Objectification/Tales/Clanker/Venice",
     "Season 1/Objectification/Tales/Clanker",
     "Season 1/Objectification/Tales/Human",
