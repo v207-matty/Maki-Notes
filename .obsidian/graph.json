@@ -25,7 +25,21 @@
       "query": "path:\"Season 1/CNU\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 11843502
+      }
+    },
+    {
+      "query": "path:\"Season 1/CVT\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Season 1/Objectification\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
