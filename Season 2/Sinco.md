@@ -105,7 +105,8 @@ Establish a new Sinco world
 - Sinco wakes up, hours later, mid dat
 - The forest has a clear pathway in the center of it from the city to the ocean, not a single tree in the way of it
 - Sinco gets up
-	- He can feel 
+	- He can feel his tail again
+	- He no l
 
 ## Climax
 
