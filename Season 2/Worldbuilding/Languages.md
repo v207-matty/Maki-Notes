@@ -1,5 +1,7 @@
 ## Example
 
 Base: River
-Basic: nam - river
+Basic: nam
 Place: nama
+Animal: namai
+Collective: 
