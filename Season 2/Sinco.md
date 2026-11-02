@@ -73,7 +73,7 @@ Establish a new Sinco world
 - Sinco raises his hand
 - Sinco fires several energy blasts at the machines that leave noticeable dents or holes
 	- The machines start to slow
-- Sincos tail twitches so fast that its almost imperceptable
+- Sincos tail twitches so fast that its almost imperceptible
 	- Sinco begins to turn around as he jumps off the tree
 
 ## Rising Action
@@ -83,7 +83,8 @@ Establish a new Sinco world
 	- Sinco struggles to do anything
 - Sinco is being held by the tail by a flying mechanical ship with an arm popping out of the bottom and the same "TAZ" label as the machines
 - The ship opens from the top and out comes a regular human with black hair, a closed black trench coat and pants
-	- The man i
+	- The man introduces himself as "Tirok"
+-
 
 ## Climax
 
