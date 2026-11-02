@@ -102,7 +102,8 @@ Establish a new Sinco world
 ## Rising Action
 
 - Sinco wakes up, hours later, day is just arriving
-- The forest has a clear pathway in the cente
+- The forest has a clear pathway in the center of it from the city to the ocean, not a single tree in the way of it
+- Sinco gets
 
 ## Climax
 
