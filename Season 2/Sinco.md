@@ -53,9 +53,6 @@ Establish a new Sinco world
 - Trees begin falling inside the forest
 - A chain reaction of trees falling nearly gets Sinco killed
 	- The last tree in the chain falls in front of him on top of his campfire
-
-## Inciting Incident
-
 - Sinco runs inside the forest
 	- Sinco makes it to the center of the massive forest in 8 seconds with just running
 	- Several machines with a "TAZ" label are cutting down trees
@@ -73,7 +70,7 @@ Establish a new Sinco world
 - Sincos tail twitches so fast that its almost imperceptible
 	- Sinco begins to turn around as he jumps off the tree
 
-## Conflict
+## Conflic
 
 - Sinco is grabbed mid air by the tail
 	- A surge of pain goes through Sincos entire body
@@ -99,9 +96,6 @@ Establish a new Sinco world
 - Tirok speaks before leaving : "If you Chabeten weren't assholes or jerks most of the time with your differences, maybe WE wouldn't be assholes!"
 	- Tirok flies away to the sky in his ship, watching the deforestation
 - Sinco falls unconscious
-
-## Rising Action
-
 - Sinco wakes up, hours later, mid day
 - The forest has a clear pathway in the center of it from the city to the ocean, not a single tree in the way of it
 - Sinco gets up

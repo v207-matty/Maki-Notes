@@ -30,7 +30,13 @@
               "icon": "lucide-file",
               "title": "Sinco"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "476fbf99c0b6344b",
+        "type": "tabs",
+        "children": [
           {
             "id": "c0ff7dac07a5468a",
             "type": "leaf",
@@ -43,8 +49,7 @@
               "title": "storystructure-freytag"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,11 +224,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "05cd2af50b3e4065",
   "lastOpenFiles": [
+    "Assets/storystructure-freytag.jpg",
+    "Season 2/Sinco.md",
     "Season 2/Maki Season 2.md",
     "README.md",
-    "Season 2/Sinco.md",
     "Season 2/The Strong One.md",
     "Pasted image 20261102185003.png",
     "Pasted image 20261102184959.png",
