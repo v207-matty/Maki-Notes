@@ -61,7 +61,7 @@ Gixaka
 
 Ige : Gixaka
 
-# Mortal ( Meinot )
+# Mortal ( Teinom )
 
 Japanese : Shisubeki unmei ni aru
 Norwegian : Dødelig
@@ -71,6 +71,6 @@ Morules
 Subed
 Sunaru
 Meinot
+Teinom
 
-
-Ige : Meinot
+Ige : Teinom
