@@ -2,7 +2,7 @@
 
 Establish Gego : Regular with THE most advanced tech on his planet
 
-- 
+- On the planet of Burvak
 
 ## Rising Action
 
