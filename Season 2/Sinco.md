@@ -187,3 +187,5 @@ Establish a new Sinco world
 - Sinco raises his hands in front of his face
 	- Sinco charges energy
 	- His palms begin to glow
+- Tirok is right in front of Sinco
+- 
