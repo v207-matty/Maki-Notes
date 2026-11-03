@@ -151,6 +151,7 @@ Establish a new Sinco world
 - One of Tiroks hands turn into a rocket and Tirok shoots upward, launching upward
 	- Tiroks feet turn into thrusters and he recomposes
 - Sinco pounces at Tirok
+	- 
 
 ## Resolution
 
