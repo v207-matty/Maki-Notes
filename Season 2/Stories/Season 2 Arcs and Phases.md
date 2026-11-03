@@ -14,7 +14,8 @@ Phase 1 is getting characters down, and hinting towards The Zonia Empire and the
 	- A super (ability is element bending lol)
 		- Believed to be worthy of the Kesumel 
 	- A shooting star passes the planet
-		- TZE drops off some soldiers to deal with Kumelan
+		- TZE drops off some soldiers days later
+	- Kumelan battles the T
 - [[Gixaka Watch]]
 	- Mentions of The Kesumel and trying to prevent TZE from getting it
 	- Introduces the Gixaka Watch
