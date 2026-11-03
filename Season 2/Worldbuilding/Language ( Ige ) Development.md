@@ -77,4 +77,7 @@ Ige : Teinom
 
 # God ( _ )
 
+Spanish : Dios
+Greek : Theós
+Russian : Bog
 
