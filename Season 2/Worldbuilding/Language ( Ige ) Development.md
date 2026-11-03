@@ -46,7 +46,7 @@ Chabur
 
 Ige : Chabur
 
-# Galaxy (Gixaka)
+# Galaxy ( Gixaka )
 
 Spanish : Galaxia
 Japanese : Ginga
@@ -61,7 +61,7 @@ Gixaka
 
 Ige : Gixaka
 
-# Mortal 
+# Mortal ( Meinot )
 
 Japanese : Shisubeki unmei ni aru
 Norwegian : Dødelig
@@ -71,3 +71,6 @@ Morules
 Subed
 Sunaru
 Meinot
+
+
+Ige : Meinot
