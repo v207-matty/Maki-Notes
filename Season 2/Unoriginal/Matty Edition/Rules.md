@@ -11,3 +11,5 @@ Range:
 - 0 - Human
 - 50 - Frieza
 - 100 - Buu
+
+Decimals are allowed for extra precision
