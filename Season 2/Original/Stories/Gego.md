@@ -4,7 +4,7 @@ That day has arrived, 8 Zonia Empire soldiers arrive on Burvak looking for Gego,
 
 After about an hour of setup Gego flies towards the Zonia Empire soldiers but is quickly bested as they strategically shoot his jetpack, making him crash-land while also destroying multiple weapons that were housed in the jetpack, Gego attempts to battle on anyway, shooting blasts from his hands that get deflected by the Zonia Empire soldiers with new tech. Gego is attacked from behind by cloaked soldiers that stomp on him as soon as he falls over from being whacked in the head with a pipe. Gego deploys a smoke bomb and escapes through a secret tunnel he created.
 
-After recovery, Gego gets straight to work upgrading his mech suit, the Zonia Empire soldiers are sticking around so he can't just 
+After recovery, Gego gets straight to work upgrading his mech suit, the Zonia Empire soldiers are sticking around so he can't add anything advanced, he just has to fix the durability again while repairing his arsenal, 
 
 Gego upgrades his tech, fixing the weak points that were exploited in the last fight
 
