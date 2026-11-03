@@ -138,6 +138,9 @@ Divycu
 Avena
 Acyta
 Dybe
+Noma
+Notay
+Yav
 
 Ige : 
 
