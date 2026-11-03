@@ -17,7 +17,7 @@ Phase 1 is getting characters down, and hinting towards The Zonia Empire and the
 - [[Gego]]
 	- A regular directly against The Zonia Empire
 		- Said regular meets Zonia himself and is nearly killed
-	- Geg
+	- Gego is a regular who knows tech and can use that to assist him
 
 Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together that I can
 - [[Gixaka Watch]]
