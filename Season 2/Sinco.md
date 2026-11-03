@@ -143,7 +143,7 @@ Establish a new Sinco world
 - Tirok stands below, furious
 	- Tirok: "YOU, STUPID, IDIOT, CHABIN."
 	- Tirok: "MUST YOU DESTROY EVERY ONE OF MY THINGS!?!?"
-	- Sinco: ""
+	- Sinco: "You're the one destroying the environment I "
 
 ## Resolution
 
