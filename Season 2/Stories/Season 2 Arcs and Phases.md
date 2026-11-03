@@ -30,10 +30,9 @@ Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together
 	- Stone, Sinco, and Kumel gets recruited by the Gixaka Watch
 	- Gego asks to be recruited by the Gixaka Watch
 	- Introduction of Kina
-		- Regular that has trained to strengthen his body, mind, and spirit, and to posses powers ()
-
+		- Regular that has trained to strengthen his body, mind, and spirit, and to posses powers
 - [[The Outer Realm]]
-	- 
+	- The 5 supers are ambushed by The Z
 - [[Chabet]]
 	- 
 
