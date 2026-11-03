@@ -14,8 +14,8 @@ Phase 1 is getting characters down, and hinting towards the Zonia Empire and the
 - [[Geguro]]
 	- A regular directly against The Zonia Empire
 		- Said regular meets Zonia himself and is nearly killed
-- [[Kumel]]
-	- 
+- [[Kumelan]]
+	- A super ()
 
 Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together that I can
 - [[?]]
