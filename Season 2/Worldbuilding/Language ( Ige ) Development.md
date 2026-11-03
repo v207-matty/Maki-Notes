@@ -80,4 +80,9 @@ Ige : Teinom
 Spanish : Dios
 Greek : Theós
 Russian : Bog
+Japanese : Kami
 
+Dimi
+Bogi
+Miga
+Ka
