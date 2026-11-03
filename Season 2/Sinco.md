@@ -140,8 +140,8 @@ Establish a new Sinco world
 	- Sincos adrenaline kicks in
 - Sinco jumps up
 	- Sinco grabs a lamp post with his tail and spins to land on it
-- Tirok stands below
-	- Tirok: ""
+- Tirok stands below, furious
+	- Tirok: "YOU, STUPID, IDIOT, "
 
 ## Resolution
 
