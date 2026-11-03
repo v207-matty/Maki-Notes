@@ -1,6 +1,6 @@
 ## Saiyan Saga
 
-- 
+- Bulma
 
 ## Namek Saga
 
