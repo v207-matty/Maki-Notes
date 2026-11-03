@@ -8,8 +8,10 @@ Zonia Empire soldiers arrive on Gegos planet to deal with him, causing destructi
 
 ## Climax
 
-Gego is defeated by the Zonia Empire soldiers
+Gego is defeated by the Zonia Empire soldiers and retreats
 
 ## Falling Action
+
+
 
 ## Resolution
