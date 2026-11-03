@@ -42,7 +42,7 @@ Phase 3 is the pay off, all the dominos start to fall
 	- Zonia gives them several powered up soldiers to deal with
 	- They once again work together to deal with the soldiers
 - [[Near Close]]
-	- The 5 supers are picked up by the Gixaka Watch
-	- They have to find Zonia
+	- The Galaxy Recruits are picked up by the Gixaka Watch
+	- They search for Zonia
 - [[Zenith]]
 	- The 5 supers vs Zonia
