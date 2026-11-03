@@ -148,7 +148,8 @@ Establish a new Sinco world
 	- Tirok lands on the lamppost
 	- Sinco spins around the lamppost with his tail
 	- Sinco kicks Tirok
-- One of Tiroks hands turn into a rocket
+- One of Tiroks hands turn into a rocket and Tirok shoots upward
+	- Flames emerge from Tiroks f
 
 ## Resolution
 
