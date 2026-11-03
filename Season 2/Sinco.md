@@ -177,6 +177,7 @@ Establish a new Sinco world
 ## Resolution
 
 - Sincos tail twitches
+- Sinco o
 - Sinco brings up his arms to block
 - Tirok 
 
