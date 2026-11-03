@@ -197,4 +197,4 @@ Establish a new Sinco world
 - Sinco is back in the forest
 	- Hurt
 	- Resting
-	- Ready to figu
+	- Ready to fight again, later
