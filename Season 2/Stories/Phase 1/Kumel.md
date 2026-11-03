@@ -1,31 +1,16 @@
 ## Exposition
 
-Kumel life flashback
-
-## Inciting Incident
-
-
-
-## Conflict
-
-
 
 ## Rising Action
-
 
 
 ## Climax
 
 
-
 ## Falling Action
 
+Gego advances his tech
 
+## Resolution
 
-## Catastrophe
-
-
-
-## Denouement
-
-
+Gego returns to deal with the Zonia Empire soldiers and ends up victorious
