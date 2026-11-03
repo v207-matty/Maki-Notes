@@ -12,8 +12,8 @@ The Zonia Empire soldiers cause destruction on Kumels planet
 
 ## Falling Action
 
-Kumel begins to battle the soldiers, slowly ramping up how aggressive they
+Kumel begins to battle the soldiers, slowly ramping up how aggressive they use their powers
 
 ## Resolution
 
-
+The Zonia 
