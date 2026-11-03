@@ -12,7 +12,7 @@ Two days later more Zonia Empire Soldiers arrive on Chacuric, but instead of fly
 
 The Strong One spends a quarter of the day on the moon, just thinking, but now a major thought has finally, why not just get stronger? The issue was that the soldiers were stronger then him, getting stronger is the logical next step, nothing is stopping him, and so The Strong One returns to Chacuric, flying as fast as he can back to the ground, despite his hard landing, the planet is fine, its just like a boulder fell to the ground, only the ground and or people close by can feel it, no matter, that's irrelevant right now, The Strong One needs to train to stay The Strong One, and so he does, for the rest of the day he trains as hard as he can, discovering that he was just strong relative to the natives of the planet and that the planet itself was stronger then he, but with the massive power gap The Strong One could catch up faster once he just started putting the effort in, this continues for half of the next day, but there is the arrival of a ship in the center of Chacuric.
 
-A ship from The Zonia Empire has arrived on Chacuric, ready to colonize it as official Zonia Empire property, 8 Zonia Empire soldiers come out, some grabbing
+A ship from The Zonia Empire has arrived on Chacuric, ready to colonize it as official Zonia Empire property, 8 Zonia Empire soldiers come out, some standing guard while the rest begin the colonization process
 
 - The Zonia Empire arrives on Chacuric to takeover  
   - The Chacuric people are ready to accept their fate  
