@@ -154,7 +154,9 @@ Establish a new Sinco world
 	- Tiroks feet turn into thrusters and he recomposes
 - Sinco pounces at Tirok
 	- Sinco grabs onto his head
-- Sinco hits and bangs and scratches on Tirok
+
+- Sinco bangs and scratches on Tirok
+
 - Sincos tail twitches
 - Sinco dangles from Tiroks leg thanks to his tail
 - Tirok swings his right hand
