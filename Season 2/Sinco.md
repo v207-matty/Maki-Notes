@@ -142,11 +142,8 @@ Establish a new Sinco world
 	- Sinco grabs a lamp post with his tail and spins to land on it
 - Tirok stands below, furious
 	- Tirok: "YOU, STUPID, IDIOT, CHABIN."
-	- Tirok: "MUST YOU DESTROY EVERY ONE OF MY THINGS!?!?"
-	- Sinco: "You're the one destroying the environment people and animals live in!"
-	- Tirok: "NO BODY FUCKING CARES ABOUT THE STUPID FOREST ANYMORE."
-	- Sinco: "I-"
-	- Tirok: "AND NO BODY CARES ABOUT WHAT YOU CHABIN THINK"
+- Sincos tail twitches
+- Tirok jumps at Sinco
 
 ## Resolution
 
