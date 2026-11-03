@@ -75,7 +75,7 @@ Teinom
 
 Ige : Teinom
 
-# God ( _ )
+# God ( Kaimos )
 
 Spanish : Dios
 Greek : Theós
@@ -90,7 +90,7 @@ Kaimos
 
 Ige : Kaimos
 
-# Angel ( _ )
+# Angel ( Anile )
 
 Japanese : Tenshi
 Danish : Engel
@@ -103,3 +103,5 @@ Anir
 Anile
 
 Ige : Anile
+
+# N
