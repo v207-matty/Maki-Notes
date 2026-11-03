@@ -118,7 +118,8 @@ Sinco trashes TAZ factory
 	- Several machines are there
 		- Burning fossil fuels
 		- Turning wood into paper
-		- 
+		- Developing Artificial Intelligence
+		- Creating 
 
 ## Falling Action
 
