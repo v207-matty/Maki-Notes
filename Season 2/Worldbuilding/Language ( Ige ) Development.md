@@ -51,6 +51,7 @@ Ige : Chabur
 Spanish : Galaxia
 Japanese : Ginga
 Swedish : Galax
+Russian : Galaktika
 
 Gilay
 
