@@ -192,4 +192,6 @@ Establish a new Sinco world
 - Tirok emerges from the smoke
 	- Tirok sustained minimal damage
 	- Sinco is no where to be seen
-- Tirok: "Serves you right you stupid Chabin"
+- Tirok: "Serves you right you stupid Chabin."
+
+- Sinco is back in the forest
