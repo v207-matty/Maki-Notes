@@ -8,7 +8,7 @@ A shooting star passes and the planet starts to shake, and behind the shooting s
 
 ## Climax
 
-The Zonia Empire soldiers cause destruction on Kumels
+The Zonia Empire soldiers cause destruction on Kumels planet
 
 ## Falling Action
 
