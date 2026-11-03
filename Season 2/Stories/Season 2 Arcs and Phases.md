@@ -38,6 +38,8 @@ Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together
 Phase 3 is the pay off, all the dominos start to fall
 - [[Chabet]]
 	- The 5 supers escape The Outer Realm 
+	- They meet Zonia
+	- 
 - [[?]]
 	- 
 - [[?]]
@@ -45,4 +47,4 @@ Phase 3 is the pay off, all the dominos start to fall
 - [[?]]
 	- 
 - [[Zenith]]
-	- 
+	- The 5 supers vs Zonia
