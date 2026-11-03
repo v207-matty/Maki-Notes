@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/Stories/Kumel.md",
+                "file": "Season 2/Stories/Kina.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kumel"
+              "title": "Kina"
             }
           }
         ]
@@ -236,13 +236,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fcdc2977b521649",
+  "active": "8543d568a4dc5140",
   "lastOpenFiles": [
     "Season 2/Stories/Kina.md",
+    "Season 2/Stories/Kumel.md",
     "Season 2/Stories/Season 2 Timeline.md",
     "Season 2/Stories/Gego.md",
     "Season 2/Maki Season 2.md",
-    "Season 2/Stories/Kumel.md",
     "Assets/storystructure-freytag.jpg",
     "Assets/storystructure-5acts.jpg",
     "Season 2/Stories/The Strong One.md",
