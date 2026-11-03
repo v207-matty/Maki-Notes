@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Season 2 Arcs and Phases"
             }
-          },
-          {
-            "id": "bb0ee289881aa04f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Strong One Call To Action.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Strong One Call To Action"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,9 +206,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb0ee289881aa04f",
+  "active": "05cd2af50b3e4065",
   "lastOpenFiles": [
-    "The Strong One Call To Action.md",
+    "Season 2/Stories/Phase 2/The Strong One ; Call To Action.md",
     "Season 2/Stories/Season 2 Arcs and Phases.md",
     "Season 2/Stories/Phase 1/The Strong One.md",
     "Season 2/Maki Season 2.md",
