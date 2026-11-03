@@ -32,24 +32,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "476fbf99c0b6344b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c0ff7dac07a5468a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/storystructure-freytag.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "storystructure-freytag"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
