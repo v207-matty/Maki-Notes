@@ -89,5 +89,6 @@ Katho
 
 # Angel ( _ )
 
-Spanish : 
-Japanese :
+Japanese : Tenshi
+
+
