@@ -134,6 +134,9 @@ Italian : Diavola / Diavolo
 Vietnamese : Ác quỷ
 
 Chemolo
-Di
+Divycu
+Avena
+
+Ige ""
 
 # N
