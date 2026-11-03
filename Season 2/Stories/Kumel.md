@@ -18,4 +18,4 @@ Kumel begins to battle the soldiers, slowly ramping up how aggressive they use t
 
 The Zonia Empire soldiers are defeated, though a warning comes with their defeat : "This is merely a delay of the inevitable, Zonia will get the Kesumel and all will bow before him".
 
-Kumel replies before ending them fully : "I am a far descendent of the original Kesel gods"
+Kumel replies before ending them fully : "I am a far descendent of the original Kesel gods, it will know "
