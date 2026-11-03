@@ -8,7 +8,7 @@ The Strong One : "I was... weak..."
 
 That night The Strong One began to have nightmares where more of those soldiers came and that The Strong One couldn't do anything about it, they would take over Chacuric with no effort, the following day The Strong One looks to resolve this worries by helping more, he strong enough and powerful enough to help, yesterday was just a fluke from the peaceful years they've experienced.
 
-2 days late
+Two days later more Zonia Empire Soldiers arrive on Chacuric, but instead 
 
 - 2 Zonia Empire Soldiers arrive on Chacuric  
   - They destroy several parts of the planet  
