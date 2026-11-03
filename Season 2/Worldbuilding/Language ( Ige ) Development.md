@@ -111,7 +111,10 @@ Danish : Orm
 
 Wukor
 Por
-Porku
+Porkum
+Porop
+Orumor
+Oru
 
 Ige : 
 
