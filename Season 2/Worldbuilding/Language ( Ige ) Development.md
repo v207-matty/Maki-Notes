@@ -86,6 +86,9 @@ Dimi
 Bogi
 Miga
 Katho
+Kaimos
+
+Ige : Kaimos
 
 # Angel ( _ )
 
@@ -97,4 +100,3 @@ Penshi
 Enrish
 Torngel
 Anir
-
