@@ -154,7 +154,8 @@ Establish a new Sinco world
 	- Sinco grabs onto his head
 - Sinco hits and bangs and scratches on Tirok
 - Sincos tail twitches
-- Sinco jumps off
+- Sinco dangles from Tiroks
+- Tirok
 
 ## Resolution
 
