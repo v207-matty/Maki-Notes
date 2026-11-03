@@ -170,13 +170,10 @@ Establish a new Sinco world
 - Tirok stops spinning suddenly
 	- Inertia makes Sinco get flung off Tiroks leg
 - Tirok flies close behind Sinco
-- Tirok clenches 
-
-- Sincos tail twitches
+- Tirok clenches both his hands together and winds up
 
 ## Resolution
 
-Tirok ends up victorious
-
-- 
+- Sincos tail twitches
+- Sinco 
 
