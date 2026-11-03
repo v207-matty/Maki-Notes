@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Season 2/Stories/Kumel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Kumel"
             }
           },
           {
@@ -230,11 +230,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "162e3eeeab365873",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
+    "Untitled.md",
     "Season 2/Stories/The Strong One.md",
     "Season 2/Stories/Sinco.md",
-    "Untitled.md",
     "Season 2/Stories/Gego.md",
     "Season 2/Stories/Kumel.md",
     "README.md",
