@@ -117,6 +117,7 @@ Sinco trashes TAZ factory
 - Sinco enters the TAZ factory
 	- Several machines are there
 		- Burning fossil fuels
+		- Turning wood into paper
 		- 
 
 ## Falling Action
