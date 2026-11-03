@@ -13,12 +13,11 @@ Range:
 - 50 - Frieza
 - 100 - Buu
 
-For closer comparison it can be 
-
 ## Saiyan Saga
 
 Raditz power is 5
-Goku and Piccolo are 3
+Goku is 3.5
+Piccolo is 3.1
 
 ## Namek Saga
 
