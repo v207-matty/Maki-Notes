@@ -1,4 +1,6 @@
-## 
+## Rules
+
+- 
 
 ## Saiyan Saga
 
