@@ -22,7 +22,7 @@ Kina works toward stopping Kupo
 
 ## Falling Action
 
-Kina cant stop Kupo but instead 
+Kina cant stop Kupo but instead weakens their forces
 
 ## Resolution
 
