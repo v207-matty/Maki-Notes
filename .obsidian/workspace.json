@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Season 2 Arcs and Phases"
             }
+          },
+          {
+            "id": "b2b18cce4ced53df",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.0"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,11 +219,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fcdc2977b521649",
+  "active": "b2b18cce4ced53df",
   "lastOpenFiles": [
+    "Season 2/Stories/Season 2 Arcs and Phases.md",
     "README.md",
     "The Outer Realm.md",
-    "Season 2/Stories/Season 2 Arcs and Phases.md",
     "Season 2/Worldbuilding/Language ( Ige ) Word Definition Making.md",
     "Season 2/Worldbuilding/Language ( Ige ) Development.md",
     "Season 2/Worldbuilding/Kesumel.md",
