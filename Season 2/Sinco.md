@@ -116,20 +116,19 @@ Sinco trashes TAZ factory
 
 - Sinco enters the TAZ factory
 	- Several machines are there
-		- Burning fossil fuels
-		- Turning wood into paper
+		- Turning wood into sheets of paper
 		- Developing and managing Artificial Intelligences
 		- Creating Clothing in rapid pace
 		- Doing research on animal populations, reproduction rates, and more
 		- Creating food from animal remains
 		- Managing packaging and shipping for stores
-		- Generating energy
+		- Generating electricity
 		- Performing experiments and tests
 - Sinco looks around and is disgusted
 - Sinco raises his hands
 - Sinco shoots several energy blasts at different machines
 	- Several explosions emerge from system failings and from collision with the energy blasts
-- Sinco jumps around from
+- Sinco jumps around from 
 
 ## Falling Action
 
