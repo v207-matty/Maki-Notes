@@ -168,6 +168,7 @@ Establish a new Sinco world
 - Tirok swings his right hand back and hits Sinco straight in the face
 - Tirok spins around
 - Tirok stops spinning suddenly
+	- Inertia makes Sinco fly off Tiroks leg
 
 ## Resolution
 
