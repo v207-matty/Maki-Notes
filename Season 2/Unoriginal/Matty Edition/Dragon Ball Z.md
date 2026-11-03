@@ -5,7 +5,7 @@ Goku is 2.5
 Piccolo is 2.1
 
 - Raditz arrives on Earth and instantly heads towards Piccolo
-- Piccolo
+- Piccolo 
 
 ## Namek Saga
 
