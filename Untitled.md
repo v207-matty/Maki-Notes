@@ -153,6 +153,21 @@ Quyve
 Ige : Quyve
 
 # Language Word Definition
+## Chabur
+
+Chabur (Singular) / Chabet (Plural) : Positive connotation
+- N: One (or multiple) that is / are above others
+- V: To be above others in status
+
+Chabui (Singular) / Chabeti (Plural) : Positive connotation
+- N: An extraordinary thing
+- V: To be above all in status
+
+Chabin (Singular) / Chabeten (Plural) : Negative connotation
+- N: A weird or unusual thing
+- V: To be different
+
+There is a Chabeti that is actually a Chabeten cause of the amount of Chabin in there compared to the amount of Chabur.
 
 # The Strong One
 ## Exposition
