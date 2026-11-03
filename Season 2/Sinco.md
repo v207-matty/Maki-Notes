@@ -152,6 +152,7 @@ Establish a new Sinco world
 	- Tiroks feet turn into thrusters and he recomposes
 - Sinco pounces at Tirok
 	- Sinco grabs his head
+- 
 
 ## Resolution
 
