@@ -123,6 +123,6 @@ Moru
 Puko
 Kupo
 
-Ige : 
+Ige : Kup
 
 # N
