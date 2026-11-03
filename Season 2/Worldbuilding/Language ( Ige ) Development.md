@@ -104,7 +104,7 @@ Anile
 
 Ige : Anile
 
-# Worm ( _ )
+# Worm ( Kupo )
 
 Assamese : Puk
 Danish : Orm
@@ -123,6 +123,6 @@ Moru
 Puko
 Kupo
 
-Ige : Kup
+Ige : Kupo
 
 # N
