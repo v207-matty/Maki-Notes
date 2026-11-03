@@ -125,4 +125,6 @@ Kupo
 
 Ige : Kupo
 
+# Devil ( _ )
+
 # N
