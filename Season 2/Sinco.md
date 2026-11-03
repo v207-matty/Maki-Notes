@@ -118,7 +118,7 @@ Sinco trashes TAZ factory
 	- Several machines are there
 		- Burning fossil fuels
 		- Turning wood into paper
-		- Developing Artificial Intelligence
+		- Developing and managing Artificial Intelligence
 		- Creating Clothing in rapid pace
 		- Doing research on animal populations, reproduction rates, and more
 		- Creating food from animal remains
