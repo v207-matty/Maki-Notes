@@ -1,7 +1,4 @@
-The planet Chacuric is a primitive society that consists of stone tools, houses with the bare minimum of structural integrity, the natives are reliant on farm land and water to survive.
-
-One day, several years ago came a pod with a child inside, this child is The Strong One, the child who as he grew, discovered his natural born strength and power, using these differences of his to help the world, becoming the primary protector of Chacuric once he ends The Menya War, where several countries were overtaken by Menya, but The Strong Ones interference has deemed the entire planet safe thanks to him, and that declaration can lead to bad actors seeking to dispro
-## Inciting Incident
+The planet Chacuric is a primitive society that consists of stone tools, houses with the bare minimum of structural integrity, the natives are reliant on farm land and water to survive, one day, several years ago came a pod with a child inside, this child is The Strong One, the child who as he grew, discovered his natural born strength and power, using these differences of his to help the world, becoming the primary protector of Chacuric once he ends The Menya War, where several countries were overtaken by Menya, but The Strong Ones interference has deemed the entire planet safe thanks to him, and that declaration can lead to bad actors seeking to disprove it or to use it.
 
 - A spy camera is discovered  
   - TSO inspects it  
@@ -15,8 +12,6 @@ One day, several years ago came a pod with a child inside, this child is The Str
   - The Strong One questions his strength  
 - The Strong One questions his power
 
-## Conflict
-
 - A Zonia Empire Soldier arrives on Chacuric  
 - TSO and The Soldier battle  
   - TSO is weaker  
@@ -24,8 +19,6 @@ One day, several years ago came a pod with a child inside, this child is The Str
 - TSO wins by tricking The Soldier  
   - TSO is disappointing  
 - TSO starts questioning himself
-
-## Rising Action
 
 - TSO starts having nightmares where he is weak  
 - TSO has to make himself believe  
