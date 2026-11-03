@@ -159,6 +159,7 @@ Establish a new Sinco world
 - Sincos tail twitches
 - Sinco swings upward to punch Tirok in the head
 	- It hurts
+- Sincos tail twitches
 
 ## Resolution
 
