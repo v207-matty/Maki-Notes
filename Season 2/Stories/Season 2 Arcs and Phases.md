@@ -6,7 +6,7 @@ Phase 1 is getting characters down, and hinting towards The Zonia Empire and the
 	- Stone is a powerful Chabur that can constantly grow
 - [[Sinco]]
 	- Zonia Empire working with Tirok (TAZ : Tirok And Zonia)
-	- Sinco is an excellent mover
+	- Sinco is an excellent with movement
 - [[Kumel]]
 	- A super (ability is element bending lol)
 		- Believed to be worthy of the Kesumel 
