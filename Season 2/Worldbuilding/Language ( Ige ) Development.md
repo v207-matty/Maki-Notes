@@ -114,7 +114,10 @@ Por
 Porkum
 Porop
 Orumor
-Oru
+Urom
+Uruk
+Upuk
+Urup
 
 Ige : 
 
