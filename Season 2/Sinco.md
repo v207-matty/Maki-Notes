@@ -144,7 +144,7 @@ Establish a new Sinco world
 	- Tirok: "YOU, STUPID, IDIOT, CHABIN."
 	- Tirok: "MUST YOU DESTROY EVERY ONE OF MY THINGS!?!?"
 	- Sinco: "You're the one destroying the environment people and animals live in!"
-	- 
+	- Tirok: "NO BODY FUCKING CARES ABOUT TH"
 
 ## Resolution
 
