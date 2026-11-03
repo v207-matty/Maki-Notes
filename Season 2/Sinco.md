@@ -132,7 +132,7 @@ Sinco trashes TAZ factory
 	- Sinco is hit with the explosion and goes through several walls of concrete
 - Sinco lays on the concrete of outside
 	- Sinco lays on the road
-	- Several ex
+	- Several explosions happen one after another
 
 ## Falling Action
 
