@@ -8,10 +8,7 @@ There is always someone that is stronger, it is only your job to surpass them
 
 There is always a higher amount of strength you can reach
 
-# Outline
-
-# ![][Assets/storystructure-5acts.jpg]
-
+# Plot
 ## Exposition
 
 - Chacuric is a planet with a primitive society  
