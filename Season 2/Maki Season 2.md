@@ -5,7 +5,10 @@ You can go to [[Season 2 Timeline]] to see the films
 ## Films
 
 - [[The Strong One]]
-- 
+- [[Sinco]]
+- [[Gego]]
+- [[Kumel]]
+- [[Kina]]
 
 ## Worldbuilding
 
