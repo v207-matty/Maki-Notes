@@ -7,7 +7,7 @@ Phase 1 is getting characters down, and hinting towards the Zonia Empire and the
 - [[Sinco]]
 	- Zonia Empire working with Tirok (TAZ : Tirok And Zonia)
 	- Sinco is an excellent mover
-- [[Galaxy Watch]]
+- [[Gixaka Watch]]
 	- Zonia Empire mentioned loosely with the context of The Kesumel
 	- Introduces the Gixaka Watch
 		- Can recruit Chabet from across the Teinom Realm
