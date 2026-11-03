@@ -35,24 +35,12 @@
             "id": "c0ff7dac07a5468a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Season 2/Maki Season 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Assets/storystructure-freytag.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Maki Season 2"
+              "icon": "lucide-image",
+              "title": "storystructure-freytag"
             }
           }
         ],
@@ -231,10 +219,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0ff7dac07a5468a",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
-    "README.md",
     "Season 2/Maki Season 2.md",
+    "README.md",
     "Season 2/Sinco.md",
     "Season 2/The Strong One.md",
     "Pasted image 20261102185003.png",
