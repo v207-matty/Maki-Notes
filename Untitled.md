@@ -348,7 +348,7 @@ Establish Gixaka Watch : A galaxy watching patrol that is supported by the Anile
 
 The Gixaka Watch notice The Zonia Empire is getting closer and closer to the Kesumel
 
-Kina wants to gather a group of heros to assist the Gixaka Watch, his desires are vetoed however
+Kina wants to gather a group of heros to assist the Gixaka Watch in dealing with the Zonia Empire, but their desires are ignored and denied.
 
 The Gixaka Watch is becoming more and more lenient with bad actors
 
@@ -366,4 +366,4 @@ Kina cant stop Kupo but instead weakens their forces
 
 ## Resolution
 
-Kina escapes the Gixaka Watch and wanders
+Kina escapes the Gixaka Watch and wanders the Teinom Realm (Mortal Realm)

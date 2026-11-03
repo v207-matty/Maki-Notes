@@ -26,4 +26,4 @@ Kina cant stop Kupo but instead weakens their forces
 
 ## Resolution
 
-Kina escapes the Gixaka Watch and wanders the 
+Kina escapes the Gixaka Watch and wanders the Teinom Realm (Mortal Realm)
