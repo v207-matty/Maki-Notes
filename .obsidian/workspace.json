@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "Maki Season 2"
             }
+          },
+          {
+            "id": "837833f844e420d1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,10 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05cd2af50b3e4065",
+  "active": "837833f844e420d1",
   "lastOpenFiles": [
-    "Season 2/Stories/Season 2 Arcs and Phases.md",
+    "Untitled.md",
     "Season 2/Maki Season 2.md",
+    "Season 2/Stories/Season 2 Arcs and Phases.md",
     "Season 2/Stories/Phase 3",
     "Season 2/Stories/Phase 2",
     "Season 2/Stories/Phase 1",
@@ -241,7 +253,6 @@
     "Season 1/Objectification/World.md",
     "Season 1/Objectification/Tales/Clanker/Venice/The Alley Off Candlewick Row.md",
     "Season 1/Sinco Colonized AU.md",
-    "Untitled.md",
     "Season 2",
     "Season 1",
     "Season 2/The Strong One",
