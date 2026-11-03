@@ -2,7 +2,7 @@ The planet Chacuric is a primitive society that consists of stone tools, houses 
 
 One day a spy camera is discovered by The Strong One, and with its discover comes a warning of an arrival, once the warning is spoken the camera explodes, causing The Strong One to get hurt, this is a first for The Strong One, nothing had ever hurt him before, everyone on this planet could be handled by him with a finger, and yet this random piece of technology could harm him.
 
-The next day a person arrived on Chacuric, they spoke of being a Zonia Empire Soldier
+The next day a person arrived on Chacuric, they spoke of being a Zonia Empire Soldier here to deal with a potential threat and to colonize, The Strong One began battle with the soldier, 
 
 - A Zonia Empire Soldier arrives on Chacuric  
 - TSO and The Soldier battle  
