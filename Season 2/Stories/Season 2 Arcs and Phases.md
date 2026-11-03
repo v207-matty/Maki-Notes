@@ -22,8 +22,8 @@ Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together
 	- Mentions of The Kesumel and trying to prevent TZE from getting it
 	- Introduces the Gixaka Watch
 		- Can recruit Chabet from across the Teinom Realm
-- [[?]]
-	- 
+- [[The Outer Realm]]
+	- The 
 - [[?]]
 	- 
 - [[?]]
