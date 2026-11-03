@@ -146,7 +146,7 @@ Establish a new Sinco world
 - Tirok jumps at Sinco
 	- Sinco jumps off the lamppost
 	- Tirok lands on the lamppost
-	- Sinco spins on the lma
+	- Sinco spins on the lamppost with his tail
 
 ## Resolution
 
