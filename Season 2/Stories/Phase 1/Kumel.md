@@ -2,17 +2,9 @@
 
 Establish Kumel : A helper on his planet, able to manipulate all of the elements while most other supers on the planet can only manipulate one element
 
-## Inciting Incident
-
-A shooting star passes and the planet starts ha
-
-## Conflict
-
-
-
 ## Rising Action
 
-
+A shooting star passes and the planet starts having
 
 ## Climax
 
