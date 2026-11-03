@@ -55,5 +55,6 @@ Russian : Galaktika
 
 Gilay
 Tilax
-Lat
-
+Lataxy
+Gixay
+Gixaka
