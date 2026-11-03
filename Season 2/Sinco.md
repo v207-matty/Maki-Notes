@@ -161,7 +161,7 @@ Establish a new Sinco world
 	- It hurts
 - Sincos tail twitches
 - Tirok swings and hits Sinco straight in the face
-- Tiroks thruster feet
+- Tirok spins around and tosses 
 
 ## Resolution
 
