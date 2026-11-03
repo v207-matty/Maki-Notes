@@ -70,7 +70,7 @@ Establish a new Sinco world
 - Sincos tail twitches so fast that its almost imperceptible
 	- Sinco begins to turn around as he jumps off the tree
 
-## Conflic
+## Rising Action
 
 - Sinco is grabbed mid air by the tail
 	- A surge of pain goes through Sincos entire body
@@ -133,17 +133,11 @@ Sinco trashes TAZ factory
 
 ## Falling Action
 
-Tirok and Sinco meet again
+Tirok and Sinco meet again and fight
 
 - 
 
-## Catastrophe
-
-Tirok and Sinco fight
-
-- 
-
-## Denouement
+## Resolution
 
 Tirok ends up victorious
 
