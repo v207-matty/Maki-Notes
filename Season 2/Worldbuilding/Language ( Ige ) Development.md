@@ -125,7 +125,7 @@ Kupo
 
 Ige : Kupo
 
-# Devil ( _ )
+# Devil ( Quyve )
 
 Assamese : Chyatan
 Spanish : Demonio
@@ -143,6 +143,6 @@ Notay
 Yavo
 Quyve
 
-Ige : 
+Ige : Quyve
 
 # N
