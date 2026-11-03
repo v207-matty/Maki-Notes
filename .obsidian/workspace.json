@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/Sinco.md",
+                "file": "Season 2/Worldbuilding/Kesumel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sinco"
+              "title": "Kesumel"
             }
           }
         ]
@@ -208,11 +208,12 @@
   },
   "active": "05cd2af50b3e4065",
   "lastOpenFiles": [
+    "Season 2/Sinco.md",
+    "Season 2/Worldbuilding/Kesumel.md",
     "Season 2/Worldbuilding/Language ( Ige ) Word Definition Making.md",
     "Season 2/Worldbuilding/Questions To Answer.md",
     "Season 2/Maki Season 2.md",
     "Season 2/The Strong One.md",
-    "Season 2/Sinco.md",
     "Season 2/Worldbuilding/Language ( Ige ) Development.md",
     "Assets/storystructure-freytag.jpg",
     "README.md",
