@@ -121,7 +121,7 @@ Sinco trashes TAZ factory
 		- Developing Artificial Intelligence
 		- Creating Clothing in rapid pace
 		- Doing research on animal populations, reproduction rates, and more
-		- Creating food from animal 
+		- Creating food from animal remains
 - 
 
 ## Falling Action
