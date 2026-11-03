@@ -1,6 +1,6 @@
 The planet Chacuric is a primitive society that consists of stone tools, houses with the bare minimum of structural integrity, the natives are reliant on farm land and water to survive, one day, several years ago came a pod with a child inside, this child is The Strong One, the child who as he grew, discovered his natural born strength and power, using these differences of his to help the world, becoming the primary protector of Chacuric once he ends The Menya War, where several countries were overtaken by Menya, but The Strong Ones interference has deemed the entire planet safe thanks to him, and that declaration can lead to bad actors seeking to disprove it or to use it.
 
-One day a spy camera is discovered by The Strong One, and with its discover comes a warning of an arrival, once the warning is spoken the camera explodes, causing The Strong One to get hurt, 
+One day a spy camera is discovered by The Strong One, and with its discover comes a warning of an arrival, once the warning is spoken the camera explodes, causing The Strong One to get hurt, this is a first for 
 
 - A spy camera is discovered  
   - TSO inspects it  
