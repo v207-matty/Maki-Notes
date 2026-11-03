@@ -1,1 +1,1 @@
-The ke
+The Kesumel was / is an artifact granted to a wa
