@@ -13,6 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Season 2/Stories/Kina.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kina"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2705b3d1a94d2b9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8543d568a4dc5140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Season 2/Worldbuilding/Language ( Ige ) Development.md",
                 "mode": "source",
                 "source": false,
@@ -29,36 +59,6 @@
               },
               "icon": "lucide-file",
               "title": "Language ( Ige ) Development"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2705b3d1a94d2b9e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8543d568a4dc5140",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/Stories/Season 2 Timeline.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Season 2 Timeline"
             }
           }
         ]
@@ -236,22 +236,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fcdc2977b521649",
+  "active": "8543d568a4dc5140",
   "lastOpenFiles": [
-    "Season 2/Stories/Kina.md",
+    "Season 2/Worldbuilding/Language ( Ige ) Word Definition Making.md",
+    "Season 2/Worldbuilding/Questions To Answer.md",
+    "Season 2/Maki Season 2.md",
     "Season 2/Worldbuilding/Kesumel.md",
     "Season 2/Stories/Season 2 Timeline.md",
+    "Season 2/Stories/Kina.md",
     "Season 2/Stories/Kumel.md",
+    "Season 2/Worldbuilding/Language ( Ige ) Development.md",
     "Season 2/Stories/Gego.md",
-    "Season 2/Maki Season 2.md",
     "Assets/storystructure-freytag.jpg",
     "Assets/storystructure-5acts.jpg",
     "Season 2/Stories/The Strong One.md",
     "README.md",
     "The Outer Realm.md",
-    "Season 2/Worldbuilding/Language ( Ige ) Word Definition Making.md",
-    "Season 2/Worldbuilding/Language ( Ige ) Development.md",
-    "Season 2/Worldbuilding/Questions To Answer.md",
     "Season 2/Stories/Sinco.md",
     "The Strong One ; Call To Action.md",
     "Season 2/Stories/Phase 1/Galaxy Watch.md",
