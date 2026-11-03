@@ -190,5 +190,5 @@ Establish a new Sinco world
 - Tirok arrives right in front of Sinco
 - A giant explosion happens in the sky
 - Tirok emerges from the smoke
-	- 
-	- Sinco
+	- Tirok sustained minimal damage
+	- Sinco is no where to be s
