@@ -1,8 +1,10 @@
 ## Saiyan Saga
 
-Raditz power is 5
-Goku is 3.5
-Piccolo is 3.1
+Raditz power is 4
+Goku is 2.5
+Piccolo is 2.1
+
+Raditz arrives on Earth and instantly heads towards piccolo
 
 ## Namek Saga
 
