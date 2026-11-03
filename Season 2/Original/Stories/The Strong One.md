@@ -1,5 +1,7 @@
 The planet Chacuric is a primitive society that consists of stone tools, houses with the bare minimum of structural integrity, the natives are reliant on farm land and water to survive, one day, several years ago came a pod with a child inside, this child is The Strong One, the child who as he grew, discovered his natural born strength and power, using these differences of his to help the world, becoming the primary protector of Chacuric once he ends The Menya War, where several countries were overtaken by Menya, but The Strong Ones interference has deemed the entire planet safe thanks to him, and that declaration can lead to bad actors seeking to disprove it or to use it.
 
+One day a spy camera is dus
+
 - A spy camera is discovered  
   - TSO inspects it  
   - The camera speaks  
@@ -26,8 +28,6 @@ The planet Chacuric is a primitive society that consists of stone tools, houses 
   - TSO helps more  
 - TSO gets more and more known for his helpful strength and power
 
-## Climax
-
 - 2 Zonia Empire Soldiers arrive on Chacuric  
   - They destroy several parts of the planet  
 - The people of Chacuric call upon The Strong One for help  
@@ -45,8 +45,6 @@ The planet Chacuric is a primitive society that consists of stone tools, houses 
   - He didn't even know he could  
   - He just left the atmosphere and the moon was in the way
 
-## Falling Action
-
 - TSO takes time to rest on the moon  
   - TSO begins to think and think  
 - TSO realizes he needs to get stronger  
@@ -61,8 +59,6 @@ The planet Chacuric is a primitive society that consists of stone tools, houses 
   - Smarts  
   - Power
 
-## Catastrophe
-
 - The Zonia Empire arrives on Chacuric to takeover  
   - The Chacuric people are ready to accept their fate  
 - TSO stops the takeover  
@@ -73,8 +69,6 @@ The planet Chacuric is a primitive society that consists of stone tools, houses 
   - Some of them take more effort  
     - TSO does not give up  
     - TSO does not consider himself weaker
-
-## Denouement
 
 - TSO beats all of the Zonia Empire soldiers that arrived  
   - Some damage, but not alot  
