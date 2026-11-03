@@ -124,7 +124,8 @@ Sinco trashes TAZ factory
 		- Creating food from animal remains
 - Sinco looks around and is disgusted
 - Sinco raises his hands
-- Sinco shoots several energy blasts at differen
+- Sinco shoots several energy blasts at different machines
+	- The 
 
 ## Falling Action
 
