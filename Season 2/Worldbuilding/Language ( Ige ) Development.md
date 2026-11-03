@@ -109,5 +109,10 @@ Ige : Anile
 Assamese : Puk
 Danish : Orm
 
+Wukor
+Por
+Porku
+
+Ige : 
 
 # N
