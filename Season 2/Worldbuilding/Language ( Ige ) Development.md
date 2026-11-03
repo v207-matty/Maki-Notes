@@ -85,4 +85,9 @@ Japanese : Kami
 Dimi
 Bogi
 Miga
-Ka
+Katho
+
+# Angel ( _ )
+
+Spanish : 
+Japanese :
