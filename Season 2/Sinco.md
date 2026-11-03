@@ -178,7 +178,6 @@ Establish a new Sinco world
 ## Resolution
 
 - Sincos tail twitches
-- Sinco opens his eyes
-	- Sinco brings up his arms to block
-- Tirok 
+- Sinco opens his eyes quickly and brings his arms up to block
+- Tirok kicks Sinco upward instead
 
