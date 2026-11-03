@@ -133,7 +133,7 @@ Sinco trashes TAZ factory
 - Sinco nearly arrives at the office, shooting one more energy blast before he arrives
 - Sincos tail twitches rapidly
 - The energy blast hits one of the Power Generators and a massive explosion happens
-	- Sinco is blaste
+	- Sinco is hit with the explosion and goes through several walls of concrete.
 
 ## Falling Action
 
