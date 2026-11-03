@@ -129,6 +129,8 @@ Ige : Kupo
 
 Assamese : Chyatan
 Spanish : Demonio
-Czech : Dabel
+Czech : Ďábel
+Italian : Diavola / Diavolo
+
 
 # N
