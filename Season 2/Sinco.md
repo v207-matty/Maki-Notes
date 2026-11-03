@@ -148,8 +148,9 @@ Establish a new Sinco world
 	- Tirok lands on the lamppost
 	- Sinco spins around the lamppost with his tail
 	- Sinco kicks Tirok
-- One of Tiroks hands turn into a rocket and Tirok shoots upward
-	- Tiroks feet turn into 
+- One of Tiroks hands turn into a rocket and Tirok shoots upward, launching upward
+	- Tiroks feet turn into thrusters and he recomposes
+- Sinco pounces at Tirok
 
 ## Resolution
 
