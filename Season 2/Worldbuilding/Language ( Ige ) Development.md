@@ -68,4 +68,6 @@ Norwegian : Dødelig
 Russian : Smertnyy
 
 Morules
-S
+Subed
+Sunaru
+Meinot
