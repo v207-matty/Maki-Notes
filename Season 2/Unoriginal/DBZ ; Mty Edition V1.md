@@ -4,7 +4,7 @@
 
 ## Power Levels
 
-New power level system
+New power level system purely 
 
 0 - Human
 100 - Buu
