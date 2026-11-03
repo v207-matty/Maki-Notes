@@ -94,5 +94,7 @@ Danish : Engel
 Assamese : Pori
 
 Penshi
-Enri
+Enrish
+Torngel
+Anir
 
