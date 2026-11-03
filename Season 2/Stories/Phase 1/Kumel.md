@@ -1,6 +1,6 @@
 ## Exposition
 
-
+Establish Kumel : 
 
 ## Inciting Incident
 
