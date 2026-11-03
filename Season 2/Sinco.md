@@ -106,8 +106,6 @@ Establish a new Sinco world
 
 ## Climax
 
-Sinco trashes TAZ factory
-
 - Sinco enters the TAZ factory
 	- Several machines are there
 		- Turning wood into sheets of paper
@@ -128,12 +126,10 @@ Sinco trashes TAZ factory
 - Sinco jumps around from machine to machine, destroying nearly every machine around him
 - Sinco nearly arrives at the office, shooting one more energy blast before he arrives
 - Sincos tail twitches rapidly
-- The energy blast hits one of the Power Generators and a massive explosion happens
+- The energy blast hits one of the Power Generators and a massive explosion chain reaction begins
 	- Sinco is hit with the explosion and goes through several walls of concrete
 
 ## Falling Action
-
-Tirok and Sinco meet again and fight
 
 - Sinco lays on the concrete of outside
 	- Sinco lays on the road
