@@ -10,9 +10,11 @@ The Gixaka Watch notice The Zonia Empire is getting closer and closer to the Kes
 
 Kina wants to gather a group of heros to assist the Gixaka Watch, his desires are vetoed however
 
+The Gixaka Watch has become more and more lenient with villians
+
 ## Climax
 
-The Gixaka Watch has become more and more lenient 
+ 
 
 ## Falling Action
 
