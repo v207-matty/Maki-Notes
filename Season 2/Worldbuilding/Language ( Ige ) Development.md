@@ -74,3 +74,7 @@ Meinot
 Teinom
 
 Ige : Teinom
+
+# God ( _ )
+
+
