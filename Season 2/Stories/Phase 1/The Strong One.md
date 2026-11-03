@@ -1,14 +1,3 @@
-# Themes
-
-When you can help and you don't, then you are responsible
-
-When you are not the strongest, work towards it.
-
-There is always someone that is stronger, it is only your job to surpass them
-
-There is always a higher amount of strength you can reach
-
-# Plot
 ## Exposition
 
 - Chacuric is a planet with a primitive society  
