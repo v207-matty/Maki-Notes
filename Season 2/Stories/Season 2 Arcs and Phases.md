@@ -16,18 +16,24 @@ Phase 1 is getting characters down, and hinting towards The Zonia Empire and the
 	- A shooting star passes the planet
 		- TZE drops off some soldiers days later
 	- Kumelan battles the TZE soldiers
+
+Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together that I can
 - [[Gixaka Watch]]
 	- Mentions of The Kesumel and trying to prevent TZE from getting it
 	- Introduces the Gixaka Watch
 		- Can recruit Chabet from across the Teinom Realm
-
-Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together that I can
+- [[?]]
+	- 
 - [[?]]
 	- 
 - [[?]]
 	- 
 
 Phase 3 is the pay off, all the dominos start to fall
+- [[?]]
+	- 
+- [[?]]
+	- 
 - [[?]]
 	- 
 - [[?]]
