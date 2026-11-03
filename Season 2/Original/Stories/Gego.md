@@ -6,6 +6,6 @@ After about an hour of setup Gego flies towards the Zonia Empire soldiers but is
 
 After recovery, Gego gets straight to work upgrading his mech suit, the Zonia Empire soldiers are sticking around so he can't add anything advanced because they'll destroy the entire planet to find Gego, he just has to fix the durability again while repairing his arsenal, Gego does work on increasing the power output of the quantum electric generator double-fold.
 
-Gego 
+Gego prepares once more for battle in his upgraded mech armor, the mark 13 armor, with 
 
 Gego returns to deal with the Zonia Empire soldiers and ends up victorious
