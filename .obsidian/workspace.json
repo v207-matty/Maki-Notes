@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/Original/Maki Season 2.md",
+                "file": "Season 2/Unoriginal/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Maki Season 2"
+              "title": "Untitled"
             }
           },
           {
@@ -254,11 +254,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "162e3eeeab365873",
   "lastOpenFiles": [
+    "Season 2/Original/Maki Season 2.md",
+    "Season 2/Unoriginal/Untitled.md",
+    "Season 2/Unoriginal",
     "Season 2/Original/Stories/Gego.md",
     "Season 2/Original",
-    "Season 2/Original/Maki Season 2.md",
     "Season 2/Original/Worldbuilding/Kesumel.md",
     "Untitled.md",
     "Season 2/Original/Worldbuilding/Language ( Ige ) Development.md",
@@ -294,7 +296,6 @@
     "Season 1/CNU/CNU.md",
     "Season 1/Granule/Granule.md",
     "Season 2",
-    "Season 1",
     "Untitled.canvas",
     "Renewed/Explanations/CANVAS.canvas"
   ]
