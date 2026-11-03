@@ -131,7 +131,7 @@ Sinco trashes TAZ factory
 - The energy blast hits one of the Power Generators and a massive explosion happens
 	- Sinco is hit with the explosion and goes through several walls of concrete
 - Sinco lays on the concrete of outside
-	- Sinco is on a road
+	- Sinco lays on the road
 
 ## Falling Action
 
