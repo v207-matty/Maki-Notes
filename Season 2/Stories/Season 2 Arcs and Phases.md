@@ -25,7 +25,7 @@ Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together
 		- Can recruit Chabet from across the Teinom Realm
 		- They are watching The Zonia Empire
 		- They noticed The Zonia Empire get the Kesumel
-- [[Kesumel ]]
+- [[Kesumel]]
 	- 
 - [[The Outer Realm]]
 	- 
