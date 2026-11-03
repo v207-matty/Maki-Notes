@@ -10,16 +10,8 @@ That night The Strong One began to have nightmares where more of those soldiers 
 
 Two days later more Zonia Empire Soldiers arrive on Chacuric, but instead of flying towards them to beat them The Strong One freezes up and cowers in a secret hiding spot of his from when he was younger, the soldiers cause destruction across the planet for an entire day, then deciding to proceed with colonization procedures and leaving to get a bigger ship, The Strong One is too disappointed in himself to go back, he just flies upward, hoping that the vacuum of space can free him from his worries, but it turns out he can breathe in space, so The Strong One just flies to the moon and sits down in disappointment.
 
-The Strong One spends a quarter of the day on the moon, just thinking, but now a major thought has finally, why not just get stronger? The issue was that the soldiers were stronger then him, getting stronger is the logical next step, nothing is stopping him, and so The Strong One returns to Chacuric, flying as fast as he can back to the ground, despite his hard landing, the planet is fine, its just like a boulder fell to the ground, only the ground and or people close by can feel it.
+The Strong One spends a quarter of the day on the moon, just thinking, but now a major thought has finally, why not just get stronger? The issue was that the soldiers were stronger then him, getting stronger is the logical next step, nothing is stopping him, and so The Strong One returns to Chacuric, flying as fast as he can back to the ground, despite his hard landing, the planet is fine, its just like a boulder fell to the ground, only the ground and or people close by can feel it, no matter, by the time 
 
-- TSO takes time to rest on the moon  
-  - TSO begins to think and think  
-- TSO realizes he needs to get stronger  
-  - He realizes that he CAN get stronger  
-- TSO returns to Chacuric  
-  - No one celebrates  
-  - No one protests  
-  - Just disappointment  
 - TSO works to get stronger and stronger  
   - Speed  
   - Strength  
