@@ -36,7 +36,7 @@ Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together
 	- They have to deal with The Outer Realm Demons to escape
 
 Phase 3 is the pay off, all the dominos start to fall
-- [[]]
+- [[But A Taste]]
 	- The 5 supers escape The Outer Realm 
 	- They meet Zonia
 	- Zonia gives them several powered up soldiers to deal with
