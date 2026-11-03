@@ -10,6 +10,7 @@ Phase 1 is getting characters down, and hinting towards the Zonia Empire and the
 - [[Galaxy Watch]]
 	- Zonia Empire mentioned loosely with the context of The Kesumel
 	- Introduces the Gixaka Watch
+		- Can recruit Chabet
 - 
 
 Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together that I can
