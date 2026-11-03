@@ -1,6 +1,6 @@
 ## Exposition
 
-Gego 
+Establish Gego : Regular with THE most advanced tech on
 
 ## Rising Action
 
