@@ -1,4 +1,7 @@
 {
   "accentColor": "#ffc2e9",
-  "cssTheme": "Atom"
+  "cssTheme": "Atom",
+  "enabledCssSnippets": [
+    "theme"
+  ]
 }
