@@ -138,8 +138,8 @@ Establish a new Sinco world
 	- Sinco tries to move
 - Sinco gets kicked
 	- Sincos adrenaline kicks in
-	- 
-jumps up
+- Sinco jumps up
+	- Sinco grabs a lamp post 
 
 ## Resolution
 
