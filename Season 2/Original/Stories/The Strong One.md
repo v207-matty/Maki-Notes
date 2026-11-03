@@ -1,5 +1,7 @@
 ## Exposition
 
+The planet Chacuric is a primitive society th
+
 - Chacuric is a planet with a primitive society  
   - Stone tools  
   - Cobbled together houses  
