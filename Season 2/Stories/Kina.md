@@ -6,7 +6,7 @@ Establish Gixaka Watch : A galaxy watching patrol that is supported by the Anile
 
 ## Rising Action
 
-The Gixaka Watch 
+The Zonia Empire invades Gixaka Watch
 
 ## Climax
 
