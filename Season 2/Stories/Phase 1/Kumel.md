@@ -4,4 +4,10 @@
 
 ## Conflict
 
+## Rising Action
+
+## Climax
+
+## Falling Action
+
 
