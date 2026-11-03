@@ -3,7 +3,7 @@
 Phase 1 is getting characters down, and hinting towards the Zonia Empire and their goal
 - [[The Strong One]]
 	- Zonia Empire is the antagonist
-	- Stone is a 
+	- Stone is a Chabur 
 - [[Sinco]]
 	- Zonia Empire working with Tirok (TAZ : Tirok And Zonia)
 - [[Galaxy Watch]]
