@@ -123,7 +123,7 @@ Sinco trashes TAZ factory
 		- Doing research on animal populations, reproduction rates, and more
 		- Creating food from animal remains
 - Sinco looks around and is disgusted
-- Sinco 
+- Sinco raises his hands
 
 ## Falling Action
 
