@@ -7,15 +7,15 @@ Phase 1 is getting characters down, and hinting towards the Zonia Empire and the
 - [[Sinco]]
 	- Zonia Empire working with Tirok (TAZ : Tirok And Zonia)
 	- Sinco is an excellent mover
-- [[Gixaka Watch]]
-	- Mentions of The Kesumel and trying to prevent the Zonia Empire from getting it
-	- Introduces the Gixaka Watch
-		- Can recruit Chabet from across the Teinom Realm
 - [[Geguro]]
 	- A regular directly against The Zonia Empire
 		- Said regular meets Zonia himself and is nearly killed
 - [[Kumelan]]
-	- A super ()
+	- A super (ability)
+- [[Gixaka Watch]]
+	- Mentions of The Kesumel and trying to prevent the Zonia Empire from getting it
+	- Introduces the Gixaka Watch
+		- Can recruit Chabet from across the Teinom Realm
 
 Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together that I can
 - [[?]]
