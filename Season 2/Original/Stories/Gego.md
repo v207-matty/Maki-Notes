@@ -2,7 +2,7 @@
 
 Establish Gego : Regular with THE most advanced tech on his planet
 
-- On the planet of Burvak
+On the planet of Burvak there exists a man named "Gego" with the most advanced technology ever created on said planet, and yet he keeps it all to himself, this is so that he may be prepared for the arrival of more so
 
 ## Rising Action
 
