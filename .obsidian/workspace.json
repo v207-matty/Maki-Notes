@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Season 2 Arcs and Phases"
             }
+          },
+          {
+            "id": "bb0ee289881aa04f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Strong One Call To Action.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Strong One Call To Action"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,10 +231,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05cd2af50b3e4065",
+  "active": "bb0ee289881aa04f",
   "lastOpenFiles": [
-    "Season 2/Stories/Phase 1/The Strong One.md",
+    "The Strong One Call To Action.md",
     "Season 2/Stories/Season 2 Arcs and Phases.md",
+    "Season 2/Stories/Phase 1/The Strong One.md",
     "Season 2/Maki Season 2.md",
     "Untitled.md",
     "Season 2/Stories/Phase 3",
@@ -247,7 +273,6 @@
     "Season 2/The Strong One",
     "Season 1/Objectification/Characters/Akan.md",
     "Season 1/Objectification/Characters/Susu.md",
-    "Season 1/Objectification/Characters/Subas.md",
     "Untitled.canvas",
     "Renewed/Explanations/CANVAS.canvas"
   ]
