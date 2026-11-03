@@ -14,10 +14,6 @@ A shooting star passes and the planet starts having
 
 
 
-## Catastrophe
-
-
-
-## Denouement
+## Resolution
 
 
