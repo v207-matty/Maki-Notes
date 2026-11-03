@@ -147,6 +147,8 @@ Establish a new Sinco world
 	- Sinco jumps off the lamppost
 	- Tirok lands on the lamppost
 	- Sinco spins on the lamppost with his tail
+		- Sinco kicks Tirok
+- Tirok
 
 ## Resolution
 
