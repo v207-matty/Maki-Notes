@@ -1,7 +1,12 @@
 ## Rules
 
 - A 5% difference in power is enough to turn the tides of battle
-- 
+
+## Power Levels
+
+New power level system
+
+
 
 ## Saiyan Saga
 
