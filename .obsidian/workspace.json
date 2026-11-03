@@ -30,21 +30,8 @@
               "icon": "lucide-file",
               "title": "Season 2 Arcs and Phases"
             }
-          },
-          {
-            "id": "b2b18cce4ced53df",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.0"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.0"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2b18cce4ced53df",
+  "active": "4fcdc2977b521649",
   "lastOpenFiles": [
     "Season 2/Stories/Season 2 Arcs and Phases.md",
     "README.md",
