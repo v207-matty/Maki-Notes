@@ -46,7 +46,7 @@ Chabur
 
 Ige : Chabur
 
-# Galaxy
+# Galaxy (Gixaka)
 
 Spanish : Galaxia
 Japanese : Ginga
@@ -58,3 +58,5 @@ Tilax
 Lataxy
 Gixay
 Gixaka
+
+Ige : Gixaka
