@@ -183,4 +183,5 @@ Establish a new Sinco world
 
 - Sincos tail twitches
 - Sinco looks down
-	- T
+	- Tirok is flying towards him rapidly
+- Sinco raises his hands in front of h
