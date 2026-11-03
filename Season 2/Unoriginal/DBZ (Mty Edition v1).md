@@ -1,7 +1,7 @@
 ## Rules
 
 - A 5% difference in power is enough to turn the tides of battle
-- Must follow a similar flow
+- No Major Major Differences
 
 ## Power Levels
 
@@ -14,9 +14,9 @@ New power level system purely for comparison sake
 
 ## Saiyan Saga
 
-Raditz power level is 1000
-Goku is 410
-Piccolo is 
+Raditz power is 5
+Goku is 3
+Piccolo is 3 
 
 ## Namek Saga
 
