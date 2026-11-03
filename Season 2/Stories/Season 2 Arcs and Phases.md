@@ -3,9 +3,11 @@
 Phase 1 is getting characters down, and hinting towards the Zonia Empire and their goal
 - [[The Strong One]]
 	- Zonia Empire is the antagonist
+	- Stone is a formidable 
 - [[Sinco]]
-	- Zonia Empire working with Tirok (TAZ : Tirok An)
-- [[Galaxy Watch]] : Zonia Empire mentioned loosely with the context of The Kesumel
+	- Zonia Empire working with Tirok (TAZ : Tirok And Zonia)
+- [[Galaxy Watch]]
+	- Zonia Empire mentioned loosely with the context of The Kesumel
 - 
 
 Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together that I can

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1790edc560c1c5d5",
+        "id": "99cf0ef7d3aa3ace",
         "type": "tabs",
         "children": [
           {
-            "id": "05cd2af50b3e4065",
+            "id": "4fcdc2977b521649",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -206,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05cd2af50b3e4065",
+  "active": "4fcdc2977b521649",
   "lastOpenFiles": [
-    "The Strong One ; Call To Action.md",
     "Season 2/Stories/Season 2 Arcs and Phases.md",
+    "The Strong One ; Call To Action.md",
     "Season 2/Stories/Phase 1/Galaxy Watch.md",
     "Season 2/Stories/Phase 2/The Strong One ; Call To Action.md",
     "Season 2/Stories/Phase 1/The Strong One.md",
