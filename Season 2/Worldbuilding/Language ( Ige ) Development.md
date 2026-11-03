@@ -127,6 +127,8 @@ Ige : Kupo
 
 # Devil ( _ )
 
-Assamese : chyatan
+Assamese : Chyatan
+Spanish : Demonio
+Czech : Dabel
 
 # N
