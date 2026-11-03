@@ -1,7 +1,6 @@
 ## Rules
 
-- A 5% difference in power is enough to turn the tides of battle
-- No Major Major Differences
+- No Major Story Differences
 
 ## Power Levels
 
