@@ -12,7 +12,7 @@ Phase 1 is getting characters down, and hinting towards The Zonia Empire and the
 		- Believed to be worthy of the Kesumel 
 	- A shooting star (The Kesumel) passes the planet
 		- TZE drops off some soldiers days later
-		- Kumelan battles the TZE soldiers
+		- Kumelan battles the TZE soldiers and wins
 	- Kumel is the next Kesel
 - [[Gego]]
 	- A regular directly against The Zonia Empire
