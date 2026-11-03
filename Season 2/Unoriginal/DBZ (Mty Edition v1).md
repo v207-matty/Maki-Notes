@@ -8,15 +8,17 @@
 New power level system purely for comparison sake
 - Super Saiyan does not make someone go from a 1 to a 50
 
-0 - Human
-50 - Frieza
-100 - Buu
+Range:
+- 0 - Human
+- 50 - Frieza
+- 100 - Buu
+
+For closer comparison it can be 
 
 ## Saiyan Saga
 
 Raditz power is 5
-Goku is 3
-Piccolo is 3 
+Goku and Piccolo are 3
 
 ## Namek Saga
 
