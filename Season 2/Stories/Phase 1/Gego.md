@@ -1,6 +1,6 @@
 ## Exposition
 
-Establish Gego : Regular with THE most advanced tech on
+Establish Gego : Regular with THE most advanced tech on his planet
 
 ## Rising Action
 
