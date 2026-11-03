@@ -1,12 +1,14 @@
 ## Exposition
 
-
+Kumel life flashback
 
 ## Inciting Incident
 
 
 
 ## Conflict
+
+
 
 ## Rising Action
 
@@ -25,4 +27,5 @@
 
 
 ## Denouement
+
 
