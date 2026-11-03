@@ -2,6 +2,7 @@ The Strong One
 - What is The Zonia Empire
 - What are Stones powers
 - Where does Stone come from
+- Why was th
 
 Sinco
 - What is "TAZ"
