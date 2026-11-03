@@ -160,6 +160,8 @@ Establish a new Sinco world
 - Sinco swings upward to punch Tirok in the head
 	- It hurts
 - Sincos tail twitches
+- Tirok swings and hits Sinco straight in the face
+- Tiroks thruster feet
 
 ## Resolution
 
