@@ -146,7 +146,7 @@ Establish a new Sinco world
 	- Sinco: "You're the one destroying the environment people and animals live in!"
 	- Tirok: "NO BODY FUCKING CARES ABOUT THE STUPID FOREST ANYMORE."
 	- Sinco: "I-"
-	- Tirok: "AND NO BODY CARES ABOUT WHAT YOU "
+	- Tirok: "AND NO BODY CARES ABOUT WHAT YOU CHABIN "
 
 ## Resolution
 
