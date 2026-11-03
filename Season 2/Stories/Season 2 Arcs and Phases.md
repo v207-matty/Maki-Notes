@@ -7,7 +7,7 @@ Phase 1 is getting characters down, and hinting towards the Zonia Empire and the
 - 
 
 Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together that I can
-- [[]] : Outer realm rift 
+- [[]] : Outer realm rift on Chacuric
 
 Phase 3 is the pay off, all the dominos start to fall
 - 
