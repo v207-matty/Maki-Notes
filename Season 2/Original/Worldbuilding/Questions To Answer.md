@@ -2,7 +2,7 @@ The Strong One
 - What is The Zonia Empire
 - What are Stones powers
 - Where does Stone come from
-- How did The Zonia Empire get a spy camera on Curican
+- How did The Zonia Empire get a spy camera on Chacuric
 
 Sinco
 - What is "TAZ"
