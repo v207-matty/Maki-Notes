@@ -6,7 +6,8 @@
 
 New power level system
 
-
+0 - Human
+100 - Buu
 
 ## Saiyan Saga
 
