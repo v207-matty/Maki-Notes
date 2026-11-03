@@ -48,6 +48,9 @@ Ige : Chabur
 
 # Galaxy
 
-Spanish : Galaxy
-Japanese : 
+Spanish : Galaxia
+Japanese : Ginga
+Swedish : Galax
+
+
 
