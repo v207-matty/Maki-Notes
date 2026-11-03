@@ -16,4 +16,4 @@ Kumel begins to battle the soldiers, slowly ramping up how aggressive they use t
 
 ## Resolution
 
-The Zonia 
+The Zonia Empire soldiers are defeated, though a warning comes with their defeat : "This is merely "
