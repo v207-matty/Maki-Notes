@@ -47,5 +47,7 @@ Chabur
 Ige : Chabur
 
 # Galaxy
-Spsniah
+
+Spanish : Galaxy
+Japanese : 
 
