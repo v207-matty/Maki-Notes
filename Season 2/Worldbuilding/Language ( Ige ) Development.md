@@ -131,6 +131,6 @@ Assamese : Chyatan
 Spanish : Demonio
 Czech : Ďábel
 Italian : Diavola / Diavolo
-
+Vietnamese : Ác quỷ
 
 # N
