@@ -187,6 +187,6 @@ Establish a new Sinco world
 - Sinco raises his hands in front of his face
 	- Sinco charges energy
 	- His palms begin to glow
-- Tirok is right in front of Sinco
+- Tirok arrives right in front of Sinco
 - A giant explosion happens in the sky
-- Tirok emerges from the smoke  
+- Tirok emerges from the smoke
