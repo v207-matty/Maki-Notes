@@ -1,6 +1,6 @@
 More focus on film structure in story
 
-You can go to [[Season 2 Arcs and Phases]] to see the films
+You can go to [[Season 2 Timeline]] to see the films
 
 ## Worldbuilding
 
