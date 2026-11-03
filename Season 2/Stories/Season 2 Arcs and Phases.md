@@ -19,12 +19,11 @@ Phase 1 is getting characters down, and hinting towards The Zonia Empire and the
 
 Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together that I can
 - [[Gixaka Watch]]
-	- Galaxy watch
-		- They are watching The Zonia Empire
-		- They noticed The Zonia Empire get the Kesumel
 	- Introduces the Gixaka Watch
 		- Can recruit Chabet from across the Teinom Realm
-- [[The Outer Realm]]
+		- They are watching The Zonia Empire
+		- They noticed The Zonia Empire get the Kesumel
+- [[Kesumel ]]
 	- 
 - [[The Outer Realm]]
 	- 
