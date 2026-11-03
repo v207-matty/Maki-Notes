@@ -5,7 +5,7 @@ Phase 1 is getting characters down, and hinting towards The Zonia Empire and the
 	- Zonia Empire is the antagonist
 	- Stone is a powerful Chabur that can constantly grow
 - [[Sinco]]
-	- Zonia Empire working with Tirok (TAZ : Tirok And Zonia)
+	- Zonia Empire is working with Tirok (TAZ : Tirok And Zonia)
 	- Sinco is an excellent with movement
 - [[Kumel]]
 	- A super (ability is element bending lol)
@@ -28,7 +28,7 @@ Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together
 		- They notice TZE are close to getting the Kesumel
 		- They are about to stop them when the Kesumel is already taken
 - [[The Outer Realm]]
-	- GW recruits Stone, Sinco, Kumel, and Ge
+	- GW recruits Stone, Sinco, Kumel, and Gego
 - [[The Supers]]
 	- 
 
