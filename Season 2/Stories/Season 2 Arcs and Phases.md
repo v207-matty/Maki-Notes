@@ -7,7 +7,7 @@ Phase 1 is getting characters down, and hinting towards the Zonia Empire and the
 - 
 
 Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together that I can
-- [[The Strong One ; Call To Action|The Strong One : ]] : Outer Realm rift on Chacuric
+- [[The Strong One ; Call To Action|The Strong One : Call To Action]] : Outer Realm rift on Chacuric
 
 Phase 3 is the pay off, all the dominos start to fall
 - 
