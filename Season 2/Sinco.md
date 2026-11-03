@@ -137,7 +137,9 @@ Establish a new Sinco world
 - Sincos tail twitches rapidly
 	- Sinco tries to move
 - Sinco gets kicked
-	- Sincos adrenaline kicks in and he can move
+	- Sincos adrenaline kicks in
+	- 
+jumps up
 
 ## Resolution
 
