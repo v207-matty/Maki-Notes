@@ -11,7 +11,7 @@ Phase 1 is getting characters down, and hinting towards the Zonia Empire and the
 	- Mentions of The Kesumel and trying to prevent the Zonia Empire from getting it
 	- Introduces the Gixaka Watch
 		- Can recruit Chabet from across the Teinom Realm
-- [[Regular]]
+- [[Geguro]]
 	- A regular directly against The Zonia Empire
 		- Said regular meets Zonia himself and is nearly killed
 - [[?]]
