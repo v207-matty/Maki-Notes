@@ -119,7 +119,8 @@ Sinco trashes TAZ factory
 		- Burning fossil fuels
 		- Turning wood into paper
 		- Developing Artificial Intelligence
-		- Creating 
+		- Creating Clothing in rapid pace
+		- Doing research on the 
 
 ## Falling Action
 
