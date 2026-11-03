@@ -127,4 +127,6 @@ Ige : Kupo
 
 # Devil ( _ )
 
+Assamese : chyatan
+
 # N
