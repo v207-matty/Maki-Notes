@@ -12,6 +12,8 @@ Gego is defeated by the Zonia Empire soldiers and retreats
 
 ## Falling Action
 
-
+Gego advances his tech
 
 ## Resolution
+
+
