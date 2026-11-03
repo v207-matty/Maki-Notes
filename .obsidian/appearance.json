@@ -2,6 +2,7 @@
   "accentColor": "#ffc2e9",
   "cssTheme": "Atom",
   "enabledCssSnippets": [
-    "theme"
+    "theme",
+    "Atom-GrayscaleSupportive"
   ]
 }
