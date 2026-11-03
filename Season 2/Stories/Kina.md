@@ -26,4 +26,4 @@ Kina cant stop Kupo but instead weakens their forces
 
 ## Resolution
 
-Kina is banished 
+Kina escapes
