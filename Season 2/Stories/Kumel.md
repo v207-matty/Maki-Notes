@@ -4,7 +4,7 @@ Establish Kumel : A helper on his planet, able to manipulate all of the elements
 
 ## Rising Action
 
-A shooting star passes and the planet starts to shake, and behind the shooting star is a giant ship that releases 4 Zonia Empire soldiers onto the planet
+A shooting star passes and the planet starts to shake, and behind the shooting star is a giant ship that releases a Bakers dozen Zonia Empire soldiers onto the planet
 
 ## Climax
 
@@ -12,7 +12,7 @@ The Zonia Empire soldiers cause destruction on Kumels planet
 
 ## Falling Action
 
-
+Kumel begins to battle the soldier
 
 ## Resolution
 
