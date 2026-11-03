@@ -1,6 +1,6 @@
 The planet Chacuric is a primitive society that consists of stone tools, houses with the bare minimum of structural integrity, the natives are reliant on farm land and water to survive.
 
-One day, several years ago came a pod with a child inside, this child is The Strong One, the child who as he grew, discovered his natural born strength and extra
+One day, several years ago came a pod with a child inside, this child is The Strong One, the child who as he grew, discovered his natural born strength and power, using these differences of his to help the world, becoming the primary protector of Chacuric once he ends
 
 - Chacuric is a planet with a primitive society  
   - Stone tools  
