@@ -169,6 +169,7 @@ Establish a new Sinco world
 - Sincos tail twitches
 - Tirok swings his right hand back and hits Sinco straight in the face
 - Tirok spins around
+	- Sinco closes his eyes
 - Tirok stops spinning suddenly
 	- Inertia makes Sinco get flung off Tiroks leg
 - Tirok flies close behind Sinco
@@ -177,7 +178,7 @@ Establish a new Sinco world
 ## Resolution
 
 - Sincos tail twitches
-- Sinco o
-- Sinco brings up his arms to block
+- Sinco opens his eyes
+	- Sinco brings up his arms to block
 - Tirok 
 
