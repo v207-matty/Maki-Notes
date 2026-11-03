@@ -14,7 +14,6 @@ You can go to [[Season 2 Timeline]] to see the films
 
 - [[Language ( Ige ) Development]]
 - [[Language ( Ige ) Word Definition Making]]
-- [[Questions To Answer]]
 - [[Kesumel]]
 
 ## Structures
