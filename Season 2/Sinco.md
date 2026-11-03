@@ -154,8 +154,8 @@ Establish a new Sinco world
 	- Sinco grabs onto his head
 - Sinco hits and bangs and scratches on Tirok
 - Sincos tail twitches
-- Sinco dangles from Tiroks
-- Tirok
+- Sinco dangles from Tiroks leg thanks to his tail
+- Tirok swings at 
 
 ## Resolution
 
