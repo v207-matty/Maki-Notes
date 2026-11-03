@@ -90,5 +90,9 @@ Katho
 # Angel ( _ )
 
 Japanese : Tenshi
+Danish : Engel
+Assamese : Pori
 
+Penshi
+Enri
 
