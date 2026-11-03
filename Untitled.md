@@ -485,7 +485,7 @@ Gego upgrades his tech, fixing the weak points that were exploited in the last f
 ## Resolution
 
 Gego returns to deal with the Zonia Empire soldiers and ends up victorious
-
+ 
 # Kumel
 ## Exposition
 
