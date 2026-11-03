@@ -1,24 +1,3 @@
-# Purpose
-
-Establish a new Sinco world
-
-- Less time skips (More events in less time)  
-- Tirok is the main villain  
-- Figure out the new planet  
-  - How long have Supers been there?  
-	  - 58 years  
-- Does technology exist to deal with Supers?  
-	- Some
-- Is there a good or bad reputation for Supers?  
-	- Bad
-# Themes
-
-- Protect the environment
-
-- Protect your home
-
-# Plot
-
 ## Exposition
 
 - Environment is a forest on the planet Chabur
