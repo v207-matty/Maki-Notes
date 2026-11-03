@@ -133,4 +133,7 @@ Czech : Ďábel
 Italian : Diavola / Diavolo
 Vietnamese : Ác quỷ
 
+Chemolo
+Di
+
 # N
