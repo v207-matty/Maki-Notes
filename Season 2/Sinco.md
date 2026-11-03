@@ -134,6 +134,7 @@ Establish a new Sinco world
 - Sinco lays on the concrete of outside
 	- Sinco lays on the road
 	- Several explosions happen one after another in the city
+
 - Sincos tail twitches rapidly
 	- Sinco tries to move
 - Sinco gets kicked
@@ -142,6 +143,7 @@ Establish a new Sinco world
 	- Sinco grabs a lamp post with his tail and spins to land on it
 - Tirok stands below, furious, his skin melting to reveal robotics, his clothing melting
 	- Tirok: "YOU, STUPID, IDIOT, CHABIN."
+
 - Sincos tail twitches
 - Tirok jumps at Sinco
 	- Sinco jumps off the lamppost
