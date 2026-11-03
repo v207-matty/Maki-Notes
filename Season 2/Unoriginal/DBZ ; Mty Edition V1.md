@@ -1,6 +1,6 @@
 ## Rules
 
-- 
+- a 5% id
 
 ## Saiyan Saga
 
