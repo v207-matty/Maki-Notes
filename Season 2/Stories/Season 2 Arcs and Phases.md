@@ -28,10 +28,8 @@ Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together
 		- They notice TZE are close to getting the Kesumel
 		- They are about to stop them when the Kesumel is already taken
 - [[The Outer Realm]]
-	- Giz
-- [[The Outer Realm]]
-	- 
-- [[?]]
+	- GW 
+- [[The Supers]]
 	- 
 
 Phase 3 is the pay off, all the dominos start to fall
