@@ -11,7 +11,7 @@ Phase 1 is getting characters down, and hinting towards the Zonia Empire and the
 	- Mentions of The Kesumel and trying to prevent the Zonia Empire from getting it
 	- Introduces the Gixaka Watch
 		- Can recruit Chabet from across the Teinom Realm
-- ?
+- [[?]]
 	- 
 
 Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together that I can
