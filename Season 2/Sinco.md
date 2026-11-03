@@ -181,3 +181,6 @@ Establish a new Sinco world
 - Sinco opens his eyes quickly and brings his arms up to block
 - Tirok kicks Sinco upward instead
 
+- Sincos tail twitches
+- Sinco looks down
+	- T
