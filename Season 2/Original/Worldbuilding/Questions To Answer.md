@@ -10,3 +10,5 @@ Sinco
 
 Gego
 - Why did Gego betray The Zonia Empire
+- Why does The Zonia Empire still hold this grudge
+- How is Gego have the most 
