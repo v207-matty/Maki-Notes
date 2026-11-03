@@ -155,12 +155,12 @@ Establish a new Sinco world
 - Sinco hits and bangs and scratches on Tirok
 - Sincos tail twitches
 - Sinco dangles from Tiroks leg thanks to his tail
-- Tirok swings
+- Tirok swings his right hand
 - Sincos tail twitches
 - Sinco swings upward to punch Tirok in the head
-	- It hurts
+	- It hurts and stuns Sinco
 - Sincos tail twitches
-- Tirok swings and hits Sinco straight in the face
+- Tirok swings his right hand back and hits Sinco straight in the face
 - Tirok spins around and tosses 
 
 ## Resolution
