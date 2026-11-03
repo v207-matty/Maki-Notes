@@ -26,7 +26,7 @@ Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together
 	- They are watching TZE
 		- They notice TZE are close to getting the Kesumel
 		- They are about to stop them when the Kesumel is already taken
-- [[Gixaka Watch ; Recruiting]]
+- [[Galaxy Recruits]]
 	- Stone, Sinco, and Kumel gets recruited by the Gixaka Watch
 	- Gego asks to be recruited by the Gixaka Watch
 	- Introduction of Kina
@@ -37,7 +37,7 @@ Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together
 
 Phase 3 is the pay off, all the dominos start to fall
 - [[Power Flavor]]
-	- The 5 supers escape The Outer Realm 
+	- The Galaxy Recruits escape The Outer Realm 
 	- They meet Zonia
 	- Zonia gives them several powered up soldiers to deal with
 	- They once again work together to deal with the soldiers
