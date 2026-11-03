@@ -29,7 +29,7 @@ Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together
 - [[Gixaka Watch ; Recruiting]]
 	- Stone, Sinco, and Kumel gets recruited by the Gixaka Watch
 	- Gego asks to be recruited by the Gixaka Watch
-	- 
+	- Introduction of Ani
 
 - [[The Outer Realm]]
 	- 
