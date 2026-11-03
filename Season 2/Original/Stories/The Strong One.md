@@ -1,6 +1,6 @@
 ## Exposition
 
-The planet Chacuric is a primitive society that consists of stone tools, houses with the bare minimum of structural integrity, the natives are 
+The planet Chacuric is a primitive society that consists of stone tools, houses with the bare minimum of structural integrity, the natives are reliant of 
 
 - Chacuric is a planet with a primitive society  
   - Stone tools  
