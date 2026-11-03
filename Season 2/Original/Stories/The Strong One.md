@@ -6,13 +6,9 @@ The next day a person arrived on Chacuric, they spoke of being a Zonia Empire So
 
 The Strong One : "I was... weak..."
 
-That night The Strong One began to have nightmares where more of those soldiers came and that The Strong One couldn't do anything about it, they would take over Chacuric with no effort, the following day The Strong One looks to resolve this worries by helping more, he strong enough and powerful enough to help, yest
+That night The Strong One began to have nightmares where more of those soldiers came and that The Strong One couldn't do anything about it, they would take over Chacuric with no effort, the following day The Strong One looks to resolve this worries by helping more, he strong enough and powerful enough to help, yesterday was just a fluke from the peaceful years they've experienced.
 
-- TSO starts having nightmares where he is weak  
-- TSO has to make himself believe  
-  - TSO works harder  
-  - TSO helps more  
-- TSO gets more and more known for his helpful strength and power
+
 
 - 2 Zonia Empire Soldiers arrive on Chacuric  
   - They destroy several parts of the planet  
