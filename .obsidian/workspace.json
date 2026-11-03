@@ -11,24 +11,14 @@
             "id": "162e3eeeab365873",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Season 2/Original/Stories/Kina.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Kina"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           },
           {
@@ -257,6 +247,8 @@
   "active": "162e3eeeab365873",
   "lastOpenFiles": [
     "Season 2/Original/Stories/Gego.md",
+    "Season 2/Original/Stories/Kumel.md",
+    "Season 2/Original/Stories/Kina.md",
     "Season 2/Unoriginal/Matty Edition/Dragon Ball Z.md",
     "Season 2/Unoriginal/Matty Edition/Rules.md",
     "Season 2/Unoriginal/Matty Edition",
@@ -267,8 +259,6 @@
     "Untitled.md",
     "Season 2/Original/Worldbuilding/Language ( Ige ) Development.md",
     "Season 2/Original/Worldbuilding/Language ( Ige ) Word Definition Making.md",
-    "Season 2/Original/Stories/Kumel.md",
-    "Season 2/Original/Stories/Kina.md",
     "Season 2/Original/Worldbuilding/Questions To Answer.md",
     "Season 2/Original/Stories/The Strong One.md",
     "Season 2/Original/Stories/Sinco.md",
