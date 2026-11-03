@@ -1,6 +1,6 @@
 # Arc 1
 
-Phase 1 is getting characters down, and hinting towards the Zonia Empire and their goal
+Phase 1 is getting characters down, and hinting towards The Zonia Empire and their goal
 - [[The Strong One]]
 	- Zonia Empire is the antagonist
 	- Stone is a powerful Chabur that can constantly grow
@@ -14,9 +14,9 @@ Phase 1 is getting characters down, and hinting towards the Zonia Empire and the
 	- A super (ability is element bending lol)
 		- Believed to be worthy of the Kesumel 
 	- A shooting star passes the planet
-		- 
+		- TZE 
 - [[Gixaka Watch]]
-	- Mentions of The Kesumel and trying to prevent TZA from getting it
+	- Mentions of The Kesumel and trying to prevent TZE from getting it
 	- Introduces the Gixaka Watch
 		- Can recruit Chabet from across the Teinom Realm
 
