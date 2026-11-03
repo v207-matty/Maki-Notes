@@ -4,7 +4,7 @@
 
 ## Power Levels
 
-New power level system purely 
+New power level system purely for comparis
 
 0 - Human
 100 - Buu
