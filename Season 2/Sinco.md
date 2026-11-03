@@ -191,4 +191,5 @@ Establish a new Sinco world
 - A giant explosion happens in the sky
 - Tirok emerges from the smoke
 	- Tirok sustained minimal damage
-	- Sinco is no where to be s
+	- Sinco is no where to be seen
+- Tirok: "Serves you right you stupid Chabin"
