@@ -6,9 +6,10 @@ Phase 1 is getting characters down, and hinting towards the Zonia Empire and the
 	- Stone is a powerful Chabur that can constantly grow
 - [[Sinco]]
 	- Zonia Empire working with Tirok (TAZ : Tirok And Zonia)
-	- Sinco is an excellent 
+	- Sinco is an excellent mover
 - [[Galaxy Watch]]
 	- Zonia Empire mentioned loosely with the context of The Kesumel
+	- 
 - 
 
 Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together that I can

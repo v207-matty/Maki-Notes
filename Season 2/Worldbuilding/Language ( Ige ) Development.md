@@ -1,6 +1,5 @@
-m# English ( Ige )
+# English ( Ige )
 
-English : English  
 Spanish : Ingles  
 Greek : αγγλικός  
 Japanese : Eigo
@@ -14,7 +13,6 @@ Ige : Ige
 
 # Fuck ( Kef )
 
-English : Fuck  
 Spanish : Mierda  
 Japanese : Kuso
 
@@ -31,7 +29,6 @@ Ige : Kef
 
 # Super ( Chabur )
 
-English : Super
 Spanish : Súper
 Japanese : Subarashī
 Hindi : बहुत अच्छा / bahut acha
