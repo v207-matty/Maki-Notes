@@ -65,3 +65,6 @@ Ige : Gixaka
 
 Japanese : Shisubeki unmei ni aru
 Norwegian : Dødelig
+Russian : Smertnyy
+
+Mo
