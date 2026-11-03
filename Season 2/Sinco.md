@@ -156,6 +156,8 @@ Establish a new Sinco world
 - Sincos tail twitches
 - Sinco dangles from Tiroks leg thanks to his tail
 - Tirok swings
+- Sinco swings upward to punch Tirok in the head
+	- It hurts
 
 ## Resolution
 
