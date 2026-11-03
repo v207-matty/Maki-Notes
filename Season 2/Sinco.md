@@ -11,9 +11,11 @@ Establish a new Sinco world
 	- Some
 - Is there a good or bad reputation for Supers?  
 	- Bad
-# Theme
+# Themes
 
 - Protect the environment
+
+- Protect your home
 
 # Plot
 
