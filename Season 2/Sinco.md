@@ -128,7 +128,7 @@ Sinco trashes TAZ factory
 - Sinco raises his hands
 - Sinco shoots several energy blasts at different machines
 	- Several explosions emerge from system failings and from collision with the energy blasts
-- Sinco jumps around from 
+- Sinco jumps around from machine to machine, 
 
 ## Falling Action
 
