@@ -1,1 +1,3 @@
-The Kesumel was / is an artifact granted to a wa
+The Kesumel is an artifact that was granted to a warrior / protector deemed worthy by the Kesel Gods.
+
+The 
