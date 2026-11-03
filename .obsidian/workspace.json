@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/Maki Season 2.md",
+                "file": "Season 2/Stories/Season 2 Arcs and Phases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Maki Season 2"
-            }
-          },
-          {
-            "id": "837833f844e420d1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Season 2 Arcs and Phases"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "837833f844e420d1",
+  "active": "05cd2af50b3e4065",
   "lastOpenFiles": [
-    "Untitled.md",
     "Season 2/Maki Season 2.md",
+    "Untitled.md",
     "Season 2/Stories/Season 2 Arcs and Phases.md",
     "Season 2/Stories/Phase 3",
     "Season 2/Stories/Phase 2",
