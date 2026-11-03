@@ -141,6 +141,7 @@ Dybe
 Noma
 Notay
 Yavo
+Qu
 
 Ige : 
 
