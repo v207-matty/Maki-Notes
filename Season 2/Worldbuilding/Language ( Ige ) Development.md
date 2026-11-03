@@ -117,7 +117,11 @@ Orumor
 Urom
 Uruk
 Upuk
-Urup
+Urupor
+Morupuko
+Moru
+Puko
+Kupo
 
 Ige : 
 
