@@ -144,8 +144,7 @@ Establish a new Sinco world
 	- Tirok: "YOU, STUPID, IDIOT, CHABIN."
 - Sincos tail twitches
 - Tirok jumps at Sinco
-	- Sinco dodges
-- 
+	-
 
 ## Resolution
 
