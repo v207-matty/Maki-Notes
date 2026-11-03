@@ -54,4 +54,6 @@ Swedish : Galax
 Russian : Galaktika
 
 Gilay
+Tilax
+Lat
 
