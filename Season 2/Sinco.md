@@ -118,6 +118,8 @@ Sinco trashes TAZ factory
 		- Managing packaging and shipping for stores
 		- Generating Power
 		- Performing experiments and tests
+		- Manufacturing fake skin
+		- Manufacturing Robotic bodies
 - Sinco looks around and is disgusted
 - Sinco notices an office
 - Sinco raises his hands
