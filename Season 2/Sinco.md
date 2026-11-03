@@ -122,7 +122,7 @@ Sinco trashes TAZ factory
 		- Doing research on animal populations, reproduction rates, and more
 		- Creating food from animal remains
 		- Managing packaging and shipping for stores
-		- Generating electricity
+		- Generating Power
 		- Performing experiments and tests
 - Sinco looks around and is disgusted
 - Sinco notices an office
@@ -131,7 +131,7 @@ Sinco trashes TAZ factory
 	- Several explosions emerge from system failings and from collision with the energy blasts
 - Sinco jumps around from machine to machine, destroying nearly every machine around him
 - Sinco arrives at the office, shooting one last energy blast behind him
-- The energy blast hits
+- The energy blast hits one of the Power Generators and a massive explosion happens
 
 ## Falling Action
 
