@@ -16,7 +16,7 @@ Kina looks into this
 
 ## Climax
 
- Kina discovers 
+ Kina discovers that Gixaka Watch is 
 
 ## Falling Action
 
