@@ -8,7 +8,7 @@ Establish Gixaka Watch : A galaxy watching patrol that is supported by the Anile
 
 The Gixaka Watch notice The Zonia Empire is getting closer and closer to the Kesumel
 
-
+Kina
 
 ## Climax
 
