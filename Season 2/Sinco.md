@@ -136,6 +136,8 @@ Establish a new Sinco world
 	- Several explosions happen one after another in the city
 - Sincos tail twitches rapidly
 	- Sinco tries to move
+- Sinco gets kicked
+	- Sincos addreniline 
 
 ## Resolution
 
