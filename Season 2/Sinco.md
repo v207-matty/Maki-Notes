@@ -126,7 +126,7 @@ Sinco trashes TAZ factory
 - Sinco looks around and is disgusted
 - Sinco raises his hands
 - Sinco shoots several energy blasts at different machines
-	- Most of the operations
+	- 
 
 ## Falling Action
 
