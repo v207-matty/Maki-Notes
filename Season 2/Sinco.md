@@ -134,7 +134,8 @@ Establish a new Sinco world
 - Sinco lays on the concrete of outside
 	- Sinco lays on the road
 	- Several explosions happen one after another in the city
-- Sincos tail twitches ra[]
+- Sincos tail twitches rapidly
+	- Sinco tries to move
 
 ## Resolution
 
