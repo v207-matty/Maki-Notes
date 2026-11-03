@@ -12,7 +12,9 @@ Phase 1 is getting characters down, and hinting towards the Zonia Empire and the
 		- Said regular meets Zonia himself and is nearly killed
 - [[Kumelan]]
 	- A super (ability is element bending lol)
-		- Believed to be worthy of the Kesumel
+		- Believed to be worthy of the Kesumel 
+	- A shooting star passes the planet
+		- 
 - [[Gixaka Watch]]
 	- Mentions of The Kesumel and trying to prevent TZA from getting it
 	- Introduces the Gixaka Watch
