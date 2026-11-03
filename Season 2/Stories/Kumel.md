@@ -4,7 +4,7 @@ Establish Kumel : A helper on his planet, able to manipulate all of the elements
 
 ## Rising Action
 
-A shooting star passes and the planet starts to shake, and behind the shooting star is a giant ship that releases a Bakers dozen Zonia Empire soldiers onto the planet
+A shooting star passes and the planet starts to shake, and behind the shooting star is a giant ship that releases a Bakers dozen of Zonia Empire soldiers onto the planet
 
 ## Climax
 
