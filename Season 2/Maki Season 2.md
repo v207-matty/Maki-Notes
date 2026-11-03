@@ -15,4 +15,4 @@ More focus on film structure in story
 
 ![][Assets/storystructure-5acts.jpg]
 
-![]()
+![](Assets/storystructure-freytag.jpg)
