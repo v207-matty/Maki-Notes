@@ -130,16 +130,14 @@ Sinco trashes TAZ factory
 - Sincos tail twitches rapidly
 - The energy blast hits one of the Power Generators and a massive explosion happens
 	- Sinco is hit with the explosion and goes through several walls of concrete
-- Sinco lays on the concrete of outside
-	- Sinco lays on the road
-	- Several explosions happen one after another in the city
-- 
 
 ## Falling Action
 
 Tirok and Sinco meet again and fight
 
-- 
+- Sinco lays on the concrete of outside
+	- Sinco lays on the road
+	- Several explosions happen one after another in the city
 
 ## Resolution
 
