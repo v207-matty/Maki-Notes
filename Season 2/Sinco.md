@@ -125,6 +125,7 @@ Sinco trashes TAZ factory
 		- Generating electricity
 		- Performing experiments and tests
 - Sinco looks around and is disgusted
+- Sinco notices an office
 - Sinco raises his hands
 - Sinco shoots several energy blasts at different machines
 	- Several explosions emerge from system failings and from collision with the energy blasts
