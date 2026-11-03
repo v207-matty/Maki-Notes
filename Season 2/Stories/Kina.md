@@ -1,6 +1,8 @@
 ## Exposition
 
-Establish Gixaka Watch
+Establish Kina : A regular that 
+
+Establish Gixaka Watch : A galaxy watching patrol
 
 ## Rising Action
 
