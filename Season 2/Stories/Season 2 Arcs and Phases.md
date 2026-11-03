@@ -7,7 +7,7 @@ Phase 1 is getting characters down, and hinting towards The Zonia Empire and the
 - [[Sinco]]
 	- Zonia Empire working with Tirok (TAZ : Tirok And Zonia)
 	- Sinco is an excellent mover
-- [[Geguro]]
+- [[Gego]]
 	- A regular directly against The Zonia Empire
 		- Said regular meets Zonia himself and is nearly killed
 - [[Kumelan]]
