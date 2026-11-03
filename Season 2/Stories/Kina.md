@@ -26,4 +26,4 @@ Kina cant stop Kupo but instead weakens their forces
 
 ## Resolution
 
-Kina escapes
+Kina escapes the Gixaka Watch
