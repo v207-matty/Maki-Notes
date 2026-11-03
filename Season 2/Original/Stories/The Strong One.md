@@ -14,4 +14,4 @@ The Strong One spends a quarter of the day on the moon, just thinking, but now a
 
 A ship from The Zonia Empire has arrived on Chacuric, ready to colonize it as official Zonia Empire property, 8 Zonia Empire soldiers come out, 2 stand guard while the rest begin the colonization process, the Chacuric people ready to be captured and presumably enslaved when suddenly something flies cleanly through the ship, cutting it in half and causing an explosion that kills the 2 guard Zonia Empire soldiers. Above everyone flies The Strong One, ready to handle this, the Chacuric residents cheer as The Strong One handles the Zonia Empire soldiers, 4 of them went down easy but the other 2 came with challenge, The Strong One weakens them first by not letting them get any hit in or leverage, constant pressure and disorientation thanks to The Strong Ones speed, then when he is done The Strong One pushes one of the soldiers towards the other and fires an energy blast, taking out the last 2.
 
-The citizens of Chacuric are ecstatic, cheering at the top of "The Strong One!"
+The citizens of Chacuric are ecstatic, cheering at the top of their lungs : "The Strong One!"
