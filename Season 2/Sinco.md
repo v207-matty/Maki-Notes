@@ -139,7 +139,8 @@ Establish a new Sinco world
 - Sinco gets kicked
 	- Sincos adrenaline kicks in
 - Sinco jumps up
-	- Sinco grabs a lamp post 
+	- Sinco grabs a lamp post with his tail and spins to land on it
+- Tirok stands below 
 
 ## Resolution
 
