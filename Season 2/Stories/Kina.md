@@ -18,7 +18,7 @@ Kina discovers that Gixaka Watch has been taken over by Kupo
 
 ## Climax
 
-Kina works toward
+Kina works toward stopping 
 
 ## Falling Action
 
