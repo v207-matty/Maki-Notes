@@ -189,4 +189,4 @@ Establish a new Sinco world
 	- His palms begin to glow
 - Tirok is right in front of Sinco
 - A giant explosion happens in the sky
-- 
+- Tirok emerges from the smoke  
