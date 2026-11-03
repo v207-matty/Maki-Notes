@@ -4,4 +4,4 @@ The Kesumel grants the user immortality (with no physical aging), doubled power,
 
 One day in the second age, the Kesumel was stolen by one who was unworthy and thus the Kesumel shot away, becoming a shooting star in the distance that never stops, spreading its power across the universe.
 
-With the death of the Kesel gods in the sixth age
+With the death of the Kesel gods in the sixth age the Kesumel has lost is sentience
