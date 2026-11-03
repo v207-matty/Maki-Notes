@@ -16,7 +16,7 @@ Kina looks into this
 
 ## Climax
 
- 
+ Kina discovers
 
 ## Falling Action
 
