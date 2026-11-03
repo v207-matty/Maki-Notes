@@ -184,4 +184,6 @@ Establish a new Sinco world
 - Sincos tail twitches
 - Sinco looks down
 	- Tirok is flying towards him rapidly
-- Sinco raises his hands in front of h
+- Sinco raises his hands in front of his face
+	- Sinco charges energy
+	- His palms begin to glow
