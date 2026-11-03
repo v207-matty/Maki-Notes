@@ -14,9 +14,10 @@ The Gixaka Watch is becoming more and more lenient with bad actors
 
 Kina looks into this
 
+ Kina discovers that Gixaka Watch has been taken over by Kupo
+
 ## Climax
 
- Kina discovers that Gixaka Watch has been taken over by Kupo
 
 ## Falling Action
 
