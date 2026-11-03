@@ -35,8 +35,8 @@
   --scrollbar-bg: rgba(255, 255, 255, 0.05);
   --scrollbar-thumb-bg: rgba(255, 255, 255, 0.1);
   --panel-border-color: #18191e;
-  --gray-1: #5C6370;
-  --gray-2: #abb2bf;
+  --gray-1: #000;
+  --gray-2: #000;
   --red: #e06c75;
   --orange: #d19a66;
   --green: #98c379;
