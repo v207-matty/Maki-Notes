@@ -114,7 +114,10 @@ Establish a new Sinco world
 
 Sinco trashes TAZ factory
 
-- 
+- Sinco enters the TAZ factory
+	- Several machines are there
+		- Burning fossil fuels
+		- 
 
 ## Falling Action
 
