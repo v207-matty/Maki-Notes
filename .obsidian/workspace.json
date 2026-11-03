@@ -8,50 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "162e3eeeab365873",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "142048631b0bedbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/Original/Worldbuilding/Language ( Ige ) Development.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Language ( Ige ) Development"
-            }
-          },
-          {
             "id": "67bb3f6b10702119",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/Original/Stories/Kina.md",
+                "file": "Season 2/Original/Stories/Gego.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -66,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kina"
+              "title": "Gego"
             }
           }
         ]
@@ -244,11 +206,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "162e3eeeab365873",
+  "active": "67bb3f6b10702119",
   "lastOpenFiles": [
-    "Season 2/Original/Stories/Gego.md",
-    "Season 2/Original/Stories/Kumel.md",
     "Season 2/Original/Stories/Kina.md",
+    "Season 2/Original/Stories/Sinco.md",
+    "Season 2/Original/Stories/Kumel.md",
+    "Season 2/Original/Worldbuilding/Language ( Ige ) Development.md",
+    "Season 2/Original/Stories/Gego.md",
     "Season 2/Unoriginal/Matty Edition/Dragon Ball Z.md",
     "Season 2/Unoriginal/Matty Edition/Rules.md",
     "Season 2/Unoriginal/Matty Edition",
@@ -257,11 +221,9 @@
     "Season 2/Original",
     "Season 2/Original/Worldbuilding/Kesumel.md",
     "Untitled.md",
-    "Season 2/Original/Worldbuilding/Language ( Ige ) Development.md",
     "Season 2/Original/Worldbuilding/Language ( Ige ) Word Definition Making.md",
     "Season 2/Original/Worldbuilding/Questions To Answer.md",
     "Season 2/Original/Stories/The Strong One.md",
-    "Season 2/Original/Stories/Sinco.md",
     "README.md",
     "Season 2/Stories/Season 2 Timeline.md",
     "Assets/storystructure-freytag.jpg",
