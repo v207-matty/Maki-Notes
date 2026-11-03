@@ -1,8 +1,10 @@
 # Arc 1
 
 Phase 1 is getting characters down, and hinting towards the Zonia Empire and their goal
-- [[The Strong One]] : Zonia Empire is the antagonist
-- [[Sinco]] : Zonia Empire in "TAZ"
+- [[The Strong One]]
+	- Zonia Empire is the antagonist
+- [[Sinco]]
+	- Zonia Empire working with Tirok (TAZ : Tirok An)
 - [[Galaxy Watch]] : Zonia Empire mentioned loosely with the context of The Kesumel
 - 
 
