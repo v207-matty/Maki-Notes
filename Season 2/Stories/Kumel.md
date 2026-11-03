@@ -1,6 +1,6 @@
 ## Exposition
 
-Establish Kumel : A helper on his planet, able to manipulate all of the elements while most other supers on the planet can only manipulate one element
+Establish Kumel : A helper on their planet, able to manipulate all of the elements while most other supers on the planet can only manipulate one element
 
 ## Rising Action
 
@@ -12,7 +12,7 @@ The Zonia Empire soldiers cause destruction on Kumels planet
 
 ## Falling Action
 
-Kumel begins to battle the soldiers, 
+Kumel begins to battle the soldiers, slowly ramping up how aggressive they
 
 ## Resolution
 
