@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/Stories/Phase 1/Gego.md",
+                "file": "Season 2/Stories/Season 2 Arcs and Phases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -46,7 +46,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gego"
+              "title": "Season 2 Arcs and Phases"
             }
           }
         ]
@@ -224,11 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d90df1011fc906ab",
+  "active": "4fcdc2977b521649",
   "lastOpenFiles": [
-    "Assets/storystructure-freytag.jpg",
     "Season 2/Stories/Season 2 Arcs and Phases.md",
     "Season 2/Stories/Phase 1/Gego.md",
+    "Assets/storystructure-freytag.jpg",
     "README.md",
     "The Outer Realm.md",
     "Season 2/Worldbuilding/Language ( Ige ) Word Definition Making.md",
