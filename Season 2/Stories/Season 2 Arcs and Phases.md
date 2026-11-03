@@ -3,9 +3,10 @@
 Phase 1 is getting characters down, and hinting towards the Zonia Empire and their goal
 - [[The Strong One]]
 	- Zonia Empire is the antagonist
-	- Stone is a Chabur 
+	- Stone is a powerful Chabur that can constantly grow
 - [[Sinco]]
 	- Zonia Empire working with Tirok (TAZ : Tirok And Zonia)
+	- Sinco is an excellent 
 - [[Galaxy Watch]]
 	- Zonia Empire mentioned loosely with the context of The Kesumel
 - 
