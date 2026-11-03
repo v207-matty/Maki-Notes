@@ -21,6 +21,7 @@ Phase 1 is getting characters down, and hinting towards The Zonia Empire and the
 		- Sinco WILL NOT like this guy
 
 Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together that I can
+- 
 - [[Gixaka Watch]]
 	- Introduces the Gixaka Watch
 		- Can recruit Chabet from across the Teinom Realm
@@ -28,7 +29,7 @@ Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together
 		- They notice TZE are close to getting the Kesumel
 		- They are about to stop them when the Kesumel is already taken
 - [[The Outer Realm]]
-	- GW 
+	- GW recruits 
 - [[The Supers]]
 	- 
 
