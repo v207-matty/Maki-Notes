@@ -2,6 +2,8 @@ On the planet of Burvak there exists a man named "Gego" with the most advanced t
 
 That day has arrived, 8 Zonia Empire soldiers arrive on Burvak looking for Gego, causing destruction every where they go, sending the general population back technology wise by entire decades.
 
+Gego 
+
 Gego is defeated by the Zonia Empire soldiers and retreats
 
 Gego upgrades his tech, fixing the weak points that were exploited in the last fight
