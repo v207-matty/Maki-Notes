@@ -4,7 +4,7 @@ Establish Gego : Regular with THE most advanced tech on his planet
 
 ## Rising Action
 
-Zonia Empire soldiers arrive on Gegos planet to deal with him, their fued, causing destruction everywhere they go
+Zonia Empire soldiers arrive on Gegos planet to deal with him, causing destruction everywhere they go
 
 ## Climax
 
@@ -12,7 +12,7 @@ Gego is defeated by the Zonia Empire soldiers and retreats
 
 ## Falling Action
 
-Gego advances his tech
+Gego upgrades his tech, fixing the weak points that were exploited in the last fight
 
 ## Resolution
 
