@@ -7,6 +7,10 @@ Phase 1 is getting characters down, and hinting towards The Zonia Empire and the
 - [[Sinco]]
 	- Zonia Empire is working with Tirok (TAZ : Tirok And Zonia)
 	- Sinco is an excellent with movement
+- [[Gego]]
+	- A regular directly against The Zonia Empire
+	- Gego is a regular who knows tech and can use that to assist him
+		- Sinco WILL NOT like this guy
 - [[Kumel]]
 	- A super (ability is element bending lol)
 		- Believed to be worthy of the Kesumel 
@@ -14,11 +18,6 @@ Phase 1 is getting characters down, and hinting towards The Zonia Empire and the
 		- TZE drops off some soldiers days later
 		- Kumelan battles the TZE soldiers and wins
 	- Kumel is the next Kesel
-- [[Gego]]
-	- A regular directly against The Zonia Empire
-		- Said regular meets Zonia himself and is nearly killed
-	- Gego is a regular who knows tech and can use that to assist him
-		- Sinco WILL NOT like this guy
 
 Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together that I can
 - [[Gixaka Watch]]
