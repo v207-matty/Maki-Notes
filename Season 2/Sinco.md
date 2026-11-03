@@ -195,3 +195,6 @@ Establish a new Sinco world
 - Tirok: "Serves you right you stupid Chabin."
 
 - Sinco is back in the forest
+	- Hurt
+	- Resting
+	- Ready to figu
