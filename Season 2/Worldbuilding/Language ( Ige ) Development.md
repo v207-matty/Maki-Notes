@@ -106,6 +106,8 @@ Ige : Anile
 
 # Worm ( _ )
 
+Assamese : Puk
+Danish : Orm
 
 
 # N
