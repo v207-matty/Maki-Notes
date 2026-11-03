@@ -64,3 +64,4 @@ Ige : Gixaka
 # Mortal 
 
 Japanese : Shisubeki unmei ni aru
+Norwegian : Dødelig
