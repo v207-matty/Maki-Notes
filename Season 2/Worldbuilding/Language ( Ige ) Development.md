@@ -60,3 +60,7 @@ Gixay
 Gixaka
 
 Ige : Gixaka
+
+# Mortal 
+
+Japanese : Shisubeki unmei ni aru
