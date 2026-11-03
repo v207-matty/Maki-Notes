@@ -40,10 +40,7 @@ Phase 3 is the pay off, all the dominos start to fall
 	- The 5 supers escape The Outer Realm 
 	- They meet Zonia
 	- Zonia gives them several powered up soldiers to deal with
-- [[?]]
-	- 
-- [[?]]
-	- 
+	- They once again work together to deal with the soldiers
 - [[?]]
 	- 
 - [[Zenith]]
