@@ -169,6 +169,7 @@ Establish a new Sinco world
 - Tirok spins around
 - Tirok stops spinning suddenly
 	- Inertia makes Sinco fly off Tiroks leg
+- Tirok flies close behind Sinco 
 
 ## Resolution
 
