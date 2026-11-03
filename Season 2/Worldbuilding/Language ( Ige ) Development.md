@@ -1,4 +1,4 @@
-# English ( Ige )
+## English ( Ige )
 
 Spanish : Ingles  
 Greek : αγγλικός  
@@ -11,7 +11,7 @@ Ige
 
 Ige : Ige
 
-# Fuck ( Kef )
+## Fuck ( Kef )
 
 Spanish : Mierda  
 Japanese : Kuso
@@ -27,7 +27,7 @@ Kef
 
 Ige : Kef
 
-# Super ( Chabur )
+## Super ( Chabur )
 
 Spanish : Súper
 Japanese : Subarashī
@@ -46,7 +46,7 @@ Chabur
 
 Ige : Chabur
 
-# Galaxy ( Gixaka )
+## Galaxy ( Gixaka )
 
 Spanish : Galaxia
 Japanese : Ginga
@@ -61,7 +61,7 @@ Gixaka
 
 Ige : Gixaka
 
-# Mortal ( Teinom )
+## Mortal ( Teinom )
 
 Japanese : Shisubeki unmei ni aru
 Norwegian : Dødelig
@@ -75,7 +75,7 @@ Teinom
 
 Ige : Teinom
 
-# God ( Kaimos )
+## God ( Kaimos )
 
 Spanish : Dios
 Greek : Theós
@@ -90,7 +90,7 @@ Kaimos
 
 Ige : Kaimos
 
-# Angel ( Anile )
+## Angel ( Anile )
 
 Japanese : Tenshi
 Danish : Engel
@@ -104,7 +104,7 @@ Anile
 
 Ige : Anile
 
-# Worm ( Kupo )
+## Worm ( Kupo )
 
 Assamese : Puk
 Danish : Orm
@@ -125,7 +125,7 @@ Kupo
 
 Ige : Kupo
 
-# Devil ( Quyve )
+## Devil ( Quyve )
 
 Assamese : Chyatan
 Spanish : Demonio
@@ -145,4 +145,4 @@ Quyve
 
 Ige : Quyve
 
-# N
+## N
