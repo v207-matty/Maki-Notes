@@ -26,4 +26,4 @@ Kina cant stop Kupo but instead weakens their forces
 
 ## Resolution
 
-Kina leaves the Gixaka
+Kina is banished 
