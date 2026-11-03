@@ -1,6 +1,7 @@
 ## Rules
 
-- a 5% id
+- A 5% difference in power is enough to turn the tides of battle
+- 
 
 ## Saiyan Saga
 
