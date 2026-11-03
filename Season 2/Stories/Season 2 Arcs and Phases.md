@@ -33,9 +33,7 @@ Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together
 		- Regular that has trained to strengthen his body, mind, and spirit, and to posses powers
 - [[The Outer Realm]]
 	- The 5 supers are ambushed by The Zonia Empire and sent to The Outer Realm
-	- They work to escape
-- [[Chabet]]
-	- 
+	- They have to deal with the Outer Realm Beasts to escape
 
 Phase 3 is the pay off, all the dominos start to fall
 - [[?]]
