@@ -2,7 +2,7 @@ On the planet of Burvak there exists a man named "Gego" with the most advanced t
 
 That day has arrived, 8 Zonia Empire soldiers arrive on Burvak looking for Gego, causing destruction every where they go, sending the general population back technology wise by entire decades. Gego is notified thanks to his tech of the arrival of the Zonia Empire soldiers and gears up, he has a slim mech suit with a jetpack / backpack attachment that can store weaponry and allow him flight.
 
-Gego flies towards the Zonia Emp
+Gego flies towards the Zonia Empire soldiers but is quickly bested as they shoot his jetpack, forcing him to 
 
 Gego is defeated by the Zonia Empire soldiers and retreats
 
