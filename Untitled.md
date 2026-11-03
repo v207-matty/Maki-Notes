@@ -5,6 +5,7 @@ The Kesumel grants the user immortality (with no physical aging), doubled power,
 
 One day in the second age, the Kesumel was stolen by one who was unworthy and thus the Kesumel shot away, becoming a shooting star in the distance that never stops, spreading its power across the universe.
 # Language Development
+
 # Language Word Definition
 
 # The Strong One
