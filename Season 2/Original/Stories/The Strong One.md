@@ -4,13 +4,7 @@ One day a spy camera is discovered by The Strong One, and with its discover come
 
 The next day a person arrived on Chacuric, they spoke of being a Zonia Empire Soldier here to deal with a potential threat and to colonize, The Strong One began battle with the soldier, giving every punch he lands his full potential, but the soldier just stands there, eventually the soldier flicks The Strong One away, The Strong One charges back in, surely this was just a fluke, The Strong One tackles the soldier, they both fall backward and The Strong One begins another flurry of punching, but still the soldier doesn't budge, the soldier raises up a hand and so does The Strong One, their hands both glow, The Strong One fires first and the soldier fires afterward, The Strong One is knocked back extremely by this, falling onto his back on the ground, it feels as though with a bit more power in the blast the soldier would've put a hole in his head, the soldier is unfazed however, getting up, walking towards The Strong One, and stomping on him, The Strong One cannot get up, he is severely weak from the face blast, The Strong One tries something anyway, he raises his hand, it gets grabbed by the soldier, the soldier gets off The Strong One and begins to drag him away to a ravine, right as the soldier is about to throw The Strong One in The Strong One has regained enough energy to quickly fly behind the soldier and push him into the ravine, killing him.
 
-- A Zonia Empire Soldier arrives on Chacuric  
-- TSO and The Soldier battle  
-  - TSO is weaker  
-  - TSO is losing  
-- TSO wins by tricking The Soldier  
-  - TSO is disappointing  
-- TSO starts questioning himself
+The Strong One : "That... was... weak.."
 
 - TSO starts having nightmares where he is weak  
 - TSO has to make himself believe  
