@@ -11,7 +11,7 @@ Phase 1 is getting characters down, and hinting towards the Zonia Empire and the
 	- A regular directly against The Zonia Empire
 		- Said regular meets Zonia himself and is nearly killed
 - [[Kumelan]]
-	- A super (ability is element bending lol) believed to be 
+	- A super (ability is element bending lol) believed to be the next worthy of the Kesumel
 - [[Gixaka Watch]]
 	- Mentions of The Kesumel and trying to prevent the Zonia Empire from getting it
 	- Introduces the Gixaka Watch
