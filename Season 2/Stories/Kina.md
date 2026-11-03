@@ -12,7 +12,7 @@ Kina wants to gather a group of heros to assist the Gixaka Watch, his desires ar
 
 ## Climax
 
-The Gixaka 
+The Gixaka Watch has stopped
 
 ## Falling Action
 
