@@ -27,10 +27,9 @@ Phase 2 is the ramp up, more Zonia Empire focus and bringing characters together
 		- They notice TZE are close to getting the Kesumel
 		- They are about to stop them when the Kesumel is already taken
 - [[Gixaka Watch ; Recruiting]]
-	- Stone gets recruited by the Gixaka Watch
-	- Sinco gets recruited by the Gixaka Watch
-	- Kumel gets recruited by the Gixaka Watch
+	- Stone, Sinco, and Kumel gets recruited by the Gixaka Watch
 	- Gego asks to be recruited by the Gixaka Watch
+	- 
 
 - [[The Outer Realm]]
 	- 
