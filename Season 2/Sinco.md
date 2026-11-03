@@ -145,6 +145,7 @@ Establish a new Sinco world
 	- Tirok: "MUST YOU DESTROY EVERY ONE OF MY THINGS!?!?"
 	- Sinco: "You're the one destroying the environment people and animals live in!"
 	- Tirok: "NO BODY FUCKING CARES ABOUT THE STUPID FOREST ANYMORE."
+	- Tirok: "AND NO BODY CARES ABOUT"
 
 ## Resolution
 
