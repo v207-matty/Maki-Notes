@@ -8,13 +8,9 @@ The Strong One : "I was... weak..."
 
 That night The Strong One began to have nightmares where more of those soldiers came and that The Strong One couldn't do anything about it, they would take over Chacuric with no effort, the following day The Strong One looks to resolve this worries by helping more, he strong enough and powerful enough to help, yesterday was just a fluke from the peaceful years they've experienced.
 
-Two days later more Zonia Empire Soldiers arrive on Chacuric, but instead of flying towards them to beat them The Strong One freezes up and cowers in a secret hiding spot of his from when he was younger, the soldiers cause destruction across the planet for an entire day, then deciding to proceed with colonization procedures and leaving to get a bigger ship, The Strong One is too disappointed in himself to go back, he just flies upward, hoping that the vacuum of space can free him from his worries, but it turns out he can breathe in space, so The Strong One just flies to the moon
+Two days later more Zonia Empire Soldiers arrive on Chacuric, but instead of flying towards them to beat them The Strong One freezes up and cowers in a secret hiding spot of his from when he was younger, the soldiers cause destruction across the planet for an entire day, then deciding to proceed with colonization procedures and leaving to get a bigger ship, The Strong One is too disappointed in himself to go back, he just flies upward, hoping that the vacuum of space can free him from his worries, but it turns out he can breathe in space, so The Strong One just flies to the moon and sits down in disappointment.
 
-- TSO flies off to the moon of Chacuric  
-  - In a panic  
-  - No one told him to  
-  - He didn't even know he could  
-  - He just left the atmosphere and the moon was in the way
+
 
 - TSO takes time to rest on the moon  
   - TSO begins to think and think  
