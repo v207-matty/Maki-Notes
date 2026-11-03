@@ -141,7 +141,7 @@ Dybe
 Noma
 Notay
 Yavo
-Qu
+Quyve
 
 Ige : 
 
