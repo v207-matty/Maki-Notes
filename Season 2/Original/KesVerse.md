@@ -1,7 +1,5 @@
 More focus on film structure in story
 
-You can go to [[Season 2 Timeline]] to see the films
-
 ## Films
 
 - [[The Strong One]]
