@@ -1,6 +1,6 @@
 In the Teinom realm there exists an organization that watches over the galaxies contained within the realm known as the Gixaka Watch, supported by the Anile themselves this group ensures that the realm is safe from any threat, external or internal.
 
-Working for the Gixaka Watch there exists a regular mortal who was once powerless, but as they trained and trained, becoming stronger and stronger every day, they started to train their body to posses powers, they just needed to 
+Working for the Gixaka Watch there exists a regular mortal who was once powerless, but as they trained and trained, becoming stronger and stronger every day, they started to train their body to posses powers, they just needed to manipulate their energy to a precise degree, this mortal, Kina,
 
 Establish Gixaka Watch : A galaxy watching patrol that is supported by the Anile themselves
 
