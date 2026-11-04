@@ -147,4 +147,8 @@ Ige : Quyve
 
 ## Hell ( )
 
+## Strong ( )
+
+
+
 ## N
