@@ -4,7 +4,7 @@ Working for the Gixaka Watch there exists a regular mortal who was once powerles
 
 One day however, Kina notices something, The Zonia Empire, the most fierce mortal empire in the realm is getting closer and closer to an artifact known as the Kesumel, with this artifact the head of the empire, Zonia himself would become unstoppable, they cannot let this happen, so Kina reports this to the higher ups, they say they will begin procedures to prevent it but days pass and nothing happens, strange, this is very similar to when Kina was reporting other bad actors and nothing happened, but they were minor disturbances and got sorted out anyway, but this is The Zonia Empire, you don't take this empire lightly, Kina begins looking into this, looking at confidential documents and records, listening in to discussions from the higher ups, nothing unusual at first but then Kina finds secret logs that are transmitting data from Gixaka Watch servers to the servers of Kupo, the Demon Worm group, this is a spy group that get their way into the ranks and report data to whoever hired them while also performing sabotage if the person hiring them requests it.
 
-Kina would not let this happen, they need to s
+Kina would not let this happen, they need to stop Kupo somehow
 
 Kina works toward stopping Kupo
 
