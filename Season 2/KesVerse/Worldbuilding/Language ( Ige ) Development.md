@@ -149,6 +149,7 @@ Ige : Quyve
 
 ## Strong ( )
 
-
+Italian : Forte
+Spanish : Fuerte
 
 ## N
