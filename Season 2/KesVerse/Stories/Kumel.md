@@ -1,4 +1,4 @@
-On the planet of the old Kesel gods : Musele, there remains the race of the Keselins, their abilities now limited due to the Kesumel 
+On the planet of the old Kesel gods : Musele, there remains the race of the Keselins, their abilities now limited due to the Kesumel circling the entire realm
 
 Establish Kumel : A helper on their planet, able to manipulate all of the elements while most other supers on the planet can only manipulate one element
 
