@@ -2,8 +2,6 @@ On the planet of the old Kesel gods : Musele, there remains the race of the Kese
 
 On a day known as "The waving", a shooting star passes the planet, this star being The Kesumel, circling the entire realm, having finally reached Musele again after 20 years, all gather to watch it pass and sprinkle power onto the planet, however behind The Kesumel today is a gigantic ship that dispenses a smaller ship from itself as the gigantic ship continues to follow the The Kesumel, the smaller ship approaches Musele.
 
-A shooting star passes and the planet starts to shake, and behind the shooting star is a giant ship that releases a Bakers dozen of Zonia Empire soldiers onto the planet
-
 The Zonia Empire soldiers cause destruction on Kumels planet
 
 Kumel begins to battle the soldiers, slowly ramping up how aggressive they use their powers
