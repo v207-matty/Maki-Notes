@@ -6,6 +6,4 @@ One day however, Kina notices something, The Zonia Empire, the most fierce morta
 
 Kina would not let this happen, they need to stop Kupo somehow, so Kina spends their time doing more research, what data do they send, who has been compromised, who has not, who hired them, all the things like that, Kina discovers not much in all honesty, Kupo covers their tracks, especially when they know someone is after them.
 
-Kina 
-
-Kina escapes the Gixaka Watch and wanders the Teinom Realm (Mortal Realm)
+Kina gets put into a meeting with the higher ups. "What do you know?" 
