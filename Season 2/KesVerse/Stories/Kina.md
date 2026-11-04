@@ -1,4 +1,4 @@
-In the Teinom realm there exists an organization that watches over the
+In the Teinom realm there exists an organization that watches over the galaxies contained within the realm known as the i
 
 Establish Gixaka Watch : A galaxy watching patrol that is supported by the Anile themselves
 
