@@ -151,5 +151,10 @@ Ige : Quyve
 
 Italian : Forte
 Spanish : Fuerte
+Japanese : Tsuyoi
+
+Suyte
+
+Ige : Su
 
 ## N
