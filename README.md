@@ -4,4 +4,6 @@ I recommend viewing it in [Obsidian](https://obsidian.md/)
 
 Random connections for graph:
 [[CVT]]
-[[Sinco Coloni]]
+[[Sinco Colonized AU]]
+[[DBME]]
+[[KesVerse]]
