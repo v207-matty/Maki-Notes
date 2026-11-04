@@ -147,7 +147,7 @@ Ige : Quyve
 
 ## Hell ( )
 
-## Strong ( )
+## Strong ( Suyte )
 
 Italian : Forte
 Spanish : Fuerte
@@ -155,6 +155,6 @@ Japanese : Tsuyoi
 
 Suyte
 
-Ige : Su
+Ige : Suyte ( first fuckin try holy shit )
 
 ## N
