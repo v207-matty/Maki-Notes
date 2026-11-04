@@ -11,10 +11,24 @@
             "id": "67bb3f6b10702119",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/Unoriginal/Matty Edition/Dragon Ball Matty Edition.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dragon Ball Matty Edition"
             }
           }
         ]
@@ -192,8 +206,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67bb3f6b10702119",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
+    "Season 2/Unoriginal/Matty Edition/Dragon Ball Matty Edition.md",
     "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/Stories/Sinco.md",
     "Season 2/KesVerse/Stories/The Strong One.md",
@@ -233,8 +248,4 @@
     "Assets",
     "Season 2/The Strong One/Installments",
     "Season 1/CNU/Stories/CNU Part 1.md",
-    "Season 1/CNU/CNU.md",
-    "Untitled.canvas",
-    "Renewed/Explanations/CANVAS.canvas"
-  ]
-}
+    "Untitled.canv
