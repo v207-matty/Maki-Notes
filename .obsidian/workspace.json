@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4c223ef67ec29292",
+        "id": "60c11dbe26f4f08f",
         "type": "tabs",
         "children": [
           {
-            "id": "7f2e70394641e52f",
+            "id": "6a62a1c7acd6af0d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/KesVerse/KesVerse.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "KesVerse"
             }
           }
         ]
@@ -192,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f2e70394641e52f",
+  "active": "6a62a1c7acd6af0d",
   "lastOpenFiles": [
     "README.md",
     "Season 2/KesVerse/KesVerse.md",
