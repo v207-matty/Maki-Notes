@@ -9,4 +9,5 @@ Random connections for graph:
 [[KesVerse]]
 [[Objectification]]
 [[Sinco Renewed]]
-[[]]
+[[Granule]]
+[[CNU]]
