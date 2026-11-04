@@ -1,3 +1,5 @@
+On the planet of the old Kesel gods : 
+
 Establish Kumel : A helper on their planet, able to manipulate all of the elements while most other supers on the planet can only manipulate one element
 
 A shooting star passes and the planet starts to shake, and behind the shooting star is a giant ship that releases a Bakers dozen of Zonia Empire soldiers onto the planet
