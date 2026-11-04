@@ -11,24 +11,10 @@
             "id": "67bb3f6b10702119",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/Unoriginal/Matty Edition/Dragon Ball Matty Edition.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dragon Ball Matty Edition"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -206,9 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "67bb3f6b10702119",
   "lastOpenFiles": [
-    "Season 2/Unoriginal/Matty Edition/Dragon Ball Matty Edition.md",
+    "Season 2/Unoriginal/Dragon Ball Matty Edition/Dragon Ball Matty Edition.md",
     "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/Stories/Sinco.md",
     "Season 2/KesVerse/Stories/The Strong One.md",
@@ -217,9 +203,9 @@
     "Season 2/KesVerse/Stories/Kina.md",
     "Season 2/KesVerse/Stories/Gego.md",
     "Season 2/KesVerse/Worldbuilding/Language ( Ige ) Development.md",
-    "Season 2/Unoriginal/Matty Edition/Dragon Ball Z.md",
-    "Season 2/Unoriginal/Matty Edition/Rules.md",
-    "Season 2/Unoriginal/Matty Edition",
+    "Season 2/Unoriginal/Dragon Ball Matty Edition/Dragon Ball Z.md",
+    "Season 2/Unoriginal/Dragon Ball Matty Edition/Rules.md",
+    "Season 2/Unoriginal/Dragon Ball Matty Edition",
     "Season 2/Unoriginal",
     "Season 2/KesVerse",
     "Season 2/KesVerse/Worldbuilding/Kesumel.md",
@@ -248,4 +234,7 @@
     "Assets",
     "Season 2/The Strong One/Installments",
     "Season 1/CNU/Stories/CNU Part 1.md",
-    "Untitled.canv
+    "Untitled.canvas",
+    "Renewed/Explanations/CANVAS.canvas"
+  ]
+}
