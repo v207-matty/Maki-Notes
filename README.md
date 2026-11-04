@@ -2,4 +2,6 @@ My "Maki Notes" Obsidian Vault
 
 I recommend viewing it in [Obsidian](https://obsidian.md/)
 
-Random connections for graph
+Random connections for graph:
+[[CVT]]
+[[Sinco Coloni]]
