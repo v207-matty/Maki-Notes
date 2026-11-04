@@ -11,10 +11,24 @@
             "id": "67bb3f6b10702119",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -192,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "67bb3f6b10702119",
   "lastOpenFiles": [
-    "Season 2/Dragon Ball/Dragon Ball Matty Edition/Dragon Ball Matty Edition.md",
     "Season 2/KesVerse/KesVerse.md",
+    "Season 2/Dragon Ball/Matty Edition/DBME.md",
     "Season 2/KesVerse/Stories/Sinco.md",
     "Season 2/KesVerse/Stories/The Strong One.md",
     "Season 2/Original/Worldbuilding/Questions To Answer.md",
@@ -203,9 +217,9 @@
     "Season 2/KesVerse/Stories/Kina.md",
     "Season 2/KesVerse/Stories/Gego.md",
     "Season 2/KesVerse/Worldbuilding/Language ( Ige ) Development.md",
-    "Season 2/Dragon Ball/Dragon Ball Matty Edition/Dragon Ball Z.md",
-    "Season 2/Dragon Ball/Dragon Ball Matty Edition/Rules.md",
-    "Season 2/Dragon Ball/Dragon Ball Matty Edition",
+    "Season 2/Dragon Ball/Matty Edition/Dragon Ball Z.md",
+    "Season 2/Dragon Ball/Matty Edition/Rules.md",
+    "Season 2/Dragon Ball/Matty Edition",
     "Season 2/Dragon Ball",
     "Season 2/KesVerse",
     "Season 2/KesVerse/Worldbuilding/Kesumel.md",
