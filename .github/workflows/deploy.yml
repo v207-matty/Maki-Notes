@@ -1,14 +1,25 @@
-name: Publish
+# .github/workflows/deploy.yml
+name: Deploy to GitHub Pages
+
 on:
   push:
-    branches: [main] # or master based on your repo
-  workflow_dispatch: # for manual run
+    branches: [main]
+
+permissions:
+  pages: write
+  id-token: write
 
 jobs:
-  publish:
+  deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
     steps:
-      - uses: kckhchen/intaglio@v1
+      - uses: actions/checkout@v4
+      - uses: benelog/obsidian-site@v1
+      - uses: actions/upload-pages-artifact@v3
         with:
-          jekyll-repo: username/jekyll-repo # your own repo name
-          token: ${{ secrets.BLOG_PUSH_TOKEN }}
+          path: public
+      - id: deploy
+        uses: actions/deploy-pages@v4
