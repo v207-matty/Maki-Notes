@@ -1,3 +1,5 @@
+#season1 #sinco #sincoau #renewed
+
 # Chapter 1 : Invoy
 
 Lozen, March 2029
