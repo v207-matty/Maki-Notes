@@ -1,3 +1,5 @@
+#season1 #granule
+
 Aliens from the Planet [[Tosmut]].
 
 "The Ultimate Aliens".
