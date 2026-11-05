@@ -10,10 +10,9 @@ More focus on film structure in story
 
 ## Worldbuilding
 
-- [[Ige Development]]
-- [[Ige Word Defenitions]]
 - [[Kesumel]]
 - [[Keselin Reproduction]]
+- [[Ige]]
 
 ## Structures
 
