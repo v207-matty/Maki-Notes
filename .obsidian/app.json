@@ -4,5 +4,5 @@
   "spellcheck": true,
   "readableLineLength": true,
   "showLineNumber": true,
-  "showInlineTitle": false
+  "showInlineTitle": true
 }
