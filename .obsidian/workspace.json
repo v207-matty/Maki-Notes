@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6238a58fde3dacd5",
+        "id": "c80247e729f473d9",
         "type": "tabs",
         "children": [
           {
-            "id": "de3b44f16d704ef2",
+            "id": "57ac1956b44c34f9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de3b44f16d704ef2",
+  "active": "57ac1956b44c34f9",
   "lastOpenFiles": [
     "Season 2/KesVerse/Stories/Arc 2/The Protectors.md",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
