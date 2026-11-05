@@ -1,3 +1,5 @@
+#season1 #sinco #sincoau #renewed
+
 # Lex Breaker
 
 Born March 14th, 1970
