@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cc9935e6ad93eda6",
+        "id": "fab398575df2a712",
         "type": "tabs",
         "children": [
           {
-            "id": "69ed4fdf39f56767",
+            "id": "eadeb855b84306c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/KesVerse/Stories/Sinco.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sinco"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -206,15 +192,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69ed4fdf39f56767",
+  "active": "eadeb855b84306c0",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Worldbuilding/Kesumel.md",
+    "Season 2/KesVerse/Stories/Sinco.md",
     "Season 2/KesVerse/Stories/Kina.md",
     "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/KesVerse Story Compilation.md",
     "Season 2/KesVerse/Stories/Kumel.md",
     "Season 2/KesVerse/Stories/Gego.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md",
-    "Season 2/KesVerse/Stories/Sinco.md",
     "Season 2/KesVerse/Stories/The Strong One.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md",
     "Season 2/KesVerse/Story Arcs slash Phases/KesVerse Arcs.md",
@@ -225,7 +212,6 @@
     "Season 2/KesVerse/Worldbuilding/Ige Language.md",
     "Season 2/KesVerse/Worldbuilding/Ige",
     "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md",
-    "Season 2/KesVerse/Worldbuilding/Kesumel.md",
     "README.md",
     "Season 2/Dragon Ball/Matty Edition/DBME.md",
     "Season 2/Original/Worldbuilding/Questions To Answer.md",
