@@ -1,3 +1,5 @@
+#season1 #objectification
+
 ## Info
 
 Name: Susu Garnit  
