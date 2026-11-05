@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Season 2/KesVerse/Stories/Kina.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kina"
+            }
+          },
+          {
+            "id": "f7efa8d2b0143805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Season 2/KesVerse/KesVerse Story Compilation.md",
                 "mode": "source",
                 "source": false,
@@ -30,32 +54,9 @@
               "icon": "lucide-file",
               "title": "KesVerse Story Compilation"
             }
-          },
-          {
-            "id": "f7efa8d2b0143805",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ige Word Definitions"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,19 +231,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a593c7aebaa897b",
+  "active": "f7efa8d2b0143805",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Stories/Sinco.md",
-    "Season 2/KesVerse/KesVerse Story Compilation.md",
-    "Season 2/KesVerse/Stories/The Strong One.md",
-    "Season 2/KesVerse/Stories/Gego.md",
     "Season 2/KesVerse/Stories/Kina.md",
     "Season 2/KesVerse/Stories/Kumel.md",
+    "Season 2/KesVerse/KesVerse Story Compilation.md",
+    "Season 2/KesVerse/Stories/Gego.md",
+    "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md",
+    "Season 2/KesVerse/Stories/Sinco.md",
+    "Season 2/KesVerse/Stories/The Strong One.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md",
     "Season 2/KesVerse/Story Arcs slash Phases/KesVerse Arcs.md",
     "Season 2/KesVerse/Story Arcs slash Phases/KesVerse Arc 1.md",
-    "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/KesVerse Worldbuilding.md",
     "Untitled.md",
     "Season 2/KesVerse/Story Arcs slash Phases",
