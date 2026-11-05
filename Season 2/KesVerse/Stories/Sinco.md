@@ -1,12 +1,7 @@
 ## Exposition
 
-On the planet Chabur, inside a giant forest late at night, Sinco jumps from tree to tree, at incredible speeds, his hands grabbing branches as they come close, his tail grabbing branches below and then swinging off it to the next branch, Sincos tail then begins to twitch right before the next branch Sinco grabs snaps off the tree, Sinco instantly grabbed another branch and held onto the one that snapped, Sinco swings lower down, waiting. Several animals walk by in groups or by themselves, fast animals, slow animals, large animals, small animals, several animals, then 2 slow and small but meaty animals walk by, and Sinco pounces right at them, stabbing one and grabbing the other with his tail and then grabbing the tail and holding it in the air, then once Sinco ensures the first animal is dead he stabs the other animal, straight through the heart
+On the planet Chabur, inside a giant forest late at night, Sinco jumps from tree to tree, at incredible speeds, his hands grabbing branches as they come close, his tail grabbing branches below and then swinging off it to the next branch, Sincos tail then begins to twitch right before the next branch Sinco grabs snaps off the tree, Sinco instantly grabbed another branch and held onto the one that snapped, Sinco swings lower down, waiting. Several animals walk by in groups or by themselves, fast animals, slow animals, large animals, small animals, several animals, then 2 slow and small but meaty animals walk by, and Sinco pounces right at them, stabbing one and grabbing the other with his tail and then grabbing the tail and holding it in the air, then once Sinco ensures the first animal is dead he stabs the other animal, straight through the heart, dropping the corpses Sinco raises his rig
 
-- 2 animals walk below
-	- The animals are slow and easier to capture
-- Sinco pounces at the animals
-	- He stabs one of them and then stomps on the others tail so that it wont escape
-	- Sinco then stabs the other one
 - Sinco raises a hand toward the closest tree to him
 	- Out comes a beam of glowing energy that punctures the tree
 	- Sinco moves his hand so that the tree gets fully cut
