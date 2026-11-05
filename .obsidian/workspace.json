@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "KesVerse"
             }
+          },
+          {
+            "id": "ca6dc2723a5e76bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/KesVerse/KesVerse.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "KesVerse"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,10 +231,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "ca6dc2723a5e76bd",
   "lastOpenFiles": [
     "Season 2/KesVerse/Story Arcs slash Phases/KesVerse Arc 1.md",
     "Season 2/KesVerse/KesVerse.md",
+    "Untitled.md",
     "Season 2/KesVerse/Story Arcs slash Phases",
     "Season 2/KesVerse/Worldbuilding/Ige Language.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md",
@@ -230,7 +256,6 @@
     "Season 2/Dragon Ball/Matty Edition",
     "Season 2/Dragon Ball",
     "Season 2/KesVerse",
-    "Untitled.md",
     "Season 2/Stories/Season 2 Timeline.md",
     "Assets/storystructure-freytag.jpg",
     "Assets/storystructure-5acts.jpg",
