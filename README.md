@@ -5,9 +5,8 @@ I recommend viewing it in [Obsidian](https://obsidian.md/)
 Random connections for graph:
 [[CVT]]
 [[Sinco Colonized AU]]
-[[DBME]]
-[[KesVerse]]
 [[Objectification]]
 [[Sinco Renewed]]
 [[Granule]]
 [[CNU]]
+[[Matty Season 2]]
