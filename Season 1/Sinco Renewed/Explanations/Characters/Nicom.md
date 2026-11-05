@@ -1,3 +1,5 @@
+#season1 #sinco #sincoau #renewed
+
 Back when Nicom was 12, in 2031, She was a trans girl, being girlish felt nice, freeing, it brought her so much joy and happiness.
 
 But in-between then and 2039.
