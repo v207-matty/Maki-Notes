@@ -1,3 +1,5 @@
+#season1 #sinco #sincoau #renewed
+
 # People can have powers
 
 The Chaos Emerald gave people powers through it’s Chaos Waves
