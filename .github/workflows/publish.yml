@@ -1,0 +1,14 @@
+name: Publish
+on:
+  push:
+    branches: [main] # or master based on your repo
+  workflow_dispatch: # for manual run
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kckhchen/intaglio@v1
+        with:
+          jekyll-repo: v207-matty/Maki-Notes # your own repo name
+          token: ${{ secrets.BLOG_PUSH_TOKEN }}
