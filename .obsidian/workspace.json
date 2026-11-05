@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b44cc51dd30ca288",
+        "id": "6238a58fde3dacd5",
         "type": "tabs",
         "children": [
           {
-            "id": "6e49e7482454b75e",
+            "id": "de3b44f16d704ef2",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e49e7482454b75e",
+  "active": "de3b44f16d704ef2",
   "lastOpenFiles": [
     "Season 1/Matty Season 1.md",
     "Season 1/CVT.md",
