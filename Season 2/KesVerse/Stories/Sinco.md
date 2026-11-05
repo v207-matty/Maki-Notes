@@ -2,6 +2,8 @@ On the planet Chabur, inside a giant forest late at night, Sinco jumps from tree
 
 Sincos tail then begins to twitch rapidly, trees start falling inside the forest, and a chain reaction of trees collapsing on one another causes Sinco to nearly get crushed by a giant tree, Sincos campfire and food are crushed, and Sinco is mad, Sinco runs into the forest, arriving at the near center in 8 seconds, but is interrupted by several machines cutting down the tree with the only notable detail being giant letters on the sides : "TAZ", there is smaller text but Sinco can't make it out before having to jump up onto the trees, but they're chopped down as they are in the machines way, Sinco jumps towards trees to the side, Sinco grabs some branches and jumps at the machines to try and stab them, the branches break, Sinco jumps to the ground behind the machines and grabs some loose logs that didn't get collected by the machines, Sinco jumps again at the machines and the logs only dent the machines, Sinco then shoots a point-blank energy blast at one of the machines, it explodes, Sinco is knocked down to the ground, as he is getting up his tail begins to twitch rapidly and then he's grabbed by his tail by a flying ship with a claw arm.
 
+A surge of pain goes through Sincos entire body, he can't do a
+
 - Sinco is grabbed mid air by the tail
 	- A surge of pain goes through Sincos entire body
 	- Sinco struggles to do anything
@@ -98,8 +100,6 @@ Sincos tail then begins to twitch rapidly, trees start falling inside the forest
 	- Inertia makes Sinco get flung off Tiroks leg
 - Tirok flies close behind Sinco
 - Tirok clenches both his hands together and winds up
-
-## Resolution
 
 - Sincos tail twitches
 - Sinco opens his eyes quickly and brings his arms up to block
