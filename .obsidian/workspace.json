@@ -11,10 +11,24 @@
             "id": "6a62a1c7acd6af0d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/KesVerse/KesVerse.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "KesVerse"
             }
           }
         ]
@@ -192,8 +206,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a62a1c7acd6af0d",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Stories Arcs",
     "Season 2/KesVerse/Worldbuilding/Ige Language.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md",
     "Season 2/KesVerse/KesVerse.md",
@@ -232,7 +247,6 @@
     "Season 1/Objectification/Objectification.md",
     "Season 1/Objectification/Cumbo.md",
     "Season 2/The Strong One/The Strong One.md",
-    "image1.md",
     "Assets",
     "Untitled.canvas",
     "Renewed/Explanations/CANVAS.canvas"
