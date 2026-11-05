@@ -180,6 +180,17 @@ Kel
 Ann
 Nuce
 Nu-ke
+Nuk
+Kun
+Tik
+Tin
+Tir
+Tri
+Ren
+Ron
+Tin
+Cli
+Kim
 
 ## Hell ( )
 ## N
