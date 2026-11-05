@@ -1,3 +1,5 @@
+#season1 #dragonball #whatif #dbme
+
 ## Rules
 
 - No Major Story Differences
