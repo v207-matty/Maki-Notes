@@ -8,24 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Season 1\"  ",
+      "query": "path:",
       "color": {
         "a": 1,
         "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:\"Season 2\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"Season 2/KesVerse\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
       }
     }
   ],
@@ -39,6 +25,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4505081176757784,
+  "scale": 0.11660891579457205,
   "close": false
 }
