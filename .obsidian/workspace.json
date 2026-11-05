@@ -11,24 +11,10 @@
             "id": "de3b44f16d704ef2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/KesVerse/Stories/KesVerse Arc 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "KesVerse Arc 2"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -208,13 +194,13 @@
   },
   "active": "de3b44f16d704ef2",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Stories/KesVerse Arc 1.md",
     "Season 2/KesVerse/Stories/KesVerse Arc 2.md",
+    "Season 2/KesVerse/Stories/KesVerse Arcs.md",
+    "Season 2/KesVerse/Stories/KesVerse Arc 1.md",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One (Power like never before).md",
     "Season 2/KesVerse/Stories/Arc 1/Kina.md",
     "Season 2/KesVerse/Stories/Arc 2",
     "Season 2/KesVerse/Stories/Untitled.canvas",
-    "Season 2/KesVerse/Stories/KesVerse Arcs.md",
     "README.md",
     "Season 2/KesVerse/Stories/Arc 1",
     "Season 1/Matty Season 1.md",
