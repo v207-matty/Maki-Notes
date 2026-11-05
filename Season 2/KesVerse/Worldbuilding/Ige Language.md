@@ -1,5 +1,5 @@
-I like 
+I like the graph having lil nodes / trees
 
 [[Ige Development]]
 
-[[Ige Word Defenitions]]
+[[Ige Word Definitions]]
