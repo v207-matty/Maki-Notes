@@ -11,10 +11,24 @@
             "id": "eadeb855b84306c0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Season 1/Sinco Renewed/Explanations/Characters/Lex Breaker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lex Breaker"
             }
           }
         ]
@@ -194,6 +208,7 @@
   },
   "active": "eadeb855b84306c0",
   "lastOpenFiles": [
+    "Season 1/Sinco Renewed/Sinco Renewed.md",
     "Season 2/KesVerse/Worldbuilding/Kesumel.md",
     "Season 2/KesVerse/Stories/Sinco.md",
     "Season 2/KesVerse/Stories/Kina.md",
@@ -226,7 +241,6 @@
     "The Outer Realm.md",
     "The Strong One ; Call To Action.md",
     "Season 2/Stories/Phase 1/Galaxy Watch.md",
-    "Season 2/Stories/Phase 2/The Strong One ; Call To Action.md",
     "Season 2/Stories/Phase 3",
     "Season 2/Stories/Phase 2",
     "Season 2/Stories/Phase 1",
