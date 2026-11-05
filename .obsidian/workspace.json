@@ -11,24 +11,10 @@
             "id": "6a62a1c7acd6af0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Keselin Reproduction"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -208,14 +194,14 @@
   },
   "active": "6a62a1c7acd6af0d",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Stories/Kumel.md",
+    "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md",
+    "Season 2/KesVerse/Stories/Kumel.md",
     "Season 2/KesVerse/Stories/Sinco.md",
     "Season 2/KesVerse/Stories/Kina.md",
     "Season 2/KesVerse/Worldbuilding/Language ( Ige ) Development.md",
     "Season 2/KesVerse/Worldbuilding/Language ( Ige ) Word Definition Making.md",
     "Season 2/KesVerse/Worldbuilding/Kesumel.md",
-    "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/Stories/Gego.md",
     "Season 2/KesVerse/Stories/The Strong One.md",
     "README.md",
