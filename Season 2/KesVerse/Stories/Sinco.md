@@ -1,5 +1,7 @@
 ## Exposition
 
+On the planet Chabur, inside a giant forest 
+
 - Environment is a forest on the planet Chabur
 	- It is late
 - Sinco jumps from tree to tree at incredible speeds
