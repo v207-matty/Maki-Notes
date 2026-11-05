@@ -11,24 +11,10 @@
             "id": "6a62a1c7acd6af0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/KesVerse/Story Arcs slash Phases/KesVerse Arc 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "KesVerse Arc 1"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -206,11 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "6a62a1c7acd6af0d",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Story Arcs slash Phases/KesVerse Arcs.md",
+    "Season 2/KesVerse/Story Arcs slash Phases/KesVerse Arc 1.md",
     "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/KesVerse Worldbuilding.md",
-    "Season 2/KesVerse/Story Arcs slash Phases/KesVerse Arc 1.md",
     "Untitled.md",
     "Season 2/KesVerse/Story Arcs slash Phases",
     "Season 2/KesVerse/Worldbuilding/Ige Language.md",
@@ -247,7 +234,6 @@
     "Pasted image 20261102184959.png",
     "Season 2/KesVerse/Worldbuilding",
     "Season 1/Objectification/Objectification.md",
-    "Season 1/Objectification/Cumbo.md",
     "Untitled.canvas",
     "Renewed/Explanations/CANVAS.canvas"
   ]
