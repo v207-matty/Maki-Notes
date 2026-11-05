@@ -1,4 +1,4 @@
-#season1 #sincoau
+#season1 #sinco #sincoau
 
 The Colonized Sinco AU
 
