@@ -1,3 +1,5 @@
+#season1 #sinco #sincoau #renewed
+
 Arrived on earth as an infant September 11th 2001
 
 The most powerful Pomin on Earth
