@@ -11,10 +11,24 @@
             "id": "de3b44f16d704ef2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -192,8 +206,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de3b44f16d704ef2",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Stories/Arc 1",
     "Season 1/Matty Season 1.md",
     "Season 1/CVT.md",
     "Season 1/Sinco Colonized AU.md",
@@ -221,7 +236,6 @@
     "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md",
     "Season 2/Dragon Ball/Matty Edition/DBME.md",
     "Season 2/Original/Worldbuilding/Questions To Answer.md",
-    "Season 2/Dragon Ball/Matty Edition/Dragon Ball Z.md",
     "Season 2/Dragon Ball/Matty Edition",
     "Season 2/Dragon Ball",
     "Season 2/KesVerse",
