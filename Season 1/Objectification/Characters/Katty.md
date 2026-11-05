@@ -1,3 +1,5 @@
+#season1 #objectification
+
 ## Katty Info
 
 Name: Katty Garnit  
