@@ -4,14 +4,6 @@ More focus on film structure in story
 
 - [[KesVerse Arc 1]]
 
-## Films
-
-- [[The Strong One]]
-- [[Sinco]]
-- [[Gego]]
-- [[Kumel]]
-- [[Kina]]
-
 ## Worldbuilding
 
 - [[Kesumel]]
