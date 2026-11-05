@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#organizernote  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
       "query": "tag:#kesverse  ",
       "color": {
         "a": 1,
@@ -43,6 +36,13 @@
       }
     },
     {
+      "query": "tag:#granule  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
       "query": "",
       "color": {
         "a": 1,
@@ -60,6 +60,6 @@
   "repelStrength": 18.3962878541192,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4505081176757704,
+  "scale": 0.6316046762907326,
   "close": false
 }
