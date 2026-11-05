@@ -1,3 +1,5 @@
+#season1 #sinco #sincoau #renewed
+
 "The sky is dark. The clouds cover a majority of the sky, at any moment it could rain or a thunderstorm can start."
 
 "A young white man in a cloak is walking through a dark alleyway, walking through trash, kicking cans and stones, swiping the air when a spider web reaches his vision, he walks towards a door at the end of the alleyway. A sign above the door says 'C-H-NO-8-11-2'"
