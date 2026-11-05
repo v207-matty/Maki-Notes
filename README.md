@@ -3,10 +3,5 @@ My "Maki Notes" Obsidian Vault
 I recommend viewing it in [Obsidian](https://obsidian.md/)
 
 Random connections for graph:
-[[CVT]]
-[[Sinco Colonized AU]]
-[[Objectification]]
-[[Sinco Renewed]]
-[[Granule]]
-[[CNU]]
+[[Matty Season 1]]
 [[Matty Season 2]]
