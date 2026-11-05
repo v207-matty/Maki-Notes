@@ -35,24 +35,10 @@
             "id": "f7efa8d2b0143805",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/KesVerse/KesVerse Story Compilation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "KesVerse Story Compilation"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -233,11 +219,11 @@
   },
   "active": "f7efa8d2b0143805",
   "lastOpenFiles": [
+    "Season 2/KesVerse/KesVerse.md",
+    "Season 2/KesVerse/KesVerse Story Compilation.md",
     "Season 2/KesVerse/Stories/Kina.md",
     "Season 2/KesVerse/Stories/Kumel.md",
-    "Season 2/KesVerse/KesVerse Story Compilation.md",
     "Season 2/KesVerse/Stories/Gego.md",
-    "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md",
     "Season 2/KesVerse/Stories/Sinco.md",
     "Season 2/KesVerse/Stories/The Strong One.md",
