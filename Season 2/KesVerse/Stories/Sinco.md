@@ -4,10 +4,6 @@ Sincos tail then begins to twitch rapidly, trees start falling inside the forest
 
 A surge of pain goes through Sincos entire body, he can't do anything, the flying ship has the same "TAZ" label but Sinco can see it a bit more clearly, "Tirok And Z...", Sinco can't read the rest as he gets moved in front of the ship, the front opens up and reveals a man with a black trench coat, pants and hair who introduces himself as "Tirok". "You dirty Chabin need to stay out of my way", Sinco get furious, "DO NOT CALL ME A CHABIN!", Sincos hands glow and are forced in front of Tirok, an energy beam being fired with an explosion coming from it that has no effect on Tirok besides damaged clothes. "Try and stop me". Sinco gets tossed to the ground by the ship as Tirok goes back 
 
-- Tirok asks if Sinco is one of the "Dirty Chabin" that keeps messing with his machines
-	- Sinco denies this : "I ain't no Chabin! I am a Chabui! You're the Chabin! You're destroying my home!"
-	- Tirok: "Your weird self and your home is in the way of the future, either get with the program or get lost."
-- Sincos tail goes numb
 - Tirok enters the ship
 	- The ship lets go of Sinco
 	- The ship retracts the arm into its bottom
