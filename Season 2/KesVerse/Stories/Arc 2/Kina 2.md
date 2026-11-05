@@ -8,4 +8,4 @@ Kina dodges and dodges, but then Gego brings out his arsenal and Kina is in dang
 
 Kina reveals they are actually forming a group of heros who will assist them in going directly against Zonia, Gego is a perfect ally then, Gego was in The Zonia Empire, he knows at least some things about their infrastructure, which couldn't have changed that much.
 
-Kina and Gego partner up, and The Protectors has gotten 
+Kina and Gego partner up, and The Protectors has now been formed
