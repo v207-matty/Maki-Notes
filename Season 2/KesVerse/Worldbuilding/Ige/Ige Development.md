@@ -155,7 +155,17 @@ Suyte
 
 Ige : Suyte ( first fuckin try holy shit )
 
-## Hell ( )
+## Energy ( Nei )
+
+Energy
+Ki
+Chi
+Battery
+Electricity
+Nitro
+Nuclear
+Kity
+
 
 ## Hell ( )
 ## N
