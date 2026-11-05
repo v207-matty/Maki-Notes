@@ -1,3 +1,5 @@
+#season1 #sinco #sincoau #renewed
+
 Snap.
 
 The chair collapses, giving up on holding the weight of a young black feminine individual with large unkempt puffy hair and masculine clothing, they was holding a glass of juice and they dropped it, it breaks on their face, the glass shards sliding off and scratching their face, and the juice getting all over, inside their clothes, their hair, on their skin, it's sticky, irritating.
