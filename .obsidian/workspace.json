@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "263fb651a472802e",
+        "id": "686f6048293f4d72",
         "type": "tabs",
         "children": [
           {
-            "id": "e70b8db359e210d5",
+            "id": "8aef888d99d1d00f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e70b8db359e210d5",
+  "active": "8aef888d99d1d00f",
   "lastOpenFiles": [
     "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/Stories/KesVerse Arcs.md",
