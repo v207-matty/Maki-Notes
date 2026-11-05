@@ -6,4 +6,6 @@ The soldier identifies himself as Korn, Stones brother, revealing their planet a
 
 Stone isn't interested, zooms straight towards the ship but is stopped by the grunts, briefly gets into battle with the grunts, and kills 2 but right before the 3rd Korn steps in and single handedly sends Stone away
 
-If Stone won't join Zonia then Stone has to die, same with this backwater planet
+If Stone won't join Zonia then Stone has to die, same with this backwater planet, Stone doesn't want this to happen
+
+Stone has been practicing something, he has a technique he creat
