@@ -1,4 +1,4 @@
-#season2 #kesverse #kesverse_arc1
+#season2 #kesverse #kesverse_arc1 #sinco #sincoau
 
 # Sinco
 
