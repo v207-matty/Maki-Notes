@@ -30,16 +30,6 @@
               "icon": "lucide-file",
               "title": "Sinco"
             }
-          },
-          {
-            "id": "e4b729a81388ea71",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ]
       }
