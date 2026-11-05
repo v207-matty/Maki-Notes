@@ -1,3 +1,5 @@
+#season1 #sinco #sincoau #renewed
+
 Born October 11th, 1981
 
 - Inventor + knows some science
