@@ -1,12 +1,19 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "tag:#organizernote  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
     {
       "query": "tag:#kesverse  ",
       "color": {
@@ -34,13 +41,6 @@
         "a": 1,
         "rgb": 5431378
       }
-    },
-    {
-      "query": "tag:#organizernote  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +53,6 @@
   "repelStrength": 18.3962878541192,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.059326171874998675,
+  "scale": 0.4505081176757704,
   "close": false
 }
