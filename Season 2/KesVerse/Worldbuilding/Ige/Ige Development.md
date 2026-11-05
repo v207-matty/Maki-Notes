@@ -191,6 +191,22 @@ Ron
 Tin
 Cli
 Kim
+Mik
+Mie
+Ke
+Ku
+Aku
+Akan
+Kan
+Ken
+Kul
+Cha
+Che
+Ka
+Ke
+Keb
+Ber
+R
 
 ## Hell ( )
 ## N
