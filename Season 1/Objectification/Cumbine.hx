@@ -23,7 +23,7 @@ class Cumbine {
 	}
 
 	static function main() {
-		var cumbofile = '# Objectification\n\n';
+		var cumbofile = '#season1 #objectification\n\n# Objectification\n\n';
 
 		var dir = readDir('.');
 		dir.sort((a, b) -> return 1);
