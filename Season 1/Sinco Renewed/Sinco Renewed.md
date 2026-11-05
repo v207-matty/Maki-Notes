@@ -1,3 +1,5 @@
+#season1 #sinco #sincoau #renewed
+
 The Renewed Sinco AU
 
 Explanations:
