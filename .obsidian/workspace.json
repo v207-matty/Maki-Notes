@@ -4,45 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5acbb4548b0dfd2d",
+        "id": "cc9935e6ad93eda6",
         "type": "tabs",
         "children": [
           {
-            "id": "8a593c7aebaa897b",
+            "id": "69ed4fdf39f56767",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/KesVerse/Stories/Kina.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Kina"
-            }
-          },
-          {
-            "id": "f7efa8d2b0143805",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,11 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7efa8d2b0143805",
+  "active": "69ed4fdf39f56767",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Stories/Kina.md",
     "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/KesVerse Story Compilation.md",
-    "Season 2/KesVerse/Stories/Kina.md",
     "Season 2/KesVerse/Stories/Kumel.md",
     "Season 2/KesVerse/Stories/Gego.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md",
