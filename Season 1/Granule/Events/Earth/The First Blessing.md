@@ -1,3 +1,5 @@
+#season1 #granule
+
 Also known as "The Blessing"
 
 In the late 19th century, during [The American Civil War](https://en.wikipedia.org/wiki/American_Civil_War).
