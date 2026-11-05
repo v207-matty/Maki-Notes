@@ -1,3 +1,5 @@
+#season1 #sinco #sincoau #renewed
+
 # Colatin 
 
 Second strongest metal on Earth in this universe.
