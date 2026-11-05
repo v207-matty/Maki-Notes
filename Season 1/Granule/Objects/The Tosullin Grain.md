@@ -1,3 +1,5 @@
+#season1 #granule
+
 ## Description
 
 A cube with a hollow top and a glowing core inside
