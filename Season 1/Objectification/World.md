@@ -1,3 +1,5 @@
+#season1 #objectification
+
 ## World History
 
 1568
