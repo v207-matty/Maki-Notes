@@ -15,17 +15,24 @@
       }
     },
     {
-      "query": "tag:#sinco  ",
+      "query": "tag:#r",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "",
+      "query": "tag:#objectification  ",
       "color": {
         "a": 1,
         "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#dragonball  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 18.3962878541192,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.1634837056722019,
+  "scale": 0.08317427835927385,
   "close": false
 }
