@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Stories/Arc 1/Kina.md",
+                "file": "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kina"
+              "title": "The Strong One 2"
             }
           }
         ]
@@ -206,10 +206,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "de3b44f16d704ef2",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Stories/Untitled.canvas",
     "Season 2/KesVerse/Stories/Arc 1/Kina.md",
+    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
+    "Season 2/KesVerse/Stories/Arc 2",
+    "Season 2/KesVerse/Stories/Untitled.canvas",
     "Season 2/KesVerse/Stories/KesVerse Arcs.md",
     "README.md",
     "Season 2/KesVerse/Stories/Arc 1",
@@ -245,7 +247,6 @@
     "Season 2/Stories/Phase 3",
     "Season 2/Stories/Phase 2",
     "Season 2/Stories/Phase 1",
-    "Season 2/KesVerse/Stories",
     "Pasted image 20261102185003.png",
     "Pasted image 20261102184959.png",
     "Untitled.canvas",
