@@ -6,4 +6,4 @@ Kina arrives on the planet Burvak, they exit it and notice several miles of dest
 
 Kina dodges and dodges, but then Gego brings out his arsenal and Kina is in danger, so they channel a full power energy blast and shoot it at Gegos chest blaster, Gego falls out of the sky only to be caught by Kina, they begin to speak, Gego thought Kina was with Zonia.
 
-
+Kina reveals they are actually forming a group of heros who will assist them in going directly against Zonia,
