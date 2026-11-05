@@ -1,6 +1,6 @@
 ## Exposition
 
-On the planet Chabur, inside a giant forest late at night, Sinco jumps from tree to tree, at incredible speeds, his hands grabbing branches 
+On the planet Chabur, inside a giant forest late at night, Sinco jumps from tree to tree, at incredible speeds, his hands grabbing branches as they come close, his tail grabbing branches below 
 
 - Sinco jumps from tree to tree at incredible speeds
 	- His hands for branches above his head
