@@ -4,14 +4,6 @@ Sincos tail then begins to twitch rapidly, trees start falling inside the forest
 
 A surge of pain goes through Sincos entire body, he can't do anything, the flying ship has the same "TAZ" label but Sinco can see it a bit more clearly, "Tirok And Z...", Sinco can't read the rest as he gets moved in front of the ship, the front opens up and reveals a man with a black trench coat, pants and hair who introduces himself as "Tirok". "You dirty Chabin need to stay out of my way", Sinco get furious, "DO NOT CALL ME A CHABIN!", Sincos hands glow and are forced in front of Tirok, an energy beam being fired with an explosion coming from it that knocks back Sinco but has no effect on Tirok besides damaged clothes, Tirok grabs Sinco and brings Sincos face closer to his. "Try and stop me". Sinco gets tossed backwards by Tirok and then to the ground by the ship as Tirok goes back into the ship 
 
-- Tirok enters the ship
-	- The ship lets go of Sinco
-	- The ship retracts the arm into its bottom
-- Sinco grabs onto a tree branch with his hand and swings towards the ship, landing on top of it
-	- Sinco: "My parents always told me you regulars were assholes."
-	- Sinco raises his free hand to charge an energy blast
-- Sincos tail suddenly sends a wave of pain throughout Sincos body as it returns from numbness
-- Tiroks ship releases another arm from the behind that grabs Sinco
 - Sinco gets tossed to the ground with no trees to help him
 - Sinco hits the ground
 	- The full impact of the toss and fall spreads throughout his entire body
