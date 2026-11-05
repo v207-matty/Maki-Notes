@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Stories/Kina.md",
+                "file": "Season 2/KesVerse/Worldbuilding/Keselins.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kina"
+              "title": "Keselins"
             }
           }
         ]
@@ -208,12 +208,13 @@
   },
   "active": "6a62a1c7acd6af0d",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Stories/Kumel.md",
+    "Season 2/KesVerse/Worldbuilding/Keselins.md",
     "Season 2/KesVerse/Stories/Sinco.md",
-    "Season 2/KesVerse/Worldbuilding/Language ( Ige ) Development.md",
     "Season 2/KesVerse/Stories/Kina.md",
+    "Season 2/KesVerse/Worldbuilding/Language ( Ige ) Development.md",
     "Season 2/KesVerse/Worldbuilding/Language ( Ige ) Word Definition Making.md",
     "Season 2/KesVerse/Worldbuilding/Kesumel.md",
-    "Season 2/KesVerse/Stories/Kumel.md",
     "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/Stories/Gego.md",
     "Season 2/KesVerse/Stories/The Strong One.md",
@@ -247,7 +248,6 @@
     "Assets/plot.md",
     "Assets",
     "Season 2/The Strong One/Installments",
-    "Season 1/CNU/Stories/CNU Part 1.md",
     "Untitled.canvas",
     "Renewed/Explanations/CANVAS.canvas"
   ]
