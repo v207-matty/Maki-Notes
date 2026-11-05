@@ -1,3 +1,5 @@
+#season1 #granule
+
 Earth Group
 
 June 1866 - ????
