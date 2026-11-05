@@ -11,10 +11,24 @@
             "id": "6a62a1c7acd6af0d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Defenitions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ige Word Defenitions"
             }
           }
         ]
@@ -194,13 +208,14 @@
   },
   "active": "6a62a1c7acd6af0d",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md",
+    "Season 2/KesVerse/Worldbuilding/Ige",
     "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md",
     "Season 2/KesVerse/Stories/Kumel.md",
     "Season 2/KesVerse/Stories/Sinco.md",
     "Season 2/KesVerse/Stories/Kina.md",
-    "Season 2/KesVerse/Worldbuilding/Language ( Ige ) Development.md",
-    "Season 2/KesVerse/Worldbuilding/Language ( Ige ) Word Definition Making.md",
+    "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Defenitions.md",
     "Season 2/KesVerse/Worldbuilding/Kesumel.md",
     "Season 2/KesVerse/Stories/Gego.md",
     "Season 2/KesVerse/Stories/The Strong One.md",
@@ -231,9 +246,7 @@
     "Season 1/Objectification/Cumbo.md",
     "Season 2/The Strong One/The Strong One.md",
     "image1.md",
-    "Assets/plot.md",
     "Assets",
-    "Season 2/The Strong One/Installments",
     "Untitled.canvas",
     "Renewed/Explanations/CANVAS.canvas"
   ]
