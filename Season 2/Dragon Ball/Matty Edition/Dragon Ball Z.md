@@ -1,3 +1,5 @@
+#season1 #dragonball #whatif #dbme
+
 ## Saiyan Saga
 
 - Raditz (Power: 4) arrives on Earth and instantly heads towards Piccolo (Power: 2)
