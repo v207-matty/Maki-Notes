@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4bb38aa217b24c93",
+        "id": "6729719134afe592",
         "type": "tabs",
         "children": [
           {
-            "id": "a9aed46d8847681f",
+            "id": "27c3f55a2ec328ee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Season 1/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -192,8 +206,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9aed46d8847681f",
+  "active": "27c3f55a2ec328ee",
   "lastOpenFiles": [
+    "Season 1/Untitled.md",
     "README.md",
     "Season 2/Matty Season 2.md",
     "Season 1/Sinco Renewed/Explanations/Characters/Lex Breaker.md",
@@ -226,7 +241,6 @@
     "Season 2/Stories/Season 2 Timeline.md",
     "Assets/storystructure-freytag.jpg",
     "Assets/storystructure-5acts.jpg",
-    "The Outer Realm.md",
     "Season 2/Stories/Phase 3",
     "Season 2/Stories/Phase 2",
     "Season 2/Stories/Phase 1",
