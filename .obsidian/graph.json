@@ -39,7 +39,7 @@
       "query": "tag:#granule  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 5431473
       }
     },
     {
@@ -67,6 +67,6 @@
   "repelStrength": 18.3962878541192,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.08317427835927332,
+  "scale": 0.08317427835927318,
   "close": false
 }
