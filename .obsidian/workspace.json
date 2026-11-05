@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Sinco"
             }
+          },
+          {
+            "id": "f7efa8d2b0143805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ige Word Definitions"
+            }
           }
         ]
       }
@@ -208,8 +232,8 @@
   },
   "active": "8a593c7aebaa897b",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Stories/Sinco.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md",
+    "Season 2/KesVerse/Stories/Sinco.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md",
     "Season 2/KesVerse/Stories/Kina.md",
     "Season 2/KesVerse/Stories/Kumel.md",
