@@ -1,3 +1,5 @@
+#season1 #objectification #objectificationau
+
 ## Trapped Katty Exclusive Info
 
 Identification: Object  
