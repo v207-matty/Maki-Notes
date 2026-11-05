@@ -1,4 +1,4 @@
-#season1 #dragonball #whatif #dbme
+#season2 #dragonball #whatif #dbme
 
 ## Saiyan Saga
 
