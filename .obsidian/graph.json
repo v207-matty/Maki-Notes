@@ -43,10 +43,17 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#cnu  ",
       "color": {
         "a": 1,
         "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#organizernote  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     }
   ],
@@ -60,6 +67,6 @@
   "repelStrength": 18.3962878541192,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6316046762907326,
+  "scale": 0.08317427835927332,
   "close": false
 }
