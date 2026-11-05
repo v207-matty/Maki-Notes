@@ -2,7 +2,7 @@
 
 ## Rules
 
-- No Major Story Differences
+- No Major Story Differences (stay on same path)
 
 ## Power Levels
 
