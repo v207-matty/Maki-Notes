@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#kesverse  ",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:#r",
+      "query": "tag:#renewed  ",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -46,6 +46,6 @@
   "repelStrength": 18.3962878541192,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.08317427835927385,
+  "scale": 0.059326171874998675,
   "close": false
 }
