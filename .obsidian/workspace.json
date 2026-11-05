@@ -11,38 +11,13 @@
             "id": "de3b44f16d704ef2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/KesVerse/Stories/Arc 2/The Protectors.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Protectors"
-            }
-          },
-          {
-            "id": "18cf2c7e43e8def9",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18cf2c7e43e8def9",
+  "active": "de3b44f16d704ef2",
   "lastOpenFiles": [
     "Season 2/KesVerse/Stories/Arc 2/The Protectors.md",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
