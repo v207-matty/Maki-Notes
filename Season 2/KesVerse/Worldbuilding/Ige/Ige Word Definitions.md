@@ -1,3 +1,5 @@
+#season2 #kesverse
+
 Noun - Person, place, or thing
 Verb - Action(?)
 
