@@ -1,3 +1,5 @@
+#season1 #objectification #objectificationau
+
 ## Kinky Katty Exclusive Info
 
 Identification: Female  
