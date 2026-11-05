@@ -8,23 +8,23 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:",
+      "query": "path:\"Season 2/KesVerse\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.23038772967923,
+  "lineSizeMultiplier": 1.18155559015883,
   "collapse-forces": true,
   "centerStrength": 0,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.11660891579457205,
+  "scale": 0.4505081176757765,
   "close": false
 }
