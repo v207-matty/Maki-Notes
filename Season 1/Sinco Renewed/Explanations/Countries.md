@@ -1,3 +1,5 @@
+#season1 #sinco #sincoau #renewed
+
 # Wesles
 
 Countries on the west
