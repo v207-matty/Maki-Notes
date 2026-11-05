@@ -1,14 +1,7 @@
 More focus on film structure in story
 
-## Arcs
-
-- [[KesVerse Arc 1]]
-
-## Worldbuilding
-
-- [[Kesumel]]
-- [[Keselin Reproduction]]
-- [[Ige Language]]
+[[KesVerse Arcs]]
+[[KesVerse Worldbuilding]]
 
 ## Structures
 
