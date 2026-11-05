@@ -206,7 +206,20 @@ Ka
 Ke
 Keb
 Ber
-R
+Rel
+Rek
+Reg
+Kann
+Nan
+Kai
+Noi
+Noyo
+Nye
+Neye
+Nue
+Nei
+
+Ige : Nei
 
 ## Hell ( )
 ## N
