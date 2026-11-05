@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5434a4096349116d",
+        "id": "9a3ae07df713ddda",
         "type": "tabs",
         "children": [
           {
-            "id": "62f48db2a447b80c",
+            "id": "55b56344bdebfb39",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -192,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62f48db2a447b80c",
+  "active": "55b56344bdebfb39",
   "lastOpenFiles": [
     "Season 2/Matty Season 2.md",
     "Season 1/Sinco Renewed/Explanations/Characters/Lex Breaker.md",
