@@ -1,3 +1,5 @@
+#season1 #sinco #sincoau #renewed
+
 # Chapter 1 : Overhearing
 
 April 18th, 2097
