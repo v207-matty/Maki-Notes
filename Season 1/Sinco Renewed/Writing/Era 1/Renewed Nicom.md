@@ -1,3 +1,5 @@
+#season1 #sinco #sincoau #renewed
+
 # Chapter 1 : Capture
 
 The Freefall Foundation, April, 2047
