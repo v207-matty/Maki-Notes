@@ -12,7 +12,7 @@ More focus on film structure in story
 
 - [[Kesumel]]
 - [[Keselin Reproduction]]
-- [[Ige]]
+- [[Ige Language]]
 
 ## Structures
 
