@@ -145,8 +145,6 @@ Quyve
 
 Ige : Quyve
 
-## Hell ( )
-
 ## Strong ( Suyte )
 
 Italian : Forte
@@ -157,4 +155,5 @@ Suyte
 
 Ige : Suyte ( first fuckin try holy shit )
 
+## Hell ( )
 ## N
