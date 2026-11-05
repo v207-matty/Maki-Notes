@@ -1,6 +1,6 @@
 ## Exposition
 
-On the planet Chabur, inside a giant forest late at night, Sinco jumps from tree to tree, at incredible speeds, his hands grabbing branches as they come close, his tail grabbing branches below and then swinging off it to the next branch, Sincos tail then begins to twitch right before the next branch Sinco grabs snaps off the tree, Sinco instantly grabbed another branch and held onto the one that snapped, Sinco swings lower down, waiting. Several animals walk by in groups or by themselves, fast animals, slow animals, large animals, small animals, 
+On the planet Chabur, inside a giant forest late at night, Sinco jumps from tree to tree, at incredible speeds, his hands grabbing branches as they come close, his tail grabbing branches below and then swinging off it to the next branch, Sincos tail then begins to twitch right before the next branch Sinco grabs snaps off the tree, Sinco instantly grabbed another branch and held onto the one that snapped, Sinco swings lower down, waiting. Several animals walk by in groups or by themselves, fast animals, slow animals, large animals, small animals, several animals
 
 - Sinco swings to a tree below that is closer to the ground
 	- Sinco waits on top of the tree
