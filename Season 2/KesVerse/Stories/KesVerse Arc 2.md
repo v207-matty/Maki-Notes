@@ -1,4 +1,4 @@
 Arc 2
 
 [[The Strong One 2|The Strong One : Power like never before]]
-[[Kina 2|Kina :]]
+[[Kina 2|Kina : Calling All Noble]]
