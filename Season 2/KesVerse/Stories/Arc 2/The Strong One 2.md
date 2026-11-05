@@ -8,4 +8,4 @@ Stone doesn't want this to happen, Stone has been practicing something, he has a
 
 The grunt is gone but Korn remains, the gap in power was lessened, but was still wide enough for Korn to survive, Korn accuses Stone of knowing something else besides this planet because Stone stole the Nei Point Compression technique from Kina, Stone does not know Kina or that he unintentionally recreated NPC, no matter, Korn is still gonna win, Stones power is at the bare minimum for survival : 75, Korn can beat him with a simple combo.
 
-Stone flies fast and out of th
+Stone flies as fast as he can towards the Zonia Empire ship
