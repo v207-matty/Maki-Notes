@@ -1,3 +1,5 @@
+#season1 #cnu
+
 CNU stands for Colis Niloc Universe
 
 Explanations
