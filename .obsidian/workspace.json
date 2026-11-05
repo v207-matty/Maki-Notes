@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c80247e729f473d9",
+        "id": "9080183a62437b60",
         "type": "tabs",
         "children": [
           {
-            "id": "57ac1956b44c34f9",
+            "id": "475e650c718faabc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -192,22 +192,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57ac1956b44c34f9",
+  "active": "475e650c718faabc",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md",
+    "Season 2/KesVerse/KesVerse.md",
+    "Season 2/KesVerse/Stories/KesVerse Arcs.md",
+    "Season 2/KesVerse/Stories/KesVerse Arc 2.md",
+    "Season 2/KesVerse/Stories/KesVerse Arc 1.md",
+    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
+    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md",
     "Season 2/KesVerse/Stories/Arc 1/Kina.md",
     "Season 2/KesVerse/Worldbuilding/Kesumel.md",
-    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
     "Season 2/KesVerse/KesVerse Story Compilation.md",
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md",
     "Season 2/KesVerse/Stories/Arc 1/Gego.md",
-    "Season 2/KesVerse/Stories/KesVerse Arc 2.md",
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md",
-    "Season 2/KesVerse/Stories/KesVerse Arcs.md",
-    "Season 2/KesVerse/KesVerse.md",
-    "Season 2/KesVerse/Stories/KesVerse Arc 1.md",
     "Season 2/KesVerse/Stories/Arc 2",
     "Season 2/KesVerse/Stories/Untitled.canvas",
     "README.md",
