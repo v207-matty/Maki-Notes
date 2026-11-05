@@ -1,1 +1,1 @@
-# The Strong One : Power li
+# The Strong One 2 : Power like never before
