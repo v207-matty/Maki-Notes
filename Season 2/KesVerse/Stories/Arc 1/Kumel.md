@@ -1,3 +1,5 @@
+#season2 #kesverse #kesverse_arc1
+
 # Kumel
 
 On the planet of the old Kesel gods : Musele, there remains the race of the Keselins, their abilities now limited due to the Kesumel circling the entire realm and powers just dying out as they were desired less and less. One of the Keselins stands out from this however, Kumel, known for their ability to manipulate all elements, fire, water, ice, and earth, all knew that Kumel was special when this was discovered, as every Keselin left except for Kumel could only control one of those elements, and yet Kumel could control them all, Kumel was therefore deemed a reincarnate of one of the original 3 Kesel gods, destined to retrieve the Kesumel and restore Musele and the Keselin race to its original glory, claiming its place back at the top as the most powerful planet in the Teinom realm and entering a peaceful age.
