@@ -164,8 +164,22 @@ Battery
 Electricity
 Nitro
 Nuclear
-Kity
 
+Kity
+Keari
+Yeti
+Bake
+Chaki
+Chan
+Nai
+Yek
+Kab
+Ne
+Neln
+Kel
+Ann
+Nuce
+Nu-ke
 
 ## Hell ( )
 ## N
