@@ -4,7 +4,8 @@ Sincos tail then begins to twitch rapidly, trees start falling inside the forest
 
 A surge of pain goes through Sincos entire body, he can't do anything, the flying ship has the same "TAZ" label but Sinco can see it a bit more clearly, "Tirok And Z...", Sinco can't read the rest as he gets moved in front of the ship, the front opens up and reveals a man with a black trench coat, pants and hair who introduces himself as "Tirok". "You dirty Chabin need to stay out of my way", Sinco get furious, "DO NOT CALL ME A CHABIN!", Sincos hands glow and are forced in front of Tirok, an energy beam being fired with an explosion coming from it that knocks back Sinco but has no effect on Tirok besides damaged clothes, Tirok grabs Sinco and brings Sincos face closer to his. "Try and stop me". Sinco gets tossed backwards by Tirok and then to the ground by the ship as Tirok goes back into the ship, as Sinco hits the ground his consciousness snaps, hours have passed and it is now mid day. The forest now has a clear pathway in the center of it from the city to the ocean, not a single tree in the way of it. Sinco gets up, looks behind him, and runs toward a giant factory with the same big letters : "TAZ".
 
-In 4 seconds Sinco has arrived and enters the TAZ factory
+In 4 seconds Sinco has arrived and enters the TAZ factory, he is disgusted by the machines he sees, many machines
+
 - Sinco enters the TAZ factory
 	- Several machines are there
 		- Turning wood into sheets of paper
