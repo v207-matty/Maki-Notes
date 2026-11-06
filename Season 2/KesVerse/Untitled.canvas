@@ -3,12 +3,15 @@
 		{"id":"f74310deb00a05b2","x":-298,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 1/The Strong One.md"},
 		{"id":"b68587b647b54a12","x":398,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 1/Sinco.md"},
 		{"id":"a09bdcd29b43016b","x":1120,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 1/Gego.md"},
-		{"id":"bf4163c7b5987b82","x":2880,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 1/Kina.md"},
-		{"id":"52704cefd17918f5","x":1840,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 1/Kumel.md"}
+		{"id":"52704cefd17918f5","x":1840,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 1/Kumel.md"},
+		{"id":"bf4163c7b5987b82","x":2560,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 1/Kina.md"},
+		{"id":"e09cf147f2dc3b33","x":2560,"y":-240,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md"}
 	],
 	"edges":[
 		{"id":"a0fb9ea03ff60254","fromNode":"f74310deb00a05b2","fromSide":"right","toNode":"b68587b647b54a12","toSide":"left","label":"Then"},
-		{"id":"969fef9ae72d6dea","fromNode":"b68587b647b54a12","fromSide":"right","toNode":"a09bdcd29b43016b","toSide":"left","label":"Then\n\n"},
-		{"id":"6f925ed641cd6d33","fromNode":"a09bdcd29b43016b","fromSide":"right","toNode":"52704cefd17918f5","toSide":"left","label":"Then\n\n"}
+		{"id":"969fef9ae72d6dea","fromNode":"b68587b647b54a12","fromSide":"right","toNode":"a09bdcd29b43016b","toSide":"left","label":"Then"},
+		{"id":"6f925ed641cd6d33","fromNode":"a09bdcd29b43016b","fromSide":"right","toNode":"52704cefd17918f5","toSide":"left","label":"Then"},
+		{"id":"37e9579a50b8d1c1","fromNode":"52704cefd17918f5","fromSide":"right","toNode":"bf4163c7b5987b82","toSide":"left","label":"Then"},
+		{"id":"e602b5601a746ccf","fromNode":"f74310deb00a05b2","fromSide":"bottom","toNode":"e09cf147f2dc3b33","toSide":"left"}
 	]
 }
