@@ -6,8 +6,4 @@ In the vacuum of space, Kina drives their escape pod towards planet Burvak, ther
 
 Kina arrives on the planet Burvak, they exit it and notice several miles of destruction, if this planet had a hero on it, they're most likely dead, but suddenly Kina is attacked by a someone in a mech suit, Kina has trouble avoiding their attacks but slowly they start to calm and sense the energy of the attacker, reading their intent before they can act on it, it's difficult to do but Kina manages and dodges most of their attacks, then they begin shooting at Kina, so Kina decides to charge and fire an energy blast at the center of the mechs chest and at the palms where the blasters are, the mech begins to try and run away but Kina catches up and stops them, pushing them to the floor. "Who are you and why did you attack?", "My...my name is Gego! I...I thought you were with Zonia. Sorry.", Kina grabs Gegos hand and lifts him back up so he can stand on his feet.
 
-"I ain't with Zonia! I'm tryna go against him!", "If you're interested in joining me you're welcome to"
-
-Kina reveals they are forming a group of heros who will assist them in going directly against Zonia, Gego is a perfect ally then, Gego was in The Zonia Empire, he knows at least some things about their infrastructure, which couldn't have changed that much.
-
-Kina and Gego partner up, and The Protectors has now been formed
+"I ain't with Zonia! I'm tryna go against him!", "If you're interested in joining me you're welcome to.", Kina looks over at 
