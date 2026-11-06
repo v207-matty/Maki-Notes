@@ -684,7 +684,7 @@
   "historyCountPasted": false,
   "historyBaselines": {},
   "exportOpts": {
-    "format": "md",
+    "format": "docx",
     "titlePage": true,
     "sectionTitles": false,
     "pageBreaks": true,

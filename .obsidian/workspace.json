@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
+                "file": "Word-Smith/ws-settings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,48 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kina 2"
-            }
-          },
-          {
-            "id": "517239b8be40ad0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Word-Smith/ws-structure.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ws-structure"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "690e1b3e3b1006a7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "beb0413d40f91784",
-            "type": "leaf",
-            "state": {
-              "type": "word-smith-export",
-              "state": {},
-              "icon": "file-output",
-              "title": "Export"
+              "title": "ws-settings"
             }
           }
         ]
@@ -258,7 +217,7 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "517239b8be40ad0e",
+  "active": "3bcf4b0bce05521e",
   "lastOpenFiles": [
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
     "Word-Smith/ws-structure.md",
