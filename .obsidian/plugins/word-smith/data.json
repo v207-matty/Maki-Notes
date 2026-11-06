@@ -355,7 +355,7 @@
   "quickOutline": false,
   "quickCycle": false,
   "quickCycleCloseOnLeave": false,
-  "enableFileTreeCounts": false,
+  "enableFileTreeCounts": true,
   "fileTreeFlags": true,
   "treeOrder": true,
   "treeOrderForcedOn": true,
@@ -403,9 +403,9 @@
       "dark": "#d9a441"
     }
   ],
-  "fileTreeTasks": false,
-  "fileTreeNumbers": true,
-  "enableOutlineCounts": false,
+  "fileTreeTasks": true,
+  "fileTreeNumbers": false,
+  "enableOutlineCounts": true,
   "vimSoftWrapMotion": true,
   "vimLabelNormal": "-- NORMAL --",
   "vimLabelInsert": "-- INSERT --",
