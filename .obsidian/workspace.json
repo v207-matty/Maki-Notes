@@ -85,6 +85,16 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "ff41f941806949da",
+            "type": "leaf",
+            "state": {
+              "type": "word-smith-menu",
+              "state": {},
+              "icon": "word-smith-w",
+              "title": "Word-Smith"
+            }
           }
         ]
       }
@@ -203,11 +213,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "3bcf4b0bce05521e",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
+    "Word-Smith/ws-settings.md",
+    "Word-Smith",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
     "Season 2/KesVerse/Stories/Arc 2/The Protectors.md",
     "Season 2/KesVerse/KesVerse Story Compilation.md",
@@ -237,7 +250,6 @@
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md",
     "Untitled.md",
     "Season 2/KesVerse/Story Arcs slash Phases",
-    "Season 2/KesVerse/Worldbuilding/Ige Language.md",
     "Season 2/KesVerse/Worldbuilding/Ige",
     "Season 2/Dragon Ball/Matty Edition",
     "Season 2/Dragon Ball",
@@ -246,7 +258,6 @@
     "Assets/storystructure-5acts.jpg",
     "Season 2/Stories/Phase 3",
     "Season 2/Stories/Phase 2",
-    "Season 2/Stories/Phase 1",
     "Pasted image 20261102185003.png",
     "Pasted image 20261102184959.png",
     "Untitled.canvas",
