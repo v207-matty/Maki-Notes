@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-06 07:10:14
+- written: 2026-11-06 16:38:44
 
 ```json
 {
@@ -199,12 +199,12 @@ not the plugin folder — can get everything back.
   "fileStatus": {
     "Season 2/KesVerse/Stories/Arc 1/Gego.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/Kina.md": "done",
+    "Season 2/KesVerse/Stories/Arc 1/Kumel.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md": "done",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": "done",
-    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": "blocked",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": "done",
-    "Season 2/KesVerse/Stories/Arc 1/Kumel.md": "done"
+    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md": "blocked"
   },
   "folderTargets": {},
   "goalDeadlines": {},
@@ -688,12 +688,18 @@ not the plugin folder — can get everything back.
   "historyPerFile": true,
   "historyCountPasted": false,
   "historyBaselines": {
-    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": 330,
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": 332,
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md": 1013,
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md": 468,
-    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": 712,
-    "Season 2/KesVerse/Stories/Arc 1/Gego.md": 496
+    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": 717,
+    "Season 2/KesVerse/Stories/Arc 1/Gego.md": 496,
+    "README.md": 23,
+    "Word-Smith/WS.md": 3,
+    "Season 2/KesVerse/Stories/KesVerse Arc 1.md": 12,
+    "Season 2/KesVerse/Stories/Arc 1/Kina.md": 520,
+    "Season 2/KesVerse/Stories/Arc 1/Sinco.md": 1397,
+    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md": 330,
+    "Season 2/KesVerse/Stories/KesVerse Arc 2.md": 19
   },
   "exportOpts": {
     "format": "docx",
@@ -764,8 +770,7 @@ not the plugin folder — can get everything back.
     "charsall",
     "sentences",
     "vocab"
-  ],
-  "historyView": "day"
+  ]
 }
 ```
 <!-- wordsmith:settings:end -->

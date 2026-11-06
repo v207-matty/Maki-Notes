@@ -62,7 +62,7 @@ notes outside them.
 - [x] Season 2/KesVerse/Stories/Arc 1/Kumel.md
 - [x] Season 2/KesVerse/Stories/Arc 1/Sinco.md
 - [ ] Season 2/KesVerse/Stories/Arc 2/Kina 2.md
-- [ ] Season 2/KesVerse/Stories/Arc 2/The Protectors.md
+- [ ] Season 2/KesVerse/Stories/Arc 2/A Gathering.md
 - [ ] Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md
 - [ ] Season 2/KesVerse/Worldbuilding/Ige Language.md
 - [ ] Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md
@@ -79,8 +79,8 @@ notes outside them.
 - Season 2/KesVerse/Stories/Arc 1/Kumel.md — done
 - Season 2/KesVerse/Stories/Arc 1/Sinco.md — done
 - Season 2/KesVerse/Stories/Arc 1/The Strong One.md — done
+- Season 2/KesVerse/Stories/Arc 2/A Gathering.md — blocked
 - Season 2/KesVerse/Stories/Arc 2/Kina 2.md — done
-- Season 2/KesVerse/Stories/Arc 2/The Protectors.md — blocked
 - Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md — done
 
 <!-- wordsmith:structure:end -->

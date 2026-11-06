@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"f74310deb00a05b2","x":-298,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 1/The Strong One.md"},
-		{"id":"b68587b647b54a12","x":398,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 1/Sinco.md"},
-		{"id":"a09bdcd29b43016b","x":1120,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 1/Gego.md"},
-		{"id":"52704cefd17918f5","x":1840,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 1/Kumel.md"},
-		{"id":"bf4163c7b5987b82","x":2560,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 1/Kina.md"},
-		{"id":"e09cf147f2dc3b33","x":2560,"y":-240,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md"},
-		{"id":"68a2eb202a457c53","x":3360,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 2/Kina 2.md"},
-		{"id":"6666f99ccbd15840","x":4160,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 2/The Protectors.md"}
+		{"id":"f74310deb00a05b2","type":"file","file":"Season 2/KesVerse/Stories/Arc 1/The Strong One.md","x":-298,"y":-904,"width":400,"height":400},
+		{"id":"a09bdcd29b43016b","type":"file","file":"Season 2/KesVerse/Stories/Arc 1/Gego.md","x":1120,"y":-904,"width":400,"height":400},
+		{"id":"52704cefd17918f5","type":"file","file":"Season 2/KesVerse/Stories/Arc 1/Kumel.md","x":1840,"y":-904,"width":400,"height":400},
+		{"id":"bf4163c7b5987b82","type":"file","file":"Season 2/KesVerse/Stories/Arc 1/Kina.md","x":2560,"y":-904,"width":400,"height":400},
+		{"id":"e09cf147f2dc3b33","type":"file","file":"Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md","x":2560,"y":-240,"width":400,"height":400},
+		{"id":"68a2eb202a457c53","type":"file","file":"Season 2/KesVerse/Stories/Arc 2/Kina 2.md","x":3360,"y":-904,"width":400,"height":400},
+		{"id":"6666f99ccbd15840","type":"file","file":"Season 2/KesVerse/Stories/Arc 2/A Gathering.md","x":4160,"y":-904,"width":400,"height":400},
+		{"id":"b68587b647b54a12","type":"file","file":"Season 2/KesVerse/Stories/Arc 1/Sinco.md","x":398,"y":-904,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"a0fb9ea03ff60254","fromNode":"f74310deb00a05b2","fromSide":"right","toNode":"b68587b647b54a12","toSide":"left","label":"Then"},
