@@ -4,7 +4,7 @@
 
 In the vacuum of space, Kina drives their escape pod towards planet Burvak, there is a target of the Zonia Empire there that Kina wants to see, if they're not dead.
 
-Kina arrives on the planet Burvak, they exit it and notice several miles of destruction, if this planet had a hero on it, they're most likely dead, but suddenly Kina is attacked by a someone in a mech suit, Kina has trouble avoiding their attacks but slowly they start t 
+Kina arrives on the planet Burvak, they exit it and notice several miles of destruction, if this planet had a hero on it, they're most likely dead, but suddenly Kina is attacked by a someone in a mech suit, Kina has trouble avoiding their attacks but slowly they start to calm and sense the energy of the attacker, reading their intent before they can even
 
 Gego in his Mark 13 Mech Suit, Kina isn't prepared for it at first, but slowly starts to adapt as they change mindset to dodge, sensing out the Nei within Gego and when it will come for them.
 
