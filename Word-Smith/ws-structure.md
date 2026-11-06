@@ -76,6 +76,7 @@ notes outside them.
 
 - Season 2/KesVerse/Stories/Arc 1/Gego.md — done
 - Season 2/KesVerse/Stories/Arc 1/Kina.md — done
+- Season 2/KesVerse/Stories/Arc 1/Kumel.md — done
 - Season 2/KesVerse/Stories/Arc 1/Sinco.md — done
 - Season 2/KesVerse/Stories/Arc 1/The Strong One.md — done
 - Season 2/KesVerse/Stories/Arc 2/Kina 2.md — draft
