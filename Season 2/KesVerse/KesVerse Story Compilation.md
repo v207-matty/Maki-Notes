@@ -1,4 +1,4 @@
-#season2 #kesverse
+#season2 #kesverse #sinco #sincoau #kesverse_arc1 #kesverse_arc2 
 
 # The Strong One
 
@@ -70,6 +70,7 @@ Kina gets put into a meeting with the higher ups. "What do you know?" they ask. 
 
 Probably.
 
+# The Strong One : Power like never before
 
 Its a peaceful day on Chacuric, not a single conflict foreseeable, but alas, peace cannot last, another Zonia Empire ship arrives on the planet, this time a small one compared to the last one, out comes 3 grunt soldiers but one soldier that looks familiar to Stone. The soldier identifies himself as Korn and requests that "Tenos" join The Zonia Empire, Stone asks about Tenos, Korn gets confused, "Brother have you forgotten your name!?", Stone speaks up, "My name is Stone, The Strong One, I've never gone by 'Tenos'!", Korn puts a device on his face, clicking a button, then a beep is emitted from it, Kuro gets mad, "The highest Nei I can detect on this planet besides you is 61 brother! The highest in a population is usually in the 100s! This backwater planets population defies the universal metrics!", Stone gets curious, "What's 'Nei'?", Kuro gets upset, "It means power! Have they not a lick of the Ige language on this planet? It gets worse and worse!", "Brother Tenos! You WILL join me in the Zonia Empire!", Stone gets in a fighting stance, "And if I don't?", Kuro sighs, "Then you will share the same fate as our home planet: Death".
 
