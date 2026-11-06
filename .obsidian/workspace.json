@@ -32,22 +32,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "a509b33b40553240",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c1f4d9d6804891fe",
-            "type": "leaf",
-            "state": {
-              "type": "word-smith-export",
-              "state": {},
-              "icon": "file-output",
-              "title": "Export"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -233,7 +217,7 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "3bcf4b0bce05521e",
   "lastOpenFiles": [
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md",
