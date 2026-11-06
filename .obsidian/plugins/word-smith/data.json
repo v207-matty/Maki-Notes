@@ -193,12 +193,12 @@
   "fileStatus": {
     "Season 2/KesVerse/Stories/Arc 1/Gego.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/Kina.md": "done",
+    "Season 2/KesVerse/Stories/Arc 1/Kumel.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md": "done",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": "done",
     "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": "blocked",
-    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": "done",
-    "Season 2/KesVerse/Stories/Arc 1/Kumel.md": "done"
+    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": "done"
   },
   "folderTargets": {},
   "goalDeadlines": {},
@@ -699,7 +699,8 @@
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": 712,
     "Season 2/KesVerse/Stories/Arc 1/Gego.md": 496,
     "README.md": 23,
-    "Word-Smith/WS.md": 3
+    "Word-Smith/WS.md": 3,
+    "Season 2/KesVerse/Stories/KesVerse Arc 1.md": 12
   },
   "exportOpts": {
     "format": "docx",
@@ -770,6 +771,5 @@
     "charsall",
     "sentences",
     "vocab"
-  ],
-  "historyView": "day"
+  ]
 }
