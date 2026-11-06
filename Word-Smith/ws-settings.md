@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-06 06:45:10
+- written: 2026-11-06 06:45:52
 
 ```json
 {
@@ -591,6 +591,77 @@ not the plugin folder — can get everything back.
       "fontTokenFormat": "glyph",
       "markersTokenFormat": "glyph",
       "barTokenIcons": {},
+      "statusBarUiFont": false,
+      "targetTokenFormat": "percent",
+      "timeTokenFormat": "24h",
+      "wpmTokenFormat": "gauge"
+    },
+    "readtime edition": {
+      "statusRows": [
+        {
+          "left": ":b1{ssss}{file}",
+          "center": "{mode} {syntax} {prose} {report}",
+          "right": "{words} words{ssss}:{ssss}{readtime}"
+        }
+      ],
+      "fileTokenFormat": "name",
+      "powerlineModeColors": false,
+      "powerlineColor1": "#4f9dde",
+      "powerlineColor2": "#3f4550",
+      "powerlineColor3": "#2f333c",
+      "powerlineColor4": "#4caf7d",
+      "powerlineColor5": "#e0913a",
+      "powerlineColor6": "#8a7fd1",
+      "powerlineColor7": "#b5566b",
+      "statusBarBorderStyle": "solid",
+      "statusBarBorderWidth": 0,
+      "statusBarBorderTop": true,
+      "statusBarBorderBottom": true,
+      "statusBarFontSize": 16,
+      "statusBarHeight": 20,
+      "statusBarPadTop": 4,
+      "statusBarPadBottom": 4,
+      "vimFollowCursorSmith": true,
+      "vimColorNormal": "#4f9dde",
+      "vimColorInsert": "#4caf7d",
+      "vimColorVisual": "#8a7fd1",
+      "vimColorReplace": "#c2544d",
+      "vimColorCommand": "#e0913a",
+      "vimLabelNormal": "-- NORMAL --",
+      "vimLabelInsert": "-- INSERT --",
+      "vimLabelVisual": "-- VISUAL --",
+      "vimLabelReplace": "-- REPLACE --",
+      "vimLabelCommand": "-- COMMAND --",
+      "powerlineColorLight1": "#2d6da4",
+      "powerlineColorLight2": "#d9dce1",
+      "powerlineColorLight3": "#eceef1",
+      "powerlineColorLight4": "#2f8a5b",
+      "powerlineColorLight5": "#b96f1e",
+      "powerlineColorLight6": "#6a5cb8",
+      "powerlineColorLight7": "#a2404f",
+      "vimColorNormalLight": "#2d6da4",
+      "vimColorInsertLight": "#2f8a5b",
+      "vimColorVisualLight": "#6a5cb8",
+      "vimColorReplaceLight": "#a03c36",
+      "vimColorCommandLight": "#b96f1e",
+      "statusBarFontFollowNote": true,
+      "barRuleDarkTopColor": "#fbfaf9",
+      "barRuleDarkBottomColor": "#fbfaf9",
+      "barRuleLightTopColor": "#16181d",
+      "barRuleLightBottomColor": "#16181d",
+      "fontTokenFormat": "word",
+      "markersTokenFormat": "word",
+      "flagTokenFormat": "both",
+      "barTokenIcons": {
+        "history": "icon",
+        "export": "icon",
+        "organizer": "icon",
+        "powermenu": "icon",
+        "report": "both",
+        "modes": "both",
+        "syntax": "both",
+        "prose": "both"
+      },
       "statusBarUiFont": false,
       "targetTokenFormat": "percent",
       "timeTokenFormat": "24h",
