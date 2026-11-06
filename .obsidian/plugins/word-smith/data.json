@@ -33,7 +33,7 @@
   "menuRuleStyles": {},
   "menuDock": true,
   "orgTargetShow": "percent",
-  "orgDeadlineCell": "both",
+  "orgDeadlineCell": "days",
   "paneOpenIn": "split",
   "fileIconsOffOnce": true,
   "orgFolderIcons": true,
