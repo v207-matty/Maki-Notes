@@ -72,4 +72,13 @@ notes outside them.
 - [ ] Word-Smith/ws-settings.md
 - [ ] Word-Smith/ws-structure.md
 
+### goals: notes
+
+- Season 2/KesVerse/Stories/Arc 1/Gego.md — done
+- Season 2/KesVerse/Stories/Arc 1/Kina.md — done
+- Season 2/KesVerse/Stories/Arc 1/Sinco.md — done
+- Season 2/KesVerse/Stories/Arc 1/The Strong One.md — done
+- Season 2/KesVerse/Stories/Arc 2/Kina 2.md — draft
+- Season 2/KesVerse/Stories/Arc 2/The Protectors.md — draft
+
 <!-- wordsmith:structure:end -->
