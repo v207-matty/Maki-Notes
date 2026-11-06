@@ -366,7 +366,7 @@
   "organizerOn": true,
   "organizerDateFormat": "human",
   "folderColors": {},
-  "flagCount": 3,
+  "flagCount": 5,
   "flags": [
     {
       "id": "draft",
