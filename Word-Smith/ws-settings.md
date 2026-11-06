@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-06 06:40:57
+- written: 2026-11-06 06:41:19
 
 ```json
 {
@@ -623,7 +623,7 @@ not the plugin folder — can get everything back.
     "folderHeadings": false,
     "wordCountOnTitle": true,
     "pageNumbers": true,
-    "keepFrontmatter": false,
+    "keepFrontmatter": true,
     "keepComments": false,
     "keepCallouts": false,
     "keepTags": false,
@@ -632,7 +632,7 @@ not the plugin folder — can get everything back.
     "pt": 12,
     "justify": false,
     "keepHeadings": true,
-    "numberStyle": "chapter",
+    "numberStyle": "none",
     "indentAfterHeads": false,
     "keepBlankLines": false,
     "centerHeads": true,
@@ -652,7 +652,7 @@ not the plugin folder — can get everything back.
     "doubleSpaced": true,
     "indent": true,
     "lineSpacing": "double",
-    "footnotes": true,
+    "footnotes": false,
     "footnotePlace": "foot",
     "paraSpacing": "auto",
     "highlights": false,
