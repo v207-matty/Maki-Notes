@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-06 06:33:59
+- written: 2026-11-06 06:34:04
 
 ```json
 {
@@ -264,7 +264,7 @@ not the plugin folder — can get everything back.
   "checkFillerColor": "#8a7fd1",
   "checkPassive": false,
   "checkPassiveColor": "#c2544d",
-  "checkIllusion": true,
+  "checkIllusion": false,
   "checkIllusionColor": "#d98cc4",
   "checkMisused": true,
   "checkMisusedColor": "#e0913a",
@@ -291,7 +291,7 @@ not the plugin folder — can get everything back.
   "checkRhythmLongWords": 25,
   "checkRhythmVeryLongWords": 40,
   "checkRhythmShortWords": 8,
-  "checkRepetition": true,
+  "checkRepetition": false,
   "checkRepetitionColor": "#4caf7d",
   "repetitionWindow": 50,
   "repetitionMinLength": 5,
