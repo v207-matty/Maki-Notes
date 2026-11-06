@@ -57,10 +57,10 @@ notes outside them.
 - [ ] Season 2/KesVerse/Stories/KesVerse Arc 1.md
 - [ ] Season 2/KesVerse/Stories/KesVerse Arc 2.md
 - [ ] Season 2/KesVerse/Stories/KesVerse Arcs.md
-- [ ] Season 2/KesVerse/Stories/Arc 1/Gego.md
-- [ ] Season 2/KesVerse/Stories/Arc 1/Kina.md
-- [ ] Season 2/KesVerse/Stories/Arc 1/Kumel.md
-- [ ] Season 2/KesVerse/Stories/Arc 1/Sinco.md
+- [x] Season 2/KesVerse/Stories/Arc 1/Gego.md
+- [x] Season 2/KesVerse/Stories/Arc 1/Kina.md
+- [x] Season 2/KesVerse/Stories/Arc 1/Kumel.md
+- [x] Season 2/KesVerse/Stories/Arc 1/Sinco.md
 - [x] Season 2/KesVerse/Stories/Arc 1/The Strong One.md
 - [ ] Season 2/KesVerse/Stories/Arc 2/Kina 2.md
 - [ ] Season 2/KesVerse/Stories/Arc 2/The Protectors.md
@@ -71,5 +71,6 @@ notes outside them.
 - [ ] Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md
 - [ ] Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md
 - [ ] Word-Smith/ws-settings.md
+- [ ] Word-Smith/ws-structure.md
 
 <!-- wordsmith:structure:end -->
