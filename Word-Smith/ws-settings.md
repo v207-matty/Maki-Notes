@@ -6,12 +6,12 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-06 06:31:46
+- written: 2026-11-06 06:32:27
 
 ```json
 {
   "barThemeEnabled": true,
-  "barTheme": "custom",
+  "barTheme": "onedark",
   "barThemeOrder": [],
   "barThemeHidden": [
     "modus",
@@ -230,7 +230,7 @@ not the plugin folder — can get everything back.
   "paragraphIndentEm": 4,
   "paragraphIndentMode": "single",
   "lineSpacing": 1.5,
-  "editorFont": "",
+  "editorFont": "Google Sans Flex",
   "editorFontDefaultCleared": true,
   "limitLineLength": false,
   "maxLineChars": 64,
