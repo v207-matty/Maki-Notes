@@ -32,6 +32,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "a171edc325f81114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cbad01168acbd11",
+            "type": "leaf",
+            "state": {
+              "type": "word-smith-history",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "61843bacfc8b0063",
@@ -203,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.0999755859375,
-    "collapsed": true
+    "width": 299.0999755859375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,17 +233,17 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "cfaabd91da4342e8",
+  "active": "8cbad01168acbd11",
   "lastOpenFiles": [
     "Season 2/KesVerse/Stories/Arc 2/The Protectors.md",
+    "Season 2/KesVerse/Stories/Arc 1/Gego.md",
+    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md",
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md",
-    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
     "Word-Smith/ws-history.md",
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md",
     "Season 2/KesVerse/Stories/Arc 1/Kina.md",
-    "Season 2/KesVerse/Stories/Arc 1/Gego.md",
     "Season 2/KesVerse/KesVerse Story Compilation.md",
     "Season 2/KesVerse/Stories/KesVerse Arcs.md",
     "README.md",
