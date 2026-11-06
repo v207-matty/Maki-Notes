@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-06 07:08:00
+- written: 2026-11-06 07:10:03
 
 ```json
 {
@@ -94,7 +94,7 @@ not the plugin folder — can get everything back.
   "focusedFileMode": false,
   "enableTypewriter": false,
   "editorPaddingH": 100,
-  "zenEnabled": true,
+  "zenEnabled": false,
   "zenTitlebarMatch": true,
   "enableLetterbox": false,
   "letterboxLines": 8,
@@ -201,7 +201,7 @@ not the plugin folder — can get everything back.
     "Season 2/KesVerse/Stories/Arc 1/Kina.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md": "done",
-    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": "draft",
+    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": "done",
     "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": "outline",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md": "done"
@@ -689,7 +689,7 @@ not the plugin folder — can get everything back.
   "historyCountPasted": false,
   "historyBaselines": {
     "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": 330,
-    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": 296,
+    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": 332,
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md": 1013,
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md": 468,
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": 712,
@@ -764,7 +764,8 @@ not the plugin folder — can get everything back.
     "charsall",
     "sentences",
     "vocab"
-  ]
+  ],
+  "historyView": "day"
 }
 ```
 <!-- wordsmith:settings:end -->

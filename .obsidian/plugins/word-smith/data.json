@@ -83,7 +83,7 @@
   "focusedFileMode": false,
   "enableTypewriter": false,
   "editorPaddingH": 100,
-  "zenEnabled": true,
+  "zenEnabled": false,
   "zenTitlebarMatch": true,
   "enableLetterbox": false,
   "letterboxLines": 8,
@@ -195,8 +195,8 @@
     "Season 2/KesVerse/Stories/Arc 1/Kina.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md": "done",
-    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": "draft",
-    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": "outline",
+    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": "done",
+    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": "blocked",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md": "done"
   },
@@ -693,7 +693,7 @@
   "historyCountPasted": false,
   "historyBaselines": {
     "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": 330,
-    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": 328,
+    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": 332,
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md": 1013,
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md": 468,
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": 712,
@@ -768,6 +768,5 @@
     "charsall",
     "sentences",
     "vocab"
-  ],
-  "historyView": "day"
+  ]
 }

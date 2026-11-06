@@ -8,4 +8,4 @@ Kina arrives on the planet Burvak, they exit it and notice several miles of dest
 
 "I ain't with Zonia! I'm tryna go against him!", "If you're interested in joining me you're welcome to.", Kina looks over at their pod, then behind it, noticing a Zonia Empire ship, "I think we have the perfect transportation means anyway if we can get that working.", Gego looks at the ship, "Oh yeah I can get that working, I used to be apart of the Zonia Empire, and I doubt they changed their infrastructure that much.", Kina looks at Gego confusingly, then chuckles. "All right then Gego, let's go do this!"
 
-Kina and Gego both get in the Zonia Empire ship and head to the already inputted coordinates,
+Kina and Gego both get in the Zonia Empire ship and head to the already inputted coordinates, going who knows where.
