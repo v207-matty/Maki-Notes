@@ -11,24 +11,17 @@
             "id": "b3d848e178f39a49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Season 2/KesVerse/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "The Strong One 2"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -219,6 +212,8 @@
   },
   "active": "b3d848e178f39a49",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
+    "Season 2/KesVerse/Untitled.canvas",
     "Season 2/KesVerse/Stories/Arc 2/The Protectors.md",
     "Season 2/KesVerse/Stories/KesVerse Arc 1.md",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
@@ -228,7 +223,6 @@
     "Season 2/KesVerse/Stories/Arc 1/Gego.md",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md",
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md",
-    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
     "Word-Smith/ws-history.md",
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md",
     "Season 2/KesVerse/Stories/Arc 1/Kina.md",
@@ -248,7 +242,6 @@
     "Season 1/CVT.md",
     "Season 1/Sinco Colonized AU.md",
     "Season 1/Sinco Renewed/Explanations/Characters/Lex Breaker.md",
-    "Season 1/Sinco Renewed/Sinco Renewed.md",
     "Season 2/KesVerse/Story Arcs slash Phases",
     "Season 2/KesVerse/Worldbuilding/Ige",
     "Season 2/Dragon Ball/Matty Edition",
