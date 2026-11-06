@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-06 06:50:09
+- written: 2026-11-06 06:50:37
 
 ```json
 {
@@ -352,12 +352,12 @@ not the plugin folder — can get everything back.
   "quickOutline": false,
   "quickCycle": false,
   "quickCycleCloseOnLeave": false,
-  "enableFileTreeCounts": true,
+  "enableFileTreeCounts": false,
   "fileTreeFlags": true,
   "treeOrder": true,
   "treeOrderForcedOn": true,
   "treeOrderBackOnce": true,
-  "fileTreeFolderIcons": true,
+  "fileTreeFolderIcons": false,
   "fileTreeKindIcons": false,
   "organizerOn": true,
   "organizerDateFormat": "human",
@@ -400,9 +400,9 @@ not the plugin folder — can get everything back.
       "dark": "#d9a441"
     }
   ],
-  "fileTreeTasks": true,
+  "fileTreeTasks": false,
   "fileTreeNumbers": false,
-  "enableOutlineCounts": true,
+  "enableOutlineCounts": false,
   "vimSoftWrapMotion": true,
   "vimLabelNormal": "-- NORMAL --",
   "vimLabelInsert": "-- INSERT --",
