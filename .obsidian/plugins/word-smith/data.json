@@ -119,7 +119,7 @@
     {
       "left": ":b1{ssss}{file}",
       "center": "{mode} {syntax} {prose} {report}",
-      "right": "{words}{ssss} words{ssss}"
+      "right": "{words} words{ssss}:{ssss{}"
     }
   ],
   "fileTokenFormat": "name",
