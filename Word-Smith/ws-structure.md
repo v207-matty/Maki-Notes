@@ -51,7 +51,6 @@ notes outside them.
 - [ ] Season 2/Dragon Ball/Matty Edition/DBME.md
 - [ ] Season 2/Dragon Ball/Matty Edition/Dragon Ball Z.md
 - [ ] Season 2/Dragon Ball/Matty Edition/Rules.md
-- [ ] Season 2/KesVerse/KesVerse Story Compilation.md
 - [ ] Season 2/KesVerse/KesVerse Worldbuilding.md
 - [ ] Season 2/KesVerse/KesVerse.md
 - [ ] Season 2/KesVerse/Stories/KesVerse Arc 1.md

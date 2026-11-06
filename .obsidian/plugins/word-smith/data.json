@@ -190,7 +190,9 @@
   "settingsMirror": true,
   "settingsMirrorPath": "Word-Smith/ws-settings.md",
   "fileGoals": {},
-  "fileStatus": {},
+  "fileStatus": {
+    "Season 2/KesVerse/Stories/Arc 1/Gego.md": "done"
+  },
   "folderTargets": {},
   "goalDeadlines": {},
   "goalWorkDays": "0123456",
