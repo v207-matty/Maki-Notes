@@ -283,7 +283,7 @@
   "checkDialogueCustom": "",
   "hideOwnFolder": false,
   "ownExcluded": [],
-  "checkRhythm": true,
+  "checkRhythm": false,
   "checkRhythmHardColor": "",
   "checkRhythmVeryHardColor": "",
   "checkRhythmShortColor": "",
