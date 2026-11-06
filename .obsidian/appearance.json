@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "theme",
     "Atom-GrayscaleSupportive"
-  ]
+  ],
+  "theme": "obsidian"
 }
