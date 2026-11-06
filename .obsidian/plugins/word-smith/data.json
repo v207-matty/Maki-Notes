@@ -175,7 +175,7 @@
   "structurePath": "Word-Smith/ws-structure.md",
   "outlineFlagRenamed": true,
   "uniColOrder": [],
-  "organizerFolder": "",
+  "organizerFolder": "Season 2/KesVerse/Stories/Arc 1",
   "uniTypes": [
     "md",
     "image",
@@ -687,7 +687,7 @@
     "Code",
     "Fade"
   ],
-  "historyTracking": false,
+  "historyTracking": true,
   "historyFilePath": "Word-Smith/ws-history.md",
   "historyPerFile": true,
   "historyCountPasted": false,
