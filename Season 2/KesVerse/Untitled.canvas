@@ -6,7 +6,8 @@
 		{"id":"52704cefd17918f5","x":1840,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 1/Kumel.md"},
 		{"id":"bf4163c7b5987b82","x":2560,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 1/Kina.md"},
 		{"id":"e09cf147f2dc3b33","x":2560,"y":-240,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md"},
-		{"id":"68a2eb202a457c53","x":3360,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 2/Kina 2.md"}
+		{"id":"68a2eb202a457c53","x":3360,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 2/Kina 2.md"},
+		{"id":"6666f99ccbd15840","x":4160,"y":-904,"width":400,"height":400,"type":"file","file":"Season 2/KesVerse/Stories/Arc 2/The Protectors.md"}
 	],
 	"edges":[
 		{"id":"a0fb9ea03ff60254","fromNode":"f74310deb00a05b2","fromSide":"right","toNode":"b68587b647b54a12","toSide":"left","label":"Then"},
@@ -14,6 +15,8 @@
 		{"id":"6f925ed641cd6d33","fromNode":"a09bdcd29b43016b","fromSide":"right","toNode":"52704cefd17918f5","toSide":"left","label":"Then"},
 		{"id":"37e9579a50b8d1c1","fromNode":"52704cefd17918f5","fromSide":"right","toNode":"bf4163c7b5987b82","toSide":"left","label":"Then"},
 		{"id":"e602b5601a746ccf","fromNode":"f74310deb00a05b2","fromSide":"bottom","toNode":"e09cf147f2dc3b33","toSide":"left","label":"Then"},
-		{"id":"120582c8a689a0c6","fromNode":"bf4163c7b5987b82","fromSide":"right","toNode":"68a2eb202a457c53","toSide":"left","label":"Then"}
+		{"id":"120582c8a689a0c6","fromNode":"bf4163c7b5987b82","fromSide":"right","toNode":"68a2eb202a457c53","toSide":"left","label":"Then"},
+		{"id":"c7fbb2c84e9b4758","fromNode":"e09cf147f2dc3b33","fromSide":"right","toNode":"68a2eb202a457c53","toSide":"left","label":"Then"},
+		{"id":"3813965955085353","fromNode":"68a2eb202a457c53","fromSide":"right","toNode":"6666f99ccbd15840","toSide":"left","label":"Then"}
 	]
 }

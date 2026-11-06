@@ -11,17 +11,24 @@
             "id": "b3d848e178f39a49",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Untitled.canvas",
-                "viewState": {
-                  "x": 3018.050310445037,
-                  "y": -633.1836501820102,
-                  "zoom": -2.333333333333333
+                "file": "Season 2/KesVerse/Stories/Arc 2/The Protectors.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "The Protectors"
             }
           }
         ]
@@ -213,15 +220,15 @@
   "active": "b3d848e178f39a49",
   "lastOpenFiles": [
     "Season 2/KesVerse/Untitled.canvas",
+    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md",
+    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md",
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md",
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md",
     "Season 2/KesVerse/Stories/Arc 1/Kina.md",
     "Season 2/KesVerse/Stories/Arc 1/Gego.md",
-    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md",
     "Season 2/KesVerse/Stories/KesVerse Arc 1.md",
-    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
     "README.md",
     "Word-Smith/ws-structure.md",
     "Word-Smith/WS.md",
