@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d3b90fa0b536eb75",
+        "id": "fe46ec7c15a6d809",
         "type": "tabs",
         "children": [
           {
-            "id": "3bcf4b0bce05521e",
+            "id": "cfaabd91da4342e8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/KesVerse/KesVerse Story Compilation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "KesVerse Story Compilation"
             }
           }
         ]
@@ -203,8 +217,9 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "3bcf4b0bce05521e",
+  "active": "cfaabd91da4342e8",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Stories/KesVerse Arcs.md",
     "README.md",
     "Season 2/Matty Season 2.md",
     "Word-Smith/ws-structure.md",
@@ -215,7 +230,6 @@
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md",
     "Season 2/KesVerse/KesVerse Story Compilation.md",
-    "Season 2/KesVerse/Stories/KesVerse Arcs.md",
     "Season 2/KesVerse/Stories/Arc 1/Gego.md",
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
