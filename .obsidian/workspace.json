@@ -35,10 +35,24 @@
             "id": "517239b8be40ad0e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Word-Smith/ws-structure.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ws-structure"
             }
           }
         ],
@@ -230,12 +244,13 @@
   },
   "active": "517239b8be40ad0e",
   "lastOpenFiles": [
+    "Word-Smith/ws-settings.md",
+    "Word-Smith/ws-structure.md",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
     "Season 2/KesVerse/Stories/Arc 2/The Protectors.md",
     "Season 2/KesVerse/Stories/Arc 1/Kina.md",
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md",
-    "Word-Smith/ws-structure.md",
     "Season 2/KesVerse/KesVerse Story Compilation.md",
     "Season 2/KesVerse/Stories/KesVerse Arcs.md",
     "Season 2/KesVerse/Stories/Arc 1/Gego.md",
@@ -243,7 +258,6 @@
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
     "Season 2/KesVerse/Stories/KesVerse Arc 1.md",
     "Season 2/KesVerse/Stories/KesVerse Arc 2.md",
-    "Word-Smith/ws-settings.md",
     "Word-Smith",
     "Season 2/KesVerse/KesVerse Worldbuilding.md",
     "Season 2/KesVerse/KesVerse.md",
