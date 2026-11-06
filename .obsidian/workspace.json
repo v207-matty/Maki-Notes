@@ -32,22 +32,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "a171edc325f81114",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8cbad01168acbd11",
-            "type": "leaf",
-            "state": {
-              "type": "word-smith-history",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "61843bacfc8b0063",
@@ -218,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.0999755859375
+    "width": 299.0999755859375,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,7 +219,7 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "8cbad01168acbd11",
+  "active": "cfaabd91da4342e8",
   "lastOpenFiles": [
     "Season 2/KesVerse/Stories/Arc 2/The Protectors.md",
     "Season 2/KesVerse/Stories/Arc 1/Gego.md",
