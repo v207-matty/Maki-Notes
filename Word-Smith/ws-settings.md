@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-06 06:32:27
+- written: 2026-11-06 06:32:49
 
 ```json
 {
@@ -230,7 +230,7 @@ not the plugin folder — can get everything back.
   "paragraphIndentEm": 4,
   "paragraphIndentMode": "single",
   "lineSpacing": 1.5,
-  "editorFont": "Google Sans Flex",
+  "editorFont": "",
   "editorFontDefaultCleared": true,
   "limitLineLength": false,
   "maxLineChars": 64,
@@ -257,9 +257,9 @@ not the plugin folder — can get everything back.
   "hemFlashTarget": "both",
   "syntaxSkipCode": true,
   "syntaxStyle": "text",
-  "checksEnabled": false,
+  "checksEnabled": true,
   "checkStyle": "line",
-  "checkFiller": true,
+  "checkFiller": false,
   "checkFillerSoft": false,
   "checkFillerColor": "#8a7fd1",
   "checkPassive": true,
