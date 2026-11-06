@@ -32,6 +32,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "a509b33b40553240",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1f4d9d6804891fe",
+            "type": "leaf",
+            "state": {
+              "type": "word-smith-export",
+              "state": {},
+              "icon": "file-output",
+              "title": "Export"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,8 +233,9 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "3bcf4b0bce05521e",
+  "active": "c1f4d9d6804891fe",
   "lastOpenFiles": [
+    "Word-Smith/ws-structure.md",
     "Season 2/KesVerse/KesVerse Story Compilation.md",
     "Season 2/KesVerse/Stories/KesVerse Arcs.md",
     "Season 2/KesVerse/Stories/Arc 1/Gego.md",
@@ -248,7 +265,6 @@
     "Season 1/Sinco Renewed/Sinco Renewed.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md",
-    "Untitled.md",
     "Season 2/KesVerse/Story Arcs slash Phases",
     "Season 2/KesVerse/Worldbuilding/Ige",
     "Season 2/Dragon Ball/Matty Edition",

@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-06 06:35:33
+- written: 2026-11-06 06:39:55
 
 ```json
 {
@@ -657,7 +657,27 @@ not the plugin folder — can get everything back.
     "paraSpacing": "auto",
     "highlights": false,
     "paperId": "letter"
-  }
+  },
+  "organizerOpen": [],
+  "uniColsOff": [
+    "grade",
+    "modified",
+    "paras",
+    "tasks",
+    "deadline",
+    "tags",
+    "created",
+    "read",
+    "pages",
+    "ftype",
+    "backlinks",
+    "outlinks",
+    "footnotes",
+    "chars",
+    "charsall",
+    "sentences",
+    "vocab"
+  ]
 }
 ```
 <!-- wordsmith:settings:end -->
