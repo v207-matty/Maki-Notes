@@ -11,24 +11,10 @@
             "id": "3bcf4b0bce05521e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Word-Smith/ws-settings.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ws-settings"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -219,9 +205,11 @@
   },
   "active": "3bcf4b0bce05521e",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
+    "README.md",
+    "Season 2/Matty Season 2.md",
     "Word-Smith/ws-structure.md",
     "Word-Smith/ws-settings.md",
+    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
     "Season 2/KesVerse/Stories/Arc 2/The Protectors.md",
     "Season 2/KesVerse/Stories/Arc 1/Kina.md",
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md",
@@ -239,12 +227,10 @@
     "Season 2/KesVerse/Worldbuilding/Kesumel.md",
     "Season 2/KesVerse/Stories/Arc 2",
     "Season 2/KesVerse/Stories/Untitled.canvas",
-    "README.md",
     "Season 2/KesVerse/Stories/Arc 1",
     "Season 1/Matty Season 1.md",
     "Season 1/CVT.md",
     "Season 1/Sinco Colonized AU.md",
-    "Season 2/Matty Season 2.md",
     "Season 1/Sinco Renewed/Explanations/Characters/Lex Breaker.md",
     "Season 1/Sinco Renewed/Sinco Renewed.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md",
