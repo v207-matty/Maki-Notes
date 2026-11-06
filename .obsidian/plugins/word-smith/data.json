@@ -697,7 +697,9 @@
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md": 1013,
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md": 468,
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": 712,
-    "Season 2/KesVerse/Stories/Arc 1/Gego.md": 496
+    "Season 2/KesVerse/Stories/Arc 1/Gego.md": 496,
+    "README.md": 25,
+    "Word-Smith/WS.md": 0
   },
   "exportOpts": {
     "format": "docx",
@@ -768,5 +770,6 @@
     "charsall",
     "sentences",
     "vocab"
-  ]
+  ],
+  "historyView": "day"
 }
