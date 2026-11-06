@@ -186,7 +186,7 @@
     "video",
     "other"
   ],
-  "historySeen": false,
+  "historySeen": true,
   "settingsMirror": true,
   "settingsMirrorPath": "Word-Smith/ws-settings.md",
   "fileGoals": {},
@@ -196,7 +196,7 @@
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md": "done",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": "draft",
-    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": "draft",
+    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": "outline",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md": "done"
   },
@@ -691,7 +691,13 @@
   "historyFilePath": "Word-Smith/ws-history.md",
   "historyPerFile": true,
   "historyCountPasted": false,
-  "historyBaselines": {},
+  "historyBaselines": {
+    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": 330,
+    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": 231,
+    "Season 2/KesVerse/Stories/Arc 1/The Strong One.md": 1013,
+    "Season 2/KesVerse/Stories/Arc 1/Kumel.md": 468,
+    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": 712
+  },
   "exportOpts": {
     "format": "docx",
     "titlePage": true,
