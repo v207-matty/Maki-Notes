@@ -2,7 +2,7 @@
 
 # Kina : The Second Protector
 
-In the vacumm o
+In the vacuum of space, Kina drive their 
 
 Kina drives their escape pod, searching planet after planet, looking for a planet with either a strong population, or a strong hero, about anyone willing to help them would be fine.
 

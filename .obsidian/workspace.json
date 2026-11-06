@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "Kina 2"
             }
+          },
+          {
+            "id": "517239b8be40ad0e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,8 +228,9 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "3bcf4b0bce05521e",
+  "active": "517239b8be40ad0e",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
     "Season 2/KesVerse/Stories/Arc 2/The Protectors.md",
     "Season 2/KesVerse/Stories/Arc 1/Kina.md",
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md",
@@ -228,7 +240,6 @@
     "Season 2/KesVerse/Stories/KesVerse Arcs.md",
     "Season 2/KesVerse/Stories/Arc 1/Gego.md",
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md",
-    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
     "Season 2/KesVerse/Stories/KesVerse Arc 1.md",
     "Season 2/KesVerse/Stories/KesVerse Arc 2.md",
