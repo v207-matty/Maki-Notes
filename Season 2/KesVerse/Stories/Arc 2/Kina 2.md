@@ -2,7 +2,7 @@
 
 # Kina : The Second Protector
 
-In the vacuum of space, Kina drives their escape pod towards planet Burvak, there is a target of the Zonia Empire hth
+In the vacuum of space, Kina drives their escape pod towards planet Burvak, there is a target of the Zonia Empire there that Kina wants to see, if they're not dead.
 
 Kina drives their escape pod, searching planet after planet, looking for a planet with either a strong population, or a strong hero, about anyone willing to help them would be fine.
 
