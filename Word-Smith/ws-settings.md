@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-06 06:43:25
+- written: 2026-11-06 06:43:48
 
 ```json
 {
@@ -128,9 +128,9 @@ not the plugin folder — can get everything back.
   "retroBarHidden": false,
   "statusRows": [
     {
-      "left": ":b4{obsidian}:b2;f|{vim}|{ln:col}:6|{file}:b2>{#>}:b1>{ggg}>{gg}>{g}",
-      "center": "",
-      "right": "{powermenu}:b3\\ {markers}\\{words}:b2w::{chars}ch\\{tasks}:6\\{clock}{time}:5"
+      "left": ":b1{ssss}{file}",
+      "center": "{mode} {syntax} {prose} {report}",
+      "right": "{words} words{ssss}"
     }
   ],
   "fileTokenFormat": "name",
@@ -140,17 +140,17 @@ not the plugin folder — can get everything back.
   "timeTokenFormat": "24h",
   "wpmTokenFormat": "gauge",
   "flagTokenFormat": "both",
-  "statusBarBorderStyle": "none",
-  "statusBarBorderWidth": 1,
-  "statusBarBorderTop": false,
-  "statusBarBorderBottom": false,
-  "statusBarFontSize": 14,
-  "statusBarFontFollowNote": false,
+  "statusBarBorderStyle": "solid",
+  "statusBarBorderWidth": 0,
+  "statusBarBorderTop": true,
+  "statusBarBorderBottom": true,
+  "statusBarFontSize": 16,
+  "statusBarFontFollowNote": true,
   "statusBarUiFont": false,
   "statusBarHeight": 20,
   "statusBarPadTop": 4,
   "statusBarPadBottom": 4,
-  "powerlineModeColors": true,
+  "powerlineModeColors": false,
   "powerlineColor1": "#4f9dde",
   "powerlineColor2": "#3f4550",
   "powerlineColor3": "#2f333c",
@@ -162,7 +162,7 @@ not the plugin folder — can get everything back.
   "powerlineColorLight2": "#d9dce1",
   "powerlineColorLight3": "#eceef1",
   "powerlineColorLight4": "#2f8a5b",
-  "powerlineColorLight5": "#d79956",
+  "powerlineColorLight5": "#b96f1e",
   "powerlineColorLight6": "#6a5cb8",
   "powerlineColorLight7": "#a2404f",
   "vimFollowCursorSmith": true,
@@ -206,9 +206,18 @@ not the plugin folder — can get everything back.
   "barRuleDarkBottomColor": "#fbfaf9",
   "barRuleLightTopColor": "#16181d",
   "barRuleLightBottomColor": "#16181d",
-  "fontTokenFormat": "glyph",
-  "markersTokenFormat": "glyph",
-  "barTokenIcons": {},
+  "fontTokenFormat": "word",
+  "markersTokenFormat": "word",
+  "barTokenIcons": {
+    "history": "icon",
+    "export": "icon",
+    "organizer": "icon",
+    "powermenu": "icon",
+    "report": "both",
+    "modes": "both",
+    "syntax": "both",
+    "prose": "both"
+  },
   "letterboxCustomColors": false,
   "arrowDarkColor": "#fbfaf9",
   "arrowLightColor": "#080808",
@@ -386,11 +395,11 @@ not the plugin folder — can get everything back.
   "fileTreeNumbers": false,
   "enableOutlineCounts": false,
   "vimSoftWrapMotion": true,
-  "vimLabelNormal": "NORMAL",
-  "vimLabelInsert": "INSERT",
-  "vimLabelVisual": "VISUAL",
-  "vimLabelReplace": "REPLACE",
-  "vimLabelCommand": "COMMAND",
+  "vimLabelNormal": "-- NORMAL --",
+  "vimLabelInsert": "-- INSERT --",
+  "vimLabelVisual": "-- VISUAL --",
+  "vimLabelReplace": "-- REPLACE --",
+  "vimLabelCommand": "-- COMMAND --",
   "barPresets": {
     "Plain": {
       "statusRows": [
