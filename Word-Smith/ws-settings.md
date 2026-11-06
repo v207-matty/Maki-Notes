@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-06 06:49:10
+- written: 2026-11-06 06:49:34
 
 ```json
 {
@@ -72,7 +72,7 @@ not the plugin folder — can get everything back.
   "revisionsKeep": "20",
   "revisionsCompare": "inline",
   "revisionsRecovery": true,
-  "countExclude": null,
+  "countExclude": [],
   "zenMode": true,
   "fullscreen": false,
   "leftSidebar": false,
@@ -201,7 +201,9 @@ not the plugin folder — can get everything back.
     "Season 2/KesVerse/Stories/Arc 1/Kina.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md": "done",
-    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": "draft"
+    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": "draft",
+    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": "draft",
+    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": "done"
   },
   "folderTargets": {},
   "goalDeadlines": {},
@@ -350,7 +352,7 @@ not the plugin folder — can get everything back.
   "quickCycle": false,
   "quickCycleCloseOnLeave": false,
   "enableFileTreeCounts": false,
-  "fileTreeFlags": false,
+  "fileTreeFlags": true,
   "treeOrder": true,
   "treeOrderForcedOn": true,
   "treeOrderBackOnce": true,

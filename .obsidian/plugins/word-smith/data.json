@@ -61,7 +61,7 @@
   "revisionsKeep": "20",
   "revisionsCompare": "inline",
   "revisionsRecovery": true,
-  "countExclude": null,
+  "countExclude": [],
   "zenMode": true,
   "fullscreen": false,
   "leftSidebar": false,
@@ -196,7 +196,8 @@
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md": "done",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": "draft",
-    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": "draft"
+    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": "draft",
+    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": "done"
   },
   "folderTargets": {},
   "goalDeadlines": {},
@@ -355,7 +356,7 @@
   "quickCycle": false,
   "quickCycleCloseOnLeave": false,
   "enableFileTreeCounts": false,
-  "fileTreeFlags": false,
+  "fileTreeFlags": true,
   "treeOrder": true,
   "treeOrderForcedOn": true,
   "treeOrderBackOnce": true,
@@ -403,7 +404,7 @@
     }
   ],
   "fileTreeTasks": false,
-  "fileTreeNumbers": false,
+  "fileTreeNumbers": true,
   "enableOutlineCounts": false,
   "vimSoftWrapMotion": true,
   "vimLabelNormal": "-- NORMAL --",
