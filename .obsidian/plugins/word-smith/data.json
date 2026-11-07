@@ -199,7 +199,8 @@
     "Season 2/KesVerse/Stories/Arc 2/A Gathering.md": "done",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": "done",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": "done",
-    "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md": "outline"
+    "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md": "blocked",
+    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": "blocked"
   },
   "folderTargets": {},
   "goalDeadlines": {},
@@ -373,7 +374,7 @@
       "id": "draft",
       "label": "WIP",
       "shape": "pennant",
-      "light": "#4b7bb5",
+      "light": "#ffffff",
       "dark": "#6f95c9"
     },
     {
