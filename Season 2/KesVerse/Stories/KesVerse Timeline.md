@@ -6,15 +6,15 @@
 
 9 / 10 :
 - The Strong One
-- Gego
 - Kina
 
 9 / 11 :
 - Sinco
 
-9 / 12 :
-- The 
-- 
+9 / 14 :
+- Gego
+- Kina 2
+
 9 / 18 :
 - A Gathering
 
