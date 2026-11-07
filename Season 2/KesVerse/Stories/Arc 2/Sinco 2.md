@@ -24,4 +24,6 @@ Tirok : "Naturally."
 
 Nitro : "Ugh."
 
-The call ends, and Tirok switches tasks, he has several camera feeds open for different spy drones, all looking fo
+The call ends, and Tirok switches tasks, he has several camera feeds open for different spy drones, all looking for Sinco inside the forest.
+
+Inside the forest, Si
