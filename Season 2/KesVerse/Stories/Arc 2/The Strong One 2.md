@@ -1,4 +1,4 @@
-#season2 #kesverse #kesverse_arc2
+#season2 #kesverse #kesverse_arc2 #kesverse_season1
 
 # The Strong One : Power like never before
 
