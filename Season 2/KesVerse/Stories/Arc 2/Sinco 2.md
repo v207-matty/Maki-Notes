@@ -40,4 +40,4 @@ Sinco lets them go.
 
 Sinco : "Where have you been? I thought you died!"
 
-Sincos Dad : 
+Sincos Dad : "We actually got a job."
