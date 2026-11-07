@@ -88,4 +88,6 @@ Sinco paces backwards.
 
 Sinco : "I don't like him."
 
-S
+Sinco : "He was destroying the forest."
+
+Nitro looks over at the 
