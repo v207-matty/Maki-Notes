@@ -12,5 +12,11 @@
 9 / 11 :
 - Sinco
 
+9 / 12 :
+- The 
+- 
+9 / 18 :
+- A Gathering
+
 9 / 25 :
 - Sinco 2
