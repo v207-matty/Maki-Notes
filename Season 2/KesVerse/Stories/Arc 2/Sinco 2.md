@@ -48,6 +48,6 @@ Sinco : "I'm just glad you're back."
 
 Sinco and his dad walk towards the forest, Sinco asking many questions to his dad which most of them he wishes not to answer, Sincos mom follows them at a distance, something clearly bothering her. In Tiroks office he has entered another call.
 
-Tirok : "I've calculated it and if u"
+Tirok : "I've performed the calculations and if you come here now with "
 
 
