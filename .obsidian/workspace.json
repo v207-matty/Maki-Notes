@@ -11,17 +11,24 @@
             "id": "b3d848e178f39a49",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Untitled.canvas",
-                "viewState": {
-                  "x": 415.1684012390225,
-                  "y": -591.566766508173,
-                  "zoom": -1.581133933264577
+                "file": "Season 2/KesVerse/KesVerse Worldbuilding.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "KesVerse Worldbuilding"
             }
           }
         ]
@@ -212,9 +219,9 @@
   },
   "active": "b3d848e178f39a49",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Untitled.canvas",
     "Season 2/KesVerse/KesVerse Worldbuilding.md",
     "Season 2/KesVerse/Stories/Arc 2/A Gathering.md",
-    "Season 2/KesVerse/Untitled.canvas",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md",
