@@ -102,4 +102,8 @@ Nitro stops and turns back around, slightly upset.
 
 Nitro : "Did you not here me say billions? There's bound to be one that you like. Hell. Every forest is the god damn same, just different animals, colors, dangers, overall it's the same shit, just a different coat of paint."
 
-Sinco has nothing to say 
+Sinco has nothing to say and just stands there, having a pouty face.
+
+Nitro : "Come on Sinco."
+
+Nitro : "This is your last chance to get"
