@@ -138,4 +138,4 @@ Nitro : "What's the status?"
 
 Tirok : "It should be arriving within the hour, precisely when is hard to calculate."
 
-Tirok : "With the hyper boost to bring the ship here"
+Tirok : "With the hyper boost to bring the mothership here "
