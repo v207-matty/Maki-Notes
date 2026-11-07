@@ -24,4 +24,4 @@ Tirok : "Naturally."
 
 Nitro : "Ugh."
 
-The call ends, and Tirok switches tasks, b
+The call ends, and Tirok switches tasks, he has several camera feeds open for different spy drones
