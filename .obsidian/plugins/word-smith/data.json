@@ -368,7 +368,7 @@
   "organizerOn": true,
   "organizerDateFormat": "human",
   "folderColors": {},
-  "flagCount": 3,
+  "flagCount": 5,
   "flags": [
     {
       "id": "draft",
@@ -394,7 +394,7 @@
     {
       "id": "outline",
       "label": "Sketch",
-      "shape": "hollow",
+      "shape": "check",
       "light": "#7b818c",
       "dark": "#8a8f98"
     },
