@@ -50,7 +50,7 @@
   "barThemePaperStrength": 60,
   "barThemeInkStrength": 60,
   "barThemeGlassStash": null,
-  "barThemeMarkdown": false,
+  "barThemeMarkdown": true,
   "pluginEnabled": true,
   "scopeMode": "include",
   "scopePaths": [],
