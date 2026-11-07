@@ -90,4 +90,6 @@ Sinco : "I don't like him."
 
 Sinco : "He was destroying the forest."
 
-Nitro looks over to the side at the forest 
+Nitro looks over to the side at the forest where a giant pathway was deforested.
+
+Nitro : "Sorry Sinco, but I don't care about the forest "
