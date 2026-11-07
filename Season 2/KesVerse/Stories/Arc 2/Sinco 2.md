@@ -16,7 +16,7 @@ Tirok : "I look forward to dealing with him with you both."
 
 ????? : "His name is Sinco, you remember that right?"
 
-Tirok : "Despite the setbacks he has cost me he is quite forgettable, my apologies Nitro."
+Tirok : "Despite the setbacks he has cost me he is quite forgettable, my apologies, Nitro."
 
 Nitro : "Yeah right, you just want him dead don't you?"
 
@@ -24,4 +24,4 @@ Tirok : "Naturally."
 
 Nitro : "Ugh."
 
-The call ends, and Tirok switches tasks, he has several camera feeds open for different spy drones
+The call ends, and Tirok switches tasks, he has several camera feeds open for different spy drones, all looking fo
