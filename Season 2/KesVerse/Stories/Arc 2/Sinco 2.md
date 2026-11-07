@@ -140,4 +140,4 @@ Tirok : "It should be arriving within the hour, precisely when is hard to calcul
 
 Tirok : "With the hyper boost to bring the mothership here and it not taking that long, I don't think its going to be that far away."
 
-In the sky of Chabur a giant mothership can indeed be seen, but its shape is irregular and the way it works in impossible to tell just by its outer appearance, but a tube begins to extend out of it from the top, and following the tube is an opened hollow sphere that moves toward the top of the tube, slowly the sphere begins t
+In the sky of Chabur a giant mothership can indeed be seen, but its shape is irregular and the way it works in impossible to tell just by its outer appearance, but a tube begins to extend out of it from the top, and following the tube is an opened hollow sphere that moves toward the top of the tube, slowly the sphere begins to close as a star approaches, and the sphere closes 
