@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-06 19:01:43
+- written: 2026-11-06 19:03:44
 
 ```json
 {
@@ -94,7 +94,7 @@ not the plugin folder — can get everything back.
   "focusedFileMode": false,
   "enableTypewriter": false,
   "editorPaddingH": 100,
-  "zenEnabled": false,
+  "zenEnabled": true,
   "zenTitlebarMatch": true,
   "enableLetterbox": false,
   "letterboxLines": 8,
