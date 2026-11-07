@@ -82,4 +82,6 @@ Sinco : "Why're you going there?"
 
 Nitro stops moving and realizes Sinco stopped, he turns back around to look at him.
 
-Nitro : "H"
+Nitro : "He's one of us, he's one of the higher ranks, and we've got some setup to do."
+
+Sinco 
