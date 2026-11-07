@@ -8,4 +8,8 @@ Inside of the newly constructed TAZ building, Tirok sits in his new office on a 
 
 Tirok : "When will you be arriving?"
 
-????? : "Our pods are close by,"
+????? : "Our pods are close by, we'll be landing in the center ocean."
+
+Tirok : "Excellent."
+
+Tirok : 
