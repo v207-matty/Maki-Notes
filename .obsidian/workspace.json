@@ -35,14 +35,27 @@
             "id": "e530ffddfb2740e6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sinco 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,8 +242,9 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "e530ffddfb2740e6",
+  "active": "b3d848e178f39a49",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md",
     "Season 2/KesVerse/Stories/KesVerse Doc.md",
     "Season 2/KesVerse/Stories/KesVerse Arc 2.md",
     "Season 2/KesVerse/Stories/Arc 2/A Gathering.md",
