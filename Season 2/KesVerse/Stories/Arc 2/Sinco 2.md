@@ -34,5 +34,6 @@ Sinco : "Dad?"
 
 Sinco realizes who they are and runs over, giving them both a big hug.
 
-Sinco : "Wha-"
+Sinco : "Wha- Where... What..."
 
+Sinco : "Where have you been? I thought you died!"
