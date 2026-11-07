@@ -122,9 +122,10 @@ Sinco charges at Nitro again, his tail twitches and he quickly shifts directions
 
 Nitro : "You can't beat me Sinco."
 
-Sinco : "I WILL -"
+Sinco : "I WILL-"
 
 Nitro grabs Sinco by the neck.
 
 Nitro : "I mean it."
 
+Nitro slams Sinco further 
