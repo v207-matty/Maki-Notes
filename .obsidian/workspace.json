@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Stories/KesVerse Doc.md",
+                "file": "Season 2/KesVerse/KesVerse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KesVerse Doc"
+              "title": "KesVerse"
             }
           }
         ]
@@ -219,8 +219,10 @@
   },
   "active": "b3d848e178f39a49",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md",
     "Season 2/KesVerse/Stories/KesVerse Doc.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md",
     "Season 2/KesVerse/Stories/Arc 1/Kina.md",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
@@ -249,7 +251,6 @@
     "Season 1/Matty Season 1.md",
     "Season 1/CVT.md",
     "Season 1/Sinco Colonized AU.md",
-    "Season 1/Sinco Renewed/Explanations/Characters/Lex Breaker.md",
     "Season 2/KesVerse/Story Arcs slash Phases",
     "Season 2/KesVerse/Worldbuilding/Ige",
     "Season 2/Dragon Ball/Matty Edition",
@@ -261,7 +262,6 @@
     "Season 2/Stories/Phase 2",
     "Pasted image 20261102185003.png",
     "Pasted image 20261102184959.png",
-    "Untitled.canvas",
     "Renewed/Explanations/CANVAS.canvas"
   ]
 }
