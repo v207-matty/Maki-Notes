@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-07 14:54:30
+- written: 2026-11-07 14:54:58
 
 ```json
 {
@@ -368,21 +368,21 @@ not the plugin folder — can get everything back.
   "flags": [
     {
       "id": "draft",
-      "label": "Draft",
+      "label": "WIP",
       "shape": "pennant",
       "light": "#4b7bb5",
       "dark": "#6f95c9"
     },
     {
       "id": "revise",
-      "label": "Revise",
-      "shape": "swallow",
+      "label": "REMAKE EVENTUALLY",
+      "shape": "banner",
       "light": "#b8453c",
       "dark": "#cf5b52"
     },
     {
       "id": "done",
-      "label": "Done",
+      "label": "DONE",
       "shape": "banner",
       "light": "#3f8a53",
       "dark": "#5aa96c"
@@ -390,14 +390,14 @@ not the plugin folder — can get everything back.
     {
       "id": "outline",
       "label": "Sketch",
-      "shape": "hollow",
+      "shape": "check",
       "light": "#7b818c",
       "dark": "#8a8f98"
     },
     {
       "id": "blocked",
-      "label": "Blocked",
-      "shape": "alert",
+      "label": "BLANK",
+      "shape": "square",
       "light": "#c08a2a",
       "dark": "#d9a441"
     }

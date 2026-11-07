@@ -372,36 +372,36 @@
   "flags": [
     {
       "id": "draft",
-      "label": "Draft",
+      "label": "WIP",
       "shape": "pennant",
       "light": "#4b7bb5",
       "dark": "#6f95c9"
     },
     {
       "id": "revise",
-      "label": "Revise",
-      "shape": "swallow",
+      "label": "REMAKE EVENTUALLY",
+      "shape": "banner",
       "light": "#b8453c",
       "dark": "#cf5b52"
     },
     {
       "id": "done",
-      "label": "Done",
+      "label": "DONE",
       "shape": "banner",
       "light": "#3f8a53",
       "dark": "#5aa96c"
     },
     {
       "id": "outline",
-      "label": "Sketch",
+      "label": "NOTHIN",
       "shape": "check",
       "light": "#7b818c",
       "dark": "#8a8f98"
     },
     {
       "id": "blocked",
-      "label": "Blocked",
-      "shape": "alert",
+      "label": "BLANK",
+      "shape": "square",
       "light": "#c08a2a",
       "dark": "#d9a441"
     }
