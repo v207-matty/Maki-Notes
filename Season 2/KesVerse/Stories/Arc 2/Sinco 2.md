@@ -60,4 +60,4 @@ The call ends. On Tiroks computer he opens up a tracker, 3 individuals, Nitro, D
 
 Nitro : "It's about time you come out the forest Sinco, its limiting your potential!"
 
-Nitro : "Out here, out in sp"
+Nitro : "Out here, out in space, you can meet many, you can best many, and you can gain strength you never knew was pos"
