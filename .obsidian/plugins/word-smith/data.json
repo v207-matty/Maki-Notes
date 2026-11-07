@@ -83,7 +83,7 @@
   "focusedFileMode": false,
   "enableTypewriter": false,
   "editorPaddingH": 100,
-  "zenEnabled": false,
+  "zenEnabled": true,
   "zenTitlebarMatch": true,
   "enableLetterbox": false,
   "letterboxLines": 8,
