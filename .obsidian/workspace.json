@@ -11,10 +11,24 @@
             "id": "b3049f5284d08b8d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sinco 2"
             }
           }
         ]
@@ -155,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
