@@ -28,4 +28,8 @@ The call ends, and Tirok switches tasks, he has several camera feeds open for di
 
 They're space pods, both with a symbol, a Z with a vertical line in the middle, both the pods open up, out of one comes a woman with short spikey hair similar to Sinco but her hair is greener and her bangs aren't as thick and are longer, and out of the other pod comes a man with long and thick spikey dark orangish hair that points in an between in front of him and to his right, both of them share similar armor with a z in the center of their chest plate where a line is added through the line in the armor, lined shoulder pads, black spandex and a plate on their groin area, though the women has a shirt inside the chest plate compared to the man having some contraption with a place for a small round spherical object to rest, and they both share a tail, with their faces looking very familiar to Sinco. Both of them notice Sinco, just standing there, confused.
 
-The 
+The Man : "Sinco?"
+
+Sinco realizes who they are and runs over, giving them both a big hug.
+
+
