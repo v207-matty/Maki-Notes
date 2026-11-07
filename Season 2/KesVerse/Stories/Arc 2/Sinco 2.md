@@ -100,4 +100,4 @@ Sinco : "This is our home forest though! No other forest will feel the same."
 
 Nitro stops and turns back around, slightly upset.
 
-Nitro : "Did you not here me say billions? There's bound to be one that you like. "
+Nitro : "Did you not here me say billions? There's bound to be one that you like. Hell. Every forest is the god damn same, just different animals, colors, dangers, overall it's "
