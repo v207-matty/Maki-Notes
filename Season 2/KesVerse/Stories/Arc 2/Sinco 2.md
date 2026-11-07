@@ -18,4 +18,8 @@ Tirok : "I look forward to dealing with him with you both."
 
 Tirok : "Despite the setbacks he has cost me he is quite forgettable, my apologies Nitro."
 
-Nitro : "Yuh-huh,"
+Nitro : "Yeah right, you just want him dead don't you?"
+
+Tirok : "Naturally."
+
+
