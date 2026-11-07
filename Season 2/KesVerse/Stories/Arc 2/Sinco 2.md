@@ -24,4 +24,4 @@ Tirok : "Naturally."
 
 Nitro : "Ugh."
 
-The call ends, and Tirok switches tasks, he has several camera feeds open for different spy drones, all looking for Sinco inside the forest. Inside said forest, Sinco is running around, his tail twitching whenever a spy drone is near and making Sinco turn, Sinco is running and running, he needs a way to get into the city without being spotted, but there are spy drones everywhere, but then the drones all go back to T-City,
+The call ends, and Tirok switches tasks, he has several camera feeds open for different spy drones, all looking for Sinco inside the forest. Inside said forest, Sinco is running around, his tail twitching whenever a spy drone is near and making Sinco turn, Sinco is running and running, he needs a way to get into the city without being spotted, but there are spy drones everywhere. In the sky 2 spherical objects fly from space to the  but then the drones all go back to T-City,
