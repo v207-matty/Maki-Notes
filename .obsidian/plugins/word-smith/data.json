@@ -380,28 +380,28 @@
       "id": "revise",
       "label": "NEEDS REMAKE",
       "shape": "swallow",
-      "light": "#b8453c",
+      "light": "#ffffff",
       "dark": "#cf5b52"
     },
     {
       "id": "done",
       "label": "DONE",
       "shape": "banner",
-      "light": "#3f8a53",
+      "light": "#ffffff",
       "dark": "#5aa96c"
     },
     {
       "id": "outline",
       "label": "SKETCH",
       "shape": "hollow",
-      "light": "#7b818c",
+      "light": "#ffffff",
       "dark": "#8a8f98"
     },
     {
       "id": "blocked",
       "label": "NOTHING",
-      "shape": "alert",
-      "light": "#c08a2a",
+      "shape": "square",
+      "light": "#ffffff",
       "dark": "#d9a441"
     }
   ],
