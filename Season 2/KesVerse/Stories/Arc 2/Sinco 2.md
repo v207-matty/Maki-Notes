@@ -16,4 +16,6 @@ Tirok : "I look forward to dealing with him with you both."
 
 ????? : "His name is Sinco, you remember that right?"
 
-Tirok : "Despite the setbacks he has cost me he is quite forgettable, my apologi"
+Tirok : "Despite the setbacks he has cost me he is quite forgettable, my apologies Nitro."
+
+Nitro : "Yuh-huh,"
