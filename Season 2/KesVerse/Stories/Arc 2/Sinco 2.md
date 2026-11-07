@@ -144,4 +144,4 @@ In the sky of Chabur a giant mothership can indeed be seen, but its shape is irr
 
 Down in T-City, the mothership towers over all as it descends slowly, Nitro is floating outside in the sky with Tirok floating with him, albeit it's thanks to his feet thrusters.
 
-Tirok  
+Tirok : "And it looks like it was closer then calculated."
