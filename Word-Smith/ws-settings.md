@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-07 13:22:35
+- written: 2026-11-07 13:23:00
 
 ```json
 {
@@ -76,7 +76,7 @@ not the plugin folder — can get everything back.
   "zenMode": true,
   "fullscreen": false,
   "leftSidebar": false,
-  "rightSidebar": false,
+  "rightSidebar": true,
   "hideProperties": true,
   "hideInlineTitle": true,
   "zenHideWindowTitle": true,
@@ -92,9 +92,9 @@ not the plugin folder — can get everything back.
   "vimPanelHeight": 23,
   "barBottomGap": 23,
   "focusedFileMode": false,
-  "enableTypewriter": false,
+  "enableTypewriter": true,
   "editorPaddingH": 100,
-  "zenEnabled": false,
+  "zenEnabled": true,
   "zenTitlebarMatch": true,
   "enableLetterbox": true,
   "letterboxLines": 8,
