@@ -378,21 +378,21 @@
     },
     {
       "id": "revise",
-      "label": "REMAKE",
+      "label": "NEEDS REMAKE",
       "shape": "swallow",
       "light": "#b8453c",
       "dark": "#cf5b52"
     },
     {
       "id": "done",
-      "label": "Done",
+      "label": "DONE",
       "shape": "banner",
       "light": "#3f8a53",
       "dark": "#5aa96c"
     },
     {
       "id": "outline",
-      "label": "Sketch",
+      "label": "SKETCH",
       "shape": "hollow",
       "light": "#7b818c",
       "dark": "#8a8f98"
