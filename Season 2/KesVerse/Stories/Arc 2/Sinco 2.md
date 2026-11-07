@@ -40,4 +40,6 @@ Sinco lets them go.
 
 Sinco : "Where have you been? I thought you died!"
 
-Sincos Dad : "We actually got a job."
+Sincos Dad thinks for a second whil
+
+Sincos Dad : "We actually got a space job."
