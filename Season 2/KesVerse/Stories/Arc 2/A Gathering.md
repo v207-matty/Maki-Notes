@@ -2,7 +2,7 @@
 
 # A Gathering
 
-Through the vacuum of space, Kina and Gego fly through, going where-ever their stolen Zonia Empire ship is taking them, in the mean time Kina has been training their Nei control, and Gego has been using whatever he can on the ship to fix his armor or to at least provide a substitute until this mission is complete, Kina grows and Gego works.
+Through the vacuum of space, Kina and Gego fly through, going where-ever their stolen Zonia Empire ship is taking them, in the mean time Kina has been training their Nei control, and Gego has been using whatever he can on the ship to fix his armor or to at least provide a substitute until this mission is complete, Kina grows and Gego works, as they are approaching a planet they notice another Zonia Empire ship going
 
 Kina and Gego are flying through space in a Zonia Empire ship from Burvak, following Kinas last known location for where the Kesumel would've been and thus Zonia, but their ship is long gone and both Kina and Gego have gone where Zonia has but backwards, in the distance they see a Zonia ship however, this wasn't a waste, suddenly their ship gets attacked, a giant pillar of rock nearly penetrates Kina and Gegos ship, making them fall towards the planet below.
 
