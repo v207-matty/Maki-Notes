@@ -1,3 +1,3 @@
-#kesverse #kesverse_arc2 
+#season2 #kesverse #kesverse_arc2 #sinco #sincoau 
 
-# Sinco : A Second Chance
+# Sinco : Last Chance
