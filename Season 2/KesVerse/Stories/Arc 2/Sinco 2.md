@@ -2,4 +2,4 @@
 
 # Sinco : Last Chance
 
-On a late night, on the plan
+On a late night, on the planet Chabur,
