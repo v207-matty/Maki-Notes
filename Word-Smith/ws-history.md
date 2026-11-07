@@ -5,11 +5,11 @@ finds it by the markers below, anywhere in the vault. Counts only, never
 your text. Everything between the markers is rewritten; write what you
 like outside them.
 
-### 2026 — 2 days, +958 net
+### 2026 — 2 days, +957 net
 
 | Date | Added | Deleted | Net |
 | --- | ---: | ---: | ---: |
-| 2026-11-07 | 29 | 1 | 28 |
+| 2026-11-07 | 29 | 2 | 27 |
 | 2026-11-06 | 1092 | 162 | 930 |
 
 ### By note
@@ -20,6 +20,7 @@ like outside them.
 | 2026-11-07 | Season 2/KesVerse/Organizers/KesVerse Arc 2.md | 5 | 0 | 5 |
 | 2026-11-07 | Season 2/KesVerse/Organizers/KesVerse Season 1.md | 3 | 0 | 3 |
 | 2026-11-07 | Season 2/KesVerse/Organizers/KesVerse Seasons.md | 3 | 0 | 3 |
+| 2026-11-07 | Season 2/KesVerse/Stories/Arc 1/Gego.md | 0 | 1 | -1 |
 | 2026-11-07 | Season 2/KesVerse/Stories/Arc 1/The Strong One.md | 1 | 1 | 0 |
 | 2026-11-07 | Season 2/KesVerse/Stories/Arc 2/Sinco 2.md | 9 | 0 | 9 |
 | 2026-11-07 | Season 2/KesVerse/Stories/Arc 2/The Protectors.md | 7 | 0 | 7 |

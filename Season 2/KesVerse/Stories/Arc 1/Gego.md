@@ -1,4 +1,4 @@
-3#season2 #kesverse #kesverse_arc1
+#season2 #kesverse #kesverse_arc1
 
 # Gego
 
