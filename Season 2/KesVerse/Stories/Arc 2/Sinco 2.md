@@ -74,4 +74,4 @@ Nitro : "Super almost always has a positive connotation and can't make you feel 
 
 Sinco : "Oki"
 
-Sinco, Nitro,
+Sinco, Nitro, and Donata all approach T-City, on the cusp of entering it
