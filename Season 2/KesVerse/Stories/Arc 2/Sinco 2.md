@@ -121,3 +121,7 @@ Donata slowly walks back into the forest.
 Sinco charges at Nitro again, his tail twitches and he quickly shifts directions, Nitro punches air, Sinco jumps backward when his tail twitches again, Sinco fires an energy blast down that Nitro deflects back at Sinco, Sinco is hit when Nitro jumps up to kick Sinco to the ground.
 
 Nitro : "You can't beat me Sinco."
+
+Sinco : "I WILL-"
+
+Nitro grabs Sinco by the neck.
