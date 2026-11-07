@@ -98,4 +98,6 @@ Nitro : "There's billions of forests in this realm, if you really want to be in 
 
 Sinco : "This is our home forest though! No other forest will feel the same."
 
-Nitro stops and tu
+Nitro stops and turns back around, slightly upset.
+
+Nitro : "Did you not here me say billions? There's bound to be one that you like. "
