@@ -70,4 +70,4 @@ Nitro : "In fact I've heard of a regular who managed to become a pseudo-super, e
 
 Sinco : "What's the difference?"
 
-Nitro : "Super has no positive or negative connotation"
+Nitro : "Super is an always positive connotation"
