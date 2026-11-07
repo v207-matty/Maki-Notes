@@ -128,4 +128,4 @@ Nitro grabs Sinco by the neck.
 
 Nitro : "I mean it."
 
-Nitro slams Sinco further 
+Sinco vibrates his body 
