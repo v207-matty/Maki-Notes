@@ -146,4 +146,4 @@ Down in T-City, the mothership towers over all as it descends slowly, Nitro is f
 
 Tirok : "And it looks like it was close. Closer than my calculations ever made a possibility."
 
-Nitro : "The univ"
+Nitro : "The universe belongs to Zonia now."
