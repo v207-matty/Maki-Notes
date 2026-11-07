@@ -74,8 +74,8 @@ Nitro : "Super almost always has a positive connotation and can't make you feel 
 
 Sinco : "Oki"
 
-Sinco, Nitro, and Donata all arrive at T-City, Sinco stops, Nitro continues and Donata stops by Sinco.
+Sinco, Nitro, and Donata all arrive at T-City, Sinco stops, Nitro continues towards the TAZ building and Donata stops by Sinco.
 
 Sinco : "Dad."
 
-Sinco : "Why're you going in there?"
+Sinco : "Why're you going there?"
