@@ -92,4 +92,6 @@ Sinco : "He was destroying the forest."
 
 Nitro looks over to the side at the forest where a giant pathway was deforested.
 
-Nitro : "Sorry Sinco, but I don't care about the forest "
+Nitro : "Sorry Sinco, but I don't care about the forest anymore."
+
+Nitro : "There's billions of forests in this realm, we can"
