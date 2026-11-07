@@ -118,4 +118,4 @@ Sinco : "DAD."
 
 Donata slowly walks back into the forest.
 
-Sinco 
+Sinco charges at Nitro again, his tail twitches and he qu
