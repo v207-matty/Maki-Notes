@@ -128,4 +128,4 @@ Nitro grabs Sinco by the neck.
 
 Nitro : "I mean it."
 
-Sinco vibrates his body 
+Sinco vibrates at a high frequency and phases out of Nitros grasp.
