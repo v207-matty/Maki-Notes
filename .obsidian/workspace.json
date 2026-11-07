@@ -145,21 +145,6 @@
             }
           },
           {
-            "id": "ef478b364fe0ee93",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Granule/Planets/Earth.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
             "id": "6caabbe227c453de",
             "type": "leaf",
             "state": {
@@ -187,9 +172,24 @@
               "icon": "links-coming-in",
               "title": "Backlinks"
             }
+          },
+          {
+            "id": "3636aca38a58b1da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
