@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-07 11:26:13
+- written: 2026-11-07 11:26:32
 
 ```json
 {
@@ -281,7 +281,7 @@ not the plugin folder — can get everything back.
   "checkMisusedColor": "#e0913a",
   "checkPronoun": false,
   "checkPronounColor": "#4f9dde",
-  "checkCliche": false,
+  "checkCliche": true,
   "checkClicheColor": "#e0b90f",
   "checkNeverMark": "",
   "checkDialogue": false,
@@ -316,7 +316,7 @@ not the plugin folder — can get everything back.
   "citeCustomEntry": "{authors-full}. {year}. {title*}.[ {place}:][ {publisher}.]",
   "citeMarks": true,
   "citeIbid": false,
-  "posEnabled": true,
+  "posEnabled": false,
   "posDimOthers": true,
   "checkDimOthers": false,
   "posNoun": false,
@@ -329,7 +329,7 @@ not the plugin folder — can get everything back.
   "posAdverbColor": "#e0913a",
   "posConjunction": false,
   "posConjunctionColor": "#9aa0a6",
-  "posPronoun": true,
+  "posPronoun": false,
   "posPronounColor": "#8466f0",
   "typographyEnabled": false,
   "typoSmartQuotes": true,

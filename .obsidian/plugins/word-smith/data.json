@@ -285,7 +285,7 @@
   "checkMisusedColor": "#e0913a",
   "checkPronoun": false,
   "checkPronounColor": "#4f9dde",
-  "checkCliche": false,
+  "checkCliche": true,
   "checkClicheColor": "#e0b90f",
   "checkNeverMark": "",
   "checkDialogue": false,
