@@ -126,4 +126,8 @@ Nitro grabs Sinco by the neck.
 
 Nitro : "I mean it."
 
-Sinco vibrates at a high frequency and phases out of Nitros grasp, rolling over to get out of his range
+Sinco vibrates at a high frequency and phases out of Nitros grasp, rolling over to get out of his range,
+
+Nitro : "I'm not gonna save you. Or even be able to."
+
+Sinco : "You've be"
