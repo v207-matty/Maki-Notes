@@ -393,8 +393,8 @@
     },
     {
       "id": "outline",
-      "label": "NOTHIN",
-      "shape": "check",
+      "label": "OUTLINED",
+      "shape": "square",
       "light": "#7b818c",
       "dark": "#8a8f98"
     },
