@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-07 14:55:13
+- written: 2026-11-07 14:56:39
 
 ```json
 {
@@ -205,8 +205,8 @@ not the plugin folder — can get everything back.
     "Season 2/KesVerse/Stories/Arc 2/A Gathering.md": "done",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": "done",
     "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md": "done",
-    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": "blocked",
-    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": "done"
+    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": "done",
+    "Season 2/KesVerse/Stories/Arc 2/Zonia.md": "blocked"
   },
   "folderTargets": {},
   "goalDeadlines": {},
@@ -704,20 +704,20 @@ not the plugin folder — can get everything back.
     "Season 2/KesVerse/Stories/KesVerse Doc.md": 6929,
     "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md": 1372,
     "Season 1/Matty Season 1.md": 10,
-    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": 8,
     "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md": 178,
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md": 263,
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md": 248,
     "Season 2/KesVerse/Organizers/KesVerse Arcs.md": 9,
     "Season 2/KesVerse/Organizers/KesVerse Arc 1.md": 12,
-    "Season 2/KesVerse/Organizers/KesVerse Arc 2.md": 23,
+    "Season 2/KesVerse/Organizers/KesVerse Arc 2.md": 22,
     "Season 2/KesVerse/Worldbuilding/Kesumel.md": 107,
     "Season 2/KesVerse/Organizers/Ige Language.md": 16,
     "Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md": 8,
     "Season 2/KesVerse/Organizers/KesVerse Seasons.md": 6,
     "Season 2/KesVerse/Organizers/KesVerse Season 1.md": 9,
     "Season 2/KesVerse/Stories/KesVerse Timeline.md": 38,
-    "Season 2/Matty Season 2.md": 3
+    "Season 2/Matty Season 2.md": 3,
+    "Season 2/KesVerse/Stories/Arc 2/Zonia.md": 7
   },
   "exportOpts": {
     "format": "docx",
