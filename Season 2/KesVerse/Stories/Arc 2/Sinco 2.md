@@ -2,4 +2,4 @@
 
 # Sinco : Last Chance
 
-On a late night, on the planet Chabur, the technologically advanced "T-City" is still undergoing repairs after the 9/11 incident from 2 weeks ago, almost all of their infrastructure that wouldv'
+On a late night, on the planet Chabur, the technologically advanced "T-City" is still undergoing repairs after the 9/11 incident from 2 weeks ago, their power machines have been dest
