@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-06 16:38:44
+- written: 2026-11-06 18:52:56
 
 ```json
 {
@@ -181,7 +181,7 @@ not the plugin folder — can get everything back.
   "structurePath": "Word-Smith/ws-structure.md",
   "outlineFlagRenamed": true,
   "uniColOrder": [],
-  "organizerFolder": "Season 2/KesVerse/Stories/Arc 2",
+  "organizerFolder": "Season 2/KesVerse/Stories/Arc 1",
   "uniTypes": [
     "md",
     "image",
@@ -202,9 +202,9 @@ not the plugin folder — can get everything back.
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md": "done",
+    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md": "draft",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": "done",
-    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": "done",
-    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md": "blocked"
+    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": "done"
   },
   "folderTargets": {},
   "goalDeadlines": {},
@@ -698,8 +698,12 @@ not the plugin folder — can get everything back.
     "Season 2/KesVerse/Stories/KesVerse Arc 1.md": 12,
     "Season 2/KesVerse/Stories/Arc 1/Kina.md": 520,
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md": 1397,
-    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md": 330,
-    "Season 2/KesVerse/Stories/KesVerse Arc 2.md": 19
+    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md": 361,
+    "Season 2/KesVerse/Stories/KesVerse Arc 2.md": 18,
+    "Season 2/KesVerse/KesVerse Worldbuilding.md": 8,
+    "Season 2/KesVerse/KesVerse.md": 19,
+    "Season 2/KesVerse/Stories/KesVerse Doc.md": 4925,
+    "Season 2/KesVerse/Stories/KesVerse Arcs.md": 9
   },
   "exportOpts": {
     "format": "docx",
@@ -751,7 +755,12 @@ not the plugin folder — can get everything back.
     "highlights": false,
     "paperId": "letter"
   },
-  "organizerOpen": [],
+  "organizerOpen": [
+    "Season 2/KesVerse/Stories/Arc 2",
+    "Season 2/KesVerse/Stories",
+    "Season 2/KesVerse",
+    "Season 2"
+  ],
   "uniColsOff": [
     "grade",
     "modified",

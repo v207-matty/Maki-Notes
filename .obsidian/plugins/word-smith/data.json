@@ -175,7 +175,7 @@
   "structurePath": "Word-Smith/ws-structure.md",
   "outlineFlagRenamed": true,
   "uniColOrder": [],
-  "organizerFolder": "Season 2/KesVerse/Stories/Arc 2",
+  "organizerFolder": "Season 2/KesVerse/Stories/Arc 1",
   "uniTypes": [
     "md",
     "image",
@@ -759,7 +759,12 @@
     "highlights": false,
     "paperId": "letter"
   },
-  "organizerOpen": [],
+  "organizerOpen": [
+    "Season 2/KesVerse/Stories/Arc 2",
+    "Season 2/KesVerse/Stories",
+    "Season 2/KesVerse",
+    "Season 2"
+  ],
   "uniColsOff": [
     "grade",
     "modified",

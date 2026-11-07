@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Stories/Arc 2/A Gathering.md",
+                "file": "Season 2/KesVerse/Stories/Arc 1/Gego.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "A Gathering"
+              "title": "Gego"
+            }
+          }
+        ]
+      },
+      {
+        "id": "54e63328678d13d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8694c939897fdc6a",
+            "type": "leaf",
+            "state": {
+              "type": "word-smith-outliner",
+              "state": {},
+              "icon": "list-tree",
+              "title": "Organizer"
             }
           }
         ]
@@ -219,14 +235,14 @@
   },
   "active": "b3d848e178f39a49",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Stories/Arc 1/Kina.md",
+    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md",
     "Season 2/KesVerse/Stories/KesVerse Doc.md",
     "Season 2/KesVerse/Stories/KesVerse Arcs.md",
     "Word-Smith/WS.md",
     "Season 2/KesVerse/KesVerse.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md",
-    "Season 2/KesVerse/Stories/Arc 1/Kina.md",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md",
