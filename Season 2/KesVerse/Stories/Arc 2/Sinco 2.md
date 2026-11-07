@@ -56,4 +56,4 @@ Tirok : "I've performed the calculations and if you come here now with a hyper b
 
 Tirok : いつでも。
 
-Tirok ends the call once more, then a
+The call ends. Tirok
