@@ -133,3 +133,5 @@ Nitro : "I'm not gonna save you. Or even be able to."
 Sinco : "I'll manage. I've already been doing so without you."
 
 Nitro turns around, jumps into the air flies into the TAZ being from an opening in the top, Sinco runs into the forest.
+
+Nitro arrives in 
