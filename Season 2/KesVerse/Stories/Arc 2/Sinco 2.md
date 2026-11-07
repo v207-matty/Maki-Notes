@@ -65,3 +65,5 @@ Nitro : "Out here, out in space, you can meet many, you can best many, and you c
 Sinco : "But I thought the regulars were bad?"
 
 Nitro : "They were. And some still are. But not all of them are. Some of them can be quite helpful."
+
+Nitro : "In fact I've heard of a regular who managed to become a phesu"
