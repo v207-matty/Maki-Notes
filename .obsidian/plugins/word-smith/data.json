@@ -33,7 +33,7 @@
   "menuRuleStyles": {},
   "menuDock": true,
   "orgTargetShow": "percent",
-  "orgDeadlineCell": "days",
+  "orgDeadlineCell": "both",
   "paneOpenIn": "split",
   "fileIconsOffOnce": true,
   "orgFolderIcons": true,
@@ -368,41 +368,41 @@
   "organizerOn": true,
   "organizerDateFormat": "human",
   "folderColors": {},
-  "flagCount": 5,
+  "flagCount": 3,
   "flags": [
     {
       "id": "draft",
-      "label": "WIP",
-      "shape": "hollow",
-      "light": "#ffffff",
+      "label": "Draft",
+      "shape": "pennant",
+      "light": "#4b7bb5",
       "dark": "#6f95c9"
     },
     {
       "id": "revise",
-      "label": "NEEDS REMAKE",
+      "label": "Revise",
       "shape": "swallow",
-      "light": "#ffffff",
+      "light": "#b8453c",
       "dark": "#cf5b52"
     },
     {
       "id": "done",
-      "label": "DONE",
+      "label": "Done",
       "shape": "banner",
-      "light": "#ffffff",
+      "light": "#3f8a53",
       "dark": "#5aa96c"
     },
     {
       "id": "outline",
-      "label": "SKETCH",
+      "label": "Sketch",
       "shape": "hollow",
-      "light": "#ffffff",
+      "light": "#7b818c",
       "dark": "#8a8f98"
     },
     {
       "id": "blocked",
-      "label": "NOTHING",
-      "shape": "square",
-      "light": "#ffffff",
+      "label": "Blocked",
+      "shape": "alert",
+      "light": "#c08a2a",
       "dark": "#d9a441"
     }
   ],

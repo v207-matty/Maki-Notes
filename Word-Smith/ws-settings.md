@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-07 13:35:41
+- written: 2026-11-07 14:54:03
 
 ```json
 {
@@ -44,7 +44,7 @@ not the plugin folder — can get everything back.
   "menuRuleStyles": {},
   "menuDock": true,
   "orgTargetShow": "percent",
-  "orgDeadlineCell": "days",
+  "orgDeadlineCell": "both",
   "paneOpenIn": "split",
   "fileIconsOffOnce": true,
   "orgFolderIcons": true,
@@ -364,41 +364,41 @@ not the plugin folder — can get everything back.
   "organizerOn": true,
   "organizerDateFormat": "human",
   "folderColors": {},
-  "flagCount": 5,
+  "flagCount": 3,
   "flags": [
     {
       "id": "draft",
-      "label": "WIP",
+      "label": "Draft",
       "shape": "pennant",
-      "light": "#ffffff",
+      "light": "#4b7bb5",
       "dark": "#6f95c9"
     },
     {
       "id": "revise",
-      "label": "NEEDS REMAKE",
+      "label": "Revise",
       "shape": "swallow",
-      "light": "#ffffff",
+      "light": "#b8453c",
       "dark": "#cf5b52"
     },
     {
       "id": "done",
-      "label": "DONE",
+      "label": "Done",
       "shape": "banner",
-      "light": "#ffffff",
+      "light": "#3f8a53",
       "dark": "#5aa96c"
     },
     {
       "id": "outline",
-      "label": "SKETCH",
+      "label": "Sketch",
       "shape": "hollow",
-      "light": "#ffffff",
+      "light": "#7b818c",
       "dark": "#8a8f98"
     },
     {
       "id": "blocked",
-      "label": "NOTHING",
-      "shape": "square",
-      "light": "#ffffff",
+      "label": "Blocked",
+      "shape": "alert",
+      "light": "#c08a2a",
       "dark": "#d9a441"
     }
   ],
@@ -693,7 +693,7 @@ not the plugin folder — can get everything back.
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": 333,
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md": 1014,
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md": 469,
-    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": 718,
+    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": 733,
     "Season 2/KesVerse/Stories/Arc 1/Gego.md": 497,
     "README.md": 23,
     "Word-Smith/WS.md": 3,
@@ -701,8 +701,8 @@ not the plugin folder — can get everything back.
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md": 1398,
     "Season 2/KesVerse/Stories/Arc 2/A Gathering.md": 626,
     "Season 2/KesVerse/KesVerse.md": 23,
-    "Season 2/KesVerse/Stories/KesVerse Doc.md": 4926,
-    "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md": 1421,
+    "Season 2/KesVerse/Stories/KesVerse Doc.md": 6929,
+    "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md": 1372,
     "Season 1/Matty Season 1.md": 10,
     "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": 8,
     "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md": 178,
