@@ -6,4 +6,6 @@ On a late night, on the planet Chabur, the technologically advanced "T-City" is 
 
 Inside of the newly constructed TAZ building, Tirok sits in his new office on a call.
 
-Tirok: "Yeah no, he's been a massive pain in the ass"
+Tirok: "When will you be arriving?"
+
+????
