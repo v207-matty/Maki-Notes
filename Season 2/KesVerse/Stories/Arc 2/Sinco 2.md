@@ -106,4 +106,6 @@ Sinco has nothing to say and just stands there, having a pouty face.
 
 Nitro : "Come on Sinco. This is your last chance to get off this rock before Zonia gets here."
 
-Nitro : "It's either you come on and man up or you get enslaved, I'd prefer if you m"
+Nitro : "It's either you come on and man up or you get enslaved, I'd prefer if you manned up."
+
+Sinco jumps at Nitro, 
