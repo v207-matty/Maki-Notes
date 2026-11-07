@@ -30,19 +30,8 @@
               "icon": "lucide-file",
               "title": "KesVerse Seasons"
             }
-          },
-          {
-            "id": "3bd4d4de25ac5e58",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +218,7 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "3bd4d4de25ac5e58",
+  "active": "2c6e620217d52054",
   "lastOpenFiles": [
     "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/Organizers/KesVerse Season 1.md",
