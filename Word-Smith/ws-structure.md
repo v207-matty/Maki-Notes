@@ -56,21 +56,24 @@ notes outside them.
 - [ ] Season 2/KesVerse/Stories/KesVerse Arc 1.md
 - [ ] Season 2/KesVerse/Stories/KesVerse Arc 2.md
 - [ ] Season 2/KesVerse/Stories/KesVerse Arcs.md
-- [x] Season 2/KesVerse/Stories/Arc 1/The Strong One.md
-- [x] Season 2/KesVerse/Stories/Arc 1/Gego.md
-- [x] Season 2/KesVerse/Stories/Arc 1/Kina.md
-- [x] Season 2/KesVerse/Stories/Arc 1/Kumel.md
-- [x] Season 2/KesVerse/Stories/Arc 1/Sinco.md
-- [ ] Season 2/KesVerse/Stories/Arc 2/Kina 2.md
-- [ ] Season 2/KesVerse/Stories/Arc 2/A Gathering.md
-- [ ] Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md
+- [ ] Season 2/KesVerse/Stories/KesVerse Doc.md
+- [ ] Season 2/KesVerse/Stories/Arc 1/The Strong One.md
+- [ ] Season 2/KesVerse/Stories/Arc 1/Sinco.md
+- [ ] Season 2/KesVerse/Stories/Arc 1/Gego.md
+- [ ] Season 2/KesVerse/Stories/Arc 1/Kumel.md
+- [ ] Season 2/KesVerse/Stories/Arc 1/Kina.md
+- [x] Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md
+- [x] Season 2/KesVerse/Stories/Arc 2/Kina 2.md
+- [x] Season 2/KesVerse/Stories/Arc 2/A Gathering.md
 - [ ] Season 2/KesVerse/Worldbuilding/Ige Language.md
 - [ ] Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md
 - [ ] Season 2/KesVerse/Worldbuilding/Kesumel.md
 - [ ] Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md
 - [ ] Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md
+- [ ] Word-Smith/ws-history.md
 - [ ] Word-Smith/ws-settings.md
 - [ ] Word-Smith/ws-structure.md
+- [ ] Word-Smith/WS.md
 
 ### goals: notes
 
