@@ -14,13 +14,13 @@
 9 / 14 :
 - The Strong One 2
 
-9 / 15 :
+9 / 17 :
 - Gego
 
 9 / 18 :
 - Kina 2
 
-9 / 20 :
+9 / 21 :
 - A Gathering
 
 9 / 25 :
