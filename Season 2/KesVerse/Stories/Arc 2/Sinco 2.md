@@ -56,4 +56,6 @@ Tirok : "I've performed the calculations and if you come here now with a hyper b
 
 Tirok : いつでも。
 
-The call ends. On Tiroks computer he opens up a tracker, 3 individuals, Nitro, Donata, and Sinco. All approaching T-
+The call ends. On Tiroks computer he opens up a tracker, 3 individuals, Nitro, Donata, and Sinco. All approaching T-City.
+
+Nitro : "It's about time you come out the forest Sinco, "
