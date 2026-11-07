@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46572e0d2869c63e",
+        "id": "ca38e2caf236e85a",
         "type": "tabs",
         "children": [
           {
-            "id": "2c6e620217d52054",
+            "id": "00c795912825b218",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md",
+                "file": "Season 2/KesVerse/Stories/Arc 2/A Gathering.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sinco 2"
+              "title": "A Gathering"
             }
           }
         ]
@@ -218,8 +218,10 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "2c6e620217d52054",
+  "active": "00c795912825b218",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md",
+    "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md",
     "Season 2/KesVerse/Stories/Arc 2/The Protectors.md",
     "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
     "Season 2/KesVerse/KesVerse.md",
@@ -239,8 +241,6 @@
     "Season 2/KesVerse/Stories/Arc 1/Gego.md",
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md",
     "Season 2/KesVerse/Stories/Arc 1/Kina.md",
-    "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md",
-    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md",
     "Season 1/Matty Season 1.md",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
     "Word-Smith/WS.md",
