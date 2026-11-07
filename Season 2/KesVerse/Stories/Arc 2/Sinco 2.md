@@ -138,4 +138,6 @@ Nitro enters Tiroks office.
 
 Nitro : "What's the status?"
 
-Tirok : "It should be arriving within the hour, precisely "
+Tirok : "It should be arriving within the hour, precisely when is hard to calculate."
+
+Tirok : ""
