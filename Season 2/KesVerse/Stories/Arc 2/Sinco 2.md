@@ -94,6 +94,8 @@ Nitro looks over to the side at the forest where a giant pathway was deforested.
 
 Nitro : "Sorry Sinco, but I don't care about the forest anymore."
 
-Nitro starts turning around.
+Nitro turns around and continues walking.
 
 Nitro : "There's billions of forests in this realm, if you really want to be in one we can find another."
+
+Sinco : "This is our h"
