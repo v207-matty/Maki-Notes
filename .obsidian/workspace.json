@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ca38e2caf236e85a",
+        "id": "3556c48b6f072691",
         "type": "tabs",
         "children": [
           {
-            "id": "00c795912825b218",
+            "id": "b3049f5284d08b8d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sinco 2"
             }
           }
         ]
@@ -204,7 +218,7 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "00c795912825b218",
+  "active": "b3049f5284d08b8d",
   "lastOpenFiles": [
     "Season 2/Matty Season 2.md",
     "Season 2/KesVerse/Stories/KesVerse Timeline.md",
