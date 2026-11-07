@@ -52,4 +52,4 @@ Tirok : "I've performed the calculations and if you come here now with a hyper b
 
 ????? : Understood.
 
-????? : 
+????? : Arigatō
