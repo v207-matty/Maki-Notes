@@ -80,4 +80,6 @@ Sinco : "Dad."
 
 Sinco : "Why're you going there?"
 
-Nitro stops
+Nitro stops moving and realizes Sinco stopped, he turns back around to look at him.
+
+Nitro : "H"
