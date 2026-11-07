@@ -51,7 +51,7 @@ notes outside them.
 - [ ] Season 2/Dragon Ball/Matty Edition/DBME.md
 - [ ] Season 2/Dragon Ball/Matty Edition/Dragon Ball Z.md
 - [ ] Season 2/Dragon Ball/Matty Edition/Rules.md
-- [ ] Season 2/KesVerse/KesVerse Worldbuilding.md
+- [ ] Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md
 - [ ] Season 2/KesVerse/KesVerse.md
 - [ ] Season 2/KesVerse/Stories/KesVerse Arc 1.md
 - [ ] Season 2/KesVerse/Organizers/KesVerse Arc 2.md
@@ -65,7 +65,7 @@ notes outside them.
 - [x] Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md
 - [x] Season 2/KesVerse/Stories/Arc 2/Kina 2.md
 - [x] Season 2/KesVerse/Stories/Arc 2/A Gathering.md
-- [ ] Season 2/KesVerse/Worldbuilding/Ige Language.md
+- [ ] Season 2/KesVerse/Organizers/Ige Language.md
 - [ ] Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md
 - [ ] Season 2/KesVerse/Worldbuilding/Kesumel.md
 - [ ] Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md
