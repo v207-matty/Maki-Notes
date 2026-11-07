@@ -130,4 +130,6 @@ Sinco vibrates at a high frequency and phases out of Nitros grasp, rolling over 
 
 Nitro : "I'm not gonna save you. Or even be able to."
 
-Sinco : "You've be"
+Sinco : "I'll manage. I've already been doing so without you."
+
+Nitro turn
