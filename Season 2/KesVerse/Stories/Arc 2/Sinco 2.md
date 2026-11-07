@@ -86,9 +86,7 @@ Nitro : "He's one of us, he's one of the higher ranks, and we've got some setup 
 
 Sinco paces backwards.
 
-Sinco : "I don't like him."
-
-Sinco : "He was destroying the forest."
+Sinco : "I don't like him. He was destroying the forest."
 
 Nitro looks over to the side at the forest where a giant pathway was deforested.
 
@@ -98,4 +96,6 @@ Nitro turns around and continues walking.
 
 Nitro : "There's billions of forests in this realm, if you really want to be in one we can find another."
 
-Sinco : "This is our h"
+Sinco : "This is our home forest though! No other forest will feel the same."
+
+Nitro stops and tu
