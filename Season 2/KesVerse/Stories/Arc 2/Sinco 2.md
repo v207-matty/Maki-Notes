@@ -24,4 +24,4 @@ Tirok : "Naturally."
 
 Nitro : "Ugh."
 
-The call ends
+The call ends, and Tirok gets up from his desk, walking outside
