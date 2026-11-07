@@ -11,6 +11,9 @@
 9 / 11 :
 - Sinco
 
+9 / 14 :
+- The Strong One 2
+
 9 / 15 :
 - Gego
 
