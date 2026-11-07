@@ -16,18 +16,18 @@ like outside them.
 
 | Date | Note | Added | Deleted | Net |
 | --- | --- | ---: | ---: | ---: |
+| 2026-11-07 | Season 2/KesVerse/Organizers/KesVerse Arc 2.md | 5 | 0 | 5 |
 | 2026-11-07 | Season 2/KesVerse/Stories/Arc 1/The Strong One.md | 1 | 1 | 0 |
 | 2026-11-07 | Season 2/KesVerse/Stories/Arc 2/Sinco 2.md | 9 | 0 | 9 |
 | 2026-11-07 | Season 2/KesVerse/Stories/Arc 2/The Protectors.md | 7 | 0 | 7 |
-| 2026-11-07 | Season 2/KesVerse/Stories/KesVerse Arc 2.md | 5 | 0 | 5 |
 | 2026-11-06 | README.md | 2 | 3 | -1 |
 | 2026-11-06 | Season 2/KesVerse/KesVerse.md | 0 | 1 | -1 |
+| 2026-11-06 | Season 2/KesVerse/Organizers/KesVerse Arc 2.md | 0 | 1 | -1 |
 | 2026-11-06 | Season 2/KesVerse/Stories/Arc 1/Gego.md | 1 | 0 | 1 |
 | 2026-11-06 | Season 2/KesVerse/Stories/Arc 1/Sinco.md | 1 | 1 | 0 |
 | 2026-11-06 | Season 2/KesVerse/Stories/Arc 2/A Gathering.md | 730 | 110 | 620 |
 | 2026-11-06 | Season 2/KesVerse/Stories/Arc 2/Kina 2.md | 342 | 41 | 301 |
 | 2026-11-06 | Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md | 10 | 5 | 5 |
-| 2026-11-06 | Season 2/KesVerse/Stories/KesVerse Arc 2.md | 0 | 1 | -1 |
 | 2026-11-06 | Season 2/KesVerse/Stories/KesVerse Doc.md | 6 | 0 | 6 |
 
 <!-- wordsmith:history:end -->
