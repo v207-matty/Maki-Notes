@@ -32,8 +32,10 @@ The Man : "Sinco?"
 
 Sinco : "Dad?"
 
-Sinco realizes who they are and runs over, giving them both a big hug.
+Sinco realizes who they are and runs over, giving them both a big hug, his mother giving him a hug back 
 
 Sinco : "Wha- Where... What..."
+
+Sinco lets them go.
 
 Sinco : "Where have you been? I thought you died!"
