@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-06 19:37:59
+- written: 2026-11-06 20:29:18
 
 ```json
 {
@@ -202,7 +202,7 @@ not the plugin folder — can get everything back.
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md": "done",
-    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md": "draft",
+    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md": "done",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": "done",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": "done"
   },
