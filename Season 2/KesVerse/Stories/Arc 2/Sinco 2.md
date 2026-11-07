@@ -108,4 +108,10 @@ Nitro : "Come on Sinco. This is your last chance to get off this rock before Zon
 
 Nitro : "It's either you come on and man up or you get enslaved, I'd prefer if you manned up."
 
-Donatas tail twitches and she tries to grab Sinco but he jumps at Nitro at full speed, running around him in circles and punching him randomly, it doesn't stun him at all, Sincos tail twitches and then he gets punched to the ground hard, Nitro was too fast to see for 
+Donatas tail twitches and she tries to grab Sinco but he jumps at Nitro at full speed, running around him in circles and punching him randomly, it doesn't stun him at all, Sincos tail twitches and then he gets punched to the ground hard, Nitro was too fast to see for Sinco.
+
+Nitro : "Sinco."
+
+Sinco gets up, nose bleeding.
+
+Sinco : "DAD."
