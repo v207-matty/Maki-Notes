@@ -56,4 +56,4 @@ Tirok : "I've performed the calculations and if you come here now with a hyper b
 
 Tirok : いつでも。
 
-The call ends. On Tiroks computer he opens up a tracker, 3 individuals, Nitro,
+The call ends. On Tiroks computer he opens up a tracker, 3 individuals, Nitro, Donata, and Sinco. All approaching T-
