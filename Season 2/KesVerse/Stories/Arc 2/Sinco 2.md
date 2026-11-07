@@ -138,4 +138,6 @@ Nitro : "What's the status?"
 
 Tirok : "It should be arriving within the hour, precisely when is hard to calculate."
 
-Tirok : "With the hyper boost to bring the mothership here and it not taking that long, I don't think its going to be "
+Tirok : "With the hyper boost to bring the mothership here and it not taking that long, I don't think its going to be that far away."
+
+In the sky of Chabur, a giant ship floats above it,
