@@ -11,24 +11,10 @@
             "id": "00c795912825b218",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/Matty Season 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Matty Season 2"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -220,6 +206,7 @@
   },
   "active": "00c795912825b218",
   "lastOpenFiles": [
+    "Season 2/Matty Season 2.md",
     "Season 2/KesVerse/Stories/KesVerse Timeline.md",
     "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/Stories/KesVerse Doc.md",
@@ -246,7 +233,6 @@
     "Season 2/KesVerse/Organizers",
     "Season 1/Matty Season 1.md",
     "Word-Smith/WS.md",
-    "Word-Smith/ws-structure.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Season 2/KesVerse/Untitled.canvas",
