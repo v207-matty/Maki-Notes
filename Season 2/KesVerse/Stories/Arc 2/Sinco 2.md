@@ -2,4 +2,4 @@
 
 # Sinco : Last Chance
 
-On a late night, on the planet Chabur, 
+On a late night, on the planet Chabur, the technologically advanced "T-City" 
