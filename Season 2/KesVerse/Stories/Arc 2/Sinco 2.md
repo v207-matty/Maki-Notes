@@ -54,4 +54,6 @@ Tirok : "I've performed the calculations and if you come here now with a hyper b
 
 ????? : ありがとう。
 
-Tirok : 
+Tirok : いつでも。
+
+Tirok ends the call once more, then a
