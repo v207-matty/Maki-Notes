@@ -126,10 +126,10 @@ Nitro grabs Sinco by the neck.
 
 Nitro : "I mean it."
 
-Sinco vibrates at a high frequency and phases out of Nitros grasp, rolling over to get out of his range,
+Sinco vibrates at a high frequency and phases out of Nitros grasp, rolling over to get out of his range, a giant shadow begins to shade the 
 
 Nitro : "I'm not gonna save you. Or even be able to."
 
 Sinco : "I'll manage. I've already been doing so without you."
 
-Nitro turns around, jumps into the air flies into the TAZ being from an opening in the top, Sinco runs into 
+Nitro turns around, jumps into the air flies into the TAZ being from an opening in the top, Sinco 
