@@ -56,4 +56,4 @@ Tirok : "I've performed the calculations and if you come here now with a hyper b
 
 Tirok : いつでも。
 
-The call ends. Tirok
+The call ends. On Tiroks computer he 
