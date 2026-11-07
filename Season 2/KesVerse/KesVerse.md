@@ -4,7 +4,7 @@ More focus on film structure in story
 
 [[KesVerse Arcs]]
 [[KesVerse Worldbuilding]]
-[[KesVerse Story Compilation]]
+[[KesVerse Doc]]
 
 ## Structures
 
