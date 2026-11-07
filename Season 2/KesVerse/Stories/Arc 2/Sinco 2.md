@@ -115,3 +115,7 @@ Nitro : "Sinco."
 Sinco gets up, nose bleeding.
 
 Sinco : "DAD."
+
+Donata slowly walks back into the forest.
+
+Sinco 
