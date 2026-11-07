@@ -34,7 +34,7 @@ Sinco : "Dad?"
 
 Sinco realizes who they are and runs over, giving them both a big hug, his mother giving him a hug back while his dad closes his eyes, with a small smirk over his face.
 
-Sinco : "Wha- Where... What..."
+Sinco : "W- Where... What..."
 
 Sinco lets them go.
 
@@ -42,4 +42,4 @@ Sinco : "Where have you been? I thought you died!"
 
 Sincos Dad thinks for a second while Sincos mom
 
-Sincos Dad : "We actually got a space job."
+Sincos Dad : "We actually got a job in space"
