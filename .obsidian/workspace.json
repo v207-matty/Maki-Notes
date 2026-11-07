@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Stories/Arc 1/Gego.md",
+                "file": "Word-Smith/WS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gego"
+              "title": "WS"
             }
           }
         ]
@@ -235,6 +235,11 @@
   },
   "active": "b3d848e178f39a49",
   "lastOpenFiles": [
+    "Word-Smith/ws-structure.md",
+    "README.md",
+    "Word-Smith/ws-settings.md",
+    "Season 2/KesVerse/Stories/Arc 1/Sinco.md",
+    "Season 2/KesVerse/Stories/Arc 1/Gego.md",
     "Season 2/KesVerse/Stories/Arc 1/Kina.md",
     "Season 2/KesVerse/Stories/Arc 2/A Gathering.md",
     "Season 2/KesVerse/Stories/KesVerse Doc.md",
@@ -246,19 +251,14 @@
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md",
-    "Season 2/KesVerse/Stories/Arc 1/Sinco.md",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md",
-    "Season 2/KesVerse/Stories/Arc 1/Gego.md",
     "Season 2/KesVerse/Stories/KesVerse Arc 2.md",
     "Season 2/KesVerse/KesVerse Worldbuilding.md",
     "Season 2/KesVerse/Untitled.canvas",
     "Season 2/KesVerse/Stories/KesVerse Arc 1.md",
-    "README.md",
-    "Word-Smith/ws-structure.md",
     "Word-Smith/ws-history.md",
     "Season 2/KesVerse/KesVerse Story Compilation.md",
     "Season 2/Matty Season 2.md",
-    "Word-Smith/ws-settings.md",
     "Word-Smith",
     "Season 2/KesVerse/Worldbuilding/Kesumel.md",
     "Season 2/KesVerse/Stories/Arc 2",
