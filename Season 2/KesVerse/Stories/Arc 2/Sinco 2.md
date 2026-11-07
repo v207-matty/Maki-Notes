@@ -44,4 +44,6 @@ Sincos Dad thinks for a second while Sincos mom
 
 Sincos Dad : "We actually got a job in space."
 
-Sinco : "I'm just glad you'r"
+Sinco : "I'm just glad you're back."
+
+Sinco and his dad walk towards the fo
