@@ -1,4 +1,4 @@
-#season2 #kesverse #kesverse_arc1 #kesverse_arc2 #sinco 
+#season2 #kesverse #kesverse_arc1 #kesverse_arc2 #sinco #sinco
 
 # The Strong One
 
