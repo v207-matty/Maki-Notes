@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-06 18:52:56
+- written: 2026-11-06 18:53:16
 
 ```json
 {
@@ -181,7 +181,7 @@ not the plugin folder — can get everything back.
   "structurePath": "Word-Smith/ws-structure.md",
   "outlineFlagRenamed": true,
   "uniColOrder": [],
-  "organizerFolder": "Season 2/KesVerse/Stories/Arc 1",
+  "organizerFolder": "Season 2/KesVerse/Stories",
   "uniTypes": [
     "md",
     "image",
@@ -756,10 +756,11 @@ not the plugin folder — can get everything back.
     "paperId": "letter"
   },
   "organizerOpen": [
-    "Season 2/KesVerse/Stories/Arc 2",
     "Season 2/KesVerse/Stories",
     "Season 2/KesVerse",
-    "Season 2"
+    "Season 2",
+    "Season 2/KesVerse/Stories/Arc 1",
+    "Season 2/KesVerse/Stories/Arc 2"
   ],
   "uniColsOff": [
     "grade",
