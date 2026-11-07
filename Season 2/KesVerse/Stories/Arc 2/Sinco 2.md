@@ -22,4 +22,6 @@ Nitro : "Yeah right, you just want him dead don't you?"
 
 Tirok : "Naturally."
 
-Nitro : "Whatever, you know I won't let you do that"
+Nitro : "Ugh."
+
+The call ends
