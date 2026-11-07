@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "42fc3e698d62a9f9",
+        "id": "5c1912ff75b0f71d",
         "type": "tabs",
         "children": [
           {
-            "id": "e530ffddfb2740e6",
+            "id": "6591f9f88d11d68c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sinco 2"
             }
           }
         ]
@@ -204,8 +218,9 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "e530ffddfb2740e6",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
+    "Season 1/Matty Season 1.md",
     "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md",
     "Season 2/KesVerse/Stories/KesVerse Arc 2.md",
     "Season 2/KesVerse/Stories/KesVerse Arc 1.md",
@@ -236,7 +251,6 @@
     "Season 2/KesVerse/Stories/Arc 2",
     "Season 2/KesVerse/Stories/Untitled.canvas",
     "Season 2/KesVerse/Stories/Arc 1",
-    "Season 1/Matty Season 1.md",
     "Season 1/CVT.md",
     "Season 1/Sinco Colonized AU.md",
     "Season 2/KesVerse/Story Arcs slash Phases",
