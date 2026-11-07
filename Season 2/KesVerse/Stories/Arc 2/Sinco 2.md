@@ -12,4 +12,6 @@ Tirok : "When will you be arriving?"
 
 Tirok : "Excellent."
 
-Tirok : 
+Tirok : "I look forward to dealing with him with you both."
+
+????? : "His name is Sinco, you remember that right?"
