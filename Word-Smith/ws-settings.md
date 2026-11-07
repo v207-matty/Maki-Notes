@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-07 08:53:19
+- written: 2026-11-07 09:04:18
 
 ```json
 {
@@ -363,7 +363,7 @@ not the plugin folder — can get everything back.
   "organizerOn": true,
   "organizerDateFormat": "human",
   "folderColors": {},
-  "flagCount": 4,
+  "flagCount": 5,
   "flags": [
     {
       "id": "draft",
@@ -395,7 +395,7 @@ not the plugin folder — can get everything back.
     },
     {
       "id": "blocked",
-      "label": "Blocked",
+      "label": "NOTHING",
       "shape": "alert",
       "light": "#c08a2a",
       "dark": "#d9a441"
@@ -700,13 +700,16 @@ not the plugin folder — can get everything back.
     "Season 2/KesVerse/Stories/Arc 1/Kina.md": 520,
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md": 1397,
     "Season 2/KesVerse/Stories/Arc 2/A Gathering.md": 625,
-    "Season 2/KesVerse/Stories/KesVerse Arc 2.md": 20,
+    "Season 2/KesVerse/Stories/KesVerse Arc 2.md": 23,
     "Season 2/KesVerse/KesVerse Worldbuilding.md": 8,
     "Season 2/KesVerse/KesVerse.md": 19,
     "Season 2/KesVerse/Stories/KesVerse Doc.md": 4926,
     "Season 2/KesVerse/Stories/KesVerse Arcs.md": 9,
-    "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md": 2,
-    "Season 1/Matty Season 1.md": 10
+    "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md": 8,
+    "Season 1/Matty Season 1.md": 10,
+    "Season 2/KesVerse/Stories/Arc 2/The Protectors.md": 7,
+    "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md": 178,
+    "Season 2/KesVerse/Worldbuilding/Ige Language.md": 16
   },
   "exportOpts": {
     "format": "docx",
