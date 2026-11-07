@@ -46,4 +46,6 @@ Sincos Dad : "We actually got a job in space."
 
 Sinco : "I'm just glad you're back."
 
-Sinco and his dad walk towards the fo
+Sinco and his dad walk towards the forest with Sincos mom following behind at a distance, something bothering her.
+
+
