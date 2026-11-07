@@ -40,9 +40,33 @@
               "icon": "lucide-file",
               "title": "KesVerse Seasons"
             }
+          },
+          {
+            "id": "d3b0d5ffad68dee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/KesVerse/Organizers/KesVerse Season 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "KesVerse Season 1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,15 +253,16 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "2c6e620217d52054",
+  "active": "d3b0d5ffad68dee2",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md",
+    "Season 2/KesVerse/Organizers/KesVerse Season 1.md",
     "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
+    "Season 2/KesVerse/Organizers/KesVerse Arcs.md",
+    "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md",
     "Season 2/KesVerse/Worldbuilding/Kesumel.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md",
     "Season 2/KesVerse/Organizers/Ige Language.md",
-    "Season 2/KesVerse/Organizers/KesVerse Arcs.md",
     "Season 2/KesVerse/Organizers/KesVerse Arc 2.md",
     "Season 2/KesVerse/Organizers/KesVerse Arc 1.md",
     "Season 2/KesVerse/Stories/KesVerse Doc.md",
@@ -259,7 +284,6 @@
     "Season 2/KesVerse/KesVerse.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
     "Season 2/KesVerse/Untitled.canvas",
     "Word-Smith",
     "Season 2/KesVerse/Stories/Arc 2",
