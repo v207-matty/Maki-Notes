@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "5c1912ff75b0f71d",
+        "id": "46572e0d2869c63e",
         "type": "tabs",
         "children": [
           {
-            "id": "6591f9f88d11d68c",
+            "id": "bdbb40489b3a2b95",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "2c6e620217d52054",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Stories/KesVerse Arcs.md",
+                "file": "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +38,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KesVerse Arcs"
+              "title": "Keselin Reproduction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,8 +229,9 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "6591f9f88d11d68c",
+  "active": "2c6e620217d52054",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Stories/KesVerse Arcs.md",
     "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md",
     "Season 2/KesVerse/Stories/Arc 2/The Protectors.md",
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md",
@@ -236,7 +248,6 @@
     "Word-Smith/ws-settings.md",
     "Season 2/KesVerse/Stories/Arc 1/Gego.md",
     "Season 2/KesVerse/Stories/Arc 1/Kina.md",
-    "Season 2/KesVerse/Stories/KesVerse Arcs.md",
     "Season 2/KesVerse/KesVerse.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
@@ -265,3 +276,5 @@
     "Pasted image 20261102185003.png",
     "Pasted image 20261102184959.png",
     "Renewed/Explanations/CANVAS.canvas"
+  ]
+}
