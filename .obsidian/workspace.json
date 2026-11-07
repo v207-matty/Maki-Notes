@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
+                "file": "Season 2/KesVerse/Stories/KesVerse Doc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Strong One 2"
+              "title": "KesVerse Doc"
             }
           }
         ]
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
+                "file": "Season 2/KesVerse/Stories/KesVerse Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
+                "file": "Season 2/KesVerse/Stories/KesVerse Doc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -222,6 +222,7 @@
   },
   "active": "b3049f5284d08b8d",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
     "Season 2/KesVerse/Stories/KesVerse Doc.md",
     "Season 2/KesVerse/Worldbuilding/Kesumel.md",
     "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md",
@@ -233,7 +234,6 @@
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md",
     "Season 2/KesVerse/Stories/Arc 2/A Gathering.md",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
-    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md",
     "Season 2/KesVerse/Stories/Arc 1/Kina.md",
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md",
     "Season 2/KesVerse/Stories/Arc 1/Gego.md",
