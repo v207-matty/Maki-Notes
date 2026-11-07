@@ -90,4 +90,4 @@ Sinco : "I don't like him."
 
 Sinco : "He was destroying the forest."
 
-Nitro looks over at the 
+Nitro looks over to the side at the forest 
