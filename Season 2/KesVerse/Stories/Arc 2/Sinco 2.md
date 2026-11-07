@@ -30,6 +30,9 @@ They're space pods, both with a symbol, a Z with a vertical line in the middle, 
 
 The Man : "Sinco?"
 
+Sinco : "Dad?"
+
 Sinco realizes who they are and runs over, giving them both a big hug.
 
+Sinco : "Wha-"
 
