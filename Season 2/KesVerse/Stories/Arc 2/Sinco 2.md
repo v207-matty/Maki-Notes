@@ -142,8 +142,4 @@ Tirok : "With the hyper boost to bring the mothership here and it not taking tha
 
 In the sky of Chabur a giant mothership can indeed be seen, but its shape is irregular and the way it works in impossible to tell just by its outer appearance, but a tube begins to extend out of it from the top, and following the tube is an opened hollow sphere that moves toward the top of the tube, slowly the sphere begins to close as a star approaches, and the sphere closes on the star and captures it, the star bonks itself onto the wall of the sphere and its energy disperses into the sphere with an object falling out of the star. Slowly the energy is being channeled throughout the entire mothership, making it glow a sky blue, the object from the star begins to float inside the sphere, glowing a sky blue and releasing its energy into the sphere, making the sphere appear sky blue.
 
-Down in T-City, the mothership towers over all as it descends slowly, Nitro is floating outside in the sky with Tirok floating with him, albeit it's thanks to his feet thrusters.
-
-Tirok : "And it looks like it was close. Closer than my calculations ever made a possibility."
-
-Nitro : "The universe belongs to Zonia now."
+The mothership has the Kesumel.
