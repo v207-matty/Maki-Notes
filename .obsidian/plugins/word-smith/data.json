@@ -367,18 +367,18 @@
   "organizerOn": true,
   "organizerDateFormat": "human",
   "folderColors": {},
-  "flagCount": 5,
+  "flagCount": 4,
   "flags": [
     {
       "id": "draft",
-      "label": "Draft",
+      "label": "WIP",
       "shape": "pennant",
       "light": "#4b7bb5",
       "dark": "#6f95c9"
     },
     {
       "id": "revise",
-      "label": "Revise",
+      "label": "REMAKE",
       "shape": "swallow",
       "light": "#b8453c",
       "dark": "#cf5b52"
