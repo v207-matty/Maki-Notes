@@ -104,6 +104,6 @@ Nitro : "Did you not here me say billions? There's bound to be one that you like
 
 Sinco has nothing to say and just stands there, having a pouty face.
 
-Nitro : "Come on Sinco."
+Nitro : "Come on Sinco. This is your last chance to get off this rock before Zonia gets here."
 
-Nitro : "This is your last chance to get"
+Nitro : ""
