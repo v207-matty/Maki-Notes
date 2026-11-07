@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Stories/KesVerse Doc.md",
+                "file": "Season 2/KesVerse/Stories/Arc 2/A Gathering.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KesVerse Doc"
+              "title": "A Gathering"
             }
           }
         ]
@@ -96,12 +96,12 @@
               "title": "Word-Smith"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "61843bacfc8b0063",
@@ -219,10 +219,11 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "70c7fe63113c574f",
+  "active": "b3d848e178f39a49",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md",
+    "Season 2/KesVerse/Stories/KesVerse Doc.md",
+    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md",
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md",
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md",
     "Word-Smith/WS.md",
@@ -231,7 +232,6 @@
     "Word-Smith/ws-settings.md",
     "Season 2/KesVerse/Stories/Arc 1/Gego.md",
     "Season 2/KesVerse/Stories/Arc 1/Kina.md",
-    "Season 2/KesVerse/Stories/KesVerse Doc.md",
     "Season 2/KesVerse/Stories/KesVerse Arcs.md",
     "Season 2/KesVerse/KesVerse.md",
     "Untitled.canvas",
