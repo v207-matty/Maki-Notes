@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Organizers/KesVerse Season 1.md",
+                "file": "Season 2/KesVerse/KesVerse.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,11 +62,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KesVerse Season 1"
+              "title": "KesVerse"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,8 +252,9 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "d3b0d5ffad68dee2",
+  "active": "bdbb40489b3a2b95",
   "lastOpenFiles": [
+    "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/Organizers/KesVerse Season 1.md",
     "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
     "Season 2/KesVerse/Organizers/KesVerse Arcs.md",
@@ -281,7 +281,6 @@
     "Word-Smith/ws-structure.md",
     "README.md",
     "Word-Smith/ws-settings.md",
-    "Season 2/KesVerse/KesVerse.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Season 2/KesVerse/Untitled.canvas",
