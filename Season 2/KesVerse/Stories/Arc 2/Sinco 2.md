@@ -84,4 +84,8 @@ Nitro stops moving and realizes Sinco stopped, he turns back around to look at h
 
 Nitro : "He's one of us, he's one of the higher ranks, and we've got some setup to do."
 
-Sinco 
+Sinco paces backwards.
+
+Sinco : "I don't like him."
+
+S
