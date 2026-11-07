@@ -79,3 +79,5 @@ Sinco, Nitro, and Donata all arrive at T-City, Sinco stops, Nitro continues towa
 Sinco : "Dad."
 
 Sinco : "Why're you going there?"
+
+Nitro stops
