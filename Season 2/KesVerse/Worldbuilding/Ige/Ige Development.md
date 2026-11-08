@@ -223,7 +223,7 @@ Nei
 
 Ige : Nei
 
-## Hell ( )
+## Hell ( Kainok )
 
 Japanese: Jigoku
 Spanish: Infierno
@@ -234,6 +234,8 @@ Russian: Ad
 Alokai
 Anas
 Ano
-Kai
+Kainok
+
+Ige : Kainok
 
 ## N
