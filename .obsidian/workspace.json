@@ -11,10 +11,24 @@
             "id": "53101eda4eeae799",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/KesVerse/Stories/KesVerse Timeline.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "KesVerse Timeline"
             }
           }
         ]
@@ -203,6 +217,8 @@
   },
   "active": "53101eda4eeae799",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Stories/KesVerse Doc.md",
+    "Season 2/KesVerse/Stories/KesVerse Timeline.md",
     "Season 2/KesVerse/KesVerse.md",
     "Season 2/Matty Season 2.md",
     "Season 2/KesVerse/Worldbuilding/KesVerse Realms.md",
@@ -219,8 +235,6 @@
     "Season 2/KesVerse/Stories/Season 1/Flawless Execution.md",
     "Season 2/KesVerse/Stories/Season 1/Zonia.md",
     "Season 2/KesVerse/Stories/Season 1/A Dark Time.md",
-    "Season 2/KesVerse/Stories/KesVerse Timeline.md",
-    "Season 2/KesVerse/Stories/KesVerse Doc.md",
     "Season 2/KesVerse/Stories/Season 1/Kina.md",
     "Season 2/KesVerse/Stories/Season 1/The Strong One 2.md",
     "Season 2/KesVerse/Stories/Season 1/Kina 2.md",
