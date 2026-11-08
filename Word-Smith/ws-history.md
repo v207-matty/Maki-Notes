@@ -5,11 +5,11 @@ finds it by the markers below, anywhere in the vault. Counts only, never
 your text. Everything between the markers is rewritten; write what you
 like outside them.
 
-### 2026 — 3 days, +3,092 net
+### 2026 — 3 days, +3,088 net
 
 | Date | Added | Deleted | Net |
 | --- | ---: | ---: | ---: |
-| 2026-11-08 | 41 | 6 | 35 |
+| 2026-11-08 | 41 | 10 | 31 |
 | 2026-11-07 | 3227 | 1100 | 2127 |
 | 2026-11-06 | 1092 | 162 | 930 |
 
@@ -18,13 +18,14 @@ like outside them.
 | Date | Note | Added | Deleted | Net |
 | --- | --- | ---: | ---: | ---: |
 | 2026-11-08 | Season 2/KesVerse/Organizers/KesVerse Season 1.md | 8 | 0 | 8 |
+| 2026-11-08 | Season 2/KesVerse/Organizers/KesVerse.md | 0 | 4 | -4 |
 | 2026-11-08 | Season 2/KesVerse/Stories/Season 1/Flawless Execution.md | 32 | 6 | 26 |
 | 2026-11-08 | Season 2/KesVerse/Stories/Season 1/Zonia.md | 1 | 0 | 1 |
-| 2026-11-07 | Season 2/KesVerse/KesVerse.md | 3 | 0 | 3 |
 | 2026-11-07 | Season 2/KesVerse/Organizers/KesVerse Arc 2.md | 7 | 3 | 4 |
 | 2026-11-07 | Season 2/KesVerse/Organizers/KesVerse Season 1.md | 6 | 0 | 6 |
 | 2026-11-07 | Season 2/KesVerse/Organizers/KesVerse Season 2.md | 111 | 32 | 79 |
 | 2026-11-07 | Season 2/KesVerse/Organizers/KesVerse Seasons.md | 6 | 0 | 6 |
+| 2026-11-07 | Season 2/KesVerse/Organizers/KesVerse.md | 3 | 0 | 3 |
 | 2026-11-07 | Season 2/KesVerse/Stories/KesVerse Doc.md | 622 | 2 | 620 |
 | 2026-11-07 | Season 2/KesVerse/Stories/KesVerse Timeline.md | 58 | 5 | 53 |
 | 2026-11-07 | Season 2/KesVerse/Stories/Season 1/A Dark Time.md | 454 | 85 | 369 |
@@ -39,8 +40,8 @@ like outside them.
 | 2026-11-07 | Season 2/KesVerse/Stories/Season 1/The Strong One 2.md | 15 | 1 | 14 |
 | 2026-11-07 | Season 2/KesVerse/Stories/Season 1/The Strong One.md | 1 | 2 | -1 |
 | 2026-11-06 | README.md | 2 | 3 | -1 |
-| 2026-11-06 | Season 2/KesVerse/KesVerse.md | 0 | 1 | -1 |
 | 2026-11-06 | Season 2/KesVerse/Organizers/KesVerse Arc 2.md | 0 | 1 | -1 |
+| 2026-11-06 | Season 2/KesVerse/Organizers/KesVerse.md | 0 | 1 | -1 |
 | 2026-11-06 | Season 2/KesVerse/Stories/KesVerse Doc.md | 6 | 0 | 6 |
 | 2026-11-06 | Season 2/KesVerse/Stories/Season 1/A Gathering.md | 730 | 110 | 620 |
 | 2026-11-06 | Season 2/KesVerse/Stories/Season 1/Gego.md | 1 | 0 | 1 |

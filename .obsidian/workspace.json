@@ -11,24 +11,10 @@
             "id": "0237d7cbd6804645",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/KesVerse/Organizers/KesVerse.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "KesVerse"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -215,8 +201,9 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "38ff71c0b42f161d",
+  "active": "0237d7cbd6804645",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Organizers/KesVerse.md",
     "Season 2/KesVerse/Organizers/KesVerse Season 1.md",
     "Season 2/KesVerse/Stories/Season 1/Flawless Execution.md",
     "Season 2/KesVerse/Stories/Season 1/Zonia.md",
@@ -236,7 +223,6 @@
     "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
     "The Protectors 1.md",
     "Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md",
-    "Season 2/KesVerse/Organizers/KesVerse.md",
     "Season 2/KesVerse/Organizers/KesVerse Arcs.md",
     "Season 2/KesVerse/Organizers/KesVerse Arc 2.md",
     "Season 2/KesVerse/Organizers/KesVerse Arc 1.md",
