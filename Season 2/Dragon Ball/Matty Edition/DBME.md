@@ -2,4 +2,4 @@
 
 [[Rules]]
 
-[[Dragon Ball Z]]
+[[DBZME]]
