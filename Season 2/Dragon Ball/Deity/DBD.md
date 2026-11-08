@@ -9,6 +9,8 @@ Saga 1: [[DBD Saga 1|Battle Of Gods]]
 - Vegeta is on a cruise with Bulma and co for her birthday
 	- They're doing games and the prize is the dragon balls (for funzies hehe)
 - Beerus arrives on King Kais
+	- Goku and Beerus Spar
+	- Goku pushes Beerus to 
 - Goku enters the realm of the gods
 
 Saga 2: [[DBD Saga 2]]
