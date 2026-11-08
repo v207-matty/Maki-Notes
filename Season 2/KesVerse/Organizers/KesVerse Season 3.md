@@ -1,3 +1,3 @@
 #season2 #kesverse #organizernote
 
-Danger Season : Outer Realm
+Danger Season : Demon Realm
