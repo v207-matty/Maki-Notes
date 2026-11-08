@@ -30,4 +30,5 @@ Nitro and his squads are following Sinco.
 They all meet in the middle.
 Stone continues to fly west.
 Sinco continues to run east.
-Nitro and Tirok quickly stop to av
+Nitro and Tirok quickly stop to avoid running into each other.
+The empire soldiers can't decelerate and run 
