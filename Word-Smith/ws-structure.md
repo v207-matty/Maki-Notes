@@ -61,7 +61,7 @@ notes outside them.
 - [ ] Season 2/KesVerse/Stories/Season 1/Kumel.md
 - [ ] Season 2/KesVerse/Stories/Season 1/Kina.md
 - [x] Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md
-- [x] Season 2/KesVerse/Stories/Arc 2/Kina 2.md
+- [x] Season 2/KesVerse/Stories/Season 1/Kina 2.md
 - [x] Season 2/KesVerse/Stories/Arc 2/A Gathering.md
 - [ ] Season 2/KesVerse/Organizers/Ige Language.md
 - [ ] Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md
@@ -77,10 +77,10 @@ notes outside them.
 
 - Season 2/KesVerse/Stories/Arc 2/A Dark Time.md — outline
 - Season 2/KesVerse/Stories/Arc 2/A Gathering.md — done
-- Season 2/KesVerse/Stories/Arc 2/Kina 2.md — done
+- Season 2/KesVerse/Stories/Season 1/Kina 2.md — done
 - Season 2/KesVerse/Stories/Arc 2/Sinco 2.md — done
 - Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md — done
-- Season 2/KesVerse/Stories/Arc 2/Zonia.md — blocked
+- Season 2/KesVerse/Stories/Season 1/Zonia.md — blocked
 - Season 2/KesVerse/Stories/Season 1/Gego.md — done
 - Season 2/KesVerse/Stories/Season 1/Kina.md — done
 - Season 2/KesVerse/Stories/Season 1/Kumel.md — done
@@ -97,7 +97,7 @@ notes outside them.
 ### order: Season 2/KesVerse/Stories/Arc 2
 
 - Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md
-- Season 2/KesVerse/Stories/Arc 2/Kina 2.md
+- Season 2/KesVerse/Stories/Season 1/Kina 2.md
 - Season 2/KesVerse/Stories/Arc 2/A Gathering.md
 - Season 2/KesVerse/Stories/Arc 2/Sinco 2.md
 - Season 2/KesVerse/Stories/Arc 2/A Dark Time.md
