@@ -4,10 +4,6 @@
 
 ## Year 3920
 
-[[KesVerse Season 1]]
-[[KesVerse Season 2]]
-[[KesVerse Season 3]]
-
 ### September
 
 9 / 10 :

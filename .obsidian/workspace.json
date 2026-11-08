@@ -11,48 +11,10 @@
             "id": "6571dc9d8e2d33e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "KesVerse Seasons"
-            }
-          },
-          {
-            "id": "6336aae5a3eb833b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/KesVerse/KesVerse.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "KesVerse"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -241,9 +203,10 @@
   },
   "active": "6571dc9d8e2d33e7",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md",
-    "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/Stories/KesVerse Timeline.md",
+    "Season 2/KesVerse/KesVerse.md",
+    "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
+    "Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md",
     "Season 2/KesVerse/Stories/KesVerse Doc.md",
     "Season 2/Matty Season 2.md",
     "Season 2/KesVerse/Worldbuilding/KesVerse Realms.md",
@@ -255,7 +218,6 @@
     "Season 2/KesVerse/Organizers/KesVerse Season 3.md",
     "Season 2/KesVerse/Organizers/KesVerse Season 1.md",
     "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
-    "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
     "README.md",
     "Season 2/KesVerse/Stories/Season 1/Flawless Execution.md",
     "Season 2/KesVerse/Stories/Season 1/Zonia.md",
