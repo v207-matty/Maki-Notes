@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Stories/Season 1/The Strong One 2.md",
+                "file": "Season 2/KesVerse/Stories/KesVerse Timeline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Strong One 2"
+              "title": "KesVerse Timeline"
             }
           }
         ],
@@ -240,8 +240,9 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "38ff71c0b42f161d",
+  "active": "831b0cf80d54a0d7",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Stories/Season 1/The Strong One 2.md",
     "Season 2/KesVerse/Stories/Season 1/Zonia.md",
     "Season 2/KesVerse/Stories/Season 1/A Dark Time.md",
     "Season 2/KesVerse/KesVerse.md",
@@ -254,7 +255,6 @@
     "Season 2/KesVerse/Organizers/KesVerse Arc 1.md",
     "Season 2/KesVerse/Stories/Season 1/Sinco 2.md",
     "Season 2/KesVerse/Stories/KesVerse Doc.md",
-    "Season 2/KesVerse/Stories/Season 1/The Strong One 2.md",
     "Season 2/KesVerse/Worldbuilding/Kesumel.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md",
     "README.md",
