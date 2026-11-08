@@ -4,4 +4,4 @@
 
 The Protectors arrive on Chabur, going into hiding
 
-
+Tirok and Nitro fly into the mother ship, receiving a pow
