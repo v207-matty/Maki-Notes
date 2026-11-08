@@ -4,16 +4,6 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 
 ## Saga 1 : Battle Of Gods
 
-## Power
-- Whis : 200
-- Beerus : 100
-
-- Goku (SSJ3) : 15
-- Goku : 
-
-- Vegeta : 1
-
-## Timeline
 - Beerus has woken up and has dreamed of the Super Saiyan God
 - Goku is with King Kai, training
 	- Chichi allows this because Mr. Satan gifted Goku and Vegetas family zeni for helping with buu
