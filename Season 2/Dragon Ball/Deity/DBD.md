@@ -10,7 +10,7 @@ Saga 1: [[DBD Saga 1|Battle Of Gods]]
 	- They're doing games and the prize is the dragon balls (for funzies hehe)
 - Beerus arrives on King Kais
 	- Goku and Beerus Spar
-	- Goku pushes Beerus to 
+	- Goku in 
 - Goku enters the realm of the gods
 
 Saga 2: [[DBD Saga 2]]
