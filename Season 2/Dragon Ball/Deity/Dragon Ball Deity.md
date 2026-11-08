@@ -23,7 +23,8 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 	- Vegeta knows nothing about the Super Saiyan God
 
 - Beerus wants to spar with Vegeta
-	- 
+	- Vegeta wishes not to
+	- Beerus 
 
 - Bulma finds Beerus and Whis and they get to eat some good food
 	- Beerus and Whis enjoy the festivities
