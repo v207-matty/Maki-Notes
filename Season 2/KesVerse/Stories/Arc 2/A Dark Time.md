@@ -43,3 +43,6 @@ Zonia has powered up.
 
 Inside The Protectors Zonia Empire ship.
 Everyone is acquainted again.
+They have a plan.
+
+
