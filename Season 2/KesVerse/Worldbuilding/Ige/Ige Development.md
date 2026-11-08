@@ -225,6 +225,8 @@ Ige : Nei
 
 ## Hell ( )
 
-
+Japanese: Jigoku
+Spanish: Infierno
+Italian: Inferno
 
 ## N
