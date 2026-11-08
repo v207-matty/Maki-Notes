@@ -19,7 +19,7 @@ The squad is also performing deforestation.
 Tirok has squads colonizing every piece of land on his side of the planet.
 
 Donata rests Sinco on a wall inside The Protectors Zonia Empire ship.
-Everyone is aquainted.
+Everyone is acquainted.
 They need a plan.
 
 Kina and Stone have no idea.
@@ -42,4 +42,4 @@ He puts the Kesumel into his armor.
 Zonia has powered up.
 
 Inside The Protectors Zonia Empire ship.
-Everyone is 
+Everyone is acquainted again.
