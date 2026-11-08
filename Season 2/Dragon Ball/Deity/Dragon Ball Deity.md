@@ -53,5 +53,7 @@ Age : 777
 		- Goku moves to SSJ1 for speed and snaps to SSJ3 for power
 	- Beerus wins 
 
+# Saga 2
+
 - Beerus wants to see Goku become a true rival for him
 	- Whis gives Goku a
