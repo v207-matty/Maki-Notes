@@ -2,4 +2,4 @@
 
 Dragon Ball Deity is a Dragon Ball Super alternate take.
 
-DBD 1
+[[DBD Saga 1|Battle Of Gods]]
