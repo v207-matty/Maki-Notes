@@ -27,6 +27,9 @@ Kumel suggests stealing the Kesumel and give it to them.
 Gego suggests that they take the Kesumel before Zonia gets it.
 
 Donata says they need to disable the power source and then get the Kesumel because then they'll only have to worry about the things powered by the Kesumel.
+
 Everyone agrees with that.
 
 Sinco wakes up and nearly jumps at Donata but stops when he notices other people.
+
+Zonia is 
