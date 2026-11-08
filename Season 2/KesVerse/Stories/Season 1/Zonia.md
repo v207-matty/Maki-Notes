@@ -17,4 +17,6 @@ In T-City, Kumel is flying Kina, Donata, and Gego into the Zonia Empire Mothersh
 As they enter the mothership Kumel freezes guards that see them and Donata shoves them so that the ice and them break.
 Gego and Kina find the primary power room and go to deactivate it.
 Gego pulls out some tools when Kumel freezes the power source.
+Kumel grabs it and shatters it in their hand.
 
+The mothership 
