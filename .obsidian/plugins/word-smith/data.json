@@ -194,14 +194,14 @@
     "Season 2/KesVerse/Stories/Season 1/A Dark Time.md": "outline",
     "Season 2/KesVerse/Stories/Season 1/A Gathering.md": "done",
     "Season 2/KesVerse/Stories/Season 1/The Strong One 2.md": "done",
-    "Season 2/KesVerse/Stories/Season 1/Zonia.md": "blocked",
     "Season 2/KesVerse/Stories/Season 1/Gego.md": "done",
     "Season 2/KesVerse/Stories/Season 1/Kina.md": "done",
     "Season 2/KesVerse/Stories/Season 1/Kumel.md": "done",
     "Season 2/KesVerse/Stories/Season 1/Sinco.md": "done",
     "Season 2/KesVerse/Stories/Season 1/The Strong One.md": "done",
     "Season 2/KesVerse/Stories/Season 1/Kina 2.md": "done",
-    "Season 2/KesVerse/Stories/Season 1/Sinco 2.md": "done"
+    "Season 2/KesVerse/Stories/Season 1/Sinco 2.md": "done",
+    "Season 2/KesVerse/Stories/Season 1/Flawless Execution.md": "blocked"
   },
   "folderTargets": {},
   "goalDeadlines": {},
@@ -715,13 +715,13 @@
     "Season 2/KesVerse/Stories/Season 1/Gego.md": 496,
     "Season 2/KesVerse/Stories/Season 1/Kina.md": 520,
     "Season 2/KesVerse/Stories/Season 1/Sinco.md": 1397,
-    "Season 2/KesVerse/Stories/Season 1/Zonia.md": 318,
     "Season 2/KesVerse/Stories/Season 1/The Strong One 2.md": 732,
     "Season 2/KesVerse/Stories/Season 1/Kina 2.md": 332,
     "Season 2/KesVerse/Stories/Season 1/A Gathering.md": 625,
     "Season 2/KesVerse/Stories/Season 1/Sinco 2.md": 1371,
     "Season 2/KesVerse/Stories/Season 1/A Dark Time.md": 311,
-    "Season 2/KesVerse/Organizers/KesVerse Season 2.md": 77
+    "Season 2/KesVerse/Organizers/KesVerse Season 2.md": 77,
+    "Season 2/KesVerse/Stories/Season 1/Flawless Execution.md": 320
   },
   "exportOpts": {
     "format": "docx",

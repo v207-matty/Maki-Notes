@@ -1,6 +1,6 @@
 #season2 #kesverse #kesverse_season1 #sinco #sincoau 
 
-# The Plan
+# Flawless Execution
 
 On the west side of Chabur, a city is being destroyed by Tirok and his squads.
 Stone flies into said city, attacking several soldiers all at once.
