@@ -16,8 +16,9 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 	- Goku is pushed towards SSJ3
 		- Goku has worked towards improving it but so far he has only improved how long he can be in it and the power he can output with it
 	- SSJ3 Goku pushes Beerus, not a lot but it's something, impressive for a mortal
-	- Goku know
+	- Goku knows nothing about the Super Saiyan God
 
 - Beerus arrives on the cruise, meeting Vegeta
-	- 
+	- Vegeta knows nothing about the Super Saiyan God
+- Bulma finds Beerus 
 
