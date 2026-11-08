@@ -232,5 +232,7 @@ Greek: Kólasi
 Russian: Ad
 
 Alokai
+Anas
+Ano
 
 ## N
