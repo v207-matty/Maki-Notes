@@ -2,8 +2,7 @@
   "accentColor": "#ffa8e4",
   "cssTheme": "Atom",
   "enabledCssSnippets": [
-    "theme",
-    "Atom-GrayscaleSupportive"
+    "theme"
   ],
   "theme": "obsidian"
 }

@@ -20,23 +20,23 @@ like outside them.
 | 2026-11-07 | Season 2/KesVerse/Organizers/KesVerse Arc 2.md | 7 | 3 | 4 |
 | 2026-11-07 | Season 2/KesVerse/Organizers/KesVerse Season 1.md | 3 | 0 | 3 |
 | 2026-11-07 | Season 2/KesVerse/Organizers/KesVerse Seasons.md | 3 | 0 | 3 |
-| 2026-11-07 | Season 2/KesVerse/Stories/Arc 1/Gego.md | 0 | 1 | -1 |
-| 2026-11-07 | Season 2/KesVerse/Stories/Arc 1/Sinco.md | 1 | 0 | 1 |
-| 2026-11-07 | Season 2/KesVerse/Stories/Arc 1/The Strong One.md | 1 | 1 | 0 |
 | 2026-11-07 | Season 2/KesVerse/Stories/Arc 2/A Dark Time.md | 432 | 42 | 390 |
 | 2026-11-07 | Season 2/KesVerse/Stories/Arc 2/Sinco 2.md | 1600 | 236 | 1364 |
 | 2026-11-07 | Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md | 15 | 0 | 15 |
 | 2026-11-07 | Season 2/KesVerse/Stories/Arc 2/Zonia.md | 138 | 8 | 130 |
 | 2026-11-07 | Season 2/KesVerse/Stories/KesVerse Doc.md | 622 | 0 | 622 |
 | 2026-11-07 | Season 2/KesVerse/Stories/KesVerse Timeline.md | 41 | 3 | 38 |
+| 2026-11-07 | Season 2/KesVerse/Stories/Season 1/Gego.md | 0 | 1 | -1 |
+| 2026-11-07 | Season 2/KesVerse/Stories/Season 1/Sinco.md | 1 | 0 | 1 |
+| 2026-11-07 | Season 2/KesVerse/Stories/Season 1/The Strong One.md | 1 | 1 | 0 |
 | 2026-11-06 | README.md | 2 | 3 | -1 |
 | 2026-11-06 | Season 2/KesVerse/KesVerse.md | 0 | 1 | -1 |
 | 2026-11-06 | Season 2/KesVerse/Organizers/KesVerse Arc 2.md | 0 | 1 | -1 |
-| 2026-11-06 | Season 2/KesVerse/Stories/Arc 1/Gego.md | 1 | 0 | 1 |
-| 2026-11-06 | Season 2/KesVerse/Stories/Arc 1/Sinco.md | 1 | 1 | 0 |
 | 2026-11-06 | Season 2/KesVerse/Stories/Arc 2/A Gathering.md | 730 | 110 | 620 |
 | 2026-11-06 | Season 2/KesVerse/Stories/Arc 2/Kina 2.md | 342 | 41 | 301 |
 | 2026-11-06 | Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md | 10 | 5 | 5 |
 | 2026-11-06 | Season 2/KesVerse/Stories/KesVerse Doc.md | 6 | 0 | 6 |
+| 2026-11-06 | Season 2/KesVerse/Stories/Season 1/Gego.md | 1 | 0 | 1 |
+| 2026-11-06 | Season 2/KesVerse/Stories/Season 1/Sinco.md | 1 | 1 | 0 |
 
 <!-- wordsmith:history:end -->

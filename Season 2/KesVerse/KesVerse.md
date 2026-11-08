@@ -2,7 +2,6 @@
 
 More focus on film structure in story
 
-[[KesVerse Arcs]]
 [[KesVerse Seasons]]
 [[KesVerse Worldbuilding]]
 [[KesVerse Doc]]

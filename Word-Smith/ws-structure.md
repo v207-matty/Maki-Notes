@@ -55,11 +55,11 @@ notes outside them.
 - [ ] Season 2/KesVerse/KesVerse.md
 - [ ] Season 2/KesVerse/Stories/KesVerse Arc 1.md
 - [ ] Season 2/KesVerse/Stories/KesVerse Doc.md
-- [ ] Season 2/KesVerse/Stories/Arc 1/The Strong One.md
-- [ ] Season 2/KesVerse/Stories/Arc 1/Sinco.md
-- [ ] Season 2/KesVerse/Stories/Arc 1/Gego.md
-- [ ] Season 2/KesVerse/Stories/Arc 1/Kumel.md
-- [ ] Season 2/KesVerse/Stories/Arc 1/Kina.md
+- [ ] Season 2/KesVerse/Stories/Season 1/The Strong One.md
+- [ ] Season 2/KesVerse/Stories/Season 1/Sinco.md
+- [ ] Season 2/KesVerse/Stories/Season 1/Gego.md
+- [ ] Season 2/KesVerse/Stories/Season 1/Kumel.md
+- [ ] Season 2/KesVerse/Stories/Season 1/Kina.md
 - [x] Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md
 - [x] Season 2/KesVerse/Stories/Arc 2/Kina 2.md
 - [x] Season 2/KesVerse/Stories/Arc 2/A Gathering.md
@@ -75,17 +75,17 @@ notes outside them.
 
 ### goals: notes
 
-- Season 2/KesVerse/Stories/Arc 1/Gego.md — done
-- Season 2/KesVerse/Stories/Arc 1/Kina.md — done
-- Season 2/KesVerse/Stories/Arc 1/Kumel.md — done
-- Season 2/KesVerse/Stories/Arc 1/Sinco.md — done
-- Season 2/KesVerse/Stories/Arc 1/The Strong One.md — done
 - Season 2/KesVerse/Stories/Arc 2/A Dark Time.md — outline
 - Season 2/KesVerse/Stories/Arc 2/A Gathering.md — done
 - Season 2/KesVerse/Stories/Arc 2/Kina 2.md — done
 - Season 2/KesVerse/Stories/Arc 2/Sinco 2.md — done
 - Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md — done
 - Season 2/KesVerse/Stories/Arc 2/Zonia.md — blocked
+- Season 2/KesVerse/Stories/Season 1/Gego.md — done
+- Season 2/KesVerse/Stories/Season 1/Kina.md — done
+- Season 2/KesVerse/Stories/Season 1/Kumel.md — done
+- Season 2/KesVerse/Stories/Season 1/Sinco.md — done
+- Season 2/KesVerse/Stories/Season 1/The Strong One.md — done
 
 ### order: Season 2/KesVerse
 
@@ -94,14 +94,6 @@ notes outside them.
 - Season 2/KesVerse/Worldbuilding
 - Season 2/KesVerse/KesVerse.md
 
-### order: Season 2/KesVerse/Stories/Arc 1
-
-- Season 2/KesVerse/Stories/Arc 1/The Strong One.md
-- Season 2/KesVerse/Stories/Arc 1/Sinco.md
-- Season 2/KesVerse/Stories/Arc 1/Gego.md
-- Season 2/KesVerse/Stories/Arc 1/Kumel.md
-- Season 2/KesVerse/Stories/Arc 1/Kina.md
-
 ### order: Season 2/KesVerse/Stories/Arc 2
 
 - Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md
@@ -109,5 +101,13 @@ notes outside them.
 - Season 2/KesVerse/Stories/Arc 2/A Gathering.md
 - Season 2/KesVerse/Stories/Arc 2/Sinco 2.md
 - Season 2/KesVerse/Stories/Arc 2/A Dark Time.md
+
+### order: Season 2/KesVerse/Stories/Season 1
+
+- Season 2/KesVerse/Stories/Season 1/The Strong One.md
+- Season 2/KesVerse/Stories/Season 1/Sinco.md
+- Season 2/KesVerse/Stories/Season 1/Gego.md
+- Season 2/KesVerse/Stories/Season 1/Kumel.md
+- Season 2/KesVerse/Stories/Season 1/Kina.md
 
 <!-- wordsmith:structure:end -->
