@@ -40,4 +40,4 @@ Age : 777
 	- They're going to ask Shenron
 
 - The Dragon Balls are gathered and Shenron is summoned
-	- The Super Saiyan God ritual requires 4 super saiyans to pour concentrated ki into 
+	- The Super Saiyan God ritual requires 4 super saiyans to pour concentrated ki into a fifth
