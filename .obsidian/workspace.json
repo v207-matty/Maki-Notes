@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
+                "file": "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KesVerse Seasons"
+              "title": "KesVerse Season 2"
             }
           },
           {
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,11 +264,11 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "ffb8fa7d5d718cdc",
+  "active": "831b0cf80d54a0d7",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
     "Season 2/KesVerse/Stories/KesVerse Timeline.md",
     "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
+    "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
     "The Protectors 1.md",
     "Season 2/KesVerse/Organizers/KesVerse Season 1.md",
     "Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md",
