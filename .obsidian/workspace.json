@@ -11,24 +11,10 @@
             "id": "301e7791242f9dbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "KesVerse Season 2"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -55,8 +41,7 @@
               "title": "Sinco Renewed Writing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,15 +225,15 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "38ff71c0b42f161d",
+  "active": "301e7791242f9dbe",
   "lastOpenFiles": [
-    "Season 1/Sinco Renewed/Sinco Renewed.md",
+    "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
     "Season 1/Sinco Renewed/Orangizer/Sinco Renewed Writing.md",
     "Season 1/Sinco Renewed/Orangizer/Sinco Renewed Explanations.md",
+    "Season 1/Sinco Renewed/Sinco Renewed.md",
     "Season 1/Sinco Renewed/Explanations/Worldbuilding.md",
     "Season 1/Sinco Renewed/Explanations/Whys.md",
     "Season 1/Sinco Renewed/Orangizer",
-    "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
     "Season 2/KesVerse/Worldbuilding/KesVerse Realms.md",
     "Season 2/KesVerse/Organizers/KesVerse Season 3.md",
     "Season 2/KesVerse/KesVerse.md",
