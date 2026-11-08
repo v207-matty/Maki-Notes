@@ -15,7 +15,7 @@ The ship is hidden via it floating above the ocean and cloaking itself
 
 Inside The Protectors Zonia Empire ship.
 Sinco wakes up and Donata puts him down.
-Everyone gets acquainted and becomes friends based on similar or shared goals
+Everyone gets acquainted and becomes friends based on similar or shared goals.
 Though they need a plan.
 
 Kina, Sinco, and Stone have no idea.
@@ -40,4 +40,4 @@ Kumel brings Kina, Donata, and Gego into the ship.
 Kumel and Donata will distract any guards or soldiers.
 Kina and Gego will work on sabotaging the primary power.
 Almost everything Zonia Empire related that uses that power will be disabled.
-Everyone will meet up back on the ground, and they will deal with Tirok, Nitro, and Zonia, together.
+Everyone will meet up back on the ground, and they will deal with the leftovers pltogether.
