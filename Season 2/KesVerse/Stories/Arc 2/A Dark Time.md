@@ -33,4 +33,5 @@ Everyone agrees with that.
 Sinco wakes up and nearly jumps at Donata but stops when he notices other people.
 He tenses up and gets into a corner.
 
-Zonia is 
+Zonia is on top of the mother ship.
+Zonia calls 
