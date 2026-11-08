@@ -11,4 +11,5 @@ God Realm - Kaimos Realm
 
 The Demon Realm is the outer universe, the big picture.
 The Mortal Realm is inside The Demon Realm, a glimmer of light in a dark image.
-The Angel Realm is inside the Moral Realm, an even brighter light 
+The Angel Realm is inside The Moral Realm, an even brighter light.
+The God Realm is inside The Angel Realm
