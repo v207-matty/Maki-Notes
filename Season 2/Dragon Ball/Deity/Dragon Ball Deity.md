@@ -48,7 +48,7 @@ Age : 777
 	- Goku briefly takes a bit to get used to the power
 
 - Beerus and Goku fight
-	- Goku pushes Beerus to use 60% of his power, Goku only
+	- Goku pushes Beerus to use 60% of his power, Goku only able to reach Beerus' 50% of power
 	- Beerus wins
 
-- Goku is granted
+- Beerus is impressed with Gok
