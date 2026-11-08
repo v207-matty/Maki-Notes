@@ -30,7 +30,8 @@ Sinco continues to run east.
 Nitro and Tirok quickly stop to avoid running into each other.
 The empire soldiers can't decelerate fast enough and run into each other, some having their jetpacks explode on collision with another soldiers jetpack.
 
-
 The mothership descends to the ground at an increasing pace.
 The mothership crashes into T-city, a massive explosion resulting from it causing further damage especially once it begins to fall forward.
-Tirok and Nitro fly through the ship,
+Tirok and Nitro fly through the ship, emerging in the sky.
+
+
