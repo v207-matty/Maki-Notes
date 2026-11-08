@@ -16,6 +16,3 @@ Saga 1 : Battle Of Gods
 - Beerus arrives on the cruise, meeting Vegeta
 - Goku enters the realm of the gods
 
-Saga 2: 
-
-Saga 3: 
