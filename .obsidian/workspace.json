@@ -11,24 +11,10 @@
             "id": "9b3622420f4d3d52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 1/Granule/Granule.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Granule"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -217,10 +203,10 @@
   },
   "active": "9b3622420f4d3d52",
   "lastOpenFiles": [
+    "Season 1/Granule/Granule.md",
     "Season 1/Granule/Groups/The All-over Magicians.md",
     "Season 1/Granule/Organizers/Granule Groups.md",
     "Season 1/Granule/Organizers/Granule Events.md",
-    "Season 1/Granule/Granule.md",
     "Season 1/Sinco Colonized AU.md",
     "README.md",
     "Season 1/CVT.md",
