@@ -32,6 +32,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "f4ee01c460e54f5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2361e336c6e8f675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/KesVerse/Stories/Arc 2/A Dark Time.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "A Dark Time"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
