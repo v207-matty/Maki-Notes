@@ -1,4 +1,4 @@
-#season2 #kesverse #kesverse_arc2 #kesverse_season1
+#season2 #kesverse #kesverse_season1
 
 # A Gathering
 
