@@ -1,6 +1,6 @@
 #season2 #kesverse
 
 Mortal Realm - Teinom Realm
-Outer Realm - Realm
-Inner Realm  
+Outer / Under Realm - Realm
+Inner / Angel Realm 
 God Realm -  Kaimos Realm
