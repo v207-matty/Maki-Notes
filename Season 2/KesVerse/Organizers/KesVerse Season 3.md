@@ -2,4 +2,4 @@
 
 Danger Season : Demon Realm
 
-Gixaka Watch has
+Gixaka Watch is free of Kupo and 
