@@ -18,7 +18,7 @@ like outside them.
 | Date | Note | Added | Deleted | Net |
 | --- | --- | ---: | ---: | ---: |
 | 2026-11-08 | Objectification/Objectification.md | 2 | 8 | -6 |
-| 2026-11-08 | Season 1/Granule.md | 7 | 0 | 7 |
+| 2026-11-08 | Season 1/Granule/Granule.md | 7 | 0 | 7 |
 | 2026-11-08 | Season 1/Granule/Organizers/Granule Planets.md | 2 | 0 | 2 |
 | 2026-11-08 | Season 1/Sinco Renewed/Sinco Renewed.md | 1 | 27 | -26 |
 | 2026-11-08 | Season 2/KesVerse/KesVerse.md | 4 | 4 | 0 |

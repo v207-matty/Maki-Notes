@@ -15,7 +15,7 @@ notes outside them.
 - [ ] Season 1/CNU/Explanations/How the universe works.md
 - [ ] Season 1/CNU/Explanations/Universe history.md
 - [ ] Season 1/CNU/Stories/CNU Part 1.md
-- [ ] Season 1/Granule.md
+- [ ] Season 1/Granule/Granule.md
 - [ ] Season 1/Granule/Events/Earth/The First Blessing.md
 - [ ] Season 1/Granule/Events/Earth/The Magic Mess.md
 - [ ] Season 1/Granule/Events/Earth/The Magic Slave Attack.md
@@ -95,7 +95,7 @@ notes outside them.
 - Season 1/Granule/Organizers
 - Season 1/Granule/Species
 - Season 1/Granule/Planets
-- Season 1/Granule.md
+- Season 1/Granule/Granule.md
 
 ### order: Season 2/KesVerse
 

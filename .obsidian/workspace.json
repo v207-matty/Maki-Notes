@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 1/Granule Groups.md",
+                "file": "Season 1/Granule/Organizers/Granule Groups.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 1/Sinco Colonized AU.md",
+                "file": "Season 1/Granule/Organizers/Granule Groups.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sinco Colonized AU"
+              "title": "Granule Groups"
+            }
+          },
+          {
+            "id": "77b0ae3a35c2deb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Season 1/Granule/Organizers/Granule Events.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Granule Events"
             }
           },
           {
@@ -109,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 1/Granule Events.md",
+                "file": "Season 1/Granule/Organizers/Granule Events.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -312,17 +336,17 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "6ee1c56f7196ea41",
+  "active": "77b0ae3a35c2deb1",
   "lastOpenFiles": [
+    "Season 1/Granule/Granule.md",
+    "Season 1/Granule/Organizers/Granule Groups.md",
+    "Season 1/Sinco Colonized AU.md",
     "README.md",
     "Season 1/CVT.md",
-    "Season 1/Granule.md",
-    "Season 1/Sinco Colonized AU.md",
     "Season 1/Matty Season 1.md",
-    "Season 1/Granule Groups.md",
     "Season 1/Granule/Organizers/Granule Planets.md",
     "Objectification/Organizer/Objectification Characters.md",
-    "Season 1/Granule Events.md",
+    "Season 1/Granule/Organizers/Granule Events.md",
     "Season 1/Granule/Groups/The All-over Magicians.md",
     "Season 1/Granule/Organizers",
     "Objectification/Organizer/Objectification AUs.md",
