@@ -11,8 +11,9 @@ Sinco, mad, tries to fight Donata but she subdues Sinco, knocking him out, and c
 
 Donata wanders the forest, running into Gego, who was patrolling.
 Donata pleads for help and Gego brings her over to The Protectors Zonia Empire ship.
+The ship is hidden
 
-Nitro has a squad of soldiers looking for Sinco and Donata.
+Nitro has a squad of soldiers looking for Sinco and Donata in the forest.
 
 Tirok has a squad colonizing every country and state on his side of the planet.
 
