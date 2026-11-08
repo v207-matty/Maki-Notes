@@ -7,36 +7,36 @@
 ### September
 
 9 / 10 :
-- [[The Strong One]]
-- [[Kina]]
+- The Strong One
+- Kina
 
 9 / 11 :
-- [[Sinco]]
+- Sinco
 
 9 / 14 :
-- [[The Strong One 2]]
+- The Strong One 2
 
 9 / 17 :
-- [[Gego]]
+- Gego
 
 9 / 18 :
-- [[Kina 2]]
+- Kina 2
 
 9 / 19 :
-- [[Kumel]]
+- Kumel
 
 9 / 21 :
-- [[A Gathering]]
+- A Gathering
 
 9 / 25 :
-- [[Sinco 2]]
-- [[A Dark Time]]
-- [[Zonia]]
+- Sinco 2
+- A Dark Time
+- Zonia
 
 ### October
 
 10 / 5 :
-- [[Atin]]
-- [[The Protectors]]
-- [[Titan-X]]
-- [[Titan-X 2]]
+- Atin
+- The Protectors
+- Titan-X
+- Titan-X 2
