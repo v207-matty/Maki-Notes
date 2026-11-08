@@ -7,6 +7,7 @@ Saga 1: [[DBD Saga 1|Battle Of Gods]]
 - Goku is with King Kai, training
 	- Chichi allows this because Mr. Satan gifted Goku and Vegetas family zeni for helping with buu
 - Vegeta is on a cruise with Bulma and co for her birthday
+	- They're doing games and the prize is the dragon balls (for funzies hehe)
 - Beerus arrives on King Kais
 - Goku enters the realm of the gods
 
