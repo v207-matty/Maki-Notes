@@ -36,4 +36,4 @@ Tirok and Nitro fly through the ship, emerging in the sky.
 
 Kumel is flying Kina, Donata, and Gego into a clear part of the forest where Stone and Sinco meet all of them there.
 
-In the sky a figure flies towards Tirok and Nitro, Zonia
+In the sky a figure flies towards Tirok and Nitro, it's Zonia
