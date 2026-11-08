@@ -2,6 +2,8 @@
 
 Calm Season : Titan-X
 
+Titan-X : Skull 
+
 [[Atin]]
 - Atin is the Titainix that calls for The Protectors to help assist in the Titan-X Darlona War
 - Titan-X is being invaded by Darlona
