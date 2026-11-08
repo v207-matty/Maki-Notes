@@ -1,6 +1,6 @@
 #season2 #kesverse #kesverse_arc2 #kesverse_season1 #sinco #sincoau 
 
-# Zonia
+# A Dark Time
 
 The Zonia Empire mothership releases several small Zonia Empire ships.
 Tirok and Nitro emerge from the mothership, having received power boosts.
