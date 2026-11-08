@@ -57,9 +57,10 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 	- Goku wants to achieve the god form again but this time with his own effort
 	- Vegeta wants to achieve the god form so that he is superior to Kakarot
 
-# Saga 2 : Otherworld Attack
+# Saga 2 : Hell Attack
 
 10/777
 
 - King Kai needs help from Goku
-	- Otherworld is under attack
+	- Otherworld is under attack from those in hell
+		- 
