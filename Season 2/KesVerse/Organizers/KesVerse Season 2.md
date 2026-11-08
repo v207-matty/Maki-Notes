@@ -8,7 +8,7 @@ Calm Season : Titan-X
 [[The Protectors]]
 - Team dispute
 - Kina, Gego, Stone, Donata leave to go help Titan-X
-- Sinco and Kumel stay behind
+- Sinco and Kumel stay on their planets doing their thing
 [[Titan-X]]
 - The war
 [[Titan-X 2|Titan X : The Protectors]]
