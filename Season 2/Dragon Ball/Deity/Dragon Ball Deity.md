@@ -4,7 +4,7 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 
 ## Saga 1 : Battle Of Gods
 
-Age : 777
+April, Age 777
 
 - Beerus has woken up and has dreamed of the Super Saiyan God
 
