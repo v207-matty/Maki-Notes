@@ -77,8 +77,10 @@ notes outside them.
 - Season 2/KesVerse/Stories/Season 1/A Dark Time.md — outline
 - Season 2/KesVerse/Stories/Season 1/A Gathering.md — done
 - Season 2/KesVerse/Stories/Season 1/Gego.md — done
+- Season 2/KesVerse/Stories/Season 1/Kina 2.md — done
 - Season 2/KesVerse/Stories/Season 1/Kina.md — done
 - Season 2/KesVerse/Stories/Season 1/Kumel.md — done
+- Season 2/KesVerse/Stories/Season 1/Sinco 2.md — done
 - Season 2/KesVerse/Stories/Season 1/Sinco.md — done
 - Season 2/KesVerse/Stories/Season 1/The Strong One 2.md — done
 - Season 2/KesVerse/Stories/Season 1/The Strong One.md — done
@@ -98,8 +100,8 @@ notes outside them.
 - Season 2/KesVerse/Stories/Season 1/Gego.md
 - Season 2/KesVerse/Stories/Season 1/Kumel.md
 - Season 2/KesVerse/Stories/Season 1/Kina.md
-- Season 2/KesVerse/Stories/Season 1/The Strong One 2.md
 - Season 2/KesVerse/Stories/Season 1/Kina 2.md
+- Season 2/KesVerse/Stories/Season 1/The Strong One 2.md
 - Season 2/KesVerse/Stories/Season 1/A Gathering.md
 - Season 2/KesVerse/Stories/Season 1/Sinco 2.md
 - Season 2/KesVerse/Stories/Season 1/A Dark Time.md
