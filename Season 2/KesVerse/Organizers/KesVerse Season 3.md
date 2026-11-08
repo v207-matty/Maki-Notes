@@ -10,4 +10,6 @@ Danger Season : Kainok Realm
 
 [[Welcome to the Kainok Realm]]
 - The Protectors arrive in the Kainok Realm
-	- Protectors: Kina, Kumel, Gego, Stone, Donata, Sinco
+	- Protectors: Kina, Kumel, Gego, Stone, Donata, and Sinco
+
+[[]]
