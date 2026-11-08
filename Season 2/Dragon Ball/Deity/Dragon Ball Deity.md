@@ -41,3 +41,4 @@ Age : 777
 
 - The Dragon Balls are gathered and Shenron is summoned
 	- The Super Saiyan God ritual requires 4 super saiyans to pour concentrated ki into a fifth
+	- Gohan, Goten, Vegeta, and Trunks, all pour
