@@ -10,4 +10,6 @@ Sinco and Donata meet in the forest, running into each other.
 Sinco, mad, tries to fight Donata but she subdues Sinco, knocking him out, and carrying him.
 
 Donata wanders the forest, running into Gego, who was patrolling.
-Donata pleads t
+Donata pleads for help and Gego brings her over to The Protectors Zonia Empire ship.
+
+
