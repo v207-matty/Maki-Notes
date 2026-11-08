@@ -11,148 +11,13 @@
             "id": "301e7791242f9dbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 1/Granule/Organizers/Granule Groups.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Granule Groups"
-            }
-          },
-          {
-            "id": "531b01dc94c551da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 1/Sinco Colonized AU.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sinco Colonized AU"
-            }
-          },
-          {
-            "id": "e7c9a3470080ebb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 1/Matty Season 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Matty Season 1"
-            }
-          },
-          {
-            "id": "6ee1c56f7196ea41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 1/Granule/Organizers/Granule Groups.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Granule Groups"
-            }
-          },
-          {
-            "id": "77b0ae3a35c2deb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 1/Granule/Organizers/Granule Groups.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Granule Groups"
-            }
-          },
-          {
-            "id": "34291611dbddeb73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 1/Granule/Organizers/Granule Events.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Granule Events"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -336,18 +201,18 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "77b0ae3a35c2deb1",
+  "active": "301e7791242f9dbe",
   "lastOpenFiles": [
+    "Season 1/Granule/Groups/The All-over Magicians.md",
+    "Season 1/Granule/Organizers/Granule Groups.md",
     "Season 1/Granule/Organizers/Granule Events.md",
     "Season 1/Granule/Granule.md",
-    "Season 1/Granule/Organizers/Granule Groups.md",
     "Season 1/Sinco Colonized AU.md",
     "README.md",
     "Season 1/CVT.md",
     "Season 1/Matty Season 1.md",
     "Season 1/Granule/Organizers/Granule Planets.md",
     "Objectification/Organizer/Objectification Characters.md",
-    "Season 1/Granule/Groups/The All-over Magicians.md",
     "Season 1/Granule/Organizers",
     "Objectification/Organizer/Objectification AUs.md",
     "Objectification/Objectification.md",

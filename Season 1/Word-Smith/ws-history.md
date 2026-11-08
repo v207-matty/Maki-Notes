@@ -5,11 +5,11 @@ finds it by the markers below, anywhere in the vault. Counts only, never
 your text. Everything between the markers is rewritten; write what you
 like outside them.
 
-### 2026 — 3 days, +3,247 net
+### 2026 — 3 days, +3,257 net
 
 | Date | Added | Deleted | Net |
 | --- | ---: | ---: | ---: |
-| 2026-11-08 | 279 | 89 | 190 |
+| 2026-11-08 | 290 | 90 | 200 |
 | 2026-11-07 | 3227 | 1100 | 2127 |
 | 2026-11-06 | 1092 | 162 | 930 |
 
@@ -19,7 +19,8 @@ like outside them.
 | --- | --- | ---: | ---: | ---: |
 | 2026-11-08 | Objectification/Objectification.md | 2 | 8 | -6 |
 | 2026-11-08 | Season 1/Granule/Granule.md | 7 | 0 | 7 |
-| 2026-11-08 | Season 1/Granule/Organizers/Granule Events.md | 5 | 0 | 5 |
+| 2026-11-08 | Season 1/Granule/Organizers/Granule Events.md | 8 | 1 | 7 |
+| 2026-11-08 | Season 1/Granule/Organizers/Granule Groups.md | 8 | 0 | 8 |
 | 2026-11-08 | Season 1/Granule/Organizers/Granule Planets.md | 2 | 0 | 2 |
 | 2026-11-08 | Season 1/Sinco Renewed/Sinco Renewed.md | 1 | 27 | -26 |
 | 2026-11-08 | Season 2/KesVerse/KesVerse.md | 4 | 4 | 0 |
