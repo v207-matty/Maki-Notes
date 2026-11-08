@@ -4,7 +4,8 @@
 
 The Protectors arrive on Chabur, going into hiding.
 
-Tirok and Nitro fly into the mother ship, receiving a power up to help take over the planet.
+The Zonia Mothership
+Tirok and Nitro emerge from into the mothership, receiving a power up to help take over the planet.
 
 Sinco and Donata meet in the forest, running into each other.
 Sinco tries to fight Donata but she subdues Sinco, knocking him out, and carrying him.
