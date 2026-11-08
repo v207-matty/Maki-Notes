@@ -10,7 +10,8 @@ Saga 1: [[DBD Saga 1|Battle Of Gods]]
 	- They're doing games and the prize is the dragon balls (for funzies hehe)
 - Beerus arrives on King Kais
 	- Goku and Beerus Spar
-	- Goku is pushed towards SSJ4
+	- Goku is pushed towards SSJ3
+		- Goku has worked towards improving i
 	- SSJ3 Goku pushes Beerus, not a lot but it's something, impressive for a mortal
 - Goku enters the realm of the gods
 
