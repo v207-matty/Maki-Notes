@@ -5,7 +5,7 @@
 On the west side of the world, a city is being destroyed by Tirok and his squads.
 Stone
 
-On the south side of the world, close to T-City, the forests are being searched and tak by Nitro and his squads.
-Sinco runs into one of the forests being taken 
+On the south side of the world, close to T-City, the forests are being searched and taken down by Nitro and his squads.
+Sinco runs into one of the forests being taken down, all the soldiers seeing him and pursuing him.
 
 In T-City, Kumel is flying Kina, Donata, and Gego into the Zonia Empire Mothership.
