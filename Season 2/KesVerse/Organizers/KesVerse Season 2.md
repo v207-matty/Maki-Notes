@@ -13,4 +13,4 @@ Calm Season : Titan-X
 - The Titan-X Darlona war
 [[Titan-X 2|Titan-X : The Protectors]]
 - Kina, Gego, Stone, and Donata arrive
-- The Protectors (KGSD)
+- The Protectors assist in the war
