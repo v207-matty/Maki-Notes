@@ -38,5 +38,9 @@
 10 / 5 :
 - Atin
 - The Protectors
+
+10 / 6 :
 - Titan-X
+
+10 / 6 :
 - Titan-X 2
