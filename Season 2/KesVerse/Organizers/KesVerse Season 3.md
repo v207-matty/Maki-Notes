@@ -9,3 +9,4 @@ Danger Season : Kainok Realm
 - GW has come to get The Protectors because the sabotages to their station has reduced their abilities and they're low on numbers.
 
 [[Welcome to the Kainok Realm]]
+- The Protectors
