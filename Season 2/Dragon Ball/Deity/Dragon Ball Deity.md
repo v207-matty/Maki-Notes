@@ -38,4 +38,4 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 	- They're going to ask Shenron
 
 - The Dragon Balls are gathered and Shenron is summoned
-	- The Super Saiyan God can be easily summoned by a ritual where 4 Super Saiyans
+	- The Super Saiyan God ritual requires 4 super saiyans instead
