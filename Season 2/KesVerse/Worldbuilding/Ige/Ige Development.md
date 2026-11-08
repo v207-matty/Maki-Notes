@@ -228,5 +228,9 @@ Ige : Nei
 Japanese: Jigoku
 Spanish: Infierno
 Italian: Inferno
+Greek: Kólasi
+Russian: Ad
+
+Alokai
 
 ## N
