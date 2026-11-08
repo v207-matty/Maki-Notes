@@ -7,7 +7,7 @@ Stone flies into said city, attacking several soldiers all at once.
 Stone flies further west.
 The soldiers and Tirok follow him.
 
-On the south side of Chabur, close to T-City, the forests are being searched and taken down by Nitro and his squads.
+On the east side of Chabur, close to T-City, the forests are being searched and taken down by Nitro and his squads.
 Sinco runs into one of the forests being taken down.
 All the soldiers see him.
 Sinco runs into the most dense forest on Chabur.
@@ -22,4 +22,5 @@ Kumel grabs it and shatters it in their hand.
 The mothership descends to the ground at an increasing pace.
 The mothership crashes into T-city, a massive explosion resulting from it causing further damage.
 
-Sinco is running 
+Sinco is running towards T-City f
+Stone is flying towards T-City from the east
