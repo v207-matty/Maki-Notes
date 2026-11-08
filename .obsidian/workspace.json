@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/Dragon Ball/Deity/DBD.md",
+                "file": "Season 2/Dragon Ball/Deity/Dragon Ball Deity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DBD"
+              "title": "Dragon Ball Deity"
             }
           },
           {
-            "id": "80d990c8724ac6ba",
+            "id": "9264508edc805346",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/Dragon Ball/Deity/DBD.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DBD"
+              "title": "New tab"
             }
           }
         ],
@@ -240,13 +226,13 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "80d990c8724ac6ba",
+  "active": "9264508edc805346",
   "lastOpenFiles": [
-    "Season 2/Dragon Ball/Deity/DBD.md",
+    "Season 2/Dragon Ball/Deity/Dragon Ball Deity.md",
+    "Season 2/Dragon Ball/Matty Edition/Dragon Ball Z Matty Edition.md",
+    "Season 2/Dragon Ball/Matty Edition/Dragon Ball Matty Edition.md",
     "Season 2/Dragon Ball/Deity/Sagas/DBD Saga 1.md",
     "Season 2/Dragon Ball/Deity/Sagas",
-    "Season 2/Dragon Ball/Matty Edition/DBME.md",
-    "Season 2/Dragon Ball/Matty Edition/DBZME.md",
     "Season 2/Matty Season 2.md",
     "README.md",
     "Season 2/Dragon Ball/Dragon Ball Fanfics.md",

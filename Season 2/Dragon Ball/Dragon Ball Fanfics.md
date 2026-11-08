@@ -1,4 +1,4 @@
 #season2 #dragonball 
 
-[[DBME]]
-[[DBD]]
+[[Dragon Ball Matty Edition]]
+[[Dragon Ball Deity]]

@@ -2,4 +2,4 @@
 
 [[Rules]]
 
-[[DBZME]]
+[[Dragon Ball Z Matty Edition]]

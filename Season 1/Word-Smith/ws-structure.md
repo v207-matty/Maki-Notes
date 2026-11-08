@@ -48,8 +48,8 @@ notes outside them.
 - [ ] Season 1/Sinco Renewed/Writing/Era 2/The Fallen Friend.md
 - [ ] Season 1/Sinco Renewed/Writing/Era 3/Renewed New Gen.md
 - [ ] Season 2/Matty Season 2.md
-- [ ] Season 2/Dragon Ball/Matty Edition/DBME.md
-- [ ] Season 2/Dragon Ball/Matty Edition/DBZME.md
+- [ ] Season 2/Dragon Ball/Matty Edition/Dragon Ball Matty Edition.md
+- [ ] Season 2/Dragon Ball/Matty Edition/Dragon Ball Z Matty Edition.md
 - [ ] Season 2/Dragon Ball/Matty Edition/Rules.md
 - [ ] Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md
 - [ ] Season 2/KesVerse/KesVerse.md
