@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e5f720c8b46ac66e",
+        "id": "1251f5e1f349c3c5",
         "type": "tabs",
         "children": [
           {
-            "id": "6571dc9d8e2d33e7",
+            "id": "301e7791242f9dbe",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -201,10 +201,10 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "6571dc9d8e2d33e7",
+  "active": "301e7791242f9dbe",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Stories/KesVerse Timeline.md",
     "Season 2/KesVerse/KesVerse.md",
+    "Season 2/KesVerse/Stories/KesVerse Timeline.md",
     "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
     "Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md",
     "Season 2/KesVerse/Stories/KesVerse Doc.md",
