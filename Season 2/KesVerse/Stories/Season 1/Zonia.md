@@ -27,4 +27,7 @@ Stone is flying towards T-City from the east.
 Tirok and his squads are following Stone.
 Nitro and his squads are following Sinco.
 
-They all meet in the middle, Stone continuing to fly west.
+They all meet in the middle.
+Stone continues to fly west.
+Sinco continues to run east.
+Nitro and Tirok quickly stop to av
