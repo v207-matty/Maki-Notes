@@ -47,4 +47,4 @@ They have a plan.
 
 Sinco distracts Nitro and his squads.
 Stone distracts Tirok and his squads.
-Kumel brings Kina into the ship
+Kumel brings Kina, Donata, and Gego into the ship
