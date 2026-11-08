@@ -25,4 +25,4 @@ They need a plan.
 Kina and Stone have no idea.
 Kumel suggests stealing the Kesumel and give it to them.
 Gego suggests that they take the Kesumel before Zonia gets it.
-Donata says they need to disable the primary power source 
+Donata says they need to disable the power source and then get the Kesumel because then they'll only have to worry about the things powered by
