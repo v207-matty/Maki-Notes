@@ -6,4 +6,4 @@ On the west side of the world, a city is being destroyed by Tirok and his squads
 
 On the south side of the world, close to T-City, the forest is being searched by Nitro and his squads.
 
-In T-City, Kumel, 
+In T-City, Kumel is carrying Kina, Donata, 
