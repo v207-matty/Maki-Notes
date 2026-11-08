@@ -33,4 +33,4 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 - Buu hogs food again and Beerus gets pissed off
 	- "These mortals must learn the destructive capability of The God Of Destruction."
 
-- Beerus d
+- Beerus is about to haikai the cruise ship
