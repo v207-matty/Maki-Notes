@@ -34,4 +34,7 @@ Sinco wakes up and nearly jumps at Donata but stops when he notices other people
 He tenses up and gets into a corner.
 
 Zonia is on top of the mother ship.
-Zonia calls downward the tube with the sp
+Zonia calls downward the tube with the Kesumel sphere.
+He opens the sphere.
+He takes the Kesumel.
+He takes it out of it
