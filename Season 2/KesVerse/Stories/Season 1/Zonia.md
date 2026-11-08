@@ -15,4 +15,5 @@ The soldiers and Nitro follow.
 
 In T-City, Kumel is flying Kina, Donata, and Gego into the Zonia Empire Mothership.
 As they enter the mothership Kumel freezes the guards that see them and Donata shoves them so that the ice and them break.
-Gego walks them to 
+
+Gego and Kina fi
