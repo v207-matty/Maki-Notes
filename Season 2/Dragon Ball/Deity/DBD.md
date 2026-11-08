@@ -5,7 +5,7 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 Saga 1: [[DBD Saga 1|Battle Of Gods]]
 - Beerus has woken up and has dreamed of the Super Saiyan God
 - Goku is with King Kai, training
-	- Chichi allows this because Mr. Satan gifted t
+	- Chichi allows this because Mr. Satan gifted Goku and Vegetas family se
 - Goku enters the realm of the gods
 
 Saga 2: [[DBD Saga 2]]
