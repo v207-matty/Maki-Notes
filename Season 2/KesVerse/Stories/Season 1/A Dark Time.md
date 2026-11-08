@@ -18,7 +18,7 @@ The squad is also performing deforestation.
 
 Tirok has squads colonizing every piece of land on his side of the planet.
 
-Donata rests Sinco on a wall inside The Protectors Zonia Empire ship.
+Inside The Protectors Zonia Empire ship
 Everyone is acquainted.
 They need a plan.
 
