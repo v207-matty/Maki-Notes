@@ -24,7 +24,9 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 
 - Beerus wants to spar with Vegeta
 	- Vegeta wishes not to
-	- Beerus 
+	- Beerus is about to force him
 
 - Bulma finds Beerus and Whis and they get to eat some good food
 	- Beerus and Whis enjoy the festivities
+
+- 
