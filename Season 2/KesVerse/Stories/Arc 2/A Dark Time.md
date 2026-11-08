@@ -39,4 +39,6 @@ He opens the sphere.
 He takes the Kesumel.
 He takes it out of its original container, tossing it to the ground below.
 He puts the Kesumel into his armor.
-Zonia 
+Zonia has powered up.
+
+Inside The Protectors 
