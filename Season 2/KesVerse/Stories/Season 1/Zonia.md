@@ -22,5 +22,7 @@ Kumel grabs it and shatters it in their hand.
 The mothership descends to the ground at an increasing pace.
 The mothership crashes into T-city, a massive explosion resulting from it causing further damage.
 
-Sinco is running towards T-City f
-Stone is flying towards T-City from the east
+Sinco is running towards T-City from the west.
+Stone is flying towards T-City from the east.
+Tirok and his squads are following Stone.
+Nitro and his squads 
