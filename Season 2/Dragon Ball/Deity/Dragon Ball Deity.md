@@ -45,7 +45,7 @@ Age : 777
 	- Goku begins to float into the sky and transform
 
 - The Super Saiyan God is here
-	- Goku briefly takes a second to 
+	- Goku briefly takes a bit to get used to the power
 
 - Beerus and Goku fight
 	- 
