@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 1/Granule/Organizers/Granule Planets.md",
+                "file": "Season 1/Granule/Granule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Granule Planets"
+              "title": "Granule"
             }
           }
         ],
@@ -240,8 +240,9 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "38ff71c0b42f161d",
+  "active": "34291611dbddeb73",
   "lastOpenFiles": [
+    "Season 1/Granule/Groups/The All-over Magicians.md",
     "Season 1/Granule/Granule.md",
     "Season 1/Granule/Organizers/Granule Planets.md",
     "Season 1/Granule/Organizers",
@@ -270,7 +271,6 @@
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md",
     "Season 2/KesVerse/Worldbuilding/Kesumel.md",
     "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md",
-    "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Season 2/KesVerse/Organizers",
