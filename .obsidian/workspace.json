@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "831b0cf80d54a0d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "KesVerse Season 2"
-            }
-          },
-          {
             "id": "ffb8fa7d5d718cdc",
             "type": "leaf",
             "state": {
@@ -264,15 +240,15 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "831b0cf80d54a0d7",
+  "active": "ffb8fa7d5d718cdc",
   "lastOpenFiles": [
     "Season 2/KesVerse/Stories/KesVerse Timeline.md",
+    "Season 2/KesVerse/Stories/Season 1/Zonia.md",
+    "Season 2/KesVerse/Organizers/KesVerse Season 1.md",
     "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
     "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
     "The Protectors 1.md",
-    "Season 2/KesVerse/Organizers/KesVerse Season 1.md",
     "Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md",
-    "Season 2/KesVerse/Stories/Season 1/Zonia.md",
     "Season 2/KesVerse/Stories/Season 1/A Dark Time.md",
     "Season 2/KesVerse/Stories/Season 1/Kumel.md",
     "Season 2/KesVerse/Stories/KesVerse Doc.md",
