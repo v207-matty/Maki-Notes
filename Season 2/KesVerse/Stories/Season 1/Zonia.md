@@ -34,4 +34,6 @@ The mothership descends to the ground at an increasing pace.
 The mothership crashes into T-city, a massive explosion resulting from it causing further damage especially once it begins to fall forward.
 Tirok and Nitro fly through the ship, emerging in the sky.
 
-Kumel is flying Kina, Donata, and Gego into a clear part of the forest where Stone and Sinco make it there aswell
+Kumel is flying Kina, Donata, and Gego into a clear part of the forest where Stone and Sinco meet all of them there.
+
+In the sky a figure flies towards Tirok and Nitro,
