@@ -14,9 +14,9 @@ Donata pleads for help and Gego brings her over to The Protectors Zonia Empire s
 The ship is hidden via it floating above the ocean and cloaking itself
 
 Inside The Protectors Zonia Empire ship.
-Sinco wakes up and Donata puts him down
-Everyone is acquainted.
-They need a plan.
+Sinco wakes up and Donata puts him down.
+Everyone gets acquainted and becomes friends based on similar or shared goals
+Though they need a plan.
 
 Kina, Sinco, and Stone have no idea.
 Kumel suggests stealing the Kesumel and give it to them.
