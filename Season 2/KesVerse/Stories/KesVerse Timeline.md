@@ -37,3 +37,5 @@
 
 10 / 5 :
 - Atin
+- The Protectors
+- Titan-
