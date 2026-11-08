@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Organizers/KesVerse Season 3.md",
+                "file": "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KesVerse Season 3"
+              "title": "KesVerse Season 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,10 +239,11 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "1bccf62a3a6f5c62",
+  "active": "301e7791242f9dbe",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Worldbuilding/KesVerse Realms.md",
+    "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
     "Season 2/KesVerse/Organizers/KesVerse Season 3.md",
+    "Season 2/KesVerse/Worldbuilding/KesVerse Realms.md",
     "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md",
     "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
@@ -257,7 +257,6 @@
     "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md",
     "Season 2/KesVerse/Organizers/Ige Language.md",
-    "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
     "README.md",
     "Season 2/KesVerse/Stories/Season 1/Flawless Execution.md",
     "Season 2/KesVerse/Stories/Season 1/Zonia.md",
