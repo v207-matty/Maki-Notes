@@ -1,5 +1,4 @@
 #season2
 
-[[DBME]]
 [[KesVerse]]
-[[DBD]]
+[[Dragon Ball Fanfics]]
