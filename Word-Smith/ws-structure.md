@@ -82,11 +82,11 @@ notes outside them.
 - Season 2/KesVerse/Stories/Arc 1/Kumel.md — done
 - Season 2/KesVerse/Stories/Arc 1/Sinco.md — done
 - Season 2/KesVerse/Stories/Arc 1/The Strong One.md — done
+- Season 2/KesVerse/Stories/Arc 2/A Dark Time.md — outline
 - Season 2/KesVerse/Stories/Arc 2/A Gathering.md — done
 - Season 2/KesVerse/Stories/Arc 2/Kina 2.md — done
 - Season 2/KesVerse/Stories/Arc 2/Sinco 2.md — done
 - Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md — done
-- Season 2/KesVerse/Stories/Arc 2/Zonia.md — outline
 
 ### order: Season 2/KesVerse
 
@@ -109,6 +109,6 @@ notes outside them.
 - Season 2/KesVerse/Stories/Arc 2/Kina 2.md
 - Season 2/KesVerse/Stories/Arc 2/A Gathering.md
 - Season 2/KesVerse/Stories/Arc 2/Sinco 2.md
-- Season 2/KesVerse/Stories/Arc 2/Zonia.md
+- Season 2/KesVerse/Stories/Arc 2/A Dark Time.md
 
 <!-- wordsmith:structure:end -->

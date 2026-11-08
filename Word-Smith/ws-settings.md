@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-07 19:04:02
+- written: 2026-11-07 19:10:38
 
 ```json
 {
@@ -206,7 +206,7 @@ not the plugin folder — can get everything back.
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": "done",
     "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md": "done",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": "done",
-    "Season 2/KesVerse/Stories/Arc 2/Zonia.md": "outline"
+    "Season 2/KesVerse/Stories/Arc 2/A Dark Time.md": "outline"
   },
   "folderTargets": {},
   "goalDeadlines": {},
@@ -709,7 +709,7 @@ not the plugin folder — can get everything back.
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md": 248,
     "Season 2/KesVerse/Organizers/KesVerse Arcs.md": 9,
     "Season 2/KesVerse/Organizers/KesVerse Arc 1.md": 12,
-    "Season 2/KesVerse/Organizers/KesVerse Arc 2.md": 22,
+    "Season 2/KesVerse/Organizers/KesVerse Arc 2.md": 24,
     "Season 2/KesVerse/Worldbuilding/Kesumel.md": 107,
     "Season 2/KesVerse/Organizers/Ige Language.md": 16,
     "Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md": 8,
@@ -717,7 +717,7 @@ not the plugin folder — can get everything back.
     "Season 2/KesVerse/Organizers/KesVerse Season 1.md": 9,
     "Season 2/KesVerse/Stories/KesVerse Timeline.md": 37,
     "Season 2/Matty Season 2.md": 3,
-    "Season 2/KesVerse/Stories/Arc 2/Zonia.md": 33
+    "Season 2/KesVerse/Stories/Arc 2/A Dark Time.md": 79
   },
   "exportOpts": {
     "format": "docx",
