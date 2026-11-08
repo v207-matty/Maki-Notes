@@ -11,10 +11,24 @@
             "id": "53101eda4eeae799",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "KesVerse Seasons"
             }
           }
         ]
@@ -203,6 +217,8 @@
   },
   "active": "53101eda4eeae799",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Organizers/KesVerse Season 3.md",
+    "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
     "README.md",
     "Season 2/KesVerse/Organizers/KesVerse.md",
     "Season 2/KesVerse/Organizers/KesVerse Season 1.md",
@@ -220,7 +236,6 @@
     "Season 2/KesVerse/Stories/Season 1/Gego.md",
     "Season 2/KesVerse/Stories/Season 1/Sinco.md",
     "Season 2/KesVerse/Stories/Season 1/The Strong One.md",
-    "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
     "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
     "The Protectors 1.md",
     "Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md",
@@ -228,7 +243,6 @@
     "Season 2/KesVerse/Organizers/KesVerse Arc 2.md",
     "Season 2/KesVerse/Organizers/KesVerse Arc 1.md",
     "Season 2/KesVerse/Worldbuilding/Kesumel.md",
-    "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Season 2/KesVerse/Organizers",
