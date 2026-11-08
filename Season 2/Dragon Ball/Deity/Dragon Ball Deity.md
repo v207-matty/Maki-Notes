@@ -55,9 +55,9 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 
 - Beerus wishes to see Goku get stronger
 	- Goku wants to achieve the god form again but this time with his own effort
-	- V
+	- Vegeta wants to achieve the god form so that he is superior to Kakarot
 
-# Saga 2
+# Saga 2 :
 
 10/777
 
