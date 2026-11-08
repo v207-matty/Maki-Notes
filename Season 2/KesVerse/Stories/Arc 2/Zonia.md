@@ -2,6 +2,6 @@
 
 # Zonia
 
-The Protectors arrive on Chabur
+The Protectors arrive on Chabur, going into hiding
 
 
