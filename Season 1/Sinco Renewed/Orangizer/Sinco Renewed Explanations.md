@@ -1,9 +1,6 @@
 #season1 #sinco #sincoau #renewed
 
-[[Lex Breaker]]
-[[Loroc]]
-[[Tirok]]
-[[Nicom]]
+[[Sinco Renewed Characters]]
 
 [[Countries]]
 [[Whys]]

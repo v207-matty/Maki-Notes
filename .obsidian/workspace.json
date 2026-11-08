@@ -11,10 +11,24 @@
             "id": "9b3622420f4d3d52",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Season 1/Sinco Renewed/Orangizer/Sinco Renewed Explanations.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sinco Renewed Explanations"
             }
           }
         ]
@@ -203,6 +217,9 @@
   },
   "active": "9b3622420f4d3d52",
   "lastOpenFiles": [
+    "Season 1/Sinco Renewed/Orangizer/Sinco Renewed Writing.md",
+    "Season 1/Sinco Renewed/Orangizer/Sinco Renewed Characters.md",
+    "Season 1/Sinco Renewed/Orangizer/Sinco Renewed Explanations.md",
     "Season 1/Granule/Granule.md",
     "Season 1/Granule/Groups/The All-over Magicians.md",
     "Season 1/Granule/Organizers/Granule Groups.md",
@@ -217,10 +234,8 @@
     "Objectification/Organizer/Objectification AUs.md",
     "Objectification/Objectification.md",
     "Objectification/World.md",
-    "Season 1/Sinco Renewed/Orangizer/Sinco Renewed Writing.md",
     "Objectification/Organizer",
     "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
-    "Season 1/Sinco Renewed/Orangizer/Sinco Renewed Explanations.md",
     "Season 1/Sinco Renewed/Sinco Renewed.md",
     "Season 1/Sinco Renewed/Explanations/Worldbuilding.md",
     "Season 1/Sinco Renewed/Explanations/Whys.md",
@@ -231,7 +246,6 @@
     "Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md",
     "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
     "Season 2/KesVerse/Stories/KesVerse Doc.md",
-    "Season 2/KesVerse/Stories/KesVerse Timeline.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Season 2/KesVerse/Organizers",
