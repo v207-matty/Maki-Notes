@@ -45,6 +45,6 @@ Inside The Protectors Zonia Empire ship.
 Everyone is acquainted again.
 They have a plan.
 
-Sinco and Donata distracts Nitro and his squads.
-Gego and Stone distracts Tirok and his squads.
-Kumel brings Kina 
+Sinco distracts Nitro and his squads.
+Stone distracts Tirok and his squads.
+Kumel brings Kina into the ship
