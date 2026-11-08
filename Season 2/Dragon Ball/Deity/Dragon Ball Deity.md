@@ -63,4 +63,4 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 
 - King Kai needs help from Goku
 	- Otherworld is under attack from those in hell
-		- Bibidi is leading a charge to overtake the Otherworld
+		- Babidi is leading a charge to overtake the Otherworld
