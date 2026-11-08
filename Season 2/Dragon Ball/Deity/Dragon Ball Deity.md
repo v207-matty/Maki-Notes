@@ -61,4 +61,5 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 
 10/777
 
-- 
+- King Kai needs help from Goku
+	- Otherworld is under attack
