@@ -11,24 +11,10 @@
             "id": "53101eda4eeae799",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/KesVerse/Worldbuilding/KesVerse Realms.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "KesVerse Realms"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -217,8 +203,8 @@
   },
   "active": "53101eda4eeae799",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md",
     "Season 2/KesVerse/Worldbuilding/KesVerse Realms.md",
+    "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md",
     "Season 2/KesVerse/Worldbuilding/Kesumel.md",
     "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md",
