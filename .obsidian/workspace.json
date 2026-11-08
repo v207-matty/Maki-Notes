@@ -210,14 +210,9 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "word-smith:Open the Word-Smith menu": false,
-      "publish:Publish changes...": false,
-      "workspaces:Manage workspace layouts": false
+      "word-smith:Open the Word-Smith menu": false
     }
   },
   "active": "b3049f5284d08b8d",
