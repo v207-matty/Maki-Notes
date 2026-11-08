@@ -31,5 +31,6 @@ Donata says they need to disable the power source and then get the Kesumel becau
 Everyone agrees with that.
 
 Sinco wakes up and nearly jumps at Donata but stops when he notices other people.
+He tenses up and gets into a corner.
 
 Zonia is 
