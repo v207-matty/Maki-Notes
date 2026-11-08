@@ -17,11 +17,11 @@ like outside them.
 
 | Date | Note | Added | Deleted | Net |
 | --- | --- | ---: | ---: | ---: |
-| 2026-11-08 | Objectification/Objectification.md | 2 | 8 | -6 |
 | 2026-11-08 | Season 1/Granule/Granule.md | 8 | 0 | 8 |
 | 2026-11-08 | Season 1/Granule/Organizers/Granule Events.md | 8 | 1 | 7 |
 | 2026-11-08 | Season 1/Granule/Organizers/Granule Groups.md | 8 | 0 | 8 |
 | 2026-11-08 | Season 1/Granule/Organizers/Granule Planets.md | 2 | 0 | 2 |
+| 2026-11-08 | Season 1/Objectification/Objectification.md | 2 | 8 | -6 |
 | 2026-11-08 | Season 1/Sinco Renewed/Orangizer/Sinco Renewed Characters.md | 4 | 0 | 4 |
 | 2026-11-08 | Season 1/Sinco Renewed/Orangizer/Sinco Renewed Explanations.md | 3 | 5 | -2 |
 | 2026-11-08 | Season 1/Sinco Renewed/Sinco Renewed.md | 1 | 27 | -26 |

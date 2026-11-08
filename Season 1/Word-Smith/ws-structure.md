@@ -25,15 +25,15 @@ notes outside them.
 - [ ] Season 1/Granule/Planets/Earth.md
 - [ ] Season 1/Granule/Planets/Tosmut.md
 - [ ] Season 1/Granule/Species/Tosullins.md
-- [ ] Objectification/Cumbo.md
-- [ ] Objectification/Objectification.md
-- [ ] Objectification/World.md
-- [ ] Objectification/AUs/Kinky Katty.md
-- [ ] Objectification/AUs/Trapped Katty.md
-- [ ] Objectification/Characters/Akan.md
-- [ ] Objectification/Characters/Katty.md
-- [ ] Objectification/Characters/Subas.md
-- [ ] Objectification/Characters/Susu.md
+- [ ] Season 1/Objectification/Cumbo.md
+- [ ] Season 1/Objectification/Objectification.md
+- [ ] Season 1/Objectification/World.md
+- [ ] Season 1/Objectification/AUs/Kinky Katty.md
+- [ ] Season 1/Objectification/AUs/Trapped Katty.md
+- [ ] Season 1/Objectification/Characters/Akan.md
+- [ ] Season 1/Objectification/Characters/Katty.md
+- [ ] Season 1/Objectification/Characters/Subas.md
+- [ ] Season 1/Objectification/Characters/Susu.md
 - [ ] Season 1/Sinco Renewed/Sinco Renewed.md
 - [ ] Season 1/Sinco Renewed/Explanations/Countries.md
 - [ ] Season 1/Sinco Renewed/Explanations/Whys.md
