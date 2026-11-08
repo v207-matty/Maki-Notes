@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "DBD"
             }
+          },
+          {
+            "id": "80d990c8724ac6ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/Dragon Ball/Deity/DBD.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DBD"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,10 +240,10 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "04dd3238918fdfd5",
+  "active": "80d990c8724ac6ba",
   "lastOpenFiles": [
-    "Season 2/Dragon Ball/Deity/Sagas/DBD Saga 1.md",
     "Season 2/Dragon Ball/Deity/DBD.md",
+    "Season 2/Dragon Ball/Deity/Sagas/DBD Saga 1.md",
     "Season 2/Dragon Ball/Deity/Sagas",
     "Season 2/Dragon Ball/Matty Edition/DBME.md",
     "Season 2/Dragon Ball/Matty Edition/DBZME.md",
