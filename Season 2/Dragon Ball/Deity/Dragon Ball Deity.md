@@ -48,4 +48,5 @@ Age : 777
 	- Goku briefly takes a bit to get used to the power
 
 - Beerus and Goku fight
+	- Goku pushes Beerus far (to 70)
 	- Beerus wins
