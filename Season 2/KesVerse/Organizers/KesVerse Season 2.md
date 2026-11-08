@@ -2,7 +2,7 @@
 
 Calm Season : Titan-X
 
-[[Atin]]
+[[Titan-X 1|Titan-X : T]]
 - Atin is the Titainix that calls for The Protectors
 - Titan-X is being invaded by Darlona
 [[Atin 2|Atin : The Protectors]]
