@@ -8,4 +8,4 @@ Danger Season : Kainok Realm
 	- Sil, the Kainok Realm is swallowing the Teinom Realm
 - GW has come to get The Protectors because the sabotages to their station has reduced their abilities and they're low on numbers.
 
-[[Welcome To The Kainok Realm]]
+[[Welcome to the Kainok Realm]]
