@@ -44,4 +44,8 @@ Age : 777
 	- Gohan, Goten, Vegeta, and Trunks, all pour their ki into Goku, concentrating deeply all of them as they turn Super Saiyan
 	- Goku begins to float into the sky and transform
 
-- The Super Saiyan God
+- The Super Saiyan God is here
+	- Goku briefly takes a second to 
+
+- Beerus and Goku fight
+	- 
