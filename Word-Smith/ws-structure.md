@@ -87,6 +87,7 @@ notes outside them.
 - Season 2/KesVerse/Stories/Arc 2/Kina 2.md — done
 - Season 2/KesVerse/Stories/Arc 2/Sinco 2.md — done
 - Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md — done
+- Season 2/KesVerse/Stories/Arc 2/Zonia.md — blocked
 
 ### order: Season 2/KesVerse
 
