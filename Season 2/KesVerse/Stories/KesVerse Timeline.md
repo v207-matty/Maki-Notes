@@ -36,6 +36,7 @@
 ### October
 
 10 / 5 :
-- Atin
-- The Protectors
-- Titan-
+- [[Atin]]
+- [[The Protectors]]
+- [[Titan-X]]
+- [[Titan-X 2]]
