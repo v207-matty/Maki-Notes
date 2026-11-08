@@ -7,4 +7,6 @@ The Protectors arrive on Chabur, going into hiding.
 Tirok and Nitro fly into the mother ship, receiving a power up to help take over the planet.
 
 Sinco and Donata meet, running into each other.
-Sinco tries to fight Donata but she subdues
+Sinco tries to fight Donata but she subdues Sinco, knocking him out, and carrying him.
+
+
