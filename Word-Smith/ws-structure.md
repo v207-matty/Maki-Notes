@@ -8,14 +8,14 @@ notes outside them.
 ### 
 
 - [ ] README.md
-- [ ] Season 1/CVT.md
+- [ ] CVT.md
 - [ ] Season 1/Matty Season 1.md
-- [ ] Season 1/Sinco Colonized AU.md
+- [ ] Sinco Colonized AU.md
 - [ ] Season 1/CNU/CNU.md
 - [ ] Season 1/CNU/Explanations/How the universe works.md
 - [ ] Season 1/CNU/Explanations/Universe history.md
 - [ ] Season 1/CNU/Stories/CNU Part 1.md
-- [ ] Season 1/Granule/Granule.md
+- [ ] Granule.md
 - [ ] Season 1/Granule/Events/Earth/The First Blessing.md
 - [ ] Season 1/Granule/Events/Earth/The Magic Mess.md
 - [ ] Season 1/Granule/Events/Earth/The Magic Slave Attack.md
@@ -25,15 +25,15 @@ notes outside them.
 - [ ] Season 1/Granule/Planets/Earth.md
 - [ ] Season 1/Granule/Planets/Tosmut.md
 - [ ] Season 1/Granule/Species/Tosullins.md
-- [ ] Season 1/Objectification/Cumbo.md
-- [ ] Season 1/Objectification/Objectification.md
-- [ ] Season 1/Objectification/World.md
-- [ ] Season 1/Objectification/AUs/Kinky Katty.md
-- [ ] Season 1/Objectification/AUs/Trapped Katty.md
-- [ ] Season 1/Objectification/Characters/Akan.md
-- [ ] Season 1/Objectification/Characters/Katty.md
-- [ ] Season 1/Objectification/Characters/Subas.md
-- [ ] Season 1/Objectification/Characters/Susu.md
+- [ ] Objectification/Cumbo.md
+- [ ] Objectification/Objectification.md
+- [ ] Objectification/World.md
+- [ ] Objectification/AUs/Kinky Katty.md
+- [ ] Objectification/AUs/Trapped Katty.md
+- [ ] Objectification/Characters/Akan.md
+- [ ] Objectification/Characters/Katty.md
+- [ ] Objectification/Characters/Subas.md
+- [ ] Objectification/Characters/Susu.md
 - [ ] Season 1/Sinco Renewed/Sinco Renewed.md
 - [ ] Season 1/Sinco Renewed/Explanations/Countries.md
 - [ ] Season 1/Sinco Renewed/Explanations/Whys.md
@@ -95,7 +95,7 @@ notes outside them.
 - Season 1/Granule/Organizers
 - Season 1/Granule/Species
 - Season 1/Granule/Planets
-- Season 1/Granule/Granule.md
+- Granule.md
 
 ### order: Season 2/KesVerse
 

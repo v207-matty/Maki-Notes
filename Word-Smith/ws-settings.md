@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-08 00:02:35
+- written: 2026-11-08 00:57:50
 
 ```json
 {
@@ -199,15 +199,15 @@ not the plugin folder — can get everything back.
   "fileStatus": {
     "Season 2/KesVerse/Stories/Season 1/A Dark Time.md": "outline",
     "Season 2/KesVerse/Stories/Season 1/A Gathering.md": "done",
-    "Season 2/KesVerse/Stories/Season 1/The Strong One 2.md": "done",
+    "Season 2/KesVerse/Stories/Season 1/Flawless Execution.md": "outline",
     "Season 2/KesVerse/Stories/Season 1/Gego.md": "done",
+    "Season 2/KesVerse/Stories/Season 1/Kina 2.md": "done",
     "Season 2/KesVerse/Stories/Season 1/Kina.md": "done",
     "Season 2/KesVerse/Stories/Season 1/Kumel.md": "done",
-    "Season 2/KesVerse/Stories/Season 1/Sinco.md": "done",
-    "Season 2/KesVerse/Stories/Season 1/The Strong One.md": "done",
-    "Season 2/KesVerse/Stories/Season 1/Kina 2.md": "done",
     "Season 2/KesVerse/Stories/Season 1/Sinco 2.md": "done",
-    "Season 2/KesVerse/Stories/Season 1/Flawless Execution.md": "outline",
+    "Season 2/KesVerse/Stories/Season 1/Sinco.md": "done",
+    "Season 2/KesVerse/Stories/Season 1/The Strong One 2.md": "done",
+    "Season 2/KesVerse/Stories/Season 1/The Strong One.md": "done",
     "Season 2/KesVerse/Stories/Season 1/Zonia.md": "blocked"
   },
   "folderTargets": {},
@@ -694,18 +694,16 @@ not the plugin folder — can get everything back.
   "historyBaselines": {
     "README.md": 23,
     "Word-Smith/WS.md": 3,
-    "Season 2/KesVerse/KesVerse.md": 21,
     "Season 2/KesVerse/Stories/KesVerse Doc.md": 6927,
-    "Season 1/Matty Season 1.md": 10,
     "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md": 178,
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md": 263,
-    "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md": 248,
+    "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md": 265,
     "Season 2/KesVerse/Worldbuilding/Kesumel.md": 107,
     "Season 2/KesVerse/Organizers/Ige Language.md": 16,
-    "Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md": 8,
-    "Season 2/KesVerse/Organizers/KesVerse Seasons.md": 9,
-    "Season 2/KesVerse/Organizers/KesVerse Season 1.md": 34,
-    "Season 2/KesVerse/Stories/KesVerse Timeline.md": 59,
+    "Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md": 10,
+    "Season 2/KesVerse/Organizers/KesVerse Seasons.md": 12,
+    "Season 2/KesVerse/Organizers/KesVerse Season 1.md": 41,
+    "Season 2/KesVerse/Stories/KesVerse Timeline.md": 62,
     "Season 2/Matty Season 2.md": 3,
     "Season 2/KesVerse/Stories/Season 1/The Strong One.md": 1013,
     "Season 2/KesVerse/Stories/Season 1/Kumel.md": 468,
@@ -719,7 +717,25 @@ not the plugin folder — can get everything back.
     "Season 2/KesVerse/Stories/Season 1/A Dark Time.md": 311,
     "Season 2/KesVerse/Organizers/KesVerse Season 2.md": 77,
     "Season 2/KesVerse/Stories/Season 1/Flawless Execution.md": 333,
-    "Season 2/KesVerse/Stories/Season 1/Zonia.md": 6
+    "Season 2/KesVerse/Stories/Season 1/Zonia.md": 6,
+    "Season 2/KesVerse/Organizers/KesVerse Season 3.md": 77,
+    "Season 2/KesVerse/Worldbuilding/KesVerse Realms.md": 78,
+    "Season 2/KesVerse/KesVerse.md": 17,
+    "Season 1/Granule/Organizers/Granule Planets.md": 4,
+    "Season 1/Granule/Groups/The All-over Magicians.md": 22,
+    "Granule Events.md": 0,
+    "Granule Groups.md": 0,
+    "Granule.md": 32,
+    "Objectification/Objectification.md": 74,
+    "Objectification/Organizer/Objectification Characters.md": 7,
+    "Objectification/World.md": 519,
+    "Objectification/Organizer/Objectification AUs.md": 7,
+    "Sinco Renewed/Sinco Renewed.md": 14,
+    "Sinco Renewed/Explanations/Worldbuilding.md": 36,
+    "Sinco Renewed/Orangizer/Sinco Renewed Explanations.md": 12,
+    "Sinco Renewed/Explanations/Whys.md": 216,
+    "Sinco Renewed/Orangizer/Sinco Renewed Writing.md": 27,
+    "Matty Season 1.md": 10
   },
   "exportOpts": {
     "format": "docx",

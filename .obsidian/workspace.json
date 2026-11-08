@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 1/Objectification/Organizer/Objectification Characters.md",
+                "file": "Granule Groups.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Objectification Characters"
+              "title": "Granule Groups"
+            }
+          },
+          {
+            "id": "531b01dc94c551da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sinco Colonized AU.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sinco Colonized AU"
+            }
+          },
+          {
+            "id": "e7c9a3470080ebb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matty Season 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Matty Season 1"
             }
           },
           {
@@ -37,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 1/Granule/Granule.md",
+                "file": "Granule Events.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Granule"
+              "title": "Granule Events"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,24 +288,28 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "34291611dbddeb73",
+  "active": "e7c9a3470080ebb8",
   "lastOpenFiles": [
-    "Season 1/Granule/Groups/The All-over Magicians.md",
-    "Season 1/Granule/Granule.md",
+    "Sinco Colonized AU.md",
+    "README.md",
+    "Granule Groups.md",
+    "Granule.md",
     "Season 1/Granule/Organizers/Granule Planets.md",
+    "Objectification/Organizer/Objectification Characters.md",
+    "Granule Events.md",
+    "Season 1/Granule/Groups/The All-over Magicians.md",
     "Season 1/Granule/Organizers",
-    "Season 1/Objectification/Organizer/Objectification AUs.md",
-    "Season 1/Objectification/Organizer/Objectification Characters.md",
-    "Season 1/Objectification/Objectification.md",
-    "Season 1/Objectification/World.md",
-    "Season 1/Sinco Renewed/Orangizer/Sinco Renewed Writing.md",
-    "Season 1/Objectification/Organizer",
+    "Objectification/Organizer/Objectification AUs.md",
+    "Objectification/Objectification.md",
+    "Objectification/World.md",
+    "Sinco Renewed/Orangizer/Sinco Renewed Writing.md",
+    "Objectification/Organizer",
     "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
-    "Season 1/Sinco Renewed/Orangizer/Sinco Renewed Explanations.md",
-    "Season 1/Sinco Renewed/Sinco Renewed.md",
-    "Season 1/Sinco Renewed/Explanations/Worldbuilding.md",
-    "Season 1/Sinco Renewed/Explanations/Whys.md",
-    "Season 1/Sinco Renewed/Orangizer",
+    "Sinco Renewed/Orangizer/Sinco Renewed Explanations.md",
+    "Sinco Renewed/Sinco Renewed.md",
+    "Sinco Renewed/Explanations/Worldbuilding.md",
+    "Sinco Renewed/Explanations/Whys.md",
+    "Sinco Renewed/Orangizer",
     "Season 2/KesVerse/Worldbuilding/KesVerse Realms.md",
     "Season 2/KesVerse/Organizers/KesVerse Season 3.md",
     "Season 2/KesVerse/KesVerse.md",
@@ -267,10 +319,6 @@
     "Season 2/KesVerse/Stories/KesVerse Timeline.md",
     "Season 2/KesVerse/Organizers/KesVerse Season 1.md",
     "Season 2/KesVerse/Stories/Season 1/Kina.md",
-    "Season 2/Matty Season 2.md",
-    "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md",
-    "Season 2/KesVerse/Worldbuilding/Kesumel.md",
-    "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Season 2/KesVerse/Organizers",

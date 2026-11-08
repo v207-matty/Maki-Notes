@@ -7,4 +7,4 @@ Granule is a retro-futuristic world, filled with several advanced planets and so
 [[Granule Groups]]
 
 [[Tosullins]]
-[[Tosullins]]
+[[The Tosullin Grain]]
