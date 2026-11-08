@@ -54,8 +54,6 @@ notes outside them.
 - [ ] Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md
 - [ ] Season 2/KesVerse/KesVerse.md
 - [ ] Season 2/KesVerse/Stories/KesVerse Arc 1.md
-- [ ] Season 2/KesVerse/Organizers/KesVerse Arc 2.md
-- [ ] Season 2/KesVerse/Organizers/KesVerse Arcs.md
 - [ ] Season 2/KesVerse/Stories/KesVerse Doc.md
 - [ ] Season 2/KesVerse/Stories/Arc 1/The Strong One.md
 - [ ] Season 2/KesVerse/Stories/Arc 1/Sinco.md
