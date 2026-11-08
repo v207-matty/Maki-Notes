@@ -2,6 +2,8 @@
 
 # Zonia
 
-The Protectors arrive on Chabur, going into hiding
+The Protectors arrive on Chabur, going into hiding.
 
-Tirok and Nitro fly into the mother ship, receiving a pow
+Tirok and Nitro fly into the mother ship, receiving a power up to help take over the planet.
+
+
