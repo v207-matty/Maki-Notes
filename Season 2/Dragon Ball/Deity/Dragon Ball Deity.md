@@ -53,9 +53,10 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 		- Goku moves to SSJ1 for speed and snaps to SSJ3 for power
 	- Beerus wins 
 
+- Goku wishes 
+
 # Saga 2
 
-8/777
+10/777
 
-- Beerus wants to see Goku become a true rival for him
-	- Whis gives Goku a
+- 
