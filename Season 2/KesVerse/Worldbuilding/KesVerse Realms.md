@@ -8,4 +8,6 @@ Inner / Angel Realm - Anile Realm
 
 God Realm - Kaimos Realm
 
-T
+
+The Demon realm is the outer universe, the big picture.
+The Mortal realm is inside The Demon Realm,
