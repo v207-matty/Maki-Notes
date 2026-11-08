@@ -76,7 +76,7 @@ notes outside them.
 
 - Season 2/KesVerse/Stories/Season 1/A Dark Time.md — outline
 - Season 2/KesVerse/Stories/Season 1/A Gathering.md — done
-- Season 2/KesVerse/Stories/Season 1/Flawless Execution.md — blocked
+- Season 2/KesVerse/Stories/Season 1/Flawless Execution.md — outline
 - Season 2/KesVerse/Stories/Season 1/Gego.md — done
 - Season 2/KesVerse/Stories/Season 1/Kina 2.md — done
 - Season 2/KesVerse/Stories/Season 1/Kina.md — done
@@ -85,6 +85,7 @@ notes outside them.
 - Season 2/KesVerse/Stories/Season 1/Sinco.md — done
 - Season 2/KesVerse/Stories/Season 1/The Strong One 2.md — done
 - Season 2/KesVerse/Stories/Season 1/The Strong One.md — done
+- Season 2/KesVerse/Stories/Season 1/Zonia.md — blocked
 
 ### order: Season 2/KesVerse
 

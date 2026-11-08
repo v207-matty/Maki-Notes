@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Stories/Season 1/Flawless Execution.md",
+                "file": "Season 2/KesVerse/Organizers/KesVerse Season 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Flawless Execution"
+              "title": "KesVerse Season 1"
             }
           },
           {
@@ -241,8 +241,8 @@
   },
   "active": "b3049f5284d08b8d",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Stories/Season 1/Zonia.md",
     "Season 2/KesVerse/Stories/Season 1/Flawless Execution.md",
+    "Season 2/KesVerse/Stories/Season 1/Zonia.md",
     "Season 2/KesVerse/Stories/Season 1/A Dark Time.md",
     "Season 2/KesVerse/Stories/KesVerse Timeline.md",
     "Season 2/KesVerse/Stories/KesVerse Doc.md",
