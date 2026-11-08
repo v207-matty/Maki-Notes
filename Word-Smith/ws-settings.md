@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-07 19:11:24
+- written: 2026-11-07 22:56:15
 
 ```json
 {
@@ -202,11 +202,11 @@ not the plugin folder — can get everything back.
     "Season 2/KesVerse/Stories/Arc 1/Kumel.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/Sinco.md": "done",
     "Season 2/KesVerse/Stories/Arc 1/The Strong One.md": "done",
+    "Season 2/KesVerse/Stories/Arc 2/A Dark Time.md": "outline",
     "Season 2/KesVerse/Stories/Arc 2/A Gathering.md": "done",
     "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": "done",
     "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md": "done",
     "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": "done",
-    "Season 2/KesVerse/Stories/Arc 2/A Dark Time.md": "outline",
     "Season 2/KesVerse/Stories/Arc 2/Zonia.md": "blocked"
   },
   "folderTargets": {},
@@ -718,8 +718,8 @@ not the plugin folder — can get everything back.
     "Season 2/KesVerse/Organizers/KesVerse Season 1.md": 9,
     "Season 2/KesVerse/Stories/KesVerse Timeline.md": 40,
     "Season 2/Matty Season 2.md": 3,
-    "Season 2/KesVerse/Stories/Arc 2/A Dark Time.md": 79,
-    "Season 2/KesVerse/Stories/Arc 2/Zonia.md": 7
+    "Season 2/KesVerse/Stories/Arc 2/A Dark Time.md": 375,
+    "Season 2/KesVerse/Stories/Arc 2/Zonia.md": 136
   },
   "exportOpts": {
     "format": "docx",
