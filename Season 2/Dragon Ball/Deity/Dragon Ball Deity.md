@@ -37,4 +37,5 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 	- Goku asks Bulma for the Dragon Balls
 	- They're going to ask Shenron
 
-- The Dragon Balls are gathered
+- The Dragon Balls are gathered and Shenron is summoned
+	- The Super Saiyan God can be easily summoned by a ritual where 
