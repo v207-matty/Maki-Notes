@@ -8,14 +8,14 @@ notes outside them.
 ### 
 
 - [ ] README.md
-- [ ] CVT.md
+- [ ] Season 1/CVT.md
 - [ ] Season 1/Matty Season 1.md
-- [ ] Sinco Colonized AU.md
+- [ ] Season 1/Sinco Colonized AU.md
 - [ ] Season 1/CNU/CNU.md
 - [ ] Season 1/CNU/Explanations/How the universe works.md
 - [ ] Season 1/CNU/Explanations/Universe history.md
 - [ ] Season 1/CNU/Stories/CNU Part 1.md
-- [ ] Granule.md
+- [ ] Season 1/Granule.md
 - [ ] Season 1/Granule/Events/Earth/The First Blessing.md
 - [ ] Season 1/Granule/Events/Earth/The Magic Mess.md
 - [ ] Season 1/Granule/Events/Earth/The Magic Slave Attack.md
@@ -67,10 +67,10 @@ notes outside them.
 - [ ] Season 2/KesVerse/Worldbuilding/Kesumel.md
 - [ ] Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md
 - [ ] Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md
-- [ ] Word-Smith/ws-history.md
-- [ ] Word-Smith/ws-settings.md
-- [ ] Word-Smith/ws-structure.md
-- [ ] Word-Smith/WS.md
+- [ ] Season 1/Word-Smith/ws-history.md
+- [ ] Season 1/Word-Smith/ws-settings.md
+- [ ] Season 1/Word-Smith/ws-structure.md
+- [ ] Season 1/Word-Smith/WS.md
 
 ### goals: notes
 
@@ -95,7 +95,7 @@ notes outside them.
 - Season 1/Granule/Organizers
 - Season 1/Granule/Species
 - Season 1/Granule/Planets
-- Granule.md
+- Season 1/Granule.md
 
 ### order: Season 2/KesVerse
 

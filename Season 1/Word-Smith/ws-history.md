@@ -17,9 +17,10 @@ like outside them.
 
 | Date | Note | Added | Deleted | Net |
 | --- | --- | ---: | ---: | ---: |
-| 2026-11-08 | Granule.md | 7 | 0 | 7 |
 | 2026-11-08 | Objectification/Objectification.md | 2 | 8 | -6 |
+| 2026-11-08 | Season 1/Granule.md | 7 | 0 | 7 |
 | 2026-11-08 | Season 1/Granule/Organizers/Granule Planets.md | 2 | 0 | 2 |
+| 2026-11-08 | Season 1/Sinco Renewed/Sinco Renewed.md | 1 | 27 | -26 |
 | 2026-11-08 | Season 2/KesVerse/KesVerse.md | 4 | 4 | 0 |
 | 2026-11-08 | Season 2/KesVerse/Organizers/KesVerse Season 1.md | 8 | 0 | 8 |
 | 2026-11-08 | Season 2/KesVerse/Organizers/KesVerse Season 3.md | 107 | 28 | 79 |
@@ -29,7 +30,6 @@ like outside them.
 | 2026-11-08 | Season 2/KesVerse/Stories/Season 1/Zonia.md | 1 | 0 | 1 |
 | 2026-11-08 | Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md | 12 | 0 | 12 |
 | 2026-11-08 | Season 2/KesVerse/Worldbuilding/KesVerse Realms.md | 90 | 16 | 74 |
-| 2026-11-08 | Sinco Renewed/Sinco Renewed.md | 1 | 27 | -26 |
 | 2026-11-07 | Season 2/KesVerse/KesVerse.md | 3 | 0 | 3 |
 | 2026-11-07 | Season 2/KesVerse/Organizers/KesVerse Arc 2.md | 7 | 3 | 4 |
 | 2026-11-07 | Season 2/KesVerse/Organizers/KesVerse Season 1.md | 6 | 0 | 6 |

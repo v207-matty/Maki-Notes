@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-08 00:57:50
+- written: 2026-11-08 00:58:10
 
 ```json
 {
@@ -176,9 +176,9 @@ not the plugin folder — can get everything back.
   "vimColorVisualLight": "#6a5cb8",
   "vimColorReplaceLight": "#a03c36",
   "vimColorCommandLight": "#b96f1e",
-  "goalsPath": "Word-Smith/ws-goals.md",
-  "exportListPath": "Word-Smith/ws-export.md",
-  "structurePath": "Word-Smith/ws-structure.md",
+  "goalsPath": "Season 1/Word-Smith/ws-goals.md",
+  "exportListPath": "Season 1/Word-Smith/ws-export.md",
+  "structurePath": "Season 1/Word-Smith/ws-structure.md",
   "outlineFlagRenamed": true,
   "uniColOrder": [],
   "organizerFolder": "Season 2/KesVerse/Stories",
@@ -194,7 +194,7 @@ not the plugin folder — can get everything back.
   ],
   "historySeen": true,
   "settingsMirror": true,
-  "settingsMirrorPath": "Word-Smith/ws-settings.md",
+  "settingsMirrorPath": "Season 1/Word-Smith/ws-settings.md",
   "fileGoals": {},
   "fileStatus": {
     "Season 2/KesVerse/Stories/Season 1/A Dark Time.md": "outline",
@@ -688,12 +688,11 @@ not the plugin folder — can get everything back.
     "Fade"
   ],
   "historyTracking": true,
-  "historyFilePath": "Word-Smith/ws-history.md",
+  "historyFilePath": "Season 1/Word-Smith/ws-history.md",
   "historyPerFile": true,
   "historyCountPasted": false,
   "historyBaselines": {
     "README.md": 23,
-    "Word-Smith/WS.md": 3,
     "Season 2/KesVerse/Stories/KesVerse Doc.md": 6927,
     "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md": 178,
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md": 263,
@@ -730,12 +729,15 @@ not the plugin folder — can get everything back.
     "Objectification/Organizer/Objectification Characters.md": 7,
     "Objectification/World.md": 519,
     "Objectification/Organizer/Objectification AUs.md": 7,
-    "Sinco Renewed/Sinco Renewed.md": 14,
-    "Sinco Renewed/Explanations/Worldbuilding.md": 36,
-    "Sinco Renewed/Orangizer/Sinco Renewed Explanations.md": 12,
-    "Sinco Renewed/Explanations/Whys.md": 216,
-    "Sinco Renewed/Orangizer/Sinco Renewed Writing.md": 27,
-    "Matty Season 1.md": 10
+    "Sinco Colonized AU.md": 7,
+    "Season 1/Sinco Renewed/Sinco Renewed.md": 14,
+    "Season 1/Sinco Renewed/Explanations/Worldbuilding.md": 36,
+    "Season 1/Sinco Renewed/Orangizer/Sinco Renewed Explanations.md": 12,
+    "Season 1/Sinco Renewed/Explanations/Whys.md": 216,
+    "Season 1/Sinco Renewed/Orangizer/Sinco Renewed Writing.md": 27,
+    "Season 1/Word-Smith/WS.md": 3,
+    "Season 1/Matty Season 1.md": 10,
+    "Season 1/CVT.md": 88
   },
   "exportOpts": {
     "format": "docx",
