@@ -37,4 +37,6 @@ Zonia is on top of the mother ship.
 Zonia calls downward the tube with the Kesumel sphere.
 He opens the sphere.
 He takes the Kesumel.
-He takes it out of it
+He takes it out of its original container, tossing it to the ground below.
+He puts the Kesumel into his armor.
+Zonia 
