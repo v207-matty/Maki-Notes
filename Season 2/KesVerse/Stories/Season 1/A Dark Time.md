@@ -40,4 +40,4 @@ Kumel brings Kina, Donata, and Gego into the ship.
 Kumel and Donata will distract any guards or soldiers.
 Kina and Gego will work on sabotaging the primary power.
 Almost everything Zonia Empire related that uses that power will be disabled.
-Everyone will meet up back on the ground, and they will deal with the leftovers pltogether.
+Everyone will meet up back on the ground, and they will deal with the leftovers plus Zonia together.

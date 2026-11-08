@@ -19,17 +19,20 @@ Gego and Kina find the primary power room and go to deactivate it.
 Gego pulls out some tools when Kumel freezes the power source.
 Kumel grabs it and shatters it in their hand.
 
-The mothership descends to the ground at an increasing pace.
-The mothership crashes into T-city, a massive explosion resulting from it causing further damage.
+
 
 Sinco is running towards T-City from the west.
 Stone is flying towards T-City from the east.
 Tirok and his squads are following Stone.
 Nitro and his squads are following Sinco.
 
+The mothership descends to the ground at an increasing pace.
+The mothership crashes into T-city, a massive explosion resulting from it causing further damage.
+
 They all meet in the middle.
 Stone continues to fly west.
 Sinco continues to run east.
 Nitro and Tirok quickly stop to avoid running into each other.
 The empire soldiers can't decelerate fast enough and run into each other, some having their jetpacks explode on collision with another soldiers jetpack.
+
 
