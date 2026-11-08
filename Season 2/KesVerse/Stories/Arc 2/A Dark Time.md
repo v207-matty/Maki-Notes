@@ -22,6 +22,7 @@ Donata rests Sinco on a wall inside The Protectors Zonia Empire ship.
 Everyone is aquainted.
 They need a plan.
 
+Stone has no idea.
 Kumel suggests stealing the Kesumel and give it to them.
 Gego suggests that they take the Kesumel before Zonia gets it.
-Stone 
+Kina has no
