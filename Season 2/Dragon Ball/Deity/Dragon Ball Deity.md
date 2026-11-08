@@ -34,4 +34,7 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 	- "These mortals must learn the destructive capability of The God Of Destruction."
 
 - Beerus is about to hakai the cruise ship but Goku returns
-	- Goku aska Bulma
+	- Goku asks Bulma for the Dragon Balls
+	- They're going to ask Shenron
+
+- The Dragon Balls are gathered
