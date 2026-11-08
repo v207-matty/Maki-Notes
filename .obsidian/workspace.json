@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Stories/KesVerse Timeline.md",
+                "file": "Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KesVerse Timeline"
+              "title": "KesVerse Worldbuilding"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "KesVerse Season 3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,16 +239,16 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "1bccf62a3a6f5c62",
+  "active": "301e7791242f9dbe",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Organizers/KesVerse Season 1.md",
+    "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
+    "Season 2/KesVerse/Stories/KesVerse Doc.md",
     "Season 2/KesVerse/Stories/KesVerse Timeline.md",
     "Season 2/KesVerse/Organizers/KesVerse Season 3.md",
+    "Season 2/KesVerse/Organizers/KesVerse Season 1.md",
     "Season 2/KesVerse/Stories/Season 1/Kina.md",
     "Season 2/KesVerse/KesVerse.md",
-    "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
     "Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md",
-    "Season 2/KesVerse/Stories/KesVerse Doc.md",
     "Season 2/Matty Season 2.md",
     "Season 2/KesVerse/Worldbuilding/KesVerse Realms.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md",
