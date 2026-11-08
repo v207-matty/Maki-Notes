@@ -20,4 +20,4 @@ Gego pulls out some tools when Kumel freezes the power source.
 Kumel grabs it and shatters it in their hand.
 
 The mothership descends to the ground at an increasing pace.
-The mothership crashes into T-city, a massive explosion resulting from it 
+The mothership crashes into T-city, a massive explosion resulting from it causing further damage.
