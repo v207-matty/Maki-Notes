@@ -32,5 +32,5 @@ The empire soldiers can't decelerate fast enough and run into each other, some h
 
 
 The mothership descends to the ground at an increasing pace.
-The mothership crashes into T-city, a massive explosion resulting from it causing further damage.
-Tirok and Nitro 
+The mothership crashes into T-city, a massive explosion resulting from it causing further damage especially once it begins to fall forward.
+Tirok and Nitro fly through the ship,
