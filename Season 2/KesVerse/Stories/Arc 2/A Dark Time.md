@@ -46,5 +46,5 @@ Everyone is acquainted again.
 They have a plan.
 
 Sinco and Donata distracts Nitro and his squads.
-Gego and Kina distracts Tirok and his squads.
-Kumel brings Stone
+Gego and Stone distracts Tirok and his squads.
+Kumel brings Kina 
