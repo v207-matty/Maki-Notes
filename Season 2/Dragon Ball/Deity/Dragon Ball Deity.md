@@ -7,10 +7,11 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 ## Power
 - Whis : 15
 - Beerus : 10
-- Goku (SSJ3) : 1
+
+- Goku (SSJ3) : 0.25
 - Goku : 0
+
 - Vegeta : 1
-- Vegeta (S) : 1
 
 ## Timeline
 - Beerus has woken up and has dreamed of the Super Saiyan God
