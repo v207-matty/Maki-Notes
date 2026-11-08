@@ -10,5 +10,6 @@ Calm Season : Titan-X
 - Kina, Gego, Stone, Donata leave to go help Titan-X
 - Sinco and Kumel stay on their planets doing their thing
 [[Titan-X]]
-- The war
-[[Titan-X 2|Titan X : The Protectors]]
+- The Titan-X Darlona war
+[[Titan-X 2|Titan-X : The Protectors]]
+- KGSD arrive
