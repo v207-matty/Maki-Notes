@@ -8,8 +8,8 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 - Whis : 15
 - Beerus : 10
 
-- Goku (SSJ3) : 0.25
-- Goku : 0
+- Goku (SSJ3) : 19
+- Goku : 0S
 
 - Vegeta : 1
 
