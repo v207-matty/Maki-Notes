@@ -13,12 +13,7 @@ Donata wanders the forest, running into Gego, who was patrolling.
 Donata pleads for help and Gego brings her over to The Protectors Zonia Empire ship.
 The ship is hidden via it floating above the ocean and cloaking itself
 
-Nitro has a squad of soldiers looking for Sinco and Donata in the forest.
-The squad is also performing deforestation.
-
-Tirok has squads colonizing every piece of land on his side of the planet.
-
-Inside The Protectors Zonia Empire ship
+Inside The Protectors Zonia Empire ship.
 Everyone is acquainted.
 They need a plan.
 
@@ -33,16 +28,12 @@ Everyone agrees with that.
 Sinco wakes up and nearly jumps at Donata but stops when he notices other people.
 He tenses up and gets into a corner.
 
-Zonia is on top of the mother ship.
-Zonia calls downward the tube with the Kesumel sphere.
-He opens the sphere.
-He takes the Kesumel.
-He takes it out of its original container, tossing it to the ground below.
-He puts the Kesumel into his armor.
-Zonia has powered up.
+Nitro has a squad of soldiers looking for Sinco and Donata in the forest.
+The squad is also performing deforestation.
+
+Tirok has squads colonizing every piece of land on his side of the planet.
 
 Inside The Protectors Zonia Empire ship.
-Everyone is acquainted again.
 They have a plan.
 
 Sinco distracts Nitro and his squads.
