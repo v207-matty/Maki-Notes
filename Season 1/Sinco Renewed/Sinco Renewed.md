@@ -2,15 +2,7 @@
 
 The Renewed Sinco AU
 
-Explanations:
-[[Lex Breaker]]
-[[Loroc]]
-[[Tirok]]
-[[Nicom]]
-
-[[Countries]]
-[[Whys]]
-[[Worldbuilding]]
+[[Sinco Renewed Explanations]]
 
 Writing (in timeline order):
 
