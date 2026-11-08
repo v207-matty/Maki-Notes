@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 1/Granule/Organizers/Organizers Planets.md",
+                "file": "Season 1/Granule/Organizers/Granule Planets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Organizers Planets"
+              "title": "Granule Planets"
             }
           }
         ],
@@ -240,10 +240,10 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "34291611dbddeb73",
+  "active": "38ff71c0b42f161d",
   "lastOpenFiles": [
     "Season 1/Granule/Granule.md",
-    "Season 1/Granule/Organizers/Organizers Planets.md",
+    "Season 1/Granule/Organizers/Granule Planets.md",
     "Season 1/Granule/Organizers",
     "Season 1/Objectification/Organizer/Objectification AUs.md",
     "Season 1/Objectification/Organizer/Objectification Characters.md",

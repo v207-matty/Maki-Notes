@@ -22,8 +22,8 @@ notes outside them.
 - [ ] Season 1/Granule/Groups/The All-over Magicians.md
 - [ ] Season 1/Granule/Groups/The Anti-Rouge Magicians.md
 - [ ] Season 1/Granule/Objects/The Tosullin Grain.md
-- [ ] Season 1/Granule/Planets/Earth.md
-- [ ] Season 1/Granule/Planets/Tosmut.md
+- [ ] Season 1/Granule/Organizers/Planets/Earth.md
+- [ ] Season 1/Granule/Organizers/Planets/Tosmut.md
 - [ ] Season 1/Granule/Species/Tosullins.md
 - [ ] Season 1/Objectification/Cumbo.md
 - [ ] Season 1/Objectification/Objectification.md
@@ -86,6 +86,16 @@ notes outside them.
 - Season 2/KesVerse/Stories/Season 1/The Strong One 2.md — done
 - Season 2/KesVerse/Stories/Season 1/The Strong One.md — done
 - Season 2/KesVerse/Stories/Season 1/Zonia.md — blocked
+
+### order: Season 1/Granule
+
+- Season 1/Granule/Events
+- Season 1/Granule/Granule.md
+- Season 1/Granule/Groups
+- Season 1/Granule/Objects
+- Season 1/Granule/Organizers
+- Season 1/Granule/Species
+- Season 1/Granule/Organizers/Planets
 
 ### order: Season 2/KesVerse
 
