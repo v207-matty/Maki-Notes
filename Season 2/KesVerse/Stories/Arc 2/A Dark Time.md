@@ -42,3 +42,4 @@ He puts the Kesumel into his armor.
 Zonia has powered up.
 
 Inside The Protectors Zonia Empire ship.
+Everyone is 
