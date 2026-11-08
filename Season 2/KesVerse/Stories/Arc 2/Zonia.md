@@ -2,4 +2,4 @@
 
 # Zonia
 
-On the north side of Chabur,
+On the west side of Chabur
