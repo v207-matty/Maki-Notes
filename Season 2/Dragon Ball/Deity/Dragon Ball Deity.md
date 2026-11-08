@@ -48,6 +48,6 @@ Age : 777
 	- Goku briefly takes a bit to get used to the power
 
 - Beerus and Goku fight
-	- Goku pushes Beerus to use 60% of his power
-		- Goku loses the god form
+	- Goku pushes Beerus to use 50% of his power
+		- Goku loses the god form before he can push Beerus more
 	- Beerus wins
