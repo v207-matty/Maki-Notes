@@ -2,4 +2,4 @@
 
 # Zonia
 
-On the west side of Chabur, Stone flies into a city
+On the west side of Chabur, Stone flies into a city actively being destroyed
