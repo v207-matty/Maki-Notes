@@ -30,4 +30,6 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 	- Beerus and Whis enjoy the festivities
 
 - Buu hogs food again and Beerus gets pissed off
-	- "These mortals must learn the destructive capability of The God Of Destruction"
+	- "These mortals must learn the destructive capability of The God Of Destruction."
+
+- 
