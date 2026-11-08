@@ -5,11 +5,11 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 ## Saga 1 : Battle Of Gods
 
 ## Power
-- Whis : 15
-- Beerus : 10
+- Whis : 200
+- Beerus : 100
 
-- Goku (SSJ3) : 19
-- Goku : 0S
+- Goku (SSJ3) : 10
+- Goku : 1
 
 - Vegeta : 1
 
