@@ -49,6 +49,6 @@ Age : 777
 
 - Beerus and Goku fight
 	- Goku pushes Beerus to use 50% of his power
-		- Goku loses the god form before he can push Beerus more
+- Goku loses the god form before he can push Beerus more
 		- Goku moves to SSJ1 for speed and snaps to SSJ3 for power
-	- Beerus wins
+	- Beerus wins 
