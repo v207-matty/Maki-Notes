@@ -11,24 +11,51 @@
             "id": "6571dc9d8e2d33e7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "KesVerse Seasons"
             }
           },
           {
             "id": "6336aae5a3eb833b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Season 2/KesVerse/KesVerse.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "KesVerse"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,11 +239,12 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "6336aae5a3eb833b",
+  "active": "6571dc9d8e2d33e7",
   "lastOpenFiles": [
+    "Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md",
+    "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/Stories/KesVerse Timeline.md",
     "Season 2/KesVerse/Stories/KesVerse Doc.md",
-    "Season 2/KesVerse/KesVerse.md",
     "Season 2/Matty Season 2.md",
     "Season 2/KesVerse/Worldbuilding/KesVerse Realms.md",
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Development.md",
@@ -239,7 +267,6 @@
     "Season 2/KesVerse/Stories/Season 1/Sinco 2.md",
     "Season 2/KesVerse/Stories/Season 1/Kumel.md",
     "Season 2/KesVerse/Stories/Season 1/Gego.md",
-    "Season 2/KesVerse/Stories/Season 1/Sinco.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Season 2/KesVerse/Organizers",
