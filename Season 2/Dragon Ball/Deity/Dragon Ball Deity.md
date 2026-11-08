@@ -4,6 +4,9 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 
 ## Saga 1 : Battle Of Gods
 
+Age 
+
+
 - Beerus has woken up and has dreamed of the Super Saiyan God
 
 - Goku is with King Kai, training
