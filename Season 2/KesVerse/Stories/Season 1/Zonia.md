@@ -31,5 +31,5 @@ They all meet in the middle.
 Stone continues to fly west.
 Sinco continues to run east.
 Nitro and Tirok quickly stop to avoid running into each other.
-The empire soldiers can't decelerate and run into each other, some having their jetpacks explode.
+The empire soldiers can't decelerate fast enough and run into each other, some having their jetpacks explode on collision with another soldiers .
 
