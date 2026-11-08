@@ -6,9 +6,3 @@ More focus on film structure in story
 [[KesVerse Worldbuilding]]
 [[KesVerse Doc]]
 [[KesVerse Timeline]]
-
-## Structures
-
-![][Assets/storystructure-5acts.jpg]
-
-![](Assets/storystructure-freytag.jpg)

@@ -52,7 +52,7 @@ notes outside them.
 - [ ] Season 2/Dragon Ball/Matty Edition/Dragon Ball Z.md
 - [ ] Season 2/Dragon Ball/Matty Edition/Rules.md
 - [ ] Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md
-- [ ] Season 2/KesVerse/KesVerse.md
+- [ ] Season 2/KesVerse/Organizers/KesVerse.md
 - [ ] Season 2/KesVerse/Stories/KesVerse Arc 1.md
 - [ ] Season 2/KesVerse/Stories/KesVerse Doc.md
 - [ ] Season 2/KesVerse/Stories/Season 1/The Strong One.md
@@ -92,7 +92,7 @@ notes outside them.
 - Season 2/KesVerse/Organizers
 - Season 2/KesVerse/Stories
 - Season 2/KesVerse/Worldbuilding
-- Season 2/KesVerse/KesVerse.md
+- Season 2/KesVerse/Organizers/KesVerse.md
 
 ### order: Season 2/KesVerse/Stories/Season 1
 
