@@ -1,6 +1,6 @@
 #season2 #kesverse #kesverse_season1 #sinco #sincoau 
 
-# Zonia
+# The Plan
 
 On the west side of Chabur, a city is being destroyed by Tirok and his squads.
 Stone flies into said city, attacking several soldiers all at once.
@@ -36,4 +36,4 @@ Tirok and Nitro fly through the ship, emerging in the sky.
 
 Kumel is flying Kina, Donata, and Gego into a clear part of the forest where Stone and Sinco meet all of them there.
 
-In the sky a figure flies towards Tirok and Nitro,
+In the sky a figure flies towards Tirok and Nitro, Zonia

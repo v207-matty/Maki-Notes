@@ -5,11 +5,11 @@ finds it by the markers below, anywhere in the vault. Counts only, never
 your text. Everything between the markers is rewritten; write what you
 like outside them.
 
-### 2026 — 3 days, +3,058 net
+### 2026 — 3 days, +3,068 net
 
 | Date | Added | Deleted | Net |
 | --- | ---: | ---: | ---: |
-| 2026-11-08 | 1 | 0 | 1 |
+| 2026-11-08 | 11 | 0 | 11 |
 | 2026-11-07 | 3227 | 1100 | 2127 |
 | 2026-11-06 | 1092 | 162 | 930 |
 
@@ -17,7 +17,7 @@ like outside them.
 
 | Date | Note | Added | Deleted | Net |
 | --- | --- | ---: | ---: | ---: |
-| 2026-11-08 | Season 2/KesVerse/Stories/Season 1/Zonia.md | 1 | 0 | 1 |
+| 2026-11-08 | Season 2/KesVerse/Stories/Season 1/Zonia.md | 11 | 0 | 11 |
 | 2026-11-07 | Season 2/KesVerse/KesVerse.md | 3 | 0 | 3 |
 | 2026-11-07 | Season 2/KesVerse/Organizers/KesVerse Arc 2.md | 7 | 3 | 4 |
 | 2026-11-07 | Season 2/KesVerse/Organizers/KesVerse Season 1.md | 6 | 0 | 6 |
