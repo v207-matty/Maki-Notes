@@ -234,5 +234,6 @@ Russian: Ad
 Alokai
 Anas
 Ano
+Kai
 
 ## N

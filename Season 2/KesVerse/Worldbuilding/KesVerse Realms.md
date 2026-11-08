@@ -2,5 +2,5 @@
 
 Mortal Realm - Teinom Realm
 Outer / Under Realm - Realm
-Inner / Angel Realm 
+Inner / Angel Realm -
 God Realm -  Kaimos Realm
