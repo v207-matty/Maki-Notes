@@ -5,11 +5,11 @@ finds it by the markers below, anywhere in the vault. Counts only, never
 your text. Everything between the markers is rewritten; write what you
 like outside them.
 
-### 2026 — 3 days, +3,333 net
+### 2026 — 3 days, +3,338 net
 
 | Date | Added | Deleted | Net |
 | --- | ---: | ---: | ---: |
-| 2026-11-08 | 374 | 98 | 276 |
+| 2026-11-08 | 382 | 101 | 281 |
 | 2026-11-07 | 3227 | 1100 | 2127 |
 | 2026-11-06 | 1092 | 162 | 930 |
 
@@ -25,7 +25,7 @@ like outside them.
 | 2026-11-08 | Season 1/Sinco Renewed/Orangizer/Sinco Renewed Characters.md | 4 | 0 | 4 |
 | 2026-11-08 | Season 1/Sinco Renewed/Orangizer/Sinco Renewed Explanations.md | 3 | 5 | -2 |
 | 2026-11-08 | Season 1/Sinco Renewed/Sinco Renewed.md | 1 | 27 | -26 |
-| 2026-11-08 | Season 2/Dragon Ball/Deity/DBD.md | 57 | 3 | 54 |
+| 2026-11-08 | Season 2/Dragon Ball/Deity/DBD.md | 65 | 6 | 59 |
 | 2026-11-08 | Season 2/Dragon Ball/Deity/Sagas/DBD Saga 1.md | 9 | 0 | 9 |
 | 2026-11-08 | Season 2/Dragon Ball/Dragon Ball Fanfics.md | 4 | 0 | 4 |
 | 2026-11-08 | Season 2/KesVerse/KesVerse.md | 4 | 4 | 0 |
