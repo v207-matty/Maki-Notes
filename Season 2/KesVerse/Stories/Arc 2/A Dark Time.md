@@ -14,6 +14,6 @@ Donata pleads for help and Gego brings her over to The Protectors Zonia Empire s
 
 Nitro has a squad of soldiers looking for Sinco and Donata.
 
-Tirok 
+Tirok has a squad colonizing every country and state on his side of the planet.
 
 Donata rests Sinco on a wall inside the ship.
