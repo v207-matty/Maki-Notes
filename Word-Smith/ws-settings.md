@@ -6,7 +6,7 @@ reinstall — or a vault restored from a backup that kept the notes and
 not the plugin folder — can get everything back.
 
 - vault: Maki Notes
-- written: 2026-11-07 22:56:54
+- written: 2026-11-07 22:58:44
 
 ```json
 {
@@ -197,12 +197,10 @@ not the plugin folder — can get everything back.
   "settingsMirrorPath": "Word-Smith/ws-settings.md",
   "fileGoals": {},
   "fileStatus": {
-    "Season 2/KesVerse/Stories/Arc 2/A Dark Time.md": "outline",
-    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md": "done",
-    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": "done",
-    "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md": "done",
-    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": "done",
-    "Season 2/KesVerse/Stories/Arc 2/Zonia.md": "blocked",
+    "Season 2/KesVerse/Stories/Season 1/A Dark Time.md": "outline",
+    "Season 2/KesVerse/Stories/Season 1/A Gathering.md": "done",
+    "Season 2/KesVerse/Stories/Season 1/The Strong One 2.md": "done",
+    "Season 2/KesVerse/Stories/Season 1/Zonia.md": "blocked",
     "Season 2/KesVerse/Stories/Season 1/Gego.md": "done",
     "Season 2/KesVerse/Stories/Season 1/Kina.md": "done",
     "Season 2/KesVerse/Stories/Season 1/Kumel.md": "done",
@@ -691,14 +689,10 @@ not the plugin folder — can get everything back.
   "historyPerFile": true,
   "historyCountPasted": false,
   "historyBaselines": {
-    "Season 2/KesVerse/Stories/Arc 2/Kina 2.md": 333,
-    "Season 2/KesVerse/Stories/Arc 2/The Strong One 2.md": 733,
     "README.md": 23,
     "Word-Smith/WS.md": 3,
-    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md": 626,
     "Season 2/KesVerse/KesVerse.md": 21,
-    "Season 2/KesVerse/Stories/KesVerse Doc.md": 6929,
-    "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md": 1372,
+    "Season 2/KesVerse/Stories/KesVerse Doc.md": 6927,
     "Season 1/Matty Season 1.md": 10,
     "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md": 178,
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md": 263,
@@ -710,13 +704,17 @@ not the plugin folder — can get everything back.
     "Season 2/KesVerse/Organizers/KesVerse Season 1.md": 30,
     "Season 2/KesVerse/Stories/KesVerse Timeline.md": 40,
     "Season 2/Matty Season 2.md": 3,
-    "Season 2/KesVerse/Stories/Arc 2/A Dark Time.md": 375,
-    "Season 2/KesVerse/Stories/Arc 2/Zonia.md": 136,
-    "Season 2/KesVerse/Stories/Season 1/The Strong One.md": 1014,
-    "Season 2/KesVerse/Stories/Season 1/Kumel.md": 469,
-    "Season 2/KesVerse/Stories/Season 1/Gego.md": 497,
-    "Season 2/KesVerse/Stories/Season 1/Kina.md": 521,
-    "Season 2/KesVerse/Stories/Season 1/Sinco.md": 1398
+    "Season 2/KesVerse/Stories/Season 1/The Strong One.md": 1013,
+    "Season 2/KesVerse/Stories/Season 1/Kumel.md": 468,
+    "Season 2/KesVerse/Stories/Season 1/Gego.md": 496,
+    "Season 2/KesVerse/Stories/Season 1/Kina.md": 520,
+    "Season 2/KesVerse/Stories/Season 1/Sinco.md": 1397,
+    "Season 2/KesVerse/Stories/Season 1/Zonia.md": 135,
+    "Season 2/KesVerse/Stories/Season 1/The Strong One 2.md": 732,
+    "Season 2/KesVerse/Stories/Season 1/Kina 2.md": 332,
+    "Season 2/KesVerse/Stories/Season 1/A Gathering.md": 625,
+    "Season 2/KesVerse/Stories/Season 1/Sinco 2.md": 1371,
+    "Season 2/KesVerse/Stories/Season 1/A Dark Time.md": 374
   },
   "exportOpts": {
     "format": "docx",

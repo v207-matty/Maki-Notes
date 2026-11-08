@@ -191,17 +191,15 @@
   "settingsMirrorPath": "Word-Smith/ws-settings.md",
   "fileGoals": {},
   "fileStatus": {
-    "Season 2/KesVerse/Stories/Arc 2/A Dark Time.md": "outline",
-    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md": "done",
-    "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md": "done",
+    "Season 2/KesVerse/Stories/Season 1/A Dark Time.md": "outline",
+    "Season 2/KesVerse/Stories/Season 1/A Gathering.md": "done",
+    "Season 2/KesVerse/Stories/Season 1/The Strong One 2.md": "done",
+    "Season 2/KesVerse/Stories/Season 1/Zonia.md": "blocked",
     "Season 2/KesVerse/Stories/Season 1/Gego.md": "done",
     "Season 2/KesVerse/Stories/Season 1/Kina.md": "done",
     "Season 2/KesVerse/Stories/Season 1/Kumel.md": "done",
     "Season 2/KesVerse/Stories/Season 1/Sinco.md": "done",
-    "Season 2/KesVerse/Stories/Season 1/The Strong One.md": "done",
-    "Season 2/KesVerse/Stories/Season 1/Zonia.md": "blocked",
-    "Season 2/KesVerse/Stories/Season 1/The Strong One 2.md": "done",
-    "Season 2/KesVerse/Stories/Season 1/Kina 2.md": "done"
+    "Season 2/KesVerse/Stories/Season 1/The Strong One.md": "done"
   },
   "folderTargets": {},
   "goalDeadlines": {},
@@ -697,10 +695,8 @@
   "historyBaselines": {
     "README.md": 23,
     "Word-Smith/WS.md": 3,
-    "Season 2/KesVerse/Stories/Arc 2/A Gathering.md": 625,
     "Season 2/KesVerse/KesVerse.md": 21,
     "Season 2/KesVerse/Stories/KesVerse Doc.md": 6927,
-    "Season 2/KesVerse/Stories/Arc 2/Sinco 2.md": 1371,
     "Season 1/Matty Season 1.md": 10,
     "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md": 178,
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md": 263,
@@ -712,7 +708,6 @@
     "Season 2/KesVerse/Organizers/KesVerse Season 1.md": 30,
     "Season 2/KesVerse/Stories/KesVerse Timeline.md": 40,
     "Season 2/Matty Season 2.md": 3,
-    "Season 2/KesVerse/Stories/Arc 2/A Dark Time.md": 374,
     "Season 2/KesVerse/Stories/Season 1/The Strong One.md": 1013,
     "Season 2/KesVerse/Stories/Season 1/Kumel.md": 468,
     "Season 2/KesVerse/Stories/Season 1/Gego.md": 496,
@@ -720,7 +715,10 @@
     "Season 2/KesVerse/Stories/Season 1/Sinco.md": 1397,
     "Season 2/KesVerse/Stories/Season 1/Zonia.md": 135,
     "Season 2/KesVerse/Stories/Season 1/The Strong One 2.md": 732,
-    "Season 2/KesVerse/Stories/Season 1/Kina 2.md": 332
+    "Season 2/KesVerse/Stories/Season 1/Kina 2.md": 332,
+    "Season 2/KesVerse/Stories/Season 1/A Gathering.md": 625,
+    "Season 2/KesVerse/Stories/Season 1/Sinco 2.md": 1371,
+    "Season 2/KesVerse/Stories/Season 1/A Dark Time.md": 374
   },
   "exportOpts": {
     "format": "docx",
