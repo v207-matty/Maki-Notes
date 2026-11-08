@@ -11,8 +11,9 @@ Saga 1: [[DBD Saga 1|Battle Of Gods]]
 - Beerus arrives on King Kais
 	- Goku and Beerus Spar
 	- Goku is pushed towards SSJ3
-		- Goku has worked towards improving i
+		- Goku has worked towards improving it but so far he has only improved how long he can be in it and the power he can output with it
 	- SSJ3 Goku pushes Beerus, not a lot but it's something, impressive for a mortal
+- Beerus arrives on the cruise
 - Goku enters the realm of the gods
 
 Saga 2: [[DBD Saga 2]]
