@@ -53,4 +53,4 @@ Age : 777
 		- Goku moves to SSJ1 for speed and snaps to SSJ3 for power
 	- Beerus wins 
 
-- Goku is 
+- Beerus wants to see Goku becoe
