@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#kesverse_arc2",
+                "query": "tag:#organizernote",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,7 +215,7 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "53101eda4eeae799",
+  "active": "38ff71c0b42f161d",
   "lastOpenFiles": [
     "Season 2/KesVerse/Organizers/KesVerse Season 1.md",
     "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
