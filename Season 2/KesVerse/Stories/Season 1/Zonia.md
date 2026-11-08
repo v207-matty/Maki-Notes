@@ -25,4 +25,6 @@ The mothership crashes into T-city, a massive explosion resulting from it causin
 Sinco is running towards T-City from the west.
 Stone is flying towards T-City from the east.
 Tirok and his squads are following Stone.
-Nitro and his squads 
+Nitro and his squads are following Sinco.
+
+They all meet in the middle, Stone continuing to fly west.
