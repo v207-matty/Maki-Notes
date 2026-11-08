@@ -4,34 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d3104a4327f10715",
+        "id": "e5f720c8b46ac66e",
         "type": "tabs",
         "children": [
           {
-            "id": "53101eda4eeae799",
+            "id": "6571dc9d8e2d33e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Season 2/KesVerse/Stories/KesVerse Timeline.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "6336aae5a3eb833b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "KesVerse Timeline"
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,10 +212,10 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "53101eda4eeae799",
+  "active": "6336aae5a3eb833b",
   "lastOpenFiles": [
-    "Season 2/KesVerse/Stories/KesVerse Doc.md",
     "Season 2/KesVerse/Stories/KesVerse Timeline.md",
+    "Season 2/KesVerse/Stories/KesVerse Doc.md",
     "Season 2/KesVerse/KesVerse.md",
     "Season 2/Matty Season 2.md",
     "Season 2/KesVerse/Worldbuilding/KesVerse Realms.md",
