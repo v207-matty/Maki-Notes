@@ -2,7 +2,7 @@
 
 Calm Season : Titan-X
 
-Titan-X : Skull 
+Titan-X : Skull Cave Planet
 
 [[Atin]]
 - Atin is the Titainix that calls for The Protectors to help assist in the Titan-X Darlona War
