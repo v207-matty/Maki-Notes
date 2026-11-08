@@ -20,5 +20,7 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 
 - Beerus arrives on the cruise, meeting Vegeta
 	- Vegeta knows nothing about the Super Saiyan God
-- Bulma finds Beerus 
+
+- Bulma finds Beerus and Whis and they get to eat some good food
+	- Beerus 
 
