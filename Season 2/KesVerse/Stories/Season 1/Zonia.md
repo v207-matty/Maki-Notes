@@ -14,6 +14,6 @@ Sinco runs into the most dense forest on Chabur.
 The soldiers and Nitro follow.
 
 In T-City, Kumel is flying Kina, Donata, and Gego into the Zonia Empire Mothership.
-As they enter the mothership Kumel freezes the guards that see them and Donata shoves them so that the ice and them break.
-
-Gego and Kina fi
+As they enter the mothership Kumel freezes guards that see them and Donata shoves them so that the ice and them break.
+Gego and Kina find the primary power room and go to deactivate it.
+Ge
