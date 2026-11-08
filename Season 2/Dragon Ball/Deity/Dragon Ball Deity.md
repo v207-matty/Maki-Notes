@@ -4,7 +4,7 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 
 ## Saga 1 : Battle Of Gods
 
-April, Age 777
+4/777
 
 - Beerus has woken up and has dreamed of the Super Saiyan God
 
@@ -54,6 +54,8 @@ April, Age 777
 	- Beerus wins 
 
 # Saga 2
+
+8/777
 
 - Beerus wants to see Goku become a true rival for him
 	- Whis gives Goku a
