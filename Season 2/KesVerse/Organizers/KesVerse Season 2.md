@@ -4,6 +4,6 @@ Calm Season : Titan-X
 
 [[Atin]]
 - Atin is the Titainix that called for The Protectors
-- Titan-X is in an active war over 
+- Titan-X is being invaded 
 [[The Protectors 1|The Protectors : Titan-X]]
 
