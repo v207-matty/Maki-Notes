@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 2/KesVerse/Worldbuilding/KesVerse Realms.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "KesVerse Realms"
-            }
-          },
-          {
-            "id": "1bccf62a3a6f5c62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
                 "mode": "source",
                 "source": false,
@@ -54,8 +30,19 @@
               "icon": "lucide-file",
               "title": "KesVerse Season 2"
             }
+          },
+          {
+            "id": "3c0bf350243c46d5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,11 +226,11 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "301e7791242f9dbe",
+  "active": "3c0bf350243c46d5",
   "lastOpenFiles": [
     "Season 2/KesVerse/Organizers/KesVerse Season 2.md",
-    "Season 2/KesVerse/Organizers/KesVerse Season 3.md",
     "Season 2/KesVerse/Worldbuilding/KesVerse Realms.md",
+    "Season 2/KesVerse/Organizers/KesVerse Season 3.md",
     "Season 2/KesVerse/KesVerse.md",
     "Season 2/KesVerse/Organizers/KesVerse Worldbuilding.md",
     "Season 2/KesVerse/Organizers/KesVerse Seasons.md",
