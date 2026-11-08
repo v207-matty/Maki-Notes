@@ -92,7 +92,6 @@ notes outside them.
 - Season 1/Granule/Events
 - Season 1/Granule/Groups
 - Season 1/Granule/Objects
-- Season 1/Granule/Organizers
 - Season 1/Granule/Species
 - Season 1/Granule/Planets
 - Season 1/Granule/Granule.md

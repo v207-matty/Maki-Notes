@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1251f5e1f349c3c5",
+        "id": "b42c376d14b79bfb",
         "type": "tabs",
         "children": [
           {
-            "id": "301e7791242f9dbe",
+            "id": "9b3622420f4d3d52",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Season 1/Granule/Granule.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Granule"
             }
           }
         ]
@@ -201,7 +215,7 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "301e7791242f9dbe",
+  "active": "9b3622420f4d3d52",
   "lastOpenFiles": [
     "Season 1/Granule/Groups/The All-over Magicians.md",
     "Season 1/Granule/Organizers/Granule Groups.md",
