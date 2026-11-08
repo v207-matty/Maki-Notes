@@ -2,4 +2,4 @@
 
 Danger Season : Demon Realm
 
-Gixaka Watch 
+Gixaka Watch has been 
