@@ -8,8 +8,7 @@ Objectification is the world Katty lives in, which is fucked up
 
 [[World]]
 
-AUs:
-- [[Kinky Katty]]
-- [[Trapped Katty]]
+[[Objectification Characters]]
+[[Objectification AUs]]
 
 [[Cumbo]] - Combined
