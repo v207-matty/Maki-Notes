@@ -20,6 +20,9 @@
 9 / 18 :
 - Kina 2
 
+9 / 19 :
+- Kumel
+
 9 / 21 :
 - A Gathering
 
