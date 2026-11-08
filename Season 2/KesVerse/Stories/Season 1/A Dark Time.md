@@ -14,19 +14,17 @@ Donata pleads for help and Gego brings her over to The Protectors Zonia Empire s
 The ship is hidden via it floating above the ocean and cloaking itself
 
 Inside The Protectors Zonia Empire ship.
+Sinco wakes up and Donata puts him down
 Everyone is acquainted.
 They need a plan.
 
-Kina and Stone have no idea.
+Kina, Sinco, and Stone have no idea.
 Kumel suggests stealing the Kesumel and give it to them.
 Gego suggests that they take the Kesumel before Zonia gets it.
 
 Donata says they need to disable the power source and then get the Kesumel because then they'll only have to worry about the things powered by the Kesumel.
 
 Everyone agrees with that.
-
-Sinco wakes up and nearly jumps at Donata but stops when he notices other people.
-He tenses up and gets into a corner.
 
 Nitro has a squad of soldiers looking for Sinco and Donata in the forest.
 The squad is also performing deforestation.
