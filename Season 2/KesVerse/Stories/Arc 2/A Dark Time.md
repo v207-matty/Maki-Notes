@@ -48,5 +48,6 @@ They have a plan.
 Sinco distracts Nitro and his squads.
 Stone distracts Tirok and his squads.
 Kumel brings Kina, Donata, and Gego into the ship.
-Kumel and Donata will distract any guards or soldiers
-Kina and Gego will work on s
+Kumel and Donata will distract any guards or soldiers.
+Kina and Gego will work on sabotaging the primary power.
+Everything Zonia Empire related that uses that power will be disabled.
