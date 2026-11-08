@@ -29,4 +29,5 @@ Dragon Ball Deity is a Dragon Ball Super alternate take.
 - Bulma finds Beerus and Whis and they get to eat some good food
 	- Beerus and Whis enjoy the festivities
 
-- Buu hogs food again and Beerus gets pi
+- Buu hogs food again and Beerus gets pissed off
+	- "These mortals must learn the destructive capability of The God Of Destruction"
